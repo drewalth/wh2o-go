@@ -1,15 +1,15 @@
-import {Gage} from "../../types";
-import {NextApiRequest, NextApiResponse} from "next";
-import {handleRequest} from "../../lib/handleRequest";
-import {Alert} from "../../api/database/database";
+import { Gage } from '../../types'
+import { NextApiRequest, NextApiResponse } from 'next'
+import { handleRequest } from '../../lib/handleRequest'
+import { Alert } from '../../api/database/database'
 
 type Data = {
-    gages: Gage[] | undefined;
-};
+  gages: Gage[] | undefined
+}
 
 export default async function handler(
-    req: NextApiRequest,
-    res: NextApiResponse<Data>
+  req: NextApiRequest,
+  res: NextApiResponse<Data>
 ) {
-    await handleRequest(Alert, req, res)
+  await handleRequest(Alert, req, res)
 }

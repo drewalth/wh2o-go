@@ -1,2 +1,2 @@
-export * from "./GageContext";
-export * from "./GageProvider";
+export * from './GageContext'
+export * from './GageProvider'

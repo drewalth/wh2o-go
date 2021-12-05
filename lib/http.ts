@@ -1,7 +1,7 @@
-import axios, { AxiosRequestConfig } from "axios";
+import axios, { AxiosRequestConfig } from 'axios'
 
 const config: AxiosRequestConfig = {
-  baseURL: "/api",
-};
+  baseURL: '/api',
+}
 
-export const http = axios.create(config);
+export const http = axios.create(config)

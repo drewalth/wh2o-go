@@ -1,11 +1,11 @@
-import { DataTypes, Sequelize } from "sequelize";
-import sqlite3 from "sqlite3";
+import { DataTypes, Sequelize } from 'sequelize'
+import sqlite3 from 'sqlite3'
 
-const sequelize = new Sequelize("database", "username", "password", {
-  dialect: "sqlite",
+const sequelize = new Sequelize('database', 'username', 'password', {
+  dialect: 'sqlite',
   dialectModule: sqlite3,
-  host: "localhost",
-  storage: "db.sqlite",
+  host: 'localhost',
+  storage: 'db.sqlite',
   logging: false,
   pool: {
     max: 5,
@@ -13,37 +13,40 @@ const sequelize = new Sequelize("database", "username", "password", {
     acquire: 30000,
     idle: 10000,
   },
-});
+})
 
 export const USGSFetchSchedule = sequelize.define(
-  "usgs_fetch_schedule",
+  'usgs_fetch_schedule',
   {
     nextFetch: DataTypes.DATE,
   },
   {
     timestamps: false,
   }
-);
+)
 
 export const Alert = sequelize.define(
-  "alert",
+  'alert',
   {
     name: DataTypes.STRING,
     criteria: DataTypes.STRING,
     interval: DataTypes.STRING,
+    channel: DataTypes.STRING,
     minimum: DataTypes.INTEGER,
     maximum: DataTypes.INTEGER,
     value: DataTypes.INTEGER,
     gageId: DataTypes.INTEGER,
     metric: DataTypes.STRING,
+    notifyTime: DataTypes.DATE,
+    nextSend: DataTypes.DATE,
   },
   {
-    timestamps: true,
+    timestamps: false,
   }
-);
+)
 
 export const Reading = sequelize.define(
-  "reading",
+  'reading',
   {
     value: DataTypes.INTEGER,
     gageId: DataTypes.INTEGER,
@@ -54,10 +57,10 @@ export const Reading = sequelize.define(
   {
     timestamps: true,
   }
-);
+)
 
 export const Gage = sequelize.define(
-  "gage",
+  'gage',
   {
     name: DataTypes.STRING,
     siteId: DataTypes.STRING,
@@ -70,15 +73,10 @@ export const Gage = sequelize.define(
   {
     timestamps: true,
   }
-);
+)
 
-Gage.hasMany(Reading);
-Gage.hasMany(Alert);
-Reading.belongsTo(Gage);
-Alert.belongsTo(Gage, {
-  foreignKey: "gageId",
-  foreignKeyConstraint: false,
-});
-(async function () {
-  await sequelize.sync({ force: false });
-})();
+Gage.hasMany(Reading)
+Reading.belongsTo(Gage)
+;(async function () {
+  await sequelize.sync({ force: false })
+})()

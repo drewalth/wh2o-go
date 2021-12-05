@@ -1,33 +1,33 @@
-import React, { useEffect, useState } from "react";
-import { Button, Modal, Table, notification, Select } from "antd";
-import { DeleteOutlined } from "@ant-design/icons";
-import { useGagesContext } from "../Provider/GageProvider";
-import { deleteGage } from "../../controllers";
-import moment from "moment";
-import { Gage, GageReading } from "../../types";
+import React, { useEffect, useState } from 'react'
+import { Button, Modal, Table, notification, Select } from 'antd'
+import { DeleteOutlined } from '@ant-design/icons'
+import { useGagesContext } from '../Provider/GageProvider'
+import { deleteGage } from '../../controllers'
+import moment from 'moment'
+import { Gage, GageReading } from '../../types'
 
 type ReadingSelectProps = {
-  readings: GageReading[];
-};
+  readings: GageReading[]
+}
 
 const ReadingSelect = ({ readings }: ReadingSelectProps): JSX.Element => {
-  const [activeMetric, setAcitveMetric] = useState("CFS");
-  const [reading, setReading] = useState<number>();
-  const metrics = Array.from(new Set(readings?.map((r) => r.metric)));
+  const [activeMetric, setAcitveMetric] = useState('CFS')
+  const [reading, setReading] = useState<number>()
+  const metrics = Array.from(new Set(readings?.map((r) => r.metric)))
   useEffect(() => {
-    const val = readings?.filter((r) => r.metric === activeMetric)[0]?.value;
+    const val = readings?.filter((r) => r.metric === activeMetric)[0]?.value
 
-    setReading(val);
-  }, [activeMetric, readings]);
+    setReading(val)
+  }, [activeMetric, readings])
 
   return (
     <div>
       {reading}
       {metrics.length > 0 && (
         <Select
-          defaultValue={"CFS"}
+          defaultValue={'CFS'}
           bordered={false}
-          size={"small"}
+          size={'small'}
           onSelect={(val) => setAcitveMetric(val)}
         >
           {metrics.map((m, index) => (
@@ -38,49 +38,49 @@ const ReadingSelect = ({ readings }: ReadingSelectProps): JSX.Element => {
         </Select>
       )}
     </div>
-  );
-};
+  )
+}
 
 const GageTable = (): JSX.Element => {
-  const { gages, loadGages } = useGagesContext();
-  const [pendingDelete, setPendingDelete] = useState(0);
-  const [deleteModalVisible, setDeleteModalVisible] = useState(false);
+  const { gages, loadGages } = useGagesContext()
+  const [pendingDelete, setPendingDelete] = useState(0)
+  const [deleteModalVisible, setDeleteModalVisible] = useState(false)
 
   const columns = [
     {
-      title: "Name",
-      dataIndex: "name",
-      key: "name",
+      title: 'Name',
+      dataIndex: 'name',
+      key: 'name',
     },
     {
-      title: "Reading",
-      dataIndex: "reading",
-      key: "reading",
+      title: 'Reading',
+      dataIndex: 'reading',
+      key: 'reading',
       render: (reading: number, val: Gage) => {
-        return <ReadingSelect readings={val.readings} />;
+        return <ReadingSelect readings={val.readings} />
       },
     },
     {
-      title: "Delta",
-      dataIndex: "delta",
-      key: "delta",
+      title: 'Delta',
+      dataIndex: 'delta',
+      key: 'delta',
     },
     {
-      title: "Updated",
-      dataIndex: "lastFetch",
-      key: "lastFetch",
+      title: 'Updated',
+      dataIndex: 'lastFetch',
+      key: 'lastFetch',
       render: (val: Date) => {
         if (val) {
-          return moment(val).format("llll");
+          return moment(val).format('llll')
         }
-        return "n/a";
+        return 'n/a'
       },
     },
     {
-      dataIndex: "id",
-      key: "id",
+      dataIndex: 'id',
+      key: 'id',
       render: (val: number) => (
-        <div style={{ display: "flex", justifyContent: "flex-end" }}>
+        <div style={{ display: 'flex', justifyContent: 'flex-end' }}>
           <Button
             onClick={() => intiateDelete(val)}
             icon={<DeleteOutlined />}
@@ -89,30 +89,30 @@ const GageTable = (): JSX.Element => {
         </div>
       ),
     },
-  ];
+  ]
 
   const intiateDelete = async (id: number) => {
-    setPendingDelete(id);
-    setDeleteModalVisible(true);
-  };
+    setPendingDelete(id)
+    setDeleteModalVisible(true)
+  }
 
   const handleClose = () => {
-    setDeleteModalVisible(false);
-    setPendingDelete(0);
-  };
+    setDeleteModalVisible(false)
+    setPendingDelete(0)
+  }
 
   const handleOk = async () => {
     try {
-      await deleteGage(pendingDelete);
-      handleClose();
-      await loadGages();
+      await deleteGage(pendingDelete)
+      handleClose()
+      await loadGages()
       notification.success({
-        message: "Gage Deleted",
-      });
+        message: 'Gage Deleted',
+      })
     } catch (e) {
-      console.log(e);
+      console.log(e)
     }
-  };
+  }
 
   return (
     <>
@@ -128,7 +128,7 @@ const GageTable = (): JSX.Element => {
         </p>
       </Modal>
     </>
-  );
-};
+  )
+}
 
-export default GageTable;
+export default GageTable

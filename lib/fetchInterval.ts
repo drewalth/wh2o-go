@@ -1,3 +1,3 @@
-import { FetchInterval } from "../types";
+import { FetchInterval } from '../types'
 
-export const fetchInterval: FetchInterval = 1;
+export const fetchInterval: FetchInterval = 1

@@ -1,25 +1,24 @@
-import {Alert, RequestStatus} from "../../../types";
-import { createContext, useEffect, useState, useContext } from "react";
-import { notification } from "antd";
-import {getAlerts} from "../../../controllers";
+import { Alert, RequestStatus } from '../../../types'
+import { createContext, useEffect, useState, useContext } from 'react'
+import { notification } from 'antd'
+import { getAlerts } from '../../../controllers'
 
 type AlertContextData = {
-  alerts: Alert[];
+  alerts: Alert[]
   loadAlerts: () => Promise<void>
   requestStatus: RequestStatus
-};
+}
 
-export const AlertContext = createContext({} as AlertContextData);
+export const AlertContext = createContext({} as AlertContextData)
 
 export const useAlert = (): AlertContextData => {
-  const [alerts, setAlerts] = useState<Alert[]>([]);
+  const [alerts, setAlerts] = useState<Alert[]>([])
   const [requestStatus, setRequestStatus] = useState<RequestStatus>('loading')
 
   const loadAlerts = async () => {
     try {
       setRequestStatus('loading')
       const alerts = await getAlerts()
-      console.log(alerts)
       setAlerts(alerts)
       setRequestStatus('success')
     } catch (e) {
@@ -33,13 +32,11 @@ export const useAlert = (): AlertContextData => {
     })()
   }, [])
 
-
   return {
     alerts,
     loadAlerts,
-    requestStatus
-  };
-};
+    requestStatus,
+  }
+}
 
-export const useAlertsContext = (): AlertContextData =>
-  useContext(AlertContext);
+export const useAlertsContext = (): AlertContextData => useContext(AlertContext)
