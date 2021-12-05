@@ -37,6 +37,7 @@ export const Alert = sequelize.define(
     value: DataTypes.INTEGER,
     gageId: DataTypes.INTEGER,
     metric: DataTypes.STRING,
+    category: DataTypes.STRING,
     notifyTime: DataTypes.DATE,
     nextSend: DataTypes.DATE,
   },
@@ -72,6 +73,42 @@ export const Gage = sequelize.define(
   },
   {
     timestamps: true,
+  }
+)
+
+export const ClimbingArea = sequelize.define(
+  'climbing_area',
+  {
+    areaId: DataTypes.INTEGER,
+    country: DataTypes.STRING,
+    adminArea: DataTypes.STRING,
+    name: DataTypes.STRING,
+    latitude: DataTypes.STRING,
+    longitude: DataTypes.STRING,
+  },
+  {
+    timestamps: false,
+  }
+)
+
+export const ClimbingAreaForecast = sequelize.define(
+  'climbing_area_forecast',
+  {
+    areaId: DataTypes.INTEGER,
+    value: DataTypes.STRING,
+  },
+  {
+    timestamps: true,
+  }
+)
+
+export const UserConfig = sequelize.define(
+  'user_config',
+  {
+    mergeDailyReports: DataTypes.BOOLEAN,
+  },
+  {
+    timestamps: false,
   }
 )
 

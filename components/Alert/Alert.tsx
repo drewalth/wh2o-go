@@ -32,6 +32,7 @@ export const Alert = (): JSX.Element => {
     minimum: 0,
     maximum: 0,
     gageId: 0,
+    category: 'gage',
   }
 
   const [modalVisible, setModalVisible] = useState(false)

@@ -1,0 +1,446 @@
+{
+  "latitude": "39.743782",
+  "longitude": "-105.289364",
+  "timezone": "America/Denver",
+  "name": "Clear Creek Canyon",
+  "hourly": {
+    "summary": "",
+    "icon": "",
+    "data": [
+      {
+        "time": 1638741600,
+        "temperature": 44,
+        "precipProbability": "0.0300",
+        "cloudCover": "0.4400",
+        "humidity": "0.2700",
+        "icon": "nsct.jpg",
+        "precipAccumulation": "0.00",
+        "precipType": "rain",
+        "windSpeed": 17,
+        "windGust": 25,
+        "summary": "",
+        "additional": {
+          "rain_amount": "0.00",
+          "snow_amount": "0.00"
+        }
+      },
+      {
+        "time": 1638752400,
+        "temperature": 29,
+        "precipProbability": "0.0300",
+        "cloudCover": "0.5100",
+        "humidity": "0.5800",
+        "icon": "nbkn.jpg",
+        "precipType": "rain",
+        "windSpeed": 8,
+        "windGust": 11,
+        "summary": "",
+        "additional": {
+          "rain_amount": null,
+          "snow_amount": null
+        }
+      },
+      {
+        "time": 1638763200,
+        "temperature": 21,
+        "precipProbability": "0.0300",
+        "cloudCover": "0.6800",
+        "humidity": "0.7800",
+        "icon": "nbkn.jpg",
+        "precipAccumulation": "0.00",
+        "precipType": "rain",
+        "windSpeed": 5,
+        "windGust": 10,
+        "summary": "",
+        "additional": {
+          "rain_amount": "0.00",
+          "snow_amount": "0.00"
+        }
+      },
+      {
+        "time": 1638774000,
+        "temperature": 20,
+        "precipProbability": "0.0300",
+        "cloudCover": "0.6900",
+        "humidity": "0.7100",
+        "icon": "nbkn.jpg",
+        "precipType": "rain",
+        "windSpeed": 5,
+        "windGust": 8,
+        "summary": "",
+        "additional": {
+          "rain_amount": null,
+          "snow_amount": null
+        }
+      },
+      {
+        "time": 1638784800,
+        "temperature": 20,
+        "precipProbability": "0.0500",
+        "cloudCover": "0.4600",
+        "humidity": "0.6800",
+        "icon": "nsct.jpg",
+        "precipAccumulation": "0.00",
+        "precipType": "rain",
+        "windSpeed": 6,
+        "windGust": 11,
+        "summary": "",
+        "additional": {
+          "rain_amount": "0.00",
+          "snow_amount": "0.00"
+        }
+      },
+      {
+        "time": 1638795600,
+        "temperature": 22,
+        "precipProbability": "0.0500",
+        "cloudCover": "0.5600",
+        "humidity": "0.5900",
+        "icon": "bkn.jpg",
+        "precipType": "rain",
+        "windSpeed": 4,
+        "windGust": 6,
+        "summary": "",
+        "additional": {
+          "rain_amount": null,
+          "snow_amount": null
+        }
+      },
+      {
+        "time": 1638806400,
+        "temperature": 33,
+        "precipProbability": "0.0500",
+        "cloudCover": "0.5300",
+        "humidity": "0.3900",
+        "icon": "bkn.jpg",
+        "precipAccumulation": "0.00",
+        "precipType": "rain",
+        "windSpeed": 8,
+        "windGust": 12,
+        "summary": "",
+        "additional": {
+          "rain_amount": "0.00",
+          "snow_amount": "0.00"
+        }
+      },
+      {
+        "time": 1638817200,
+        "temperature": 35,
+        "precipProbability": "0.0500",
+        "cloudCover": "0.5900",
+        "humidity": "0.3800",
+        "icon": "bkn.jpg",
+        "precipType": "rain",
+        "windSpeed": 9,
+        "windGust": 14,
+        "summary": "",
+        "additional": {
+          "rain_amount": null,
+          "snow_amount": null
+        }
+      },
+      {
+        "time": 1638828000,
+        "temperature": 30,
+        "precipProbability": "0.2500",
+        "cloudCover": "0.5400",
+        "humidity": "0.4400",
+        "icon": "nsn10.jpg",
+        "precipAccumulation": "0.00",
+        "precipType": "rain",
+        "windSpeed": 8,
+        "windGust": 12,
+        "summary": "chance of light snow",
+        "additional": {
+          "rain_amount": "0.00",
+          "snow_amount": "0.00"
+        }
+      },
+      {
+        "time": 1638838800,
+        "temperature": 33,
+        "precipProbability": "0.2500",
+        "cloudCover": "0.6100",
+        "humidity": "0.4300",
+        "icon": "nsn30.jpg",
+        "precipType": "rain",
+        "windSpeed": 9,
+        "windGust": 14,
+        "summary": "chance of light snow",
+        "additional": {
+          "rain_amount": null,
+          "snow_amount": null
+        }
+      },
+      {
+        "time": 1638849600,
+        "temperature": 33,
+        "precipProbability": "0.2500",
+        "cloudCover": "0.7100",
+        "humidity": "0.4700",
+        "icon": "nsn30.jpg",
+        "precipAccumulation": "0.00",
+        "precipType": "rain",
+        "windSpeed": 9,
+        "windGust": 14,
+        "summary": "slight chance of light snow",
+        "additional": {
+          "rain_amount": "0.00",
+          "snow_amount": "0.00"
+        }
+      },
+      {
+        "time": 1638860400,
+        "temperature": 32,
+        "precipProbability": "0.2500",
+        "cloudCover": "0.6600",
+        "humidity": "0.4800",
+        "icon": "nsn30.jpg",
+        "precipType": "rain",
+        "windSpeed": 9,
+        "windGust": 14,
+        "summary": "slight chance of light snow",
+        "additional": {
+          "rain_amount": null,
+          "snow_amount": null
+        }
+      },
+      {
+        "time": 1638871200,
+        "temperature": 32,
+        "precipProbability": "0.1300",
+        "cloudCover": "0.6100",
+        "humidity": "0.4900",
+        "icon": "nbkn.jpg",
+        "precipAccumulation": "0.00",
+        "precipType": "rain",
+        "windSpeed": 9,
+        "windGust": 14,
+        "summary": "",
+        "additional": {
+          "rain_amount": "0.00",
+          "snow_amount": "0.00"
+        }
+      },
+      {
+        "time": 1638882000,
+        "temperature": 32,
+        "precipProbability": "0.1300",
+        "cloudCover": "0.6700",
+        "humidity": "0.4900",
+        "icon": "bkn.jpg",
+        "precipType": "rain",
+        "windSpeed": 9,
+        "windGust": 14,
+        "summary": "",
+        "additional": {
+          "rain_amount": null,
+          "snow_amount": null
+        }
+      },
+      {
+        "time": 1638892800,
+        "temperature": 38,
+        "precipProbability": "0.1300",
+        "cloudCover": "0.4600",
+        "humidity": "0.4400",
+        "icon": "sct.jpg",
+        "precipAccumulation": "0.00",
+        "precipType": "rain",
+        "windSpeed": 9,
+        "windGust": 14,
+        "summary": "",
+        "additional": {
+          "rain_amount": "0.00",
+          "snow_amount": "0.00"
+        }
+      },
+      {
+        "time": 1638903600,
+        "temperature": 42,
+        "precipProbability": "0.1300",
+        "cloudCover": "0.3600",
+        "humidity": "0.3500",
+        "icon": "sct.jpg",
+        "precipType": "rain",
+        "windSpeed": 11,
+        "windGust": 18,
+        "summary": "",
+        "additional": {
+          "rain_amount": null,
+          "snow_amount": null
+        }
+      },
+      {
+        "time": 1638914400,
+        "temperature": 34,
+        "precipProbability": "0.0900",
+        "cloudCover": "0.4100",
+        "humidity": "0.4700",
+        "icon": "nsct.jpg",
+        "precipType": "rain",
+        "windSpeed": 9,
+        "windGust": 14,
+        "summary": "",
+        "additional": {
+          "rain_amount": null,
+          "snow_amount": null
+        }
+      },
+      {
+        "time": 1638936000,
+        "temperature": 32,
+        "precipProbability": "0.0900",
+        "cloudCover": "0.3700",
+        "humidity": "0.4900",
+        "icon": "nsct.jpg",
+        "precipType": "rain",
+        "windSpeed": 11,
+        "summary": "",
+        "additional": {
+          "rain_amount": null,
+          "snow_amount": null
+        }
+      }
+    ]
+  },
+  "daily": {
+    "summary": "",
+    "icon": "",
+    "data": [
+      {
+        "time": 1638705600,
+        "temperatureHigh": 57,
+        "temperatureLow": 25,
+        "precipProbability": "0.0200",
+        "precipProbabilityNight": "0.0300",
+        "humidity": "0.4500",
+        "icon": "sct.jpg",
+        "precipAccumulation": "0.00",
+        "precipType": "rain",
+        "windSpeed": 12,
+        "windGust": 34,
+        "summary": "",
+        "additional": {
+          "precip_day": "0.0200",
+          "precip_night": "0.0300",
+          "rain_amount": "0.00",
+          "snow_amount": "0.00"
+        }
+      },
+      {
+        "time": 1638792000,
+        "temperatureHigh": 41,
+        "temperatureLow": 19,
+        "precipProbability": "0.0500",
+        "precipProbabilityNight": "0.2500",
+        "humidity": "0.5100",
+        "icon": "bkn.jpg",
+        "precipAccumulation": "0.00",
+        "precipType": "rain",
+        "windSpeed": 6,
+        "windGust": 14,
+        "summary": "chance of light snow",
+        "additional": {
+          "precip_day": "0.0500",
+          "precip_night": "0.2500",
+          "rain_amount": "0.00",
+          "snow_amount": "0.00"
+        }
+      },
+      {
+        "time": 1638878400,
+        "temperatureHigh": 43,
+        "temperatureLow": 28,
+        "precipProbability": "0.1300",
+        "precipProbabilityNight": "0.0900",
+        "humidity": "0.4500",
+        "icon": "sct.jpg",
+        "precipType": "rain",
+        "windSpeed": 9,
+        "windGust": 18,
+        "summary": "",
+        "additional": {
+          "precip_day": "0.1300",
+          "precip_night": "0.0900",
+          "rain_amount": null,
+          "snow_amount": null
+        }
+      },
+      {
+        "time": 1638964800,
+        "temperatureHigh": 53,
+        "temperatureLow": 29,
+        "precipProbability": "0.0200",
+        "precipProbabilityNight": "0.1200",
+        "humidity": "0.3300",
+        "icon": "sct.jpg",
+        "precipType": "rain",
+        "windSpeed": 12,
+        "summary": "",
+        "additional": {
+          "precip_day": "0.0200",
+          "precip_night": "0.1200",
+          "rain_amount": null,
+          "snow_amount": null
+        }
+      },
+      {
+        "time": 1639051200,
+        "temperatureHigh": 51,
+        "temperatureLow": 32,
+        "precipProbability": "0.3000",
+        "precipProbabilityNight": "0.4900",
+        "humidity": "0.4400",
+        "icon": "rasn30.jpg",
+        "precipType": "rain",
+        "windSpeed": 11,
+        "summary": "chance of light rain",
+        "additional": {
+          "precip_day": "0.3000",
+          "precip_night": "0.4900",
+          "rain_amount": null,
+          "snow_amount": null
+        }
+      },
+      {
+        "time": 1639137600,
+        "temperatureHigh": 36,
+        "temperatureLow": 21,
+        "precipProbability": "0.5900",
+        "precipProbabilityNight": "0.4700",
+        "humidity": "0.5700",
+        "icon": "sn60.jpg",
+        "precipType": "rain",
+        "windSpeed": 10,
+        "summary": "light snow likely",
+        "additional": {
+          "precip_day": "0.5900",
+          "precip_night": "0.4700",
+          "rain_amount": null,
+          "snow_amount": null
+        }
+      },
+      {
+        "time": 1639224000,
+        "temperatureHigh": 35,
+        "temperatureLow": 14,
+        "precipProbability": "0.1300",
+        "humidity": "0.5100",
+        "icon": "few.jpg",
+        "precipType": "rain",
+        "windSpeed": 10,
+        "summary": "",
+        "additional": {
+          "precip_day": "0.1300",
+          "precip_night": null,
+          "rain_amount": null,
+          "snow_amount": null
+        }
+      }
+    ]
+  },
+  "flags": {
+    "units": "us"
+  }
+}

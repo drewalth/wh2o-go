@@ -1,5 +1,11 @@
 import { http } from '../lib'
-import { CreateAlertDTO, CreateGageDto, UserConfig } from '../types'
+import {
+  ClimbingArea,
+  ClimbingAreaForecast,
+  CreateAlertDTO,
+  CreateGageDto,
+  UserConfig,
+} from '../types'
 import { Endpoints } from '../enums'
 
 export const initializeCron = async () => {
@@ -36,19 +42,24 @@ export const deleteAlert = async (alertId: number) => {
   return http.delete(Endpoints.ALERT + `?id=${alertId}`).then((res) => res.data)
 }
 
-export const getConfig = async (): Promise<UserConfig> => {
-  return http.get(Endpoints.USER_CONFIG + '?id=1').then((res) => res.data)
+export const getClimbingArea = async (): Promise<ClimbingArea[]> => {
+  return http.get(Endpoints.CLIMBING_AREA).then((res) => res.data)
 }
 
-export const createConfig = async (values: UserConfig) => {
-  return http.post(Endpoints.USER_CONFIG, values).then((res) => res.data)
-}
-
-export const updateConfig = async (values: UserConfig) => {
+export const createClimbingArea = async (climbingArea: ClimbingArea) => {
   return http
-    .put(Endpoints.USER_CONFIG, {
-      id: 1,
-      ...values,
-    })
+    .post(Endpoints.CLIMBING_AREA, climbingArea)
     .then((res) => res.data)
+}
+
+export const deleteClimbingArea = async (areaId: number) => {
+  return http
+    .delete(Endpoints.CLIMBING_AREA + `?id=${areaId}`)
+    .then((res) => res.data)
+}
+
+export const getClimbingAreaForecasts = async (): Promise<
+  ClimbingAreaForecast[]
+> => {
+  return http.get(Endpoints.CLIMING_AREA_FORECAST).then((res) => res.data)
 }

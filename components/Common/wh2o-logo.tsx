@@ -1,5 +1,10 @@
-import React from 'react'
-const Logo = () => {
+import React, { memo } from 'react'
+
+type LogoProps = {
+  onClick: () => void
+}
+
+const Logo = ({ onClick }: LogoProps) => {
   return (
     <svg
       width="107px"
@@ -8,6 +13,7 @@ const Logo = () => {
       version="1.1"
       xmlns="http://www.w3.org/2000/svg"
       xmlnsXlink="http://www.w3.org/1999/xlink"
+      onClick={onClick}
     >
       <title>wh2o</title>
       <g
@@ -117,4 +123,4 @@ const Logo = () => {
   )
 }
 
-export default Logo
+export default memo(Logo)

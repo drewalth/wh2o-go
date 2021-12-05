@@ -13,7 +13,7 @@ export const cleanReadings = async () => {
   await Promise.all(
     formattedReadings.map(async (reading) => {
       const diff =
-        DateTime.fromJSDate(reading.createdAt).diffNow('hours').hours * -1
+        DateTime.fromJSDate(<Date>reading.createdAt).diffNow('hours').hours * -1
 
       if (diff >= 48) {
         await Reading.destroy({

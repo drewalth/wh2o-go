@@ -7,6 +7,10 @@ import { formatGageReadings } from '../../api/formatGageReadings'
 import { storeReadings } from '../../api/storeReadings'
 import { cleanReadings } from '../../api/cleanReadings'
 import { notify } from '../../api/notify'
+import { loadClimbingAreas } from '../../api/loadClimbingAreas'
+import { fetchForecasts } from '../../api/fetchForecasts'
+import { cleanForecasts } from '../../api/cleanForecasts'
+import { storeForecasts } from '../../api/storeForecasts'
 const cron = require('node-cron')
 
 export default async function handler(
@@ -30,6 +34,21 @@ export default async function handler(
         await storeReadings(formattedReadings)
         await notify(formattedReadings)
       }
+    },
+    {
+      recoverMissedExecutions: false,
+    }
+  )
+
+  // change this to one hour when going to prod
+
+  cron.schedule(
+    `*/1 * * * *`,
+    async () => {
+      const areas = await loadClimbingAreas()
+      const forecasts = await fetchForecasts(areas.map((area) => area.areaId))
+      await cleanForecasts()
+      await storeForecasts(forecasts)
     },
     {
       recoverMissedExecutions: false,

@@ -3,6 +3,8 @@ import { DateTime } from 'luxon'
 import { fetchInterval } from '../lib'
 
 export const readyToFetch = async (): Promise<boolean> => {
+  return false
+
   // first check if any gages have been added
   const gages = await Gage.findAll()
   if (!gages.length) return false

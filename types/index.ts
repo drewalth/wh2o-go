@@ -31,6 +31,7 @@ export type Alert = {
   gageId: number
   notifyTime: Date
   nextSend: Date
+  category: 'gage' | 'climb'
 }
 
 export type CreateAlertDTO = {
@@ -221,4 +222,79 @@ export type USGSGageData = {
   nil: boolean
   globalScope: boolean
   typeSubstituted: boolean
+}
+
+type ClimbingAreaCountry = 'USA'
+
+export type ClimbingArea = {
+  id: number
+  areaId: number
+  country: ClimbingAreaCountry
+  adminArea: string
+  name: string
+  latitude: string
+  longitude: string
+  forecast: null
+}
+
+export type ClimbingAreaForecast = {
+  id: number
+  areaId: number
+  value: ClimbingAreaForecastValue
+  createdAt: Date
+  updatedAt: Date
+}
+
+export type ClimbingAreaForecastValue = {
+  latitude: string
+  longitude: string
+  timezone: string
+  name: string
+  hourly: {
+    summary: string
+    icon: string
+    data: {
+      time: number
+      temperature: number
+      precipProbability: string
+      cloudCover: string
+      humidity: string
+      icon: string
+      precipType: string
+      windSpeed: number
+      windGust: number
+      summary: string
+      additional: {
+        rain_amount: null | string
+        snow_amount: null | string
+      }
+    }[]
+  }
+  daily: {
+    summary: string
+    icon: string
+    data: {
+      time: number
+      temperatureHigh: number
+      temperatureLow: number
+      precipProbability: string
+      precipProbabilityNight: string
+      humidity: string
+      icon: string
+      precipAccumulation: string
+      precipType: string
+      windSpeed: number
+      windGust: number
+      summary: string
+      additional: {
+        precip_day: string | null
+        precip_night: string | null
+        rain_amount: string | null
+        snow_amount: string | null
+      }
+    }[]
+  }
+  flags: {
+    units: string
+  }
 }
