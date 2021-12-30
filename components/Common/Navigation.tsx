@@ -1,20 +1,19 @@
-import React, { ReactNode } from 'react'
-import Logo from './wh2o-logo'
-import { Layout, Menu, Typography } from 'antd'
+import React, { ReactNode } from 'react';
+import Logo from './wh2o-logo';
+import { Layout, Menu, Typography } from 'antd';
+import 'antd/dist/antd.css';
 import {
   AreaChartOutlined,
-  NotificationOutlined,
-  RadarChartOutlined,
   DashboardOutlined,
   StockOutlined,
-} from '@ant-design/icons'
-import { useRouter } from 'next/router'
+} from '@ant-design/icons';
+import { useRouter } from 'next/router';
 
 type NavigationProps = {
-  children: ReactNode
-}
+  children: ReactNode;
+};
 
-const { Content, Sider } = Layout
+const { Content, Sider } = Layout;
 
 const navItems = [
   {
@@ -27,24 +26,26 @@ const navItems = [
     text: 'Paddle',
     icon: <AreaChartOutlined />,
   },
-  {
-    path: '/climb',
-    text: 'Climb',
-    icon: <StockOutlined />,
-  },
+  // {
+  //   path: '/climb',
+  //   text: 'Climb',
+  //   icon: <StockOutlined />,
+  // },
   // {
   //   path: '/snow',
   //   text: 'Ski',
   //   icon: <RadarChartOutlined />,
   // },
-]
+];
 
 export const Navigation = ({ children }: NavigationProps) => {
-  const router = useRouter()
+  const router = useRouter();
 
   const getSelectedItems = (): string[] => {
-    return [navItems.find((item) => router.pathname === item.path)?.path || '/']
-  }
+    return [
+      navItems.find((item) => router.pathname === item.path)?.path || '/',
+    ];
+  };
 
   return (
     <Layout style={{ minHeight: '100vh' }}>
@@ -87,5 +88,5 @@ export const Navigation = ({ children }: NavigationProps) => {
         </Content>
       </Layout>
     </Layout>
-  )
-}
+  );
+};

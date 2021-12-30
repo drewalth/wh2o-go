@@ -1,11 +1,25 @@
+import axios from 'axios';
+
 export const fetchForecasts = async (
-  areaIds: number[]
+  areaIds: number[],
 ): Promise<
   {
-    areaId: number
-    value: string
+    areaId: number;
+    value: string;
   }[]
 > => {
-  const val = require('./mockClimbingAreaForecast.json')
-  return [{ areaId: areaIds[0], value: JSON.stringify(val) }]
-}
+  // const val = require('./mockClimbingAreaForecast.json')
+
+  return await Promise.all(
+    areaIds.map(async (areaId) => {
+      const val = await axios.get(
+        `https://api.climbingweather.com/area/${areaId}/forecast`,
+      );
+
+      return {
+        areaId,
+        value: JSON.stringify(val),
+      };
+    }),
+  ).then((result) => result);
+};

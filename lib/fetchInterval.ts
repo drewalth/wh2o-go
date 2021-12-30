@@ -1,3 +1,2 @@
-import { FetchInterval } from '../types'
-
-export const fetchInterval: FetchInterval = 1
+// this is confusing with the enum...
+export const fetchInterval = 1;
