@@ -1,47 +1,57 @@
-import React, { useEffect, useState } from 'react'
-import { useAlertsContext } from '../Provider/AlertProvider'
-import { Button, Table, notification, Tag } from 'antd'
-import { Alert } from '../../types'
-import { useGagesContext } from '../Provider/GageProvider'
-import { DeleteOutlined } from '@ant-design/icons'
-import { deleteAlert } from '../../controllers'
-import moment from 'moment'
+import React from 'react';
+import { useAlertsContext } from '../Provider/AlertProvider';
+import { Button, notification, Table, Tag, Tooltip, Typography } from 'antd';
+import { Alert, AlertInterval } from '../../types';
+import { DeleteOutlined } from '@ant-design/icons';
+import { deleteAlert } from '../../controllers';
+import moment from 'moment';
 
 export const AlertTable = (): JSX.Element => {
-  const { alerts, loadAlerts } = useAlertsContext()
-  const { gages } = useGagesContext()
+  const { alerts, loadAlerts } = useAlertsContext();
 
   const getIntervalTag = (alert: Alert): JSX.Element => {
     return (
       <Tag color={alert.interval === 'daily' ? 'blue' : 'red'}>
         {alert.interval}
       </Tag>
-    )
-  }
+    );
+  };
 
   const getChannelTag = (alert: Alert): JSX.Element => {
     return (
       <Tag color={alert.channel === 'email' ? 'green' : 'orange'}>
         {alert.channel}
       </Tag>
-    )
-  }
+    );
+  };
+
+  const getAlertDescription = (alert: Alert) => {
+    let msg = `${alert.criteria}`;
+
+    if (alert.criteria === 'between') {
+      msg += ` ${alert.minimum}-${alert.minimum}`;
+    } else {
+      msg += ` ${alert.value}`;
+    }
+    msg += ` ${alert.metric}`;
+    return msg;
+  };
 
   const handleDelete = async (val: number) => {
     try {
-      await deleteAlert(val)
-      await loadAlerts()
+      await deleteAlert(val);
+      await loadAlerts();
       notification.success({
         message: 'Alert deleted',
         placement: 'bottomRight',
-      })
+      });
     } catch (e) {
       notification.error({
         message: 'Failed to Delete Alert',
         placement: 'bottomRight',
-      })
+      });
     }
-  }
+  };
 
   const columns = [
     {
@@ -49,39 +59,47 @@ export const AlertTable = (): JSX.Element => {
       dataIndex: 'name',
       key: 'name',
     },
-    // {
-    //   title: "Gage",
-    //   dataIndex: "gageId",
-    //   key: "gageId",
-    //   render: (val: number) => {
-    //     const gage = gages.find((g) => g.id === val);
-    //     return gage?.name || "err";
-    //   },
-    // },
     {
       title: 'Description',
       dataIndex: 'id',
       key: 'description',
       render: (val: number, alert: Alert) => {
-        // let test = "";
-        //
-        // test += alert.criteria;
-        //
-        // if (alert.criteria === "between") {
-        //   test += " " + alert.minimum + "-" + alert.maximum;
-        // } else {
-        //   test += " " + alert.value;
-        // }
-        //
-        // test += " " + alert.metric;
-
         return (
-          <>
+          <div style={{ maxWidth: 550, display: 'flex' }}>
             {getIntervalTag(alert)}
             {getChannelTag(alert)}
-            {`@ ${moment(alert.notifyTime).format('h:mm a')}`}
-          </>
-        )
+            {alert.interval !== AlertInterval.IMMEDIATE ? (
+              <>
+                <Typography.Text type={'secondary'}>@ &nbsp;</Typography.Text>
+                <Typography.Text>
+                  {moment(alert.notifyTime).format('h:mm a')}
+                </Typography.Text>
+              </>
+            ) : (
+              <>
+                <Typography.Text type={'secondary'}>when</Typography.Text>
+                <span>&nbsp;</span>
+                <Tooltip title={alert.gage.name}>
+                  <Typography.Text ellipsis>{alert.gage.name}</Typography.Text>
+                </Tooltip>
+                <span>&nbsp;</span>
+                <Typography.Text ellipsis>
+                  {getAlertDescription(alert)}
+                </Typography.Text>
+              </>
+            )}
+          </div>
+        );
+      },
+    },
+    {
+      title: 'Last Sent',
+      dataIndex: 'lastSent',
+      key: 'lastSent',
+      render: (val: Date) => {
+        if (!val) return '-';
+
+        return moment(val).format('llll');
       },
     },
     {
@@ -97,7 +115,7 @@ export const AlertTable = (): JSX.Element => {
         </div>
       ),
     },
-  ]
+  ];
 
-  return <Table columns={columns} dataSource={alerts} />
-}
+  return <Table columns={columns} dataSource={alerts} />;
+};

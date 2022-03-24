@@ -1,34 +1,59 @@
-import React, { useEffect, useState } from 'react'
-import { Button, Modal, Table, notification, Select } from 'antd'
-import { DeleteOutlined } from '@ant-design/icons'
-import { useGagesContext } from '../Provider/GageProvider'
-import { deleteGage } from '../../controllers'
-import moment from 'moment'
-import { Gage, GageReading } from '../../types'
+import React, { useEffect, useState } from 'react';
+import {
+  Button,
+  Modal,
+  notification,
+  Select,
+  Table,
+  Tooltip,
+  Typography,
+} from 'antd';
+import { DeleteOutlined } from '@ant-design/icons';
+import { useGagesContext } from '../Provider/GageProvider';
+import { deleteGage } from '../../controllers';
+import moment from 'moment';
+import { Gage, GageMetric, GageReading } from '../../types';
 
 type ReadingSelectProps = {
-  readings: GageReading[]
-}
+  readings: GageReading[];
+};
 
 const ReadingSelect = ({ readings }: ReadingSelectProps): JSX.Element => {
-  const [activeMetric, setAcitveMetric] = useState('CFS')
-  const [reading, setReading] = useState<number>()
-  const metrics = Array.from(new Set(readings?.map((r) => r.metric)))
+  const [activeMetric, setAcitveMetric] = useState<GageMetric>(GageMetric.CFS);
+  const [reading, setReading] = useState<number>();
+  const metrics = Array.from(new Set(readings?.map((r) => r.metric)));
   useEffect(() => {
-    const val = readings?.filter((r) => r.metric === activeMetric)[0]?.value
+    const val = readings?.filter((r) => r.metric === activeMetric)[0]?.value;
 
-    setReading(val)
-  }, [activeMetric, readings])
+    setReading(val);
+  }, [activeMetric, readings]);
+
+  const renderReading = () => {
+    if (activeMetric === GageMetric.TEMP) {
+      return (
+        <span>
+          {reading}
+          &nbsp;&deg;C
+        </span>
+      );
+    }
+
+    if (reading === -999999) {
+      return 'Disabled';
+    }
+
+    return reading;
+  };
 
   return (
     <div>
-      {reading}
+      {renderReading()}
       {metrics.length > 0 && (
         <Select
           defaultValue={'CFS'}
           bordered={false}
           size={'small'}
-          onSelect={(val) => setAcitveMetric(val)}
+          onSelect={(val) => setAcitveMetric(val as GageMetric)}
         >
           {metrics.map((m, index) => (
             <Select.Option key={m + index} value={m}>
@@ -38,42 +63,55 @@ const ReadingSelect = ({ readings }: ReadingSelectProps): JSX.Element => {
         </Select>
       )}
     </div>
-  )
-}
+  );
+};
 
 const GageTable = (): JSX.Element => {
-  const { gages, loadGages } = useGagesContext()
-  const [pendingDelete, setPendingDelete] = useState(0)
-  const [deleteModalVisible, setDeleteModalVisible] = useState(false)
+  const { gages, loadGages } = useGagesContext();
+  const [pendingDelete, setPendingDelete] = useState(0);
+  const [deleteModalVisible, setDeleteModalVisible] = useState(false);
 
   const columns = [
     {
       title: 'Name',
       dataIndex: 'name',
       key: 'name',
+      render: (name: string) => (
+        <Tooltip title={name} placement={'top'}>
+          <Typography.Text ellipsis>{name}</Typography.Text>
+        </Tooltip>
+      ),
     },
     {
-      title: 'Reading',
-      dataIndex: 'reading',
-      key: 'reading',
-      render: (reading: number, val: Gage) => {
-        return <ReadingSelect readings={val.readings} />
-      },
+      title: 'Readings',
+      dataIndex: 'readings',
+      key: 'readings',
+      render: (readings: GageReading[]) => (
+        <div style={{ minWidth: 150 }}>
+          <ReadingSelect readings={readings} />
+        </div>
+      ),
     },
-    {
-      title: 'Delta',
-      dataIndex: 'delta',
-      key: 'delta',
-    },
+    // {
+    //   title: 'Delta',
+    //   dataIndex: 'delta',
+    //   key: 'delta',
+    // },
     {
       title: 'Updated',
       dataIndex: 'lastFetch',
       key: 'lastFetch',
       render: (val: Date) => {
         if (val) {
-          return moment(val).format('llll')
+          return (
+            <div style={{ maxWidth: 200 }}>
+              <Typography.Text ellipsis>
+                {moment(val).format('llll')}
+              </Typography.Text>
+            </div>
+          );
         }
-        return 'n/a'
+        return '-';
       },
     },
     {
@@ -89,34 +127,37 @@ const GageTable = (): JSX.Element => {
         </div>
       ),
     },
-  ]
+  ];
 
   const intiateDelete = async (id: number) => {
-    setPendingDelete(id)
-    setDeleteModalVisible(true)
-  }
+    setPendingDelete(id);
+    setDeleteModalVisible(true);
+  };
 
   const handleClose = () => {
-    setDeleteModalVisible(false)
-    setPendingDelete(0)
-  }
+    setDeleteModalVisible(false);
+    setPendingDelete(0);
+  };
 
   const handleOk = async () => {
     try {
-      await deleteGage(pendingDelete)
-      handleClose()
-      await loadGages()
+      await deleteGage(pendingDelete);
+      handleClose();
+      await loadGages();
       notification.success({
         message: 'Gage Deleted',
-      })
+        placement: 'bottomRight',
+      });
     } catch (e) {
-      console.log(e)
+      console.log(e);
     }
-  }
+  };
 
   return (
     <>
-      <Table dataSource={gages} columns={columns} />
+      <div style={{ position: 'relative', width: '100%', overflowX: 'scroll' }}>
+        <Table dataSource={gages} columns={columns} />
+      </div>
       <Modal
         title="Are you sure?"
         visible={deleteModalVisible}
@@ -128,7 +169,7 @@ const GageTable = (): JSX.Element => {
         </p>
       </Modal>
     </>
-  )
-}
+  );
+};
 
-export default GageTable
+export default GageTable;

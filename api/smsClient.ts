@@ -1,5 +1,14 @@
-import { TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN } from '../lib/environment'
+import twilio from 'twilio';
+import { loadUserConfig } from './loadUserConfig';
 
-export const sms = require('twilio')(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN, {
-  lazyLoading: true,
-})
+export const smsClient = async () => {
+  const { twilioAccountSID, twilioAuthToken } = await loadUserConfig();
+
+  if (!twilioAccountSID || !twilioAuthToken) {
+    throw new Error('Invalid Twilio Info');
+  }
+
+  return twilio(twilioAccountSID, twilioAuthToken, {
+    lazyLoading: true,
+  });
+};

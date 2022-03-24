@@ -1,4 +1,4 @@
-import { ClimbingArea } from '../types'
+import { ClimbingArea } from '../types';
 
 export const usClimbingAreas = [
   {
@@ -5572,4 +5572,4 @@ export const usClimbingAreas = [
     longitude: '-112.045700',
     forecast: null,
   },
-] as ClimbingArea[]
+] as ClimbingArea[];

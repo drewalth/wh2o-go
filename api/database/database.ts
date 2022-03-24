@@ -1,5 +1,5 @@
-import { DataTypes, Sequelize } from 'sequelize'
-import sqlite3 from 'sqlite3'
+import { DataTypes, Sequelize } from 'sequelize';
+import sqlite3 from 'sqlite3';
 
 const sequelize = new Sequelize('database', 'username', 'password', {
   dialect: 'sqlite',
@@ -13,7 +13,7 @@ const sequelize = new Sequelize('database', 'username', 'password', {
     acquire: 30000,
     idle: 10000,
   },
-})
+});
 
 export const USGSFetchSchedule = sequelize.define(
   'usgs_fetch_schedule',
@@ -22,8 +22,8 @@ export const USGSFetchSchedule = sequelize.define(
   },
   {
     timestamps: false,
-  }
-)
+  },
+);
 
 export const Alert = sequelize.define(
   'alert',
@@ -40,11 +40,12 @@ export const Alert = sequelize.define(
     category: DataTypes.STRING,
     notifyTime: DataTypes.DATE,
     nextSend: DataTypes.DATE,
+    lastSent: DataTypes.DATE,
   },
   {
     timestamps: false,
-  }
-)
+  },
+);
 
 export const Reading = sequelize.define(
   'reading',
@@ -57,8 +58,8 @@ export const Reading = sequelize.define(
   },
   {
     timestamps: true,
-  }
-)
+  },
+);
 
 export const Gage = sequelize.define(
   'gage',
@@ -66,54 +67,97 @@ export const Gage = sequelize.define(
     name: DataTypes.STRING,
     siteId: DataTypes.STRING,
     source: DataTypes.STRING,
-    metric: DataTypes.STRING,
+    metric: {
+      type: DataTypes.STRING,
+      defaultValue: 'CFS',
+      comment: 'The gage primary metric',
+    },
     reading: DataTypes.INTEGER,
     delta: DataTypes.INTEGER,
     lastFetch: DataTypes.DATE,
   },
   {
     timestamps: true,
-  }
-)
-
-export const ClimbingArea = sequelize.define(
-  'climbing_area',
-  {
-    areaId: DataTypes.INTEGER,
-    country: DataTypes.STRING,
-    adminArea: DataTypes.STRING,
-    name: DataTypes.STRING,
-    latitude: DataTypes.STRING,
-    longitude: DataTypes.STRING,
   },
-  {
-    timestamps: false,
-  }
-)
-
-export const ClimbingAreaForecast = sequelize.define(
-  'climbing_area_forecast',
-  {
-    areaId: DataTypes.INTEGER,
-    value: DataTypes.STRING,
-  },
-  {
-    timestamps: true,
-  }
-)
+);
 
 export const UserConfig = sequelize.define(
   'user_config',
   {
-    mergeDailyReports: DataTypes.BOOLEAN,
+    id: {
+      type: DataTypes.INTEGER,
+      primaryKey: true,
+      autoIncrement: true,
+      allowNull: false,
+    },
+    mailgunKey: {
+      type: DataTypes.STRING,
+      defaultValue: '',
+      allowNull: false,
+    },
+    emailAddress: {
+      type: DataTypes.STRING,
+      defaultValue: '',
+      allowNull: false,
+    },
+    mailgunDomain: {
+      type: DataTypes.STRING,
+      defaultValue: '',
+      allowNull: false,
+    },
+    twilioAccountSID: {
+      type: DataTypes.STRING,
+      defaultValue: '',
+      allowNull: false,
+    },
+    twilioAuthToken: {
+      type: DataTypes.STRING,
+      defaultValue: '',
+      allowNull: false,
+    },
+    twilioMessagingServiceSid: {
+      type: DataTypes.STRING,
+      defaultValue: '',
+      allowNull: false,
+    },
+    twilioSMSTelephoneNumberTo: {
+      type: DataTypes.STRING,
+      defaultValue: '',
+      allowNull: false,
+    },
+    twilioSMSTelephoneNumberFrom: {
+      type: DataTypes.STRING,
+      defaultValue: '',
+      allowNull: false,
+    },
+    timezone: {
+      type: DataTypes.STRING,
+      defaultValue: 'America/Denver',
+      allowNull: false,
+    },
   },
   {
     timestamps: false,
-  }
-)
+    tableName: 'user_config',
+  },
+);
 
-Gage.hasMany(Reading)
-Reading.belongsTo(Gage)
-;(async function () {
-  await sequelize.sync({ force: false })
-})()
+// associate gages and readings
+Gage.hasMany(Reading);
+Reading.belongsTo(Gage);
+
+// associate gages and alerts
+Gage.hasMany(Alert);
+Alert.belongsTo(Gage, {
+  constraints: false,
+});
+(async function () {
+  await sequelize
+    .query(
+      `
+  INSERT INTO user_config(id, emailAddress, mailgunDomain, mailgunKey) VALUES (1, "","", "")
+`,
+    )
+    .catch(() => {});
+  await sequelize.sync({ force: false });
+})();

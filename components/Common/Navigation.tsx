@@ -2,11 +2,7 @@ import React, { ReactNode } from 'react';
 import Logo from './wh2o-logo';
 import { Layout, Menu, Typography } from 'antd';
 import 'antd/dist/antd.css';
-import {
-  AreaChartOutlined,
-  DashboardOutlined,
-  StockOutlined,
-} from '@ant-design/icons';
+import { DashboardOutlined, SettingOutlined } from '@ant-design/icons';
 import { useRouter } from 'next/router';
 
 type NavigationProps = {
@@ -21,10 +17,15 @@ const navItems = [
     text: 'Dashboard',
     icon: <DashboardOutlined />,
   },
+  // {
+  //   path: '/export',
+  //   text: 'Export',
+  //   icon:  <ExportOutlined />,
+  // },
   {
-    path: '/paddle',
-    text: 'Paddle',
-    icon: <AreaChartOutlined />,
+    path: '/settings',
+    text: 'Settings',
+    icon: <SettingOutlined />,
   },
   // {
   //   path: '/climb',

@@ -1,22 +1,6 @@
 // needed for nextjs processing I guess
-const cwd = process.cwd()
+const cwd = process.cwd();
 
-const {
-  MAILGUN_API_KEY,
-  MAILGUN_DOMAIN,
-  EMAIL_ADDRESS,
-  TWILIO_ACCOUNT_SID,
-  TWILIO_AUTH_TOKEN,
-  PHONE_NUMBER,
-  FROM_PHONE_NUMBER,
-} = process.env
+const { MOCK_USGS_FETCH, REDIS_HOST, REDIS_PORT, NODE_ENV } = process.env;
 
-export {
-  EMAIL_ADDRESS,
-  MAILGUN_DOMAIN,
-  MAILGUN_API_KEY,
-  TWILIO_ACCOUNT_SID,
-  TWILIO_AUTH_TOKEN,
-  PHONE_NUMBER,
-  FROM_PHONE_NUMBER,
-}
+export { MOCK_USGS_FETCH, REDIS_HOST, REDIS_PORT, NODE_ENV };

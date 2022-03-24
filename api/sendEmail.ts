@@ -1,35 +1,41 @@
-import { Alert, GageReading } from '../types'
-import { emailClient, MAILGUN_DOMAIN, EMAIL_ADDRESS } from '../lib'
+import { Alert, Gage } from '../types';
+import { loadUserConfig } from './loadUserConfig';
+import { emailClient } from '../lib/email';
+import { formatGageReading } from '../lib/formatGageReading';
 
-const getTableRows = (readings: GageReading[]) => {
-  let rows = ''
+const getTableRows = (gages: Gage | Gage[]) => {
+  let rows = '';
 
-  const tableRow = (reading: GageReading) => `
+  const tableRow = (gage: Gage) => `
         <tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
             <td style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; border-top-width: 1px; border-top-color: #eee; border-top-style: solid; margin: 0; padding: 8px 0;"
-                valign="top">${reading.gageName}
+                valign="top">${gage.name}
             </td>
             <td class="alignright"
                 style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; text-align: right; border-top-width: 1px; border-top-color: #eee; border-top-style: solid; margin: 0; padding: 8px 0;"
                 align="right" valign="top">
-                <div style="font-weight: bold; margin-bottom: 2px">${
-                  reading.value + ' ' + reading.metric
-                }</div>
+                <div style="font-weight: bold; margin-bottom: 2px">${formatGageReading(
+                  gage,
+                )}</div>
                 <div style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 8px;">${
-                  reading.createdAt
+                  gage.updatedAt
                 }</div>
             </td>
         </tr>
-        `
+        `;
 
-  readings.forEach((reading) => {
-    rows += tableRow(reading)
-  })
+  if (Array.isArray(gages)) {
+    gages.forEach((gage) => {
+      rows += tableRow(gage);
+    });
+  } else {
+    rows += tableRow(gages);
+  }
 
-  return rows
-}
+  return rows;
+};
 
-const getHTML = (alert: Alert, readings: GageReading[]) => {
+const getHTML = (alert: Alert, gages: Gage | Gage[]) => {
   return `
     <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -165,9 +171,7 @@ const getHTML = (alert: Alert, readings: GageReading[]) => {
                                                     <table class="invoice-items" cellpadding="0" cellspacing="0"
                                                            style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; width: 100%; margin: 0;">
                                                         
-                                                         ${getTableRows(
-                                                           readings
-                                                         )}
+                                                         ${getTableRows(gages)}
                                                         <tr class="total"
                                                             style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
                                                             <td class="alignright" width="80%"
@@ -216,22 +220,27 @@ const getHTML = (alert: Alert, readings: GageReading[]) => {
 </table>
 </body>
 </html>
-    `
-}
+    `;
+};
 
-export const sendEmail = async (alert: Alert, readings: GageReading[]) => {
+export const sendEmail = async (alert: Alert, gages: Gage | Gage[]) => {
   try {
-    const result = await emailClient.messages.create(
-      MAILGUN_DOMAIN || 'domain',
-      {
-        to: EMAIL_ADDRESS,
-        from: 'no-reply@wh2o.us',
-        subject: alert.name,
-        html: getHTML(alert, readings),
-      }
-    )
-    console.debug('result: ', result)
+    const { mailgunDomain, emailAddress, mailgunKey } = await loadUserConfig();
+
+    if (!mailgunDomain || !emailAddress || !mailgunKey) {
+      throw new Error('Missing config');
+    }
+
+    const client = await emailClient(mailgunKey);
+
+    const result = await client.messages.create(mailgunDomain, {
+      to: emailAddress,
+      from: `no-reply@wh2o.us`,
+      subject: alert.name,
+      html: getHTML(alert, gages),
+    });
+    console.debug('result: ', result);
   } catch (e) {
-    console.error('ERROR: ', e)
+    console.error('ERROR: ', e);
   }
-}
+};

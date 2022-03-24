@@ -1,4 +1,4 @@
-import { USGSStateGageHelper } from '../types'
+import { USGSStateGageHelper } from '../types';
 
 export const gages: USGSStateGageHelper[] = [
   {
@@ -20000,4 +20000,4 @@ export const gages: USGSStateGageHelper[] = [
       },
     ],
   },
-]
+];

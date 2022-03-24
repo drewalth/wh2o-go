@@ -1,5 +1,5 @@
-import React, { useState } from 'react'
-import { AlertTable } from './AlertTable'
+import React, { useState } from 'react';
+import { AlertTable } from './AlertTable';
 import {
   Button,
   Form,
@@ -8,64 +8,69 @@ import {
   notification,
   Select,
   TimePicker,
-} from 'antd'
-import { CreateAlertDTO, GageMetric } from '../../types'
-import { useGagesContext } from '../Provider/GageProvider'
-import { createAlert } from '../../controllers'
-import { useAlertsContext } from '../Provider/AlertProvider'
-import moment from 'moment'
-import { DateTime } from 'luxon'
+} from 'antd';
+import {
+  AlertChannel,
+  AlertCriteria,
+  AlertInterval,
+  CreateAlertDTO,
+  GageMetric,
+} from '../../types';
+import { useGagesContext } from '../Provider/GageProvider';
+import { createAlert } from '../../controllers';
+import { useAlertsContext } from '../Provider/AlertProvider';
+import moment from 'moment';
+import { DateTime } from 'luxon';
 
 export const Alert = (): JSX.Element => {
-  const { gages } = useGagesContext()
-  const { loadAlerts } = useAlertsContext()
+  const { gages } = useGagesContext();
+  const { loadAlerts } = useAlertsContext();
 
   const defaultCreateForm: CreateAlertDTO = {
     name: '',
     value: 0,
-    criteria: 'above',
-    channel: 'email',
-    interval: 'daily',
+    criteria: AlertCriteria.ABOVE,
+    channel: AlertChannel.EMAIL,
+    interval: AlertInterval.DAILY,
     notifyTime: undefined,
     nextSend: undefined,
     metric: GageMetric.CFS,
     minimum: 0,
     maximum: 0,
-    gageId: 0,
     category: 'gage',
-  }
+  };
 
-  const [modalVisible, setModalVisible] = useState(false)
+  const [modalVisible, setModalVisible] = useState(false);
   const [createForm, setCreateForm] =
-    useState<CreateAlertDTO>(defaultCreateForm)
+    useState<CreateAlertDTO>(defaultCreateForm);
 
   const handleOk = async () => {
     try {
-      const notifyTime = moment(createForm.notifyTime).toDate()
+      const notifyTime = moment(createForm.notifyTime).toDate();
 
       await createAlert({
         ...createForm,
         notifyTime,
         nextSend: DateTime.fromJSDate(notifyTime).plus({ hours: 0 }).toJSDate(),
-      })
-      await loadAlerts()
+      });
+      await loadAlerts();
       notification.success({
         message: 'Alert Created',
         placement: 'bottomRight',
-      })
+      });
     } catch (e) {
       notification.error({
         message: 'Failed to create alert',
         placement: 'bottomRight',
-      })
+      });
     } finally {
-      setModalVisible(false)
+      setModalVisible(false);
     }
-  }
+  };
 
   const handleCancel = () => {
-    setModalVisible(false)
-  }
+    setModalVisible(false);
+  };
 
   return (
     <>
@@ -77,6 +82,10 @@ export const Alert = (): JSX.Element => {
         onCancel={handleCancel}
       >
         <Form
+          layout={'vertical'}
+          wrapperCol={{
+            span: 23,
+          }}
           onValuesChange={(evt) =>
             setCreateForm(Object.assign({}, createForm, evt))
           }
@@ -85,29 +94,30 @@ export const Alert = (): JSX.Element => {
           <Form.Item name={'name'} label={'Name'}>
             <Input />
           </Form.Item>
-          <Form.Item name={'channel'} label={'Channel'}>
+
+          <Form.Item name={'interval'} label={'Interval'}>
             <Select>
-              {['email', 'sms'].map((el) => (
-                <Select.Option key={el} value={el}>
-                  {el}
+              {Object.values(AlertInterval).map((interval) => (
+                <Select.Option key={interval} value={interval}>
+                  {interval}
                 </Select.Option>
               ))}
             </Select>
           </Form.Item>
-          <Form.Item
-            name={'interval'}
-            label={'Interval'}
-            help={
-              createForm.interval === 'daily'
-                ? 'daily reports include readings from all of your gages.'
-                : ''
-            }
-          >
+          <Form.Item name={'channel'} label={'Channel'}>
             <Select>
-              <Select.Option value={'immediate'} disabled>
-                immediate
-              </Select.Option>
-              <Select.Option value={'daily'}>daily</Select.Option>
+              {Object.values(AlertChannel).map((el) => (
+                <Select.Option
+                  key={el}
+                  value={el}
+                  disabled={
+                    el === AlertChannel.SMS &&
+                    createForm.interval === AlertInterval.DAILY
+                  }
+                >
+                  {el}
+                </Select.Option>
+              ))}
             </Select>
           </Form.Item>
           <Form.Item
@@ -126,7 +136,7 @@ export const Alert = (): JSX.Element => {
           <Form.Item
             name={'notifyTime'}
             label={'Time'}
-            hidden={createForm.interval === 'immediate'}
+            hidden={createForm.interval === AlertInterval.IMMEDIATE}
           >
             <TimePicker use12Hours format="h:mm a" minuteStep={5} />
           </Form.Item>
@@ -136,7 +146,7 @@ export const Alert = (): JSX.Element => {
             hidden={createForm.interval === 'daily'}
           >
             <Select>
-              {['above', 'below', 'between'].map((el) => (
+              {Object.values(AlertCriteria).map((el) => (
                 <Select.Option key={el} value={el}>
                   {el}
                 </Select.Option>
@@ -179,7 +189,7 @@ export const Alert = (): JSX.Element => {
             hidden={createForm.interval === 'daily'}
           >
             <Select>
-              {['CFS', 'FT', 'TEMP'].map((el) => (
+              {Object.values(GageMetric).map((el) => (
                 <Select.Option key={el} value={el}>
                   {el}
                 </Select.Option>
@@ -205,5 +215,5 @@ export const Alert = (): JSX.Element => {
       </div>
       <AlertTable />
     </>
-  )
-}
+  );
+};

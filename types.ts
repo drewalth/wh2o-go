@@ -1,5 +1,33 @@
 import { DateTime } from 'luxon';
 
+export type EmailQueueJobData = {
+  name: 'gageNotify' | 'dailyNotify';
+  data: {
+    alert: Alert;
+    gages: Gage[] | Gage;
+  };
+};
+
+export type GageQueueJobData = {
+  data: {
+    ready: boolean;
+  };
+};
+
+export type SMSQueueJobData = {
+  data: {
+    alert: Alert;
+    gage: Gage;
+  };
+};
+
+export enum Queues {
+  GAGE = 'Gage',
+  ALERT = 'Alert',
+  EMAIL = 'Email',
+  SMS = 'SMS',
+}
+
 export type GageFetchSchedule = {
   nextFetch: DateTime;
 };
@@ -11,16 +39,35 @@ export enum FetchInterval {
 }
 
 export type UserConfig = {
-  EMAIL_ADDRESS: string;
-  MAILGUN_API_KEY: string;
-  MAILGUN_DOMAIN: string;
+  id: number;
+  emailAddress: string;
+  mailgunKey: string;
+  mailgunDomain: string;
+  timezone: string;
+  twilioAccountSID: string;
+  twilioAuthToken: string;
+  twilioMessagingServiceSid: string;
+  twilioSMSTelephoneNumberTo: string;
+  twilioSMSTelephoneNumberFrom: string;
 };
 
-export type AlertInterval = 'daily' | 'immediate';
+export type UserConfigDto = Omit<UserConfig, 'id'>;
 
-export type AlertCriteria = 'above' | 'below' | 'between';
+export enum AlertInterval {
+  DAILY = 'daily',
+  IMMEDIATE = 'immediate',
+}
 
-export type AlertChannel = 'email' | 'sms';
+export enum AlertCriteria {
+  ABOVE = 'above',
+  BELOW = 'below',
+  BETWEEN = 'between',
+}
+
+export enum AlertChannel {
+  EMAIL = 'email',
+  SMS = 'sms',
+}
 
 export type Alert = {
   id: number;
@@ -34,14 +81,20 @@ export type Alert = {
   value: number;
   gageId: number;
   notifyTime: Date;
+  lastSent: Date;
   nextSend: Date;
+  gage: Gage;
   category: 'gage' | 'climb';
 };
 
 export type CreateAlertDTO = {
   notifyTime?: Date;
   nextSend?: Date;
-} & Omit<Alert, 'id' | 'notifyTime' | 'nextSend'>;
+  gageId?: number;
+} & Omit<
+  Alert,
+  'id' | 'notifyTime' | 'nextSend' | 'gageId' | 'lastSent' | 'gage'
+>;
 
 export enum GageSource {
   USGS = 'usgs',
@@ -58,23 +111,31 @@ export type GageReading = {
   updatedAt?: Date;
 };
 
+export type ExportDataDto = {
+  gages: boolean;
+  alerts: boolean;
+  settings: boolean;
+};
+
 export type Gage = {
   id: number;
   name: string;
   source: GageSource;
   siteId: string;
-  metric: string;
+  metric: GageMetric;
   reading: number;
   readings: GageReading[];
   delta: number;
   lastFetch: Date;
   createdAt: Date;
   updatedAt: Date;
+  alerts?: Alert[];
 };
 
 export interface CreateGageDto {
   name: string;
   siteId: string;
+  metric: GageMetric;
 }
 
 export interface GageUpdateDTO {

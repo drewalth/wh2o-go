@@ -1,4 +1,4 @@
-import { usState } from '../types'
+import { usState } from '../types';
 
 export const usStates: usState[] = [
   { name: 'ALABAMA', abbreviation: 'AL' },
@@ -60,4 +60,4 @@ export const usStates: usState[] = [
   { name: 'WEST VIRGINIA', abbreviation: 'WV' },
   { name: 'WISCONSIN', abbreviation: 'WI' },
   { name: 'WYOMING', abbreviation: 'WY' },
-]
+];

@@ -1,69 +1,82 @@
-import React, { useEffect, useState } from 'react'
-import GageTable from './GageTable'
-import { Button, Modal, notification, Select, AutoComplete, Form } from 'antd'
-import { CreateGageDto } from '../../types'
-import { useGagesContext } from '../Provider/GageProvider'
-import { usStates } from '../../lib'
-import { createGage } from '../../controllers'
+import React, { useEffect, useState } from 'react';
+import GageTable from './GageTable';
+import { AutoComplete, Button, Form, Modal, notification, Select } from 'antd';
+import { CreateGageDto, GageEntry, GageMetric } from '../../types';
+import { useGagesContext } from '../Provider/GageProvider';
+import { usStates } from '../../lib';
+import { createGage } from '../../controllers';
 
-const defaultForm = {
+const defaultForm: CreateGageDto = {
   name: '',
   siteId: '',
-}
+  metric: GageMetric.CFS,
+};
 
 export const Gage = (): JSX.Element => {
-  const [selectedState, setSelectedState] = useState('AL')
-  const [createModalVisible, setCreateModalVisible] = useState(false)
-  const [createForm, setCreateForm] = useState<CreateGageDto>(defaultForm)
-  const { gageSources, loadGageSources, gages, loadGages } = useGagesContext()
-  const [options, setOptions] = useState<{ value: string; label: string }[]>([])
+  const [selectedState, setSelectedState] = useState('AL');
+  const [createModalVisible, setCreateModalVisible] = useState(false);
+  const [createForm, setCreateForm] = useState<CreateGageDto>(defaultForm);
+  const { gageSources, loadGageSources, gages, loadGages } = useGagesContext();
+  const [options, setOptions] = useState<{ value: string; label: string }[]>(
+    [],
+  );
 
   useEffect(() => {
-    ;(async function () {
-      await loadGageSources(selectedState)
-    })()
-  }, [selectedState])
+    (async function () {
+      await loadGageSources(selectedState);
+    })();
+  }, [selectedState]);
+
+  const gagePreviouslyAdded = (entry: GageEntry): boolean => {
+    const existingGageNames = gages.map((g) => g.name);
+
+    return existingGageNames.includes(entry.gageName);
+  };
 
   const onSearch = (searchText: string) => {
-    const vals = gageSources?.filter((g) =>
-      g.gageName.toLocaleLowerCase().includes(searchText.toLocaleLowerCase())
-    )
+    const vals = gageSources?.filter(
+      (g) =>
+        g.gageName
+          .toLocaleLowerCase()
+          .includes(searchText.toLocaleLowerCase()) && !gagePreviouslyAdded(g),
+    );
 
     if (vals.length) {
       setOptions(
         vals.map((g) => ({
           value: g.siteId,
           label: g.gageName,
-        }))
-      )
+        })),
+      );
     }
-  }
+  };
 
   const handleClose = () => {
-    setCreateForm(defaultForm)
-    setCreateModalVisible(false)
-  }
+    setCreateForm(defaultForm);
+    setCreateModalVisible(false);
+  };
 
   const handleOk = async () => {
     try {
       const gageName = gageSources.find(
-        (g) => g.siteId === createForm.siteId
-      )?.gageName
+        (g) => g.siteId === createForm.siteId,
+      )?.gageName;
 
       await createGage({
         name: gageName || 'untitled',
         siteId: createForm.siteId,
-      })
-      await loadGages()
+        metric: GageMetric.CFS,
+      });
+      await loadGages();
       notification.success({
         message: 'Gage Created',
         placement: 'bottomRight',
-      })
-      handleClose()
+      });
+      handleClose();
     } catch (e) {
-      console.log(e)
+      console.log(e);
     }
-  }
+  };
 
   return (
     <>
@@ -74,8 +87,12 @@ export const Gage = (): JSX.Element => {
         onCancel={handleClose}
       >
         <Form
+          wrapperCol={{
+            span: 23,
+          }}
+          layout={'vertical'}
           onValuesChange={(val) => {
-            setCreateForm(Object.assign({}, createForm, val))
+            setCreateForm(Object.assign({}, createForm, val));
           }}
           initialValues={{ ...createForm }}
         >
@@ -114,5 +131,5 @@ export const Gage = (): JSX.Element => {
       </div>
       <GageTable />
     </>
-  )
-}
+  );
+};

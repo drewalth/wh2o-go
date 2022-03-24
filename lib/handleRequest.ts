@@ -1,86 +1,106 @@
-import { NextApiRequest, NextApiResponse } from 'next'
+import { NextApiRequest, NextApiResponse } from 'next';
+
+const defaultOptions = {
+  get: {},
+  post: {},
+  put: {},
+  delete: {},
+};
 
 export const handleRequest = async (
   model: any,
   req: NextApiRequest,
-  res: NextApiResponse
+  res: NextApiResponse,
+  opts: any = defaultOptions,
 ) => {
   const getHandler = async (req: NextApiRequest, res: NextApiResponse) => {
+    let result;
     try {
-      let result
       // @ts-ignore
       if (req.query.id) {
-        result = await model.findOne({
-          where: {
-            id: Number(req.query.id),
-          },
-        })
+        result = await model
+          .findOne({
+            where: {
+              id: +req.query.id,
+            },
+            ...opts.get,
+          })
+          .then((res: any) => {
+            return res || undefined;
+          });
       } else {
-        result = await model.findAll()
+        result = await model.findAll({
+          ...opts.get,
+        });
       }
-      res.status(200).json(result)
-    } catch (e) {
-      console.error(e)
-      res.status(500)
+      res.status(200).json(result);
+    } catch {
+      res.status(500);
     }
-  }
+    return;
+  };
 
   const postHandler = async (req: NextApiRequest, res: NextApiResponse) => {
     await model
       .create(req.body)
-      .then((result: any) => {
-        res.status(200).json(result)
+      .then(async (result: any) => {
+        if (opts?.post?.callback) {
+          await opts.post.callback(result, req.body);
+        }
+
+        res.status(200).json(result);
       })
-      .catch((e: any) => {
-        console.error(e)
-        res.status(500)
-      })
-  }
+      .catch(() => {
+        res.status(500);
+      });
+
+    return;
+  };
 
   const updateHandler = async (req: NextApiRequest, res: NextApiResponse) => {
     await model
       .update(req.body, {
         where: {
-          id: req.body.id,
+          id: +req.query.id,
         },
       })
       .then((result: any) => {
-        res.status(200).json(result)
+        res.status(200).json(result);
       })
-      .catch((e: any) => {
-        console.error(e)
-        res.status(500)
-      })
-  }
+      .catch(() => {
+        res.status(500);
+      });
+    return;
+  };
 
   const deleteHandler = async (req: NextApiRequest, res: NextApiResponse) => {
     await model
       .destroy({
         where: {
-          id: req.query.id,
+          id: +req.query.id,
         },
       })
       .then((result: any) => {
-        res.status(200).json(result)
+        res.status(200).json(result);
       })
-      .catch((e: any) => {
-        res.status(500)
-      })
-  }
+      .catch(() => {
+        res.status(500);
+      });
+  };
 
   switch (req.method) {
     case 'DELETE':
-      await deleteHandler(req, res)
-      return
+      await deleteHandler(req, res);
+      return;
     case 'POST':
-      await postHandler(req, res)
-      return
+      await postHandler(req, res);
+      return;
     case 'PUT':
-      await updateHandler(req, res)
-      return
+      await updateHandler(req, res);
+      return;
     case 'GET':
     default:
-      await getHandler(req, res)
-      return
+      await getHandler(req, res);
+      return;
   }
-}
+};

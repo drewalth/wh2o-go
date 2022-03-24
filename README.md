@@ -1,118 +1,177 @@
 # wh2o-next
 
-Another application in the [wh2o](https://wh2o.us/) series built using [Next.js](https://nextjs.org/) that gives river enthusiasts a way to check USGS Gage levels and create either email or SMS alerts based on provided criteria.
+With `wh2o-next` you can subscribe to USGS river gages via
+the [Official REST API](https://waterservices.usgs.gov/rest/IV-Service.html), view aggregate gage reading data in the
+browser and create custom notifications--daily emails summarizing all your bookmarked gages or immediate SMS alerts when
+a gage reading value meets your criteria.
 
-In addition to river flow levels, I've added Climbing Area weather too to turn this into a one-stop-shop for the data needed to plan the day's activities.
+<details>
+<summary>Note</summary>
 
-I hope to add Snow Forecasts and Avalanche Danger reports in the future.
+- If you're running this app on a machine in your home network (like a Raspberry Pi in the living room), you will most
+  likely need to setup port forwarding on your home router to access the app off of your home wifi network.
+- If developing, please be mindful of USGS resources/usage limits. The current fetch interval is set to retreive gage
+  data every five minutes. This meets their requirements, but consider increasing time between HTTP requests to 15min.
+- All of the data you enter into the app is stored locally on your machine and not shared with anyone.
 
-## System Requirements
+</details>
 
-- [node.js](https://nodejs.org/en/)
+## Requirements
 
-## Setup
+- [Git](https://git-scm.com/downloads)
+- [Docker](https://www.docker.com/products/docker-desktop/)
+- [Mailgun Account (Free)](https://www.mailgun.com/)
+- [Twilio Account (Almost Free)](https://www.twilio.com/docs/sms)
 
-- Clone or download the app
-- In the terminal, navigate to project directory:
+- [Node.js](https://nodejs.org/en/) (developer)
 
-```bash
-cd wh2o-next
-```
+## Installation
 
-- Install project dependencies:
+<details>
+<summary>OSX</summary>
 
-```bash
-npm install
-```
-
-- If you want to get an email or SMS notification, see "Creating an Alert" below.
-- Build the app:
-
-```bash
-npm run build
-```
-
-- Start it up:
-
-```bash
-npm start
-```
-
-## Adding a Gage
-
-Once the app has started, click the "Add Gage" button to the right of the screen. Next, select which state, then start typing the gage name, and the options will appear.
-
-##### Don't See Your Gage?
-
-- If you know the gage USGS site ID, you can enter that in the input field, and you will still get gage readings. It may look funny at first (bug), but once readings are fetched from USGS, the gage name will be updated in the UI.
-- If you have a GitHub account, you can create a new branch, and add the gage name, and site ID to [allGages.ts](./lib/allGages.ts)
-
-## Creating an Alert
-
-Before you can create an alert, you need to decide how you want to be notified. If you want to receive email alerts, sign up for a free account with [Mailgun](https://www.mailgun.com/). If you want to receive SMS alerts, sign up for a free account with [Twilio](https://www.twilio.com/).
-
-Once you created you account(s), open copy the `.env.example` file:
+1. Install [Docker](https://www.docker.com/products/docker-desktop/).
+2. Clone [Repo](https://github.com/drewalth/wh2o-next)
+3. From `wh2o-next` folder run:
 
 ```bash
-cp .env.example .env
+docker compose up -d
 ```
 
-Open the newly created `.env` file and paste in your Mailgun and/or Twilio API tokens/pertinent data:
+4. Paste the URL below to view app in browser:
 
 ```bash
-# mailgun key + domain
-MAILGUN_API_KEY=
-MAILGUN_DOMAIN=
-# the email address you want to send reports to
-EMAIL_ADDRESS=
-
-# twilio stuff
-TWILIO_ACCOUNT_SID=
-TWILIO_AUTH_TOKEN=
-TWILIO_MESSAGING_SERVICE_SID=
-FROM_PHONE_NUMBER=
-# the number you want to send texts to
-PHONE_NUMBER=
+http://localhost:3000
 ```
 
-Once you've got your tokens and numbers added, rebuild and start the app:
+</details>
+
+<details>
+<summary>PC</summary>
+
+IDK but I think it is similar to OSX...
+
+</details>
+
+<details>
+<summary>Ubuntu</summary>
+
+1. Uninstall old versions
 
 ```bash
-npm run build && npm run start
+$ sudo apt-get remove docker docker-engine docker.io containerd runc
 ```
 
-You must first add a gage to your gages list before creating an alert.
+2. Install Docker Engine
 
-Add a gage, then click the Alert submenu item.
+```bash
+$ sudo apt-get update
+$ sudo apt-get install docker-ce docker-ce-cli containerd.io
+```
 
-Click "Create Alert" then choose your options.
+3. Install Docker Compose (maybe install pip)
 
-## Where to Run
+```bash
+$ pip3 install docker-compose
+```
 
-Okay, all that is great, right? But where should this app live?
+4. Run Docker Compose
 
-Personally, I run this on a Raspberry Pi in my living room but there are tons of options:
+```bash
+$ docker compose up -d
+```
 
-- Heroku
-- AWS
-- Google Cloud
-- Your work computer
-- Your PC from 2009
+Check containers.
 
-## Considerations
+```bash
+$ docker ps
+```
 
-This app is FAR from perfect and has some unfortunate design flaws that will eventually (hopefully) be addressed:
+For more detail see official [docs](https://docs.docker.com/engine/install/ubuntu/).
 
-- Fetching gage readings should be a queued Redis job, not a cron job dependant on global variable checks and a call to an "init" function...
-- amongst others...
+</details>
 
-I'd like to make this as non-developer-friendly as possible, and so far it is pretty involved. There are a few easy steps to take to help make that possible:
+## Development
 
-1. Make a UI for adding `.env` variables on a "settings" page. i.e. Mailgun + Twilio tokens.
-2. Dockerizing the app. So the only required steps would be installing Docker and running `docker compose up -d` or whatever.
+```bash
+$ docker compose up -d
+$ npm ci
+$ npm run dev
+```
 
-If you're interested in making this better, please feel free to open a PR!
+## Production
 
-## Copyright Notice
+```bash
+$ docker compose up -d
+$ npm ci
+$ npm run build
+$ npm ci --production
+$ npm start
+```
 
-Check the license, but please don't use the logo for anything else...
+## Configuration
+
+<details>
+<summary>Email</summary>
+
+#### 1. Setup Mailgun
+
+Sign up for a [Mailgun](https://www.mailgun.com/) account (~26min)
+
+#### 2. Change Timezone
+
+First change the timezone in the Settings UI. Timezone is required for accurate notification delivery. I ran into some
+issues setting DateTime/Timezone when running the app on an EC2 instance. I'm sure there is a simple solution out
+there...
+
+</details>
+
+<details>
+<summary>SMS</summary>
+
+Follow the following steps / docs to get setup for SMS (text message) notifications.
+
+Just a heads up, setting up Twilio is kind of envolved and a little expensive. No problem if you do not want to use SMS.
+You can leave the settings for SMS empty just know that if you try to add an SMS notification it will error.
+
+#### 1. Setup Twilio
+
+Sign up for a [Twilio](https://www.twilio.com/docs/sms) account (~30min)
+
+Copy and securely save:
+
+```bash
+
+```
+
+</details>
+
+## Screenshots
+
+##### Gage Dashboard
+
+![Gage Dashboard](/public/wh2o-next-gage-02.png)
+
+##### Bookmarking a Gage
+
+![Bookmarking a Gage](/public/wh2o-next-gage-01.png)
+
+##### Alert Dashboard
+
+![Alert Dashboard](/public/wh2o-next-alert-01.png)
+
+##### Adding Immediate Email Notification
+
+![Adding Immediate Email Notification](/public/wh2o-next-alert-02.png)
+
+##### Adding Daily Email Notification
+
+![Adding Daily Email Notification](/public/wh2o-next-alert-03.png)
+
+##### Mailgun Config
+
+![Mailgun Config](/public/wh2o-next-settings-02.png)
+
+##### Twilio Config
+
+![Twilio Config](/public/wh2o-next-settings-01.png)
