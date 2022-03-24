@@ -1,15 +1,21 @@
-<div style="max-width: 50%">
+<div style=" display: flex; align-items: center">
+
+<span style="border: 2px solid #fff;max-width: 25%;">
 
 ![Adding Daily Email Notification](/public/logo.svg)
 
-</div>
+</span>
 
 # wh2o-next
+
+</div>
 
 With `wh2o-next` you can subscribe to USGS river gages via
 the [Official REST API](https://waterservices.usgs.gov/rest/IV-Service.html), view aggregate gage reading data in the
 browser and create custom notifications--daily emails summarizing all your bookmarked gages or immediate SMS alerts when
 a gage reading value meets your criteria.
+
+![Alert Dashboard](/public/wh2o-next-alert-01.png)
 
 <details>
 <summary>Note</summary>
