@@ -32,71 +32,97 @@ a gage reading value meets your criteria.
 
 - [Git](https://git-scm.com/downloads)
 - [Docker](https://www.docker.com/products/docker-desktop/)
+- [Node.js](https://nodejs.org/en/)
 - [Mailgun Account (Free)](https://www.mailgun.com/)
 - [Twilio Account (Almost Free)](https://www.twilio.com/docs/sms)
 
-- [Node.js](https://nodejs.org/en/) (developer)
-
 ## Installation
 
-<details>
-<summary>OSX</summary>
+[comment]: <> (<details>)
 
-1. Install [Docker](https://www.docker.com/products/docker-desktop/).
-2. Clone [Repo](https://github.com/drewalth/wh2o-next)
-3. From `wh2o-next` folder run:
+[comment]: <> (<summary>OSX</summary>)
 
-```bash
-docker compose up -d
-```
+[comment]: <> (1. Install [Docker]&#40;https://www.docker.com/products/docker-desktop/&#41;.)
 
-4. Paste the URL below to view app in browser:
+[comment]: <> (2. Clone [Repo]&#40;https://github.com/drewalth/wh2o-next&#41;)
 
-```bash
-http://localhost:3000
-```
+[comment]: <> (3. From `wh2o-next` folder run:)
 
-</details>
+[comment]: <> (```bash)
 
-<details>
-<summary>PC</summary>
+[comment]: <> (docker compose up -d)
 
-IDK but I think it is similar to OSX...
+[comment]: <> (```)
 
-</details>
+[comment]: <> (4. Paste the URL below to view app in browser:)
+
+[comment]: <> (```bash)
+
+[comment]: <> (http://localhost:3000)
+
+[comment]: <> (```)
+
+[comment]: <> (</details>)
+
+[comment]: <> (<details>)
+
+[comment]: <> (<summary>PC</summary>)
+
+[comment]: <> (IDK but I think it is similar to OSX...)
+
+[comment]: <> (</details>)
 
 <details>
 <summary>Ubuntu</summary>
 
-1. Uninstall old versions
+1. `ssh` onto your machine
+2. Uninstall old Docker versions
 
 ```bash
 $ sudo apt-get remove docker docker-engine docker.io containerd runc
 ```
 
-2. Install Docker Engine
+3. Install Docker Engine
 
 ```bash
 $ sudo apt-get update
 $ sudo apt-get install docker-ce docker-ce-cli containerd.io
 ```
 
-3. Install Docker Compose (maybe install pip)
+4. Install Docker Compose (maybe install pip)
 
 ```bash
 $ pip3 install docker-compose
 ```
 
-4. Run Docker Compose
+5. Install Nodejs
+
+```bash
+$ curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -
+$ sudo apt install nodejs
+```
+
+6. Install Git + Clone App
+
+```bash
+$ sudo apt install git-all
+$ git clone https://github.com/drewalth/wh2o-next.git
+$ cd wh2o-next/
+```
+
+7. Run Docker Compose
 
 ```bash
 $ docker compose up -d
 ```
 
-Check containers.
+8. Build + Start App
 
 ```bash
-$ docker ps
+$ npm ci
+$ npm run build
+$ npm ci --production
+$ npm start
 ```
 
 For more detail see official [docs](https://docs.docker.com/engine/install/ubuntu/).
@@ -187,3 +213,30 @@ Copy and securely save:
 ##### Twilio Config
 
 ![Twilio Config](/public/wh2o-next-settings-01.png)
+
+## FAQ
+
+- Missing a gage? If you don't see a gage yoou want bookmark in the preloaded list, copy the site ID from the USGS river
+  page and paste it in the gage input. Or, open a PR and add it to the [`allGages`](/lib/allGages.ts) file.
+- Want to use different Email or SMS provider? Swap out Nodejs SDKs in the [`smsClient`](/api/smsClient.ts)
+  and [`sendEmail`](/api/sendEmail.ts) files.
+
+## ToDo
+
+- [ ] Consolidate DateTime libraries. Moment or Luxon.
+- [ ] Fix typings and remove `@ts-ignore`s
+
+#### Considerations
+
+- Using the Nextjs API pages this way isn't that sweet. With Redis in the stack too, it would be cleaner to just create
+  a separate server and serve static files for the frontend.
+- Historical data and Graphs. Would be cool to change the [`cleanReadings`](/api/cleanReadings.ts) threshold, line 10,
+  and render data in chart.
+
+```bash
+|- server
+|- client (React app compiled n served by nginx)
+|- nginx
+|- redis
+|- sqlite (or whatever)
+```
