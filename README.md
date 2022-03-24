@@ -1,3 +1,9 @@
+<div style="max-width: 50%">
+
+![Adding Daily Email Notification](/public/logo.svg)
+
+</div>
+
 # wh2o-next
 
 With `wh2o-next` you can subscribe to USGS river gages via
