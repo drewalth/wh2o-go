@@ -1,37 +1,35 @@
-<div style=" display: flex; align-items: center">
-
-<span style="border: 2px solid #fff;max-width: 25%;">
-
-![Adding Daily Email Notification](/public/logo.svg)
-
-</span>
-
-<span>
-
 # wh2o-next
 
 ### Email and SMS notifications for USGS river gages.
-
-</span>
-
-</div>
 
 ![Alert Dashboard](/public/wh2o-next-alert-01.png)
 
 ---
 
+# Heads Up\*
+
+After struggling to deploy this app on an over-burdened Raspberry Pi and tolerating poor development experience with
+Nextjs, I've decided to transition to a Golang server with a static Reactjs frontend.
+
+With this new setup we can compile the API to run on a Pi--and it actually works.
+
+The Nextjs version will no longer be actively worked on, please see
+the [golang-develop](https://github.com/drewalth/wh2o-next/tree/golang-develop) branch.
+
+---
+
 With `wh2o-next` you can subscribe to USGS river gages via
 the [Official REST API](https://waterservices.usgs.gov/rest/IV-Service.html), view aggregate gage reading data in the
-browser and create custom notifications--daily emails summarizing all your bookmarked gages or immediate SMS alerts when
+the browser and create custom notifications--daily emails summarizing all your bookmarked gages or immediate SMS alerts when
 a gage reading value meets your criteria.
 
 <details>
 <summary>Note</summary>
 
 - If you're running this app on a machine in your home network (like a Raspberry Pi in the living room), you will most
-  likely need to setup port forwarding on your home router to access the app off of your home wifi network.
-- If developing, please be mindful of USGS resources/usage limits. The current fetch interval is set to retreive gage
-  data every five minutes. This meets their requirements, but consider increasing time between HTTP requests to 15min.
+  likely need to set up port forwarding on your home router to access the app off of your home wifi network.
+- If developing, please be mindful of USGS resources/usage limits. The current fetch interval is set to retrieve gage
+  data every five minutes. This meets their requirements, but consider increasing the time between HTTP requests to 15min.
 - All of the data you enter into the app is stored locally on your machine and not shared with anyone.
 
 </details>
@@ -62,7 +60,7 @@ a gage reading value meets your criteria.
 
 [comment]: <> (```)
 
-[comment]: <> (4. Paste the URL below to view app in browser:)
+[comment]: <> (4. Paste the URL below to view app in a browser:)
 
 [comment]: <> (```bash)
 
@@ -166,7 +164,7 @@ Sign up for a [Mailgun](https://www.mailgun.com/) account (~26min)
 
 #### 2. Change Timezone
 
-First change the timezone in the Settings UI. Timezone is required for accurate notification delivery. I ran into some
+First, change the timezone in the Settings UI. Timezone is required for accurate notification delivery. I ran into some
 issues setting DateTime/Timezone when running the app on an EC2 instance. I'm sure there is a simple solution out
 there...
 
@@ -175,9 +173,9 @@ there...
 <details>
 <summary>SMS</summary>
 
-Follow the following steps / docs to get setup for SMS (text message) notifications.
+Follow the following steps/docs to get set up for SMS (text message) notifications.
 
-Just a heads up, setting up Twilio is kind of envolved and a little expensive. No problem if you do not want to use SMS.
+Just a heads up, setting up Twilio is kind of involved and a little expensive. No problem if you do not want to use SMS.
 You can leave the settings for SMS empty just know that if you try to add an SMS notification it will error.
 
 #### 1. Setup Twilio
@@ -224,9 +222,9 @@ Copy and securely save:
 
 ## FAQ
 
-- Missing a gage? If you don't see a gage yoou want bookmark in the preloaded list, copy the site ID from the USGS river
+- Missing a gage? If you don't see a gage you want to bookmark in the preloaded list, copy the site ID from the USGS river
   page and paste it in the gage input. Or, open a PR and add it to the [`allGages`](/lib/allGages.ts) file.
-- Want to use different Email or SMS provider? Swap out Nodejs SDKs in the [`smsClient`](/api/smsClient.ts)
+- Want to use a different Email or SMS provider? Swap out Nodejs SDKs in the [`smsClient`](/api/smsClient.ts)
   and [`sendEmail`](/api/sendEmail.ts) files.
 
 ## ToDo
@@ -239,11 +237,11 @@ Copy and securely save:
 - Using the Nextjs API pages this way isn't that sweet. With Redis in the stack too, it would be cleaner to just create
   a separate server and serve static files for the frontend.
 - Historical data and Graphs. Would be cool to change the [`cleanReadings`](/api/cleanReadings.ts) threshold, line 10,
-  and render data in chart.
+  and render data in a chart.
 
 ```bash
 |- server
-|- client (React app compiled n served by nginx)
+|- client (React app compiled n served by Nginx)
 |- nginx
 |- redis
 |- sqlite (or whatever)
