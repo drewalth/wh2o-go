@@ -2,7 +2,7 @@ package cron
 
 import (
 	"time"
-	"wh2o-next/server/gages"
+	"wh2o-next/core/gages"
 
 	"github.com/go-co-op/gocron"
 )

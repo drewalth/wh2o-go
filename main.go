@@ -4,15 +4,22 @@ import (
 	"log"
 	"net/http"
 
-	alerts "wh2o-next/server/alerts"
-	"wh2o-next/server/cron"
-	database "wh2o-next/server/database"
-	"wh2o-next/server/email"
+	cron "wh2o-next/core/cron"
+	gages "wh2o-next/core/gages"
+	database "wh2o-next/database"
 
 	"github.com/gin-gonic/contrib/static"
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"
+	"gorm.io/gorm"
 )
+
+func Database(db *gorm.DB) gin.HandlerFunc {
+	return func(c *gin.Context) {
+		c.Set("db", db)
+		c.Next()
+	}
+}
 
 func main() {
 
@@ -22,12 +29,12 @@ func main() {
 		log.Fatalf("Error loading .env file")
 	}
 
-	// todo share db in context
-	database.InitializeDatabase()
-
 	cron.InitializeCronJobs()
 
 	router := gin.Default()
+	db := database.InitializeDatabase()
+	// add db to gin context
+	router.Use(Database(db))
 
 	router.Use(static.Serve("/", static.LocalFile("./client/build", true)))
 	// must be a better way to handle direct navigation to react router routes
@@ -38,14 +45,15 @@ func main() {
 	{
 
 		api.GET("/", func(c *gin.Context) {
-
-			email.SendEmail()
-
 			c.JSON(http.StatusOK, gin.H{
-				"result": alerts.AlertFindOne(2),
+				"result": "yo",
 			})
-
 		})
+
+		api.GET("/gages", gages.HandleGetGages)
+		api.POST("/gages", gages.HandleCreateGage)
+		api.PUT("/gages", gages.HandleUpdateGage)
+		api.DELETE("/gages/:id", gages.HandleDeleteGage)
 
 	}
 
