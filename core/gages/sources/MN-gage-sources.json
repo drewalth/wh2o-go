@@ -1,0 +1,254 @@
+[
+  {
+    "gageName": "BASSWOOD RIVER NEAR WINTON, MN ",
+    "siteId": "05127500"
+  },
+  {
+    "gageName": "BIG FORK RIVER AT BIG FALLS, MN ",
+    "siteId": "05132000"
+  },
+  {
+    "gageName": "CANNON RIVER AT 9TH ST. BRIDGE IN CANNON FALLS, MN ",
+    "siteId": "05355092"
+  },
+  {
+    "gageName": "CANNON RIVER AT CO. HWY. 29 BELOW FARIBAULT, MN ",
+    "siteId": "05354500"
+  },
+  {
+    "gageName": "CANNON RIVER AT NORTHFIELD MN ",
+    "siteId": "05355024"
+  },
+  {
+    "gageName": "CANNON RIVER AT WELCH, MN ",
+    "siteId": "05355200"
+  },
+  {
+    "gageName": "CEDAR RIVER NEAR AUSTIN, MN ",
+    "siteId": "05457000"
+  },
+  {
+    "gageName": "CHUB CREEK AT CO. HWY. 47 ABOVE RANDOLPH, MN ",
+    "siteId": "05355038"
+  },
+  {
+    "gageName": "COON CREEK AT VALE STREET IN COON RAPIDS, MN ",
+    "siteId": "05288490"
+  },
+  {
+    "gageName": "ELK RIVER NEAR BIG LAKE, MN ",
+    "siteId": "05275000"
+  },
+  {
+    "gageName": "GRAND PORTAGE RIVER AT GRAND PORTAGE MN ",
+    "siteId": "04010510"
+  },
+  {
+    "gageName": "HIGH ISLAND CREEK NEAR HENDERSON, MN ",
+    "siteId": "05327000"
+  },
+  {
+    "gageName": "KAWISHIWI RIVER NEAR ELY, MN ",
+    "siteId": "05124480"
+  },
+  {
+    "gageName": "KETTLE RIVER BELOW SANDSTONE, MN ",
+    "siteId": "05336700"
+  },
+  {
+    "gageName": "KNIFE RIVER NEAR TWO HARBORS, MN ",
+    "siteId": "04015330"
+  },
+  {
+    "gageName": "LAKE MINNETONKA ABV GRAYS BAY OTLT IN MINNETONKA ",
+    "siteId": "05289000"
+  },
+  {
+    "gageName": "LAKE TRAVERSE AT RESERVATION DAM NEAR WHEATON, MN ",
+    "siteId": "05049700"
+  },
+  {
+    "gageName": "LAKE TRAVERSE OTLT AT RESERVATION DAM NR WHEATON ",
+    "siteId": "05049710"
+  },
+  {
+    "gageName": "LITTLE COTTONWOOD RIVER NEAR COURTLAND, MN ",
+    "siteId": "05317200"
+  },
+  {
+    "gageName": "LITTLE FORK RIVER AT LITTLEFORK, MN ",
+    "siteId": "05131500"
+  },
+  {
+    "gageName": "MINNEHAHA CREEK AT HIAWATHA AVE. IN MINNEAPOLIS,MN ",
+    "siteId": "05289800"
+  },
+  {
+    "gageName": "MINNESOTA RIVER AT HWY 212 IN GRANITE FALLS, MN ",
+    "siteId": "05311150"
+  },
+  {
+    "gageName": "MINNESOTA RIVER AT MANKATO, MN ",
+    "siteId": "05325000"
+  },
+  {
+    "gageName": "MINNESOTA RIVER AT MONTEVIDEO, MN ",
+    "siteId": "05311000"
+  },
+  {
+    "gageName": "MINNESOTA RIVER AT MORTON, MN ",
+    "siteId": "05316580"
+  },
+  {
+    "gageName": "MINNESOTA RIVER AT NEW ULM, MN ",
+    "siteId": "05316770"
+  },
+  {
+    "gageName": "MINNESOTA RIVER NEAR JORDAN, MN ",
+    "siteId": "05330000"
+  },
+  {
+    "gageName": "MINNESOTA RIVER NEAR LAC QUI PARLE, MN ",
+    "siteId": "05301000"
+  },
+  {
+    "gageName": "MISSISSIPPI RIVER ABV 37TH AVE. NE IN FRIDLEY, MN ",
+    "siteId": "05288670"
+  },
+  {
+    "gageName": "MISSISSIPPI RIVER AT BROWNSVILLE, MN ",
+    "siteId": "05386400"
+  },
+  {
+    "gageName": "MISSISSIPPI RIVER AT RED WING, MN ",
+    "siteId": "05355250"
+  },
+  {
+    "gageName": "MISSISSIPPI RIVER AT ST. CLOUD, MN ",
+    "siteId": "05270700"
+  },
+  {
+    "gageName": "MISSISSIPPI RIVER AT US HWY 169 AT CHAMPLIN, MN ",
+    "siteId": "05283500"
+  },
+  {
+    "gageName": "MISSISSIPPI RIVER DIVERSION NEAR AITKIN, MN ",
+    "siteId": "05227530"
+  },
+  {
+    "gageName": "OTTER TAIL RIVER NEAR ELIZABETH, MN ",
+    "siteId": "05030500"
+  },
+  {
+    "gageName": "PIGEON RIVER AT MIDDLE FALLS NR GRAND PORTAGE MN ",
+    "siteId": "04010500"
+  },
+  {
+    "gageName": "PRAIRIE CREEK NEAR CANNON FALLS, MN ",
+    "siteId": "05355080"
+  },
+  {
+    "gageName": "RAINY R AT BOAT LANDING BLW INTERNATIONAL FALLS,MN ",
+    "siteId": "05129515"
+  },
+  {
+    "gageName": "RAINY RIVER NEAR BOAT LANDING AT WHEELERS POINT,MN ",
+    "siteId": "05137500"
+  },
+  {
+    "gageName": "RED RIVER NEAR GEORGETOWN, MN ",
+    "siteId": "05062130"
+  },
+  {
+    "gageName": "RED RIVER OF THE NORTH AT ENLOE, ND ",
+    "siteId": "0505152130"
+  },
+  {
+    "gageName": "RED RIVER OF THE NORTH AT HICKSON, ND ",
+    "siteId": "05051522"
+  },
+  {
+    "gageName": "RED RIVER OF THE NORTH AT WAHPETON, ND ",
+    "siteId": "05051500"
+  },
+  {
+    "gageName": "REDWOOD RIVER NEAR MARSHALL, MN ",
+    "siteId": "05315000"
+  },
+  {
+    "gageName": "REDWOOD RIVER NEAR REDWOOD FALLS, MN ",
+    "siteId": "05316500"
+  },
+  {
+    "gageName": "ROOT RIVER ABOVE RUSHFORD, MN ",
+    "siteId": "05384350"
+  },
+  {
+    "gageName": "RUSH CREEK NEAR RUSHFORD, MN ",
+    "siteId": "05384500"
+  },
+  {
+    "gageName": "SAUK RIVER NEAR ST. CLOUD, MN ",
+    "siteId": "05270500"
+  },
+  {
+    "gageName": "S. BR. WILD RICE RIVER AT CO. RD. 27 NR FELTON, MN ",
+    "siteId": "05063398"
+  },
+  {
+    "gageName": "SNAKE RIVER NEAR PINE CITY, MN ",
+    "siteId": "05338500"
+  },
+  {
+    "gageName": "SOUTH KAWISHIWI R ABV WHITE IRON LAKE NR ELY, MN ",
+    "siteId": "05126210"
+  },
+  {
+    "gageName": "SOUTH KAWISHIWI RIVER NEAR ELY, MN ",
+    "siteId": "05125000"
+  },
+  {
+    "gageName": "ST. CROIX RIVER AT ST. CROIX FALLS, WI ",
+    "siteId": "05340500"
+  },
+  {
+    "gageName": "ST. CROIX RIVER AT STILLWATER, MN ",
+    "siteId": "05341550"
+  },
+  {
+    "gageName": "ST. LOUIS RIVER AT SCANLON, MN ",
+    "siteId": "04024000"
+  },
+  {
+    "gageName": "ST. LOUIS RIVER NEAR SKIBO, MN ",
+    "siteId": "04015438"
+  },
+  {
+    "gageName": "STONEY BROOK AT PINE DRIVE NEAR BROOKSTON, MN ",
+    "siteId": "04021520"
+  },
+  {
+    "gageName": "STRAIGHT RIVER NEAR FARIBAULT, MN ",
+    "siteId": "05353800"
+  },
+  {
+    "gageName": "VERMILION RIVER NR CRANE LAKE, MN ",
+    "siteId": "05129115"
+  },
+  {
+    "gageName": "VERMILLION RIVER NEAR EMPIRE, MN ",
+    "siteId": "05345000"
+  },
+  {
+    "gageName": "WILD RICE RIVER AT HENDRUM, MN ",
+    "siteId": "05064000"
+  },
+  {
+    "gageName": "WILD RICE RIVER AT TWIN VALLEY, MN ",
+    "siteId": "05062500"
+  },
+  {
+    "gageName": "YELLOW MEDICINE RIVER NEAR GRANITE FALLS, MN ",
+    "siteId": "05313500"
+  }
+]

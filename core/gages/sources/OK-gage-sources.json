@@ -1,0 +1,430 @@
+[
+  {
+    "gageName": "Arkansas River at Ft. Smith, Ar. ",
+    "siteId": "07249455"
+  },
+  {
+    "gageName": "Arkansas River at Gore, OK ",
+    "siteId": "07194555"
+  },
+  {
+    "gageName": "Arkansas River at Ralston, OK ",
+    "siteId": "07152500"
+  },
+  {
+    "gageName": "Arkansas River at Tulsa, OK ",
+    "siteId": "07164500"
+  },
+  {
+    "gageName": "Arkansas River near Haskell, OK ",
+    "siteId": "07165570"
+  },
+  {
+    "gageName": "Baron Fork at Eldon, OK ",
+    "siteId": "07197000"
+  },
+  {
+    "gageName": "Beaty Creek near Jay, OK ",
+    "siteId": "07191222"
+  },
+  {
+    "gageName": "Beaver Creek near Quapaw, OK ",
+    "siteId": "07188005"
+  },
+  {
+    "gageName": "Beaver Creek nr Hulen, OK ",
+    "siteId": "07312920"
+  },
+  {
+    "gageName": "Big Cabin Creek near Big Cabin, OK ",
+    "siteId": "07191000"
+  },
+  {
+    "gageName": "Black Bear Creek at Pawnee, OK ",
+    "siteId": "07153000"
+  },
+  {
+    "gageName": "Black Fork below Big Creek nr Page, OK ",
+    "siteId": "07247250"
+  },
+  {
+    "gageName": "Blue River near Blue, OK ",
+    "siteId": "07332500"
+  },
+  {
+    "gageName": "Blue River near Franks, OK ",
+    "siteId": "07332307"
+  },
+  {
+    "gageName": "Blue River North of Connerville, OK ",
+    "siteId": "07332348"
+  },
+  {
+    "gageName": "Blue River West of Fittstown, OK ",
+    "siteId": "07332305"
+  },
+  {
+    "gageName": "Boggy Creek at 30th St at Enid, OK ",
+    "siteId": "07160300"
+  },
+  {
+    "gageName": "Boggy Creek at Enid Ave at Enid, OK ",
+    "siteId": "07160280"
+  },
+  {
+    "gageName": "Caney Creek near Barber, OK ",
+    "siteId": "07197360"
+  },
+  {
+    "gageName": "Caney River above Coon Creek at Bartlesville, OK ",
+    "siteId": "07174400"
+  },
+  {
+    "gageName": "Caney River at Tuxedo Blvd at Bartlesville, OK ",
+    "siteId": "07174470"
+  },
+  {
+    "gageName": "Caney River near Ramona, OK ",
+    "siteId": "07175500"
+  },
+  {
+    "gageName": "Cimarron River near Guthrie, OK ",
+    "siteId": "07160000"
+  },
+  {
+    "gageName": "Cimarron River near Kenton, OK ",
+    "siteId": "07154500"
+  },
+  {
+    "gageName": "Cimarron River near Ripley, OK ",
+    "siteId": "07161450"
+  },
+  {
+    "gageName": "Clear Boggy Creek abv Caney Creek nr Caney, OK ",
+    "siteId": "07334800"
+  },
+  {
+    "gageName": "Coal Creek at Tulsa, OK ",
+    "siteId": "07177800"
+  },
+  {
+    "gageName": "Cow Creek nr Addington, OK ",
+    "siteId": "07313585"
+  },
+  {
+    "gageName": "Delaware Cr Blw Del Cr Site 9 RSVR nr Bromide, OK ",
+    "siteId": "07334428"
+  },
+  {
+    "gageName": "East Cache Creek near Walters, OK ",
+    "siteId": "07311000"
+  },
+  {
+    "gageName": "Elm Creek near Commerce, OK ",
+    "siteId": "07185030"
+  },
+  {
+    "gageName": "Flint Creek near Kansas, OK ",
+    "siteId": "07196000"
+  },
+  {
+    "gageName": "Flint Creek near West Siloam Springs, OK ",
+    "siteId": "07195855"
+  },
+  {
+    "gageName": "Fourche Maline near Red Oak, OK ",
+    "siteId": "07247500"
+  },
+  {
+    "gageName": "Glover River near Glover, OK ",
+    "siteId": "07337900"
+  },
+  {
+    "gageName": "Haikey Creek at 101st St South at Tulsa, OK ",
+    "siteId": "07165562"
+  },
+  {
+    "gageName": "Honey Creek below Turner Falls near Davis, OK ",
+    "siteId": "07329780"
+  },
+  {
+    "gageName": "Horse Creek at 540 Rd near Afton, OK ",
+    "siteId": "07189710"
+  },
+  {
+    "gageName": "Horse Creek at Afton, OK ",
+    "siteId": "07189700"
+  },
+  {
+    "gageName": "Illinois River at Chewey, OK ",
+    "siteId": "07196090"
+  },
+  {
+    "gageName": "Illinois River near Gore, OK ",
+    "siteId": "07198000"
+  },
+  {
+    "gageName": "Illinois River near Moodys, OK ",
+    "siteId": "07196320"
+  },
+  {
+    "gageName": "Illinois River near Tahlequah, OK ",
+    "siteId": "07196500"
+  },
+  {
+    "gageName": "Illinois River near Watts, OK ",
+    "siteId": "07195500"
+  },
+  {
+    "gageName": "Joe Creek at 61st St at Tulsa, OK ",
+    "siteId": "07164600"
+  },
+  {
+    "gageName": "Kiamichi River near Antlers, OK ",
+    "siteId": "07336200"
+  },
+  {
+    "gageName": "Kiamichi River near Big Cedar, OK ",
+    "siteId": "07335700"
+  },
+  {
+    "gageName": "Kiamichi River near Clayton, OK ",
+    "siteId": "07335790"
+  },
+  {
+    "gageName": "Lake Ellsworth near Elgin, OK ",
+    "siteId": "07308990"
+  },
+  {
+    "gageName": "Lake Eucha near Eucha, OK ",
+    "siteId": "07191285"
+  },
+  {
+    "gageName": "Lake Frances at Pump Station near Watts, OK ",
+    "siteId": "07195495"
+  },
+  {
+    "gageName": "Lake Fuqua near Duncan, OK ",
+    "siteId": "07329610"
+  },
+  {
+    "gageName": "Lake Hudson near Locust Grove, OK ",
+    "siteId": "07191400"
+  },
+  {
+    "gageName": "Lake Humphreys near Duncan, OK ",
+    "siteId": "07329605"
+  },
+  {
+    "gageName": "Lake Lawtonka near Lawton, OK ",
+    "siteId": "07309500"
+  },
+  {
+    "gageName": "Lake Overholser near Oklahoma City, OK ",
+    "siteId": "07240500"
+  },
+  {
+    "gageName": "Lake Texoma at Cumberland Cut nr Cumberland, OK ",
+    "siteId": "07331455"
+  },
+  {
+    "gageName": "Lee Creek at Short, OK ",
+    "siteId": "07249800"
+  },
+  {
+    "gageName": "Lee Creek near Short, OK ",
+    "siteId": "07249985"
+  },
+  {
+    "gageName": "Little Beaver Creek near Duncan, OK ",
+    "siteId": "07313000"
+  },
+  {
+    "gageName": "Little Haikey Creek at 101st St South at Tulsa, OK ",
+    "siteId": "07165565"
+  },
+  {
+    "gageName": "Little Lee Creek near Nicut, OK ",
+    "siteId": "07249920"
+  },
+  {
+    "gageName": "Little River blw Lukfata Creek, nr Idabel, OK ",
+    "siteId": "07338500"
+  },
+  {
+    "gageName": "Lugert Drainage Ditch at Lugert, OK ",
+    "siteId": "07302520"
+  },
+  {
+    "gageName": "Mill Cr at Mouth of 3Mile Cr near Mill Cr , OK ",
+    "siteId": "07331205"
+  },
+  {
+    "gageName": "Mill Creek near Mill Creek, OK ",
+    "siteId": "07331200"
+  },
+  {
+    "gageName": "Mill Creek near Sulphur, OK ",
+    "siteId": "07331185"
+  },
+  {
+    "gageName": "Mountain Fork at Smithville, OK ",
+    "siteId": "07338750"
+  },
+  {
+    "gageName": "Mountain Fork near Eagletown, OK ",
+    "siteId": "07339000"
+  },
+  {
+    "gageName": "Neosho River near Chouteau, OK ",
+    "siteId": "07191500"
+  },
+  {
+    "gageName": "Neosho River near Langley, OK ",
+    "siteId": "07190500"
+  },
+  {
+    "gageName": "Neosho River ",
+    "siteId": "07190100"
+  },
+  {
+    "gageName": "North Boggy Creek at Garriott Rd at Enid, OK ",
+    "siteId": "07160290"
+  },
+  {
+    "gageName": "North Canadian R at Hwy 66 at Oklahoma City, OK ",
+    "siteId": "07240200"
+  },
+  {
+    "gageName": "North Canadian River blw Lk Overholser nr OKC, OK ",
+    "siteId": "07241000"
+  },
+  {
+    "gageName": "North Canadian River near Calumet, OK ",
+    "siteId": "07239450"
+  },
+  {
+    "gageName": "North Canadian River near Harrah, OK ",
+    "siteId": "07241550"
+  },
+  {
+    "gageName": "North Criner Creek near Criner, OK ",
+    "siteId": "07328180"
+  },
+  {
+    "gageName": "Pennington Creek at Capitol Ave at Tishomingo, OK ",
+    "siteId": "07331383"
+  },
+  {
+    "gageName": "Pennington Creek East of Mill Creek, OK ",
+    "siteId": "07331295"
+  },
+  {
+    "gageName": "Pennington Creek near Reagan, OK ",
+    "siteId": "07331300"
+  },
+  {
+    "gageName": "Pennington Creek North of Mill Creek, OK ",
+    "siteId": "07331293"
+  },
+  {
+    "gageName": "Pine Creek at Eubanks, OK ",
+    "siteId": "07335840"
+  },
+  {
+    "gageName": "Poteau River at Loving, OK ",
+    "siteId": "07247015"
+  },
+  {
+    "gageName": "Poteau River near Panama, OK ",
+    "siteId": "07249413"
+  },
+  {
+    "gageName": "Red River nr Courtney, OK ",
+    "siteId": "07315650"
+  },
+  {
+    "gageName": "Rock Creek at Sulphur, OK ",
+    "siteId": "07329852"
+  },
+  {
+    "gageName": "Sager Creek near West Siloam Springs, OK ",
+    "siteId": "07195865"
+  },
+  {
+    "gageName": "Salt Fork Arkansas River at SH 11 nr Cherokee, OK ",
+    "siteId": "07149520"
+  },
+  {
+    "gageName": "Sand Creek Below Little Rock Creek near Okesa, OK ",
+    "siteId": "07174618"
+  },
+  {
+    "gageName": "Sheep Creek Spring near Fittstown, OK ",
+    "siteId": "07334238"
+  },
+  {
+    "gageName": "Spavinaw Creek near Colcord, OK ",
+    "siteId": "071912213"
+  },
+  {
+    "gageName": "Spavinaw Creek near Eucha, OK ",
+    "siteId": "07191288"
+  },
+  {
+    "gageName": "Spavinaw Creek near Sycamore, OK ",
+    "siteId": "07191220"
+  },
+  {
+    "gageName": "Spavinaw Lake at Spavinaw, OK ",
+    "siteId": "07191300"
+  },
+  {
+    "gageName": "Spring River near Quapaw, OK ",
+    "siteId": "07188000"
+  },
+  {
+    "gageName": "Squirrel Creek at Shawnee, OK ",
+    "siteId": "07241780"
+  },
+  {
+    "gageName": "Travertine Creek above U.S. 177 at Sulphur ",
+    "siteId": "073298507"
+  },
+  {
+    "gageName": "Unnamed Spring at Blue River nr Connerville, OK ",
+    "siteId": "07332389"
+  },
+  {
+    "gageName": "Verdigris River near Catoosa, OK ",
+    "siteId": "07178452"
+  },
+  {
+    "gageName": "Verdigris River near Wagoner, OK ",
+    "siteId": "07178645"
+  },
+  {
+    "gageName": "Walnut Creek at Purcell, OK ",
+    "siteId": "07229300"
+  },
+  {
+    "gageName": "Washita River at Alex, OK ",
+    "siteId": "07328100"
+  },
+  {
+    "gageName": "Washita River near Dickson, OK ",
+    "siteId": "07331000"
+  },
+  {
+    "gageName": "Washita River near Tishomingo, OK ",
+    "siteId": "07331290"
+  },
+  {
+    "gageName": "Wes Watkins Reservoir near McLoud, OK ",
+    "siteId": "07241588"
+  },
+  {
+    "gageName": "Wolf Creek nr Gage, OK ",
+    "siteId": "07235600"
+  }
+]

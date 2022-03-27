@@ -1,0 +1,306 @@
+[
+  {
+    "gageName": "BATTLE CR ABOVE KEYSTONE,SD ",
+    "siteId": "06403810"
+  },
+  {
+    "gageName": "BATTLE CR AT HERMOSA,SD ",
+    "siteId": "06406000"
+  },
+  {
+    "gageName": "BATTLE CR BELOW HERMOSA,SD ",
+    "siteId": "06406500"
+  },
+  {
+    "gageName": "BATTLE CR NEAR KEYSTONE,SD ",
+    "siteId": "06404000"
+  },
+  {
+    "gageName": "BEAR BUTTE CREEK AT AVALANCHE ROAD AT STURGIS, SD ",
+    "siteId": "06437300"
+  },
+  {
+    "gageName": "BEAR BUTTE CREEK NEAR DEADWOOD, SD ",
+    "siteId": "06437020"
+  },
+  {
+    "gageName": "BEAR BUTTE CR NEAR GALENA,SD ",
+    "siteId": "06437200"
+  },
+  {
+    "gageName": "BEAVER CREEK NEAR PRINGLE, SD ",
+    "siteId": "06402430"
+  },
+  {
+    "gageName": "BEAVER CR NEAR BUFFALO GAP,SD ",
+    "siteId": "06402500"
+  },
+  {
+    "gageName": "BELLE FOURCHE R AT WY-SD STATE LINE ",
+    "siteId": "06428500"
+  },
+  {
+    "gageName": " BELLE FOURCHE RIVER NEAR ELM SPRINGS,SD ",
+    "siteId": "06438000"
+  },
+  {
+    "gageName": "BELLE FOURCHE R NEAR FRUITDALE,SD ",
+    "siteId": "06436000"
+  },
+  {
+    "gageName": "BELLE FOURCHE R NEAR STURGIS,SD ",
+    "siteId": "06437000"
+  },
+  {
+    "gageName": "BIG SIOUX R AT AKRON,IA ",
+    "siteId": "06485500"
+  },
+  {
+    "gageName": "BIG SIOUX R AT NORTH CLIFF AVE AT SIOUX FALLS,SD ",
+    "siteId": "06482020"
+  },
+  {
+    "gageName": "BIG SIOUX R AT SIOUX FALLS SD ",
+    "siteId": "06482000"
+  },
+  {
+    "gageName": "BIG SIOUX RIVER BELOW DIVERSION AT SIOUX FALLS, SD ",
+    "siteId": "06481400"
+  },
+  {
+    "gageName": "BIG SIOUX R NEAR DELL RAPIDS,SD ",
+    "siteId": "06481000"
+  },
+  {
+    "gageName": "BOXELDER CR AT 151ST AVE NR BOX ELDER, SD ",
+    "siteId": "06423100"
+  },
+  {
+    "gageName": "BOXELDER CR AT I-90 SERVICE RD NR BOX ELDER, SD ",
+    "siteId": "06423050"
+  },
+  {
+    "gageName": "CASTLE CR ABOVE DEERFIELD RES NEAR HILL CITY,SD ",
+    "siteId": "06409000"
+  },
+  {
+    "gageName": "CASTLE CR BELOW DEERFIELD DAM SD ",
+    "siteId": "06410000"
+  },
+  {
+    "gageName": "CEDAR CREEK NR PRESHO, SD ",
+    "siteId": "06442130"
+  },
+  {
+    "gageName": "CHEYENNE RIVER AT RED SHIRT, SD ",
+    "siteId": "06403700"
+  },
+  {
+    "gageName": "CHEYENNE RIVER NEAR SCENIC, SD ",
+    "siteId": "06408650"
+  },
+  {
+    "gageName": "CHEYENNE R NEAR BUFFALO GAP SD ",
+    "siteId": "06402600"
+  },
+  {
+    "gageName": "CLEGHORN SPRINGS AT RAPID CITY, SD ",
+    "siteId": "06412810"
+  },
+  {
+    "gageName": "DEADMAN GULCH AT STURGIS, SD ",
+    "siteId": "06437360"
+  },
+  {
+    "gageName": "ELM CR NEAR GANN VALLEY SD ",
+    "siteId": "06442900"
+  },
+  {
+    "gageName": "FALL R AT HOT SPRINGS,SD ",
+    "siteId": "06402000"
+  },
+  {
+    "gageName": "FLANDREAU CR ABOVE FLANDREAU SD ",
+    "siteId": "06480650"
+  },
+  {
+    "gageName": "FRENCH CR ABOVE FAIRBURN SD ",
+    "siteId": "06403300"
+  },
+  {
+    "gageName": "GRACE COOLIDGE CR NR GAME LODGE NR CUSTER,SD ",
+    "siteId": "06404998"
+  },
+  {
+    "gageName": "GRAND RIVER NEAR THUNDER HAWK, SD ",
+    "siteId": "06357600"
+  },
+  {
+    "gageName": "GRIZZLY BEAR CREEK NEAR KEYSTONE,SD ",
+    "siteId": "06403850"
+  },
+  {
+    "gageName": "INLET CANAL ABOVE BELLE FOURCHE RESERVOIR,SD ",
+    "siteId": "06434505"
+  },
+  {
+    "gageName": "JAMES RIVER NR YANKTON SD ",
+    "siteId": "06478513"
+  },
+  {
+    "gageName": "LITTLE SPEARFISH CREEK NEAR LEAD, SD ",
+    "siteId": "06430850"
+  },
+  {
+    "gageName": "MEDICINE CREEK NR LOWER BRULE, SD ",
+    "siteId": "06442600"
+  },
+  {
+    "gageName": "MOCCASIN CREEK NEAR ABERDEEN, SD ",
+    "siteId": "06471875"
+  },
+  {
+    "gageName": "MOREAU R AT PROMISE SD ",
+    "siteId": "06361000"
+  },
+  {
+    "gageName": "MURRAY DITCH AB HEADGATE AT WY-SD STATE LINE ",
+    "siteId": "06429997"
+  },
+  {
+    "gageName": "OAK CREEK NR RATTLESNAKE BUTTE NR WAKPALA, SD ",
+    "siteId": "06354881"
+  },
+  {
+    "gageName": "RAPID CR ABOVE CANYON LAKE NEAR RAPID CITY,SD ",
+    "siteId": "06412500"
+  },
+  {
+    "gageName": "RAPID CR ABOVE PACTOLA RES AT SILVER CITY, SD ",
+    "siteId": "06410500"
+  },
+  {
+    "gageName": "RAPID CR ABV JOHNSON SIDING BLW PACTOLA DAM,SD ",
+    "siteId": "06411900"
+  },
+  {
+    "gageName": "RAPID CR AT BIG BEND NR RAPID CITY,SD ",
+    "siteId": "06412000"
+  },
+  {
+    "gageName": "RAPID CR AT RAPID CITY,SD ",
+    "siteId": "06414000"
+  },
+  {
+    "gageName": "RAPID CR BELOW HAWTHORN DITCH AT RAPID CITY,SD ",
+    "siteId": "06416000"
+  },
+  {
+    "gageName": "RAPID CR BELOW PACTOLA DAM,SD ",
+    "siteId": "06411500"
+  },
+  {
+    "gageName": "RAPID CREEK ABOVE WRF NR RAPID CITY, SD ",
+    "siteId": "06418800"
+  },
+  {
+    "gageName": "RAPID CREEK AB VICTORIA CR NR RAPID CITY, SD ",
+    "siteId": "06412200"
+  },
+  {
+    "gageName": "RAPID CR NEAR FARMINGDALE,SD ",
+    "siteId": "06421500"
+  },
+  {
+    "gageName": "REDWATER CR AT WY-SD STATE LINE ",
+    "siteId": "06430500"
+  },
+  {
+    "gageName": "REDWATER RIVER ABOVE BELLE FOURCHE,SD ",
+    "siteId": "06433000"
+  },
+  {
+    "gageName": "RENO GULCH NEAR HILL CITY,SD ",
+    "siteId": "06406760"
+  },
+  {
+    "gageName": "RHOADS FORK NEAR ROCHFORD,SD ",
+    "siteId": "06408700"
+  },
+  {
+    "gageName": "SILVER CREEK AT SIOUX FALLS, SD ",
+    "siteId": "06482010"
+  },
+  {
+    "gageName": "SKUNK CR AT SIOUX FALLS,SD ",
+    "siteId": "06481500"
+  },
+  {
+    "gageName": "SKUNK CREEK NEAR HARTFORD, SD ",
+    "siteId": "06481493"
+  },
+  {
+    "gageName": "SKUNK CR NR CHESTER,SD ",
+    "siteId": "06481480"
+  },
+  {
+    "gageName": "SOUTH CANYON NEAR RAPID CITY,SD ",
+    "siteId": "06413620"
+  },
+  {
+    "gageName": "SPEARFISH CR AT SPEARFISH,SD ",
+    "siteId": "06431500"
+  },
+  {
+    "gageName": "SPEARFISH CREEK NEAR LEAD, SD ",
+    "siteId": "06430770"
+  },
+  {
+    "gageName": "SPLIT ROCK CR AT CORSON,SD ",
+    "siteId": "06482610"
+  },
+  {
+    "gageName": "SPRING CR AT OREVILLE, NR HILL CITY,SD ",
+    "siteId": "06406700"
+  },
+  {
+    "gageName": "SPRING CR NEAR KEYSTONE,SD ",
+    "siteId": "06407500"
+  },
+  {
+    "gageName": "SUNDAY GULCH BL JOHNSON CANYON NR HILL CITY,SD ",
+    "siteId": "06406740"
+  },
+  {
+    "gageName": "VANOCKER CREEK NEAR STURGIS, SD ",
+    "siteId": "06437330"
+  },
+  {
+    "gageName": "VICTORIA CR ABOVE VICTORIA DAM NR RAPID CITY,SD ",
+    "siteId": "06412220"
+  },
+  {
+    "gageName": "VICTORIA CR BELOW VICTORIA DAM NR RAPID CITY,SD ",
+    "siteId": "06412250"
+  },
+  {
+    "gageName": "WHITEWOOD CR ABOVE VALE,SD ",
+    "siteId": "06436198"
+  },
+  {
+    "gageName": "WHITEWOOD CR ABOVE WHITEWOOD,SD ",
+    "siteId": "06436180"
+  },
+  {
+    "gageName": "WHITEWOOD CREEK NEAR WHITEWOOD,SD ",
+    "siteId": "06436190"
+  },
+  {
+    "gageName": "WILD IRISHMAN GULCH NEAR RAPID CITY,SD ",
+    "siteId": "06412580"
+  },
+  {
+    "gageName": "WILLOW CREEK NEAR CROOKS, SD ",
+    "siteId": "06481497"
+  }
+]

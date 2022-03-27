@@ -1,0 +1,542 @@
+[
+  {
+    "gageName": "Badger Cr bl Four Horns Canal nr Browning MT ",
+    "siteId": "06093200"
+  },
+  {
+    "gageName": "Beaverhead River at Barretts MT ",
+    "siteId": "06016000"
+  },
+  {
+    "gageName": "Beaverhead River at Dillon MT ",
+    "siteId": "06017000"
+  },
+  {
+    "gageName": "Beaverhead River near Twin Bridges MT ",
+    "siteId": "06018500"
+  },
+  {
+    "gageName": "Belt Creek near Monarch MT ",
+    "siteId": "06090500"
+  },
+  {
+    "gageName": "Big Creek below Lookout Creek, near Apgar, MT ",
+    "siteId": "12355347"
+  },
+  {
+    "gageName": "Big Hole River near Glen MT ",
+    "siteId": "06026210"
+  },
+  {
+    "gageName": "Big Horn Canal near St. Xavier MT ",
+    "siteId": "06286490"
+  },
+  {
+    "gageName": "Bighorn River at bridge, at St. Xavier, MT ",
+    "siteId": "06287800"
+  },
+  {
+    "gageName": "Bighorn River at Two Leggins Bridge, near Hardin ",
+    "siteId": "06288400"
+  },
+  {
+    "gageName": "Big Muddy Creek nr mouth nr Culbertson MT ",
+    "siteId": "06185110"
+  },
+  {
+    "gageName": "Big Sandy Cr ab Spring Coulee, nr Laredo, MT ",
+    "siteId": "06138580"
+  },
+  {
+    "gageName": "Big Spring Cr at R&amp;B Trading Post nr Lewistown MT ",
+    "siteId": "06111800"
+  },
+  {
+    "gageName": "Birch Cr bl Heart Butte Road, nr Heart Butte, MT ",
+    "siteId": "06094900"
+  },
+  {
+    "gageName": "Birch Creek at Bullhead Bridge, nr Valier, MT ",
+    "siteId": "06098120"
+  },
+  {
+    "gageName": "Bitterroot River at Bell Crossing nr Victor MT ",
+    "siteId": "12350250"
+  },
+  {
+    "gageName": "Bitterroot River near Darby MT ",
+    "siteId": "12344000"
+  },
+  {
+    "gageName": "Bitterroot River near Missoula MT ",
+    "siteId": "12352500"
+  },
+  {
+    "gageName": "Blackfoot R ab Nevada Cr nr Helmville MT ",
+    "siteId": "12335100"
+  },
+  {
+    "gageName": "Blackfoot River near Bonner MT ",
+    "siteId": "12340000"
+  },
+  {
+    "gageName": "Blacktail Creek above Grove Gulch, at Butte, MT ",
+    "siteId": "12323233"
+  },
+  {
+    "gageName": "Boulder Creek at Maxville MT ",
+    "siteId": "12330000"
+  },
+  {
+    "gageName": "Boulder River at Big Timber MT ",
+    "siteId": "06200000"
+  },
+  {
+    "gageName": "Boulder River near Boulder MT ",
+    "siteId": "06033000"
+  },
+  {
+    "gageName": "Boxelder Creek at Box Elder, MT ",
+    "siteId": "06137575"
+  },
+  {
+    "gageName": "Boxelder Creek near Rocky Boy, MT ",
+    "siteId": "06137570"
+  },
+  {
+    "gageName": "Clark Fork ab Little Blackfoot R nr Garrison MT ",
+    "siteId": "12324400"
+  },
+  {
+    "gageName": "Clark Fork above Missoula MT ",
+    "siteId": "12340500"
+  },
+  {
+    "gageName": "Clark Fork at Goldcreek MT ",
+    "siteId": "12324680"
+  },
+  {
+    "gageName": "Clark Fork at St. Regis MT ",
+    "siteId": "12354500"
+  },
+  {
+    "gageName": "Clark Fork at Turah Bridge nr Bonner MT ",
+    "siteId": "12334550"
+  },
+  {
+    "gageName": "Clark Fork below Missoula MT ",
+    "siteId": "12353000"
+  },
+  {
+    "gageName": "Clark Fork near Plains MT ",
+    "siteId": "12389000"
+  },
+  {
+    "gageName": "Clarks Fork Yellowstone River at Edgar MT ",
+    "siteId": "06208500"
+  },
+  {
+    "gageName": "Clarks Fork Yellowstone River nr Belfry MT ",
+    "siteId": "06207500"
+  },
+  {
+    "gageName": "Cut Bank Cr ab Gillam Coulee, nr Sundance, MT ",
+    "siteId": "06098800"
+  },
+  {
+    "gageName": "Dearborn River near Craig MT ",
+    "siteId": "06073500"
+  },
+  {
+    "gageName": "Dugout Creek at mouth, nr Wilsall, MT ",
+    "siteId": "06192900"
+  },
+  {
+    "gageName": "East Boulder River bl Dry Fork Cr nr Mcleod, MT ",
+    "siteId": "06197800"
+  },
+  {
+    "gageName": "E Gallatin R ab Water Reclamation Fa nr Bozeman MT ",
+    "siteId": "06048650"
+  },
+  {
+    "gageName": "Flathead River at Columbia Falls MT ",
+    "siteId": "12363000"
+  },
+  {
+    "gageName": "Flathead River at Flathead British Columbia ",
+    "siteId": "12355000"
+  },
+  {
+    "gageName": "Flathead River at Foys Bend nr Kalispell MT ",
+    "siteId": "12366500"
+  },
+  {
+    "gageName": "Flathead River at Perma MT ",
+    "siteId": "12388700"
+  },
+  {
+    "gageName": "Flathead River near Kalispell, MT ",
+    "siteId": "12363500"
+  },
+  {
+    "gageName": "Flathead River near Polson MT ",
+    "siteId": "12372000"
+  },
+  {
+    "gageName": "Flatwillow Creek near Mosby MT ",
+    "siteId": "06130000"
+  },
+  {
+    "gageName": "Flint Creek at Maxville MT ",
+    "siteId": "12329500"
+  },
+  {
+    "gageName": "Flint Creek near Drummond MT ",
+    "siteId": "12331500"
+  },
+  {
+    "gageName": "Flint Creek near Southern Cross MT ",
+    "siteId": "12325500"
+  },
+  {
+    "gageName": "Gallatin River above Deer Creek, near Big Sky, MT ",
+    "siteId": "06043120"
+  },
+  {
+    "gageName": "Gallatin River at Logan MT ",
+    "siteId": "06052500"
+  },
+  {
+    "gageName": "Gallatin River near Gallatin Gateway, MT ",
+    "siteId": "06043500"
+  },
+  {
+    "gageName": "Hallowat Creek abv Kletomus Creek, near Olney, MT ",
+    "siteId": "12355342"
+  },
+  {
+    "gageName": "Hyalite C at Hyalite R S nr Bozeman MT ",
+    "siteId": "06050000"
+  },
+  {
+    "gageName": "Judith River above Carr Creek near Utica MT ",
+    "siteId": "06110020"
+  },
+  {
+    "gageName": "Judith River nr mouth, nr Winifred MT ",
+    "siteId": "06114700"
+  },
+  {
+    "gageName": "KOOTENAI RIVER AT LEONIA, ID ",
+    "siteId": "12305000"
+  },
+  {
+    "gageName": "Kootenai River bl Libby Dam nr Libby MT ",
+    "siteId": "12301933"
+  },
+  {
+    "gageName": "Libby Wetland Site bl Schrieber Lake nr Libby, MT ",
+    "siteId": "480608115242901"
+  },
+  {
+    "gageName": "Little Bighorn River at State Line nr Wyola MT ",
+    "siteId": "06289000"
+  },
+  {
+    "gageName": "Little Prickly Pear Cr at Wolf Cr MT ",
+    "siteId": "06071300"
+  },
+  {
+    "gageName": "Madison River ab powerplant nr McAllister MT ",
+    "siteId": "06040800"
+  },
+  {
+    "gageName": "Madison River at Kirby Ranch nr Cameron MT ",
+    "siteId": "06038800"
+  },
+  {
+    "gageName": "Madison River bl Ennis Lake nr McAllister MT ",
+    "siteId": "06041000"
+  },
+  {
+    "gageName": "Madison River bl Hebgen Lake nr Grayling MT ",
+    "siteId": "06038500"
+  },
+  {
+    "gageName": "Madison River near Cameron MT ",
+    "siteId": "06040000"
+  },
+  {
+    "gageName": "Madison River near West Yellowstone, MT ",
+    "siteId": "06037500"
+  },
+  {
+    "gageName": "M F Flathead River near West Glacier MT ",
+    "siteId": "12358500"
+  },
+  {
+    "gageName": "Middle Fork Rock Cr nr Philipsburg MT ",
+    "siteId": "12332000"
+  },
+  {
+    "gageName": "Milk River at Malta MT ",
+    "siteId": "06155500"
+  },
+  {
+    "gageName": "Mission Creek ab reservoir nr St. Ignatius MT ",
+    "siteId": "12377150"
+  },
+  {
+    "gageName": "Missouri R at E Frazer Pump Plant nr Frazer MT ",
+    "siteId": "06175510"
+  },
+  {
+    "gageName": "Missouri R at W Frazer Pump Plant nr Frazer MT ",
+    "siteId": "06175100"
+  },
+  {
+    "gageName": "Missouri River at Cascade MT ",
+    "siteId": "06074000"
+  },
+  {
+    "gageName": "Missouri River at Fort Benton MT ",
+    "siteId": "06090800"
+  },
+  {
+    "gageName": "Missouri River at Great Falls MT ",
+    "siteId": "06090000"
+  },
+  {
+    "gageName": "Missouri River at Toston MT ",
+    "siteId": "06054500"
+  },
+  {
+    "gageName": "Missouri River bl Hauser Dam near Helena MT ",
+    "siteId": "06065500"
+  },
+  {
+    "gageName": "Missouri River bl Holter Dam nr Wolf Cr MT ",
+    "siteId": "06066500"
+  },
+  {
+    "gageName": "Missouri River near Great Falls MT ",
+    "siteId": "06090300"
+  },
+  {
+    "gageName": "Missouri River near Ulm MT ",
+    "siteId": "06078200"
+  },
+  {
+    "gageName": "Muddy Creek at Vaughn MT ",
+    "siteId": "06088500"
+  },
+  {
+    "gageName": "Musselshell River ab Big Coulee Creek at Lavina MT ",
+    "siteId": "06125600"
+  },
+  {
+    "gageName": "Nevada Cr ab reservoir, nr Helmville, MT ",
+    "siteId": "12335500"
+  },
+  {
+    "gageName": "NF Blackfoot R ab Dry Gulch nr Ovando MT ",
+    "siteId": "12338300"
+  },
+  {
+    "gageName": "N F Flathead River nr Columbia Falls MT ",
+    "siteId": "12355500"
+  },
+  {
+    "gageName": "North Fork Sun River near Augusta MT ",
+    "siteId": "06078500"
+  },
+  {
+    "gageName": "Prickly Pear Creek near Clancy MT ",
+    "siteId": "06061500"
+  },
+  {
+    "gageName": "Prospect Creek at Thompson Falls MT ",
+    "siteId": "12390700"
+  },
+  {
+    "gageName": "Red Lodge Cr ab Cooney Re nr Boyd MT ",
+    "siteId": "06211000"
+  },
+  {
+    "gageName": "Rock Creek near Clinton MT ",
+    "siteId": "12334510"
+  },
+  {
+    "gageName": "Rock Creek near Red Lodge MT ",
+    "siteId": "06209500"
+  },
+  {
+    "gageName": "Rosebud C Bel Lame Deer C nr Lame Deer MT ",
+    "siteId": "06295220"
+  },
+  {
+    "gageName": "S F Flathead R ab Twin C nr Hungry Horse MT ",
+    "siteId": "12359800"
+  },
+  {
+    "gageName": "S F Flathead River nr Columbia Falls MT ",
+    "siteId": "12362500"
+  },
+  {
+    "gageName": "Shields River abv Smith Cr, nr Wilsall, MT ",
+    "siteId": "06192980"
+  },
+  {
+    "gageName": "Silver Bow Creek at Montana Street, at Butte, MT ",
+    "siteId": "12323242"
+  },
+  {
+    "gageName": "Smith River bl Eagle Cr nr Fort Logan MT ",
+    "siteId": "06077200"
+  },
+  {
+    "gageName": "Smith River near Eden MT ",
+    "siteId": "06077500"
+  },
+  {
+    "gageName": "Smith River near Ft Logan MT ",
+    "siteId": "06076690"
+  },
+  {
+    "gageName": "Snyder Creek nr mouth, nr West Glacier, MT ",
+    "siteId": "12357800"
+  },
+  {
+    "gageName": "Soda Butte Cr at Park Bndry at Silver Gate ",
+    "siteId": "06187915"
+  },
+  {
+    "gageName": "South Fork Jocko River near Arlee MT ",
+    "siteId": "12381400"
+  },
+  {
+    "gageName": "South Fork Musselshell River at Martinsdale, MT ",
+    "siteId": "06119200"
+  },
+  {
+    "gageName": "South Fork Sun River near Augusta MT ",
+    "siteId": "06079000"
+  },
+  {
+    "gageName": "Stillwater River at Lawrence Park, at Kalispell ",
+    "siteId": "12365700"
+  },
+  {
+    "gageName": "Stillwater River near Absarokee MT ",
+    "siteId": "06205000"
+  },
+  {
+    "gageName": "St. Regis River near St. Regis, MT ",
+    "siteId": "12354000"
+  },
+  {
+    "gageName": "Sun River at Simms MT ",
+    "siteId": "06085800"
+  },
+  {
+    "gageName": "Sun River bl Diversion Dam nr Augusta MT ",
+    "siteId": "06080900"
+  },
+  {
+    "gageName": "Sun River bl Willow Cr nr Augusta MT ",
+    "siteId": "06082200"
+  },
+  {
+    "gageName": "Sun River near Vaughn MT ",
+    "siteId": "06089000"
+  },
+  {
+    "gageName": "Swan River near Bigfork, MT ",
+    "siteId": "12370000"
+  },
+  {
+    "gageName": "Tenmile Creek near Helena MT ",
+    "siteId": "06063000"
+  },
+  {
+    "gageName": "Tenmile Creek near Rimini MT ",
+    "siteId": "06062500"
+  },
+  {
+    "gageName": "Teton River bl South Fork nr Choteau MT ",
+    "siteId": "06102500"
+  },
+  {
+    "gageName": "Teton River near Dutton MT ",
+    "siteId": "06108000"
+  },
+  {
+    "gageName": "Thompson River near Thompson Falls MT ",
+    "siteId": "12389500"
+  },
+  {
+    "gageName": "Tobacco River at Eureka, MT ",
+    "siteId": "12301250"
+  },
+  {
+    "gageName": "Tongue River at Ashland, MT ",
+    "siteId": "06307662"
+  },
+  {
+    "gageName": "Tongue River at State Line nr Decker MT ",
+    "siteId": "06306300"
+  },
+  {
+    "gageName": "Tongue River at Tongue R Dam nr Decker MT ",
+    "siteId": "06307500"
+  },
+  {
+    "gageName": "Two Medicine River ab Badger Cr, nr Piegan, MT ",
+    "siteId": "06092020"
+  },
+  {
+    "gageName": "Two Medicine River bl South Fork nr Browning MT ",
+    "siteId": "06091700"
+  },
+  {
+    "gageName": "West Fork Bitterroot River nr Conner MT ",
+    "siteId": "12342500"
+  },
+  {
+    "gageName": "West Rosebud Creek near Roscoe MT ",
+    "siteId": "06204050"
+  },
+  {
+    "gageName": "Whitefish River near Kalispell MT ",
+    "siteId": "12366000"
+  },
+  {
+    "gageName": "Willow Creek near Boyd MT ",
+    "siteId": "06211500"
+  },
+  {
+    "gageName": "Willow Creek near Galata, MT ",
+    "siteId": "06101200"
+  },
+  {
+    "gageName": "W Rosebud Cr at Emerald Lk Campground nr Roscoe ",
+    "siteId": "06204070"
+  },
+  {
+    "gageName": "Yaak River near Troy MT ",
+    "siteId": "12304500"
+  },
+  {
+    "gageName": "Yellowstone River at Billings MT ",
+    "siteId": "06214500"
+  },
+  {
+    "gageName": "Yellowstone River at Corwin Springs MT ",
+    "siteId": "06191500"
+  },
+  {
+    "gageName": "Yellowstone River near Livingston, MT ",
+    "siteId": "06192500"
+  }
+]

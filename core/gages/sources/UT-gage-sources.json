@@ -1,0 +1,506 @@
+[
+  {
+    "gageName": "AMERICAN FK AB UPPER POWERPLANT NR AMERICAN FK, UT ",
+    "siteId": "10164500"
+  },
+  {
+    "gageName": "ASHLEY CREEK NEAR VERNAL, UT ",
+    "siteId": "09266500"
+  },
+  {
+    "gageName": "BEAR LAKE AT STATE PARK MARINA NR GARDEN CITY, UT ",
+    "siteId": "10055000"
+  },
+  {
+    "gageName": "BEAR RIVER NEAR UTAH-WYOMING STATE LINE ",
+    "siteId": "10011500"
+  },
+  {
+    "gageName": "BEAVER DAM WASH NEAR ENTERPRISE, UT ",
+    "siteId": "09413900"
+  },
+  {
+    "gageName": "BEAVER RIVER NEAR BEAVER, UT ",
+    "siteId": "10234500"
+  },
+  {
+    "gageName": "BIG CREEK NEAR RANDOLPH, UT ",
+    "siteId": "10023000"
+  },
+  {
+    "gageName": "BLACKS FORK NEAR ROBERTSON, WY ",
+    "siteId": "09217900"
+  },
+  {
+    "gageName": "BLACKSMITH FORK AB UP and L CO.&#039;S DAM NR HYRUM, UT ",
+    "siteId": "10113500"
+  },
+  {
+    "gageName": "CHALK CREEK AT COALVILLE, UT ",
+    "siteId": "10131000"
+  },
+  {
+    "gageName": "CHINLE CREEK AT MOUTH NEAR BLUFF, UTAH ",
+    "siteId": "09379250"
+  },
+  {
+    "gageName": "CLEAR CREEK ABOVE DIVERSIONS, NEAR SEVIER, UT ",
+    "siteId": "10194200"
+  },
+  {
+    "gageName": "COLORADO RIVER AB DIRTY DEVIL RIVER NR HITE, UT ",
+    "siteId": "09328990"
+  },
+  {
+    "gageName": "COLORADO RIVER AT POTASH, UT ",
+    "siteId": "09185600"
+  },
+  {
+    "gageName": "COLORADO RIVER NEAR CISCO, UT ",
+    "siteId": "09180500"
+  },
+  {
+    "gageName": "CURRANT CREEK NEAR FRUITLAND, UT ",
+    "siteId": "09288000"
+  },
+  {
+    "gageName": "CURRANT CREEK NEAR MONA, UT ",
+    "siteId": "10146400"
+  },
+  {
+    "gageName": "DANIELS CREEK AT CHARLESTON, UT ",
+    "siteId": "10157500"
+  },
+  {
+    "gageName": "DEAD RUN AT FRANKLINTOWN, MD ",
+    "siteId": "01589330"
+  },
+  {
+    "gageName": "DIAMOND FORK ABV RED HOLLOW NR THISTLE, UT ",
+    "siteId": "10149400"
+  },
+  {
+    "gageName": "DIRTY DEVIL R AB POISON SP WSH NR HANKSVILLE UT ",
+    "siteId": "09333500"
+  },
+  {
+    "gageName": "DOLORES RIVER NEAR CISCO, UT ",
+    "siteId": "09180000"
+  },
+  {
+    "gageName": "DUCHESNE RIV ABV UINTA RIV, NR RANDLETT, UT ",
+    "siteId": "09295100"
+  },
+  {
+    "gageName": "DUCHESNE RIVER AT MYTON, UT ",
+    "siteId": "09295000"
+  },
+  {
+    "gageName": "DUCHESNE RIVER NEAR RANDLETT, UT ",
+    "siteId": "09302000"
+  },
+  {
+    "gageName": "DUCHESNE RIVER NEAR TABIONA, UT ",
+    "siteId": "09277500"
+  },
+  {
+    "gageName": "EAST CANYON CREEK AB EAST CYN RES NR MORGAN, UTAH ",
+    "siteId": "10133980"
+  },
+  {
+    "gageName": "EAST CANYON CREEK NEAR JEREMY RANCH, UT ",
+    "siteId": "10133800"
+  },
+  {
+    "gageName": "EAST CANYON CREEK NEAR MORGAN, UT ",
+    "siteId": "10134500"
+  },
+  {
+    "gageName": "EAST FORK VIRGIN RIVER NEAR GLENDALE, UT ",
+    "siteId": "09404450"
+  },
+  {
+    "gageName": "EAST FORK VIRGIN RIVER NEAR SPRINGDALE, UT ",
+    "siteId": "09404900"
+  },
+  {
+    "gageName": "E CANYON CR BL I-80 REST STOP NR PARK CITY, UT ",
+    "siteId": "10133650"
+  },
+  {
+    "gageName": "EPHRAIM TUNNEL NEAR EPHRAIM, UT ",
+    "siteId": "09319000"
+  },
+  {
+    "gageName": "ESCALANTE RIVER NEAR ESCALANTE, UT ",
+    "siteId": "09337500"
+  },
+  {
+    "gageName": "FAIRVIEW TUNNEL NEAR FAIRVIEW, UT ",
+    "siteId": "09309600"
+  },
+  {
+    "gageName": "FARMINGTON CR ABV DIV NR FARMINGTON, UTAH ",
+    "siteId": "10142000"
+  },
+  {
+    "gageName": "FERRON CREEK ",
+    "siteId": "09326500"
+  },
+  {
+    "gageName": "FISH CREEK ABOVE RESERVOIR, NEAR SCOFIELD, UT ",
+    "siteId": "09310500"
+  },
+  {
+    "gageName": "FREMONT RIVER NEAR BICKNELL, UT ",
+    "siteId": "09330000"
+  },
+  {
+    "gageName": "GOGGIN DRAIN NEAR MAGNA UTAH ",
+    "siteId": "10172630"
+  },
+  {
+    "gageName": "GREEN RIVER AT GREEN RIVER, UT ",
+    "siteId": "09315000"
+  },
+  {
+    "gageName": "GREEN RIVER AT MINERAL BOTTOM NR CYNLNDS NTL PARK ",
+    "siteId": "09328920"
+  },
+  {
+    "gageName": "GREEN RIVER AT OURAY, UTAH ",
+    "siteId": "09272400"
+  },
+  {
+    "gageName": "GREEN RIVER NEAR GREENDALE, UT ",
+    "siteId": "09234500"
+  },
+  {
+    "gageName": "GREEN RIVER NEAR JENSEN, UT ",
+    "siteId": "09261000"
+  },
+  {
+    "gageName": "HOBBLE CREEK AT 1650 WEST AT SPRINGVILLE, UTAH ",
+    "siteId": "10153100"
+  },
+  {
+    "gageName": "JORDAN RIVER @ 1700 SOUTH @ SALT LAKE CITY, UT ",
+    "siteId": "10171000"
+  },
+  {
+    "gageName": "LAKE FORK RIVER AB MOON LAKE, NR MOUNTAIN HOME, UT ",
+    "siteId": "09289500"
+  },
+  {
+    "gageName": "LAKE FORK RIVER BL MOON LAKE NR MOUNTAIN HOME, UT ",
+    "siteId": "09291000"
+  },
+  {
+    "gageName": "LEEDS CREEK NEAR LEEDS, UT ",
+    "siteId": "09408000"
+  },
+  {
+    "gageName": "LITTLE BEAR RIVER AT PARADISE, UT ",
+    "siteId": "10105900"
+  },
+  {
+    "gageName": "LITTLE COTTONWOOD CREEK @ JORDAN RIVER NR SLC ",
+    "siteId": "10168000"
+  },
+  {
+    "gageName": "LOGAN,HYD PK AND SMTHFLD CANAL AT HEAD NR LOGAN UT ",
+    "siteId": "10108400"
+  },
+  {
+    "gageName": "LOGAN RIVER ABOVE STATE DAM, NEAR LOGAN, UT ",
+    "siteId": "10109000"
+  },
+  {
+    "gageName": "LOST CREEK NEAR CROYDON, UTAH ",
+    "siteId": "10132500"
+  },
+  {
+    "gageName": "MAMMOTH CREEK ABV WEST HATCH DITCH, NEAR HATCH, UT ",
+    "siteId": "10173450"
+  },
+  {
+    "gageName": "MANTI CREEK BLW DUGWAY CREEK, NR MANTI, UT ",
+    "siteId": "10215900"
+  },
+  {
+    "gageName": "MCELMO CREEK NEAR BLUFF, UTAH ",
+    "siteId": "09372200"
+  },
+  {
+    "gageName": "MCLEOD CREEK NEAR PARK CITY, UT ",
+    "siteId": "10133600"
+  },
+  {
+    "gageName": "MILL CREEK AT SHELEY TUNNEL, NEAR MOAB, UT ",
+    "siteId": "09183500"
+  },
+  {
+    "gageName": "MILL CREEK BELOW SHELEY TUNNEL, NEAR MOAB, UT ",
+    "siteId": "09183600"
+  },
+  {
+    "gageName": "MILL CREEK BLW PACK CREEK NR MOUTH AT MOAB, UT ",
+    "siteId": "09185100"
+  },
+  {
+    "gageName": "MUD CRK BL WINTER QUARTERS CYN @ SCOFIELD, UT ",
+    "siteId": "09310700"
+  },
+  {
+    "gageName": "MUDDY CREEK NEAR EMERY, UT ",
+    "siteId": "09330500"
+  },
+  {
+    "gageName": "NATE CREEK TRIBUTARY NEAR COLTON, OR ",
+    "siteId": "14199704"
+  },
+  {
+    "gageName": "NORTH FORK VIRGIN RIVER NEAR SPRINGDALE, UT ",
+    "siteId": "09405500"
+  },
+  {
+    "gageName": "OGDEN RIVER BL PINEVIEW RES NR HUNTSVILLE, UT ",
+    "siteId": "10140100"
+  },
+  {
+    "gageName": "OGDEN RIVER NR GIBSON AVENUE AT OGDEN, UT ",
+    "siteId": "10140700"
+  },
+  {
+    "gageName": "PACK CREEK AT PACK CREEK ROAD BRIDGE ",
+    "siteId": "382645109230701"
+  },
+  {
+    "gageName": "PINE CREEK NEAR ESCALANTE, UT ",
+    "siteId": "09337000"
+  },
+  {
+    "gageName": "PRICE RIVER AT WOODSIDE, UT ",
+    "siteId": "09314500"
+  },
+  {
+    "gageName": "PROVO RIV AT RIV ROAD BRIDGE NR HEBER CITY, UT ",
+    "siteId": "10155200"
+  },
+  {
+    "gageName": "PROVO RIVER AT PROVO, UT ",
+    "siteId": "10163000"
+  },
+  {
+    "gageName": "PROVO RIVER NEAR CHARLESTON, UT ",
+    "siteId": "10155500"
+  },
+  {
+    "gageName": "PROVO RIVER NEAR HAILSTONE, UT ",
+    "siteId": "10155000"
+  },
+  {
+    "gageName": "PROVO RIVER NEAR WOODLAND, UT ",
+    "siteId": "10154200"
+  },
+  {
+    "gageName": "RECAPTURE CREEK NEAR BLANDING, UT ",
+    "siteId": "09378630"
+  },
+  {
+    "gageName": "RED BUTTE CREEK AT FORT DOUGLAS, NEAR SLC, UT ",
+    "siteId": "10172200"
+  },
+  {
+    "gageName": "ROCK CREEK NEAR MOUNTAIN HOME, UT ",
+    "siteId": "09279000"
+  },
+  {
+    "gageName": "SALINA CREEK NEAR EMERY, UT ",
+    "siteId": "10205030"
+  },
+  {
+    "gageName": "SALT CREEK AT NEPHI, UT ",
+    "siteId": "10146000"
+  },
+  {
+    "gageName": "SALT CRK BL NEPHI POWERPLANT DIV NR NEPHI, UT ",
+    "siteId": "10145400"
+  },
+  {
+    "gageName": "SAN JUAN RIVER NEAR BLUFF, UT ",
+    "siteId": "09379500"
+  },
+  {
+    "gageName": "SAN RAFAEL RIVER AT MOUTH NEAR GREEN RIVER, UT ",
+    "siteId": "09328910"
+  },
+  {
+    "gageName": "SAN RAFAEL RIVER NEAR GREEN RIVER, UT ",
+    "siteId": "09328500"
+  },
+  {
+    "gageName": "SANTA CLARA RIV BLW WINSOR DAM, NR SANTA CLARA, UT ",
+    "siteId": "09410100"
+  },
+  {
+    "gageName": "SANTA CLARA RIVER ABV BAKER RES, NR CENTRAL, UT ",
+    "siteId": "09409100"
+  },
+  {
+    "gageName": "SANTA CLARA RIVER AT ST. GEORGE, UT ",
+    "siteId": "09413000"
+  },
+  {
+    "gageName": "SANTA CLARA RIVER NEAR PINE VALLEY, UT ",
+    "siteId": "09408400"
+  },
+  {
+    "gageName": "SEVEN MILE CREEK NEAR FISH LAKE, UT ",
+    "siteId": "09329050"
+  },
+  {
+    "gageName": "SEVIER RIV BLW SAN PITCH RIV NR GUNNISON, UT ",
+    "siteId": "10217000"
+  },
+  {
+    "gageName": "SEVIER RIVER AT HATCH, UT ",
+    "siteId": "10174500"
+  },
+  {
+    "gageName": "SEVIER RIVER NEAR KINGSTON, UT ",
+    "siteId": "10183500"
+  },
+  {
+    "gageName": "SEVIER RIVER NEAR LYNNDYL, UT ",
+    "siteId": "10224000"
+  },
+  {
+    "gageName": "SILVER CREEK NEAR SILVER CREEK JUNCTION, UT ",
+    "siteId": "10129900"
+  },
+  {
+    "gageName": "SIXTH WATER CRK AB SYAR TUN NR SPRINGVILLE, UT ",
+    "siteId": "10149000"
+  },
+  {
+    "gageName": "SNAKE CREEK NEAR CHARLESTON, UT ",
+    "siteId": "10156000"
+  },
+  {
+    "gageName": "SOUTH FORK OGDEN RIVER NEAR HUNTSVILLE, UT ",
+    "siteId": "10137500"
+  },
+  {
+    "gageName": "SPANISH FORK AT CASTILLA, UT ",
+    "siteId": "10150500"
+  },
+  {
+    "gageName": "STRAWBERRY RIVER AT PINNACLES NEAR FRUITLAND, UT ",
+    "siteId": "09285900"
+  },
+  {
+    "gageName": "STRAWBERRY RIVER NEAR DUCHESNE, UT ",
+    "siteId": "09288180"
+  },
+  {
+    "gageName": "SUMMIT CREEK ABV SUMMIT CR CANAL NR SANTAQUIN UT ",
+    "siteId": "10147100"
+  },
+  {
+    "gageName": "SURPLUS CANAL @ SALT LAKE CITY, UT ",
+    "siteId": "10170500"
+  },
+  {
+    "gageName": "UINTA R BLW POWERPLANT DIVERSION, NR NEOLA, UT ",
+    "siteId": "09296800"
+  },
+  {
+    "gageName": "UINTA RIVER AT RANDLETT, UT ",
+    "siteId": "09301500"
+  },
+  {
+    "gageName": "VIRGIN RIVER AB LA VERKIN CREEK NR LA VERKIN, UT ",
+    "siteId": "09406100"
+  },
+  {
+    "gageName": "VIRGIN RIVER AB QUAIL CREEK NEAR HURRICANE, UT ",
+    "siteId": "09408135"
+  },
+  {
+    "gageName": "VIRGIN RIVER AT VIRGIN, UT ",
+    "siteId": "09406000"
+  },
+  {
+    "gageName": "VIRGIN RIVER NEAR BLOOMINGTON, UT ",
+    "siteId": "09413200"
+  },
+  {
+    "gageName": "VIRGIN RIVER NEAR HURRICANE, UT ",
+    "siteId": "09408150"
+  },
+  {
+    "gageName": "VIRGIN RIVER NEAR ST. GEORGE, UT ",
+    "siteId": "09413500"
+  },
+  {
+    "gageName": "WEBER RIVER AT ECHO, UT ",
+    "siteId": "10132000"
+  },
+  {
+    "gageName": "WEBER RIVER AT GATEWAY, UT ",
+    "siteId": "10136500"
+  },
+  {
+    "gageName": "WEBER RIVER AT I-84 AT UINTAH, UT ",
+    "siteId": "10136600"
+  },
+  {
+    "gageName": "WEBER RIVER AT OGDEN, UTAH ",
+    "siteId": "10137000"
+  },
+  {
+    "gageName": "WEBER RIVER NEAR COALVILLE, UT ",
+    "siteId": "10130500"
+  },
+  {
+    "gageName": "WEBER RIVER NEAR OAKLEY, UT ",
+    "siteId": "10128500"
+  },
+  {
+    "gageName": "WEBER RIVER NEAR PEOA, UTAH ",
+    "siteId": "10129300"
+  },
+  {
+    "gageName": "WEBER RIVER NEAR PLAIN CITY, UT ",
+    "siteId": "10141000"
+  },
+  {
+    "gageName": "WEBER RIVER NEAR WANSHIP, UT ",
+    "siteId": "10129500"
+  },
+  {
+    "gageName": "WEST CANYON CREEK NEAR CEDAR FORT, UT ",
+    "siteId": "10166430"
+  },
+  {
+    "gageName": "WHITE R BL TABBYUNE CRK NR SOLDIER SUMMIT, UT ",
+    "siteId": "09312600"
+  },
+  {
+    "gageName": "WHITE RIVER NEAR WATSON, UTAH ",
+    "siteId": "09306500"
+  },
+  {
+    "gageName": "WHITEROCKS RIVER NEAR WHITEROCKS, UT ",
+    "siteId": "09299500"
+  },
+  {
+    "gageName": "YELLOWSTONE R @ BRIDGE CMPGRND NR ALTONAH, UT ",
+    "siteId": "09292000"
+  },
+  {
+    "gageName": "YELLOWSTONE RIVER NEAR ALTONAH, UT ",
+    "siteId": "09292500"
+  }
+]

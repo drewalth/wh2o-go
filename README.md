@@ -7,10 +7,6 @@ Email and SMS notifications for USGS river gages built with Go and React.
   |-client (React / Static Files)
 ```
 
-## Why Go?
-
-- Cross-platform compilation. I want to run this app on a Raspberry Pi in my living room with minimal setup.
-
 ## Requirements
 
 - [Golang](https://go.dev/)

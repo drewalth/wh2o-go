@@ -1,0 +1,702 @@
+[
+  {
+    "gageName": "10B BLACK CR CANAL AT OLD CUTLER RD NR GOU ",
+    "siteId": "02290709"
+  },
+  {
+    "gageName": "10B LATERAL 405 AB S-405 NEAR VINELAND, FLA ",
+    "siteId": "02266293"
+  },
+  {
+    "gageName": "10B LATERAL 405 BL S-405 NEAR VINELAND FLA ",
+    "siteId": "02266294"
+  },
+  {
+    "gageName": "ALAFIA RIVER NEAR BELL SHOALS RD NR RIVERVIEW FL ",
+    "siteId": "02301635"
+  },
+  {
+    "gageName": "ALAPAHA RIVER NEAR JENNINGS FLA ",
+    "siteId": "02317620"
+  },
+  {
+    "gageName": "ALLIGATOR CREEK AT HIGHWAY 19 AT CLEARWATER FL ",
+    "siteId": "02307669"
+  },
+  {
+    "gageName": "ALLIGATOR CREEK AT KAPOK PARK AT CLEARWATER FL ",
+    "siteId": "02307674"
+  },
+  {
+    "gageName": "ALLIGATOR CREEK NEAR GARFIELD BIGHT, FL ",
+    "siteId": "251032080473400"
+  },
+  {
+    "gageName": "ANCLOTE RIVER NEAR HOLIDAY FL ",
+    "siteId": "02310075"
+  },
+  {
+    "gageName": "ANCLOTE RIVER NEAR ODESSA FL ",
+    "siteId": "02309740"
+  },
+  {
+    "gageName": "APALACHICOLA R.AB CHIPOLA CUTOFF NR WEWAHITCHKA,FL ",
+    "siteId": "02358754"
+  },
+  {
+    "gageName": "AUCILLA RIVER AT LAMONT, FLA. ",
+    "siteId": "02326500"
+  },
+  {
+    "gageName": "AUCILLA RIVER NR MOUTH NEAR NUTALL RISE, FL ",
+    "siteId": "02326550"
+  },
+  {
+    "gageName": "BAKER CREEK AT MCINTOSH ROAD NEAR ANTIOCH FL ",
+    "siteId": "02303205"
+  },
+  {
+    "gageName": "BARBER BRANCH NEAR HOMELAND FL ",
+    "siteId": "02294760"
+  },
+  {
+    "gageName": "BARRON RIVER AT EVERGLADES CITY, FL ",
+    "siteId": "02290928"
+  },
+  {
+    "gageName": "BARRON RIVER BELOW SR29-3 AT COPELAND, FL ",
+    "siteId": "02291001"
+  },
+  {
+    "gageName": "BEAR CREEK AT SR 52 NR BAYONET POINT FL ",
+    "siteId": "02310356"
+  },
+  {
+    "gageName": "BEAR CREEK NEAR BAYONET POINT FL ",
+    "siteId": "02310368"
+  },
+  {
+    "gageName": "BEAVER RUN NEAR FINKSBURG, MD ",
+    "siteId": "01586210"
+  },
+  {
+    "gageName": "BEE BRANCH NEAR PALM HARBOR FL ",
+    "siteId": "02309447"
+  },
+  {
+    "gageName": "BLACK CREEK CANAL EAST OF US1 NR GOULDS, FL ",
+    "siteId": "0229070854"
+  },
+  {
+    "gageName": "BLACK CREEK CANAL WEST OF 127 AVE NR GOULDS, FL ",
+    "siteId": "0229070825"
+  },
+  {
+    "gageName": "BLACK CREEK CANAL WEST OF U.S. 1 NR GOULDS, FL ",
+    "siteId": "022907085"
+  },
+  {
+    "gageName": "BLACKWATER CREEK NEAR KNIGHTS FL ",
+    "siteId": "02302500"
+  },
+  {
+    "gageName": "BLUE SPRINGS NEAR DELL,FL ",
+    "siteId": "02319950"
+  },
+  {
+    "gageName": "BOWLEGS CREEK NEAR FORT MEADE FL ",
+    "siteId": "02295013"
+  },
+  {
+    "gageName": "BROOKER CREEK AT VAN DYKE RD NEAR CITRUS PARK FL ",
+    "siteId": "02307200"
+  },
+  {
+    "gageName": "BROWARD RIVER BL BISCAYNE BLVD NR JACKSONVILLE, FL ",
+    "siteId": "02246751"
+  },
+  {
+    "gageName": "BROWN POND NEAR BRANDON FL ",
+    "siteId": "275656082172000"
+  },
+  {
+    "gageName": "BRUSHY CREEK NEAR SULPHUR SPRINGS ",
+    "siteId": "02306904"
+  },
+  {
+    "gageName": "C-8 CANAL AT NE 135 ST AT NORTH MIAMI, FL ",
+    "siteId": "02286328"
+  },
+  {
+    "gageName": "CHIPOLA RIVER AT MARIANNA FL ",
+    "siteId": "02358789"
+  },
+  {
+    "gageName": "CHIPOLA RIVER NR ALTHA, FLA. ",
+    "siteId": "02359000"
+  },
+  {
+    "gageName": "CLAPBOARD CREEK NR JACKSONVILLE, FL ",
+    "siteId": "02246825"
+  },
+  {
+    "gageName": "COW BRANCH AT LAKE ST GEORGE DR NR PALM HARBOR FL ",
+    "siteId": "02307496"
+  },
+  {
+    "gageName": "CRYSTAL RIVER NEAR CRYSTAL RIVER FL ",
+    "siteId": "02310750"
+  },
+  {
+    "gageName": "CRYSTAL SPRINGS NEAR ZEPHYRHILLS FL ",
+    "siteId": "02302000"
+  },
+  {
+    "gageName": "CURIOSITY CREEK AT 122ND AVE NEAR SULPHUR SPGS. FL ",
+    "siteId": "02305851"
+  },
+  {
+    "gageName": "CURRY CREEK AT HIGHWAY 41 AT NOKOMIS FL ",
+    "siteId": "02299734"
+  },
+  {
+    "gageName": "CUTHBERT LAKE OUTLET NEAR FLAMINGO, FL ",
+    "siteId": "251154080471900"
+  },
+  {
+    "gageName": "CYPRESS CR AT COUNTY LINE RD AT WESLEY CHAPEL FL ",
+    "siteId": "02303424"
+  },
+  {
+    "gageName": "CYPRESS CREEK AT SR 54 AT WORTHINGTON GARDENS, FL ",
+    "siteId": "02303420"
+  },
+  {
+    "gageName": "CYPRESS CREEK NEAR SAN ANTONIO FL ",
+    "siteId": "02303400"
+  },
+  {
+    "gageName": "CYPRESS CREEK NEAR SULPHUR SPRINGS FL ",
+    "siteId": "02303800"
+  },
+  {
+    "gageName": "CYPRESS CREEK TRIBUTARY NR WESLEY CHAPEL FL ",
+    "siteId": "02303410"
+  },
+  {
+    "gageName": "DONNA BAY AT HIGHWAY 41 AT NOKOMIS FL ",
+    "siteId": "02299730"
+  },
+  {
+    "gageName": "DUNN CREEK AT DUNN CREEK RD NR EASTPORT, FL ",
+    "siteId": "02246804"
+  },
+  {
+    "gageName": "DURBIN CREEK NEAR FRUIT COVE, FL ",
+    "siteId": "022462002"
+  },
+  {
+    "gageName": "EAST SIDE CREEK NEAR LAKE INGRAHAM, FL ",
+    "siteId": "250802081035500"
+  },
+  {
+    "gageName": "ECOFINA RV AT ECOFINA RV STATE PARK NR PERRY, FL ",
+    "siteId": "02326050"
+  },
+  {
+    "gageName": "ELEVENMILE CREEK NR WEST PENSACOLA, FL ",
+    "siteId": "02376115"
+  },
+  {
+    "gageName": "FALMOUTH SPRING AT FALMOUTH, FL ",
+    "siteId": "02319520"
+  },
+  {
+    "gageName": "FENHOLLOWAY RIVER NEAR HAMPTON SPRINGS, FL ",
+    "siteId": "02325543"
+  },
+  {
+    "gageName": "FOX BRANCH NEAR SOCRUM, FL ",
+    "siteId": "02301900"
+  },
+  {
+    "gageName": "GATOR SINK NEAR BARTOW FL ",
+    "siteId": "275226081481900"
+  },
+  {
+    "gageName": "GATOR SLOUGH WEST OF US-41 NEAR FT. MYERS FL ",
+    "siteId": "02293262"
+  },
+  {
+    "gageName": "GINNIE SPRING NR HIGH SPRINGS FLA ",
+    "siteId": "02322400"
+  },
+  {
+    "gageName": "GOAT CREEK NR VALKARIA, FLA. ",
+    "siteId": "02250500"
+  },
+  {
+    "gageName": "GOODNO CANAL BELOW S-78 NEAR LABELLE FL ",
+    "siteId": "02292490"
+  },
+  {
+    "gageName": "HALLS RIVER AT HOMOSASSA SPRINGS FL ",
+    "siteId": "02310689"
+  },
+  {
+    "gageName": "HARNEY POND CANAL 2.4 MILES BL S70 NR LAKEPORT, FL ",
+    "siteId": "02257750"
+  },
+  {
+    "gageName": "HARNEY POND CANAL ABOVE S-71 NR LAKEPORT, FL ",
+    "siteId": "02257790"
+  },
+  {
+    "gageName": "HAW CREEK AB RUSSELLS LANDING NR ST JOHNS PARK FL ",
+    "siteId": "02244333"
+  },
+  {
+    "gageName": "HENRY STREET CANAL AT BENJAMIN ROAD NEAR TAMPA FL ",
+    "siteId": "023066535"
+  },
+  {
+    "gageName": "HILLSBOROUGH R AB CRYSTAL SPR NEAR ZEPHYRHILLS FL ",
+    "siteId": "02301990"
+  },
+  {
+    "gageName": "HILLSBOROUGH R AT FOWLER AV NEAR TEMPLE TERRACE FL ",
+    "siteId": "02304000"
+  },
+  {
+    "gageName": "HILLSBOROUGH R. AT I-275 BRIDGE AT SULPHUR SPGS FL ",
+    "siteId": "023060013"
+  },
+  {
+    "gageName": "HILLSBOROUGH R AT MORRIS BR NEAR THONOTOSASSA FL ",
+    "siteId": "02303330"
+  },
+  {
+    "gageName": "HILLSBOROUGH R BL CRYSTAL SPR NEAR ZEPHYRHILLS FL ",
+    "siteId": "02302010"
+  },
+  {
+    "gageName": "HILLSBOROUGH RIVER AT PLATT STREET AT TAMPA FL ",
+    "siteId": "02306028"
+  },
+  {
+    "gageName": "HILLSBOROUGH RIVER AT ROWLETT PK DR NEAR TAMPA FL ",
+    "siteId": "02304510"
+  },
+  {
+    "gageName": "HILLSBOROUGH RIVER NEAR TAMPA FL ",
+    "siteId": "02304500"
+  },
+  {
+    "gageName": "HILLSBOROUGH RV AT STATE PARK NR ZEPHYRHILLS, FL ",
+    "siteId": "02303000"
+  },
+  {
+    "gageName": "HORSE CREEK NEAR LIMESTONE FL ",
+    "siteId": "02297251"
+  },
+  {
+    "gageName": "HORSE CREEK NR MELBOURNE,FL ",
+    "siteId": "02248900"
+  },
+  {
+    "gageName": "HUNTER SPR RUN AT BEACH LANE AT CRYSTAL RIVER FL ",
+    "siteId": "02310743"
+  },
+  {
+    "gageName": "INDIAN PRAIRIE CANAL ABOVE S-72 NR OKEECHOBEE, FL ",
+    "siteId": "02259100"
+  },
+  {
+    "gageName": "INDIAN PRAIRIE CANAL AB PUMP STA NR OKEECHOBEE, FL ",
+    "siteId": "02258800"
+  },
+  {
+    "gageName": "IWW EAST OF GULF CO CANAL NEAR PORT ST JOE, FL ",
+    "siteId": "295308085143700"
+  },
+  {
+    "gageName": "IWW WEST OF GULF CO CANAL NEAR PORT ST JOE, FL ",
+    "siteId": "295323085151700"
+  },
+  {
+    "gageName": "JACKS BRANCH AT CR 78 NR FT DENAUD FL ",
+    "siteId": "02292740"
+  },
+  {
+    "gageName": "JACKSON BLUE SPRING NR MARIANNA, FL ",
+    "siteId": "02358795"
+  },
+  {
+    "gageName": "JACKSON RIVER AT RANCH ROAD NR APALACHICOLA, FL ",
+    "siteId": "02359223"
+  },
+  {
+    "gageName": "JULINGTON CRK AT OLD ST AUGUST RD NR BAYARD, FL ",
+    "siteId": "02246160"
+  },
+  {
+    "gageName": "JUNIPER CREEK AT STATE HWY 85 NR NICEVILLE, FLA. ",
+    "siteId": "02367310"
+  },
+  {
+    "gageName": "L-67A CANAL AT S-152 NR COOPERTOWN, FL ",
+    "siteId": "255154080371300"
+  },
+  {
+    "gageName": "LAKE ECKLES NEAR CARROLLWOOD FL ",
+    "siteId": "280311082282601"
+  },
+  {
+    "gageName": "LAKE PARKER OUTLET AT COMBEE SETTLEMENT FL ",
+    "siteId": "02294261"
+  },
+  {
+    "gageName": "LAKE TARPON CANAL AT S-551, NEAR OLDSMAR FL ",
+    "siteId": "02307498"
+  },
+  {
+    "gageName": "LAKE WORRELL OUTFALL NR NEW PORT RICHEY EAST FL ",
+    "siteId": "02310322"
+  },
+  {
+    "gageName": "LATERAL 410 BL S-410 NR VINELAND, FL ",
+    "siteId": "02266296"
+  },
+  {
+    "gageName": "LITTLE CHARLIE CREEK NEAR BOWLING GREEN FL ",
+    "siteId": "02295520"
+  },
+  {
+    "gageName": "LITTLE CHARLIE CREEK NEAR MOUTH NEAR WAUCHULA FL ",
+    "siteId": "02295580"
+  },
+  {
+    "gageName": "LITTLE MANATEE RIVER NEAR FT. LONESOME FL ",
+    "siteId": "02300100"
+  },
+  {
+    "gageName": "LITTLE RIVER NR QUINCY, FLA. ",
+    "siteId": "02329500"
+  },
+  {
+    "gageName": "LIVINGSTON CREEK NEAR FROSTPROOF FL ",
+    "siteId": "02269520"
+  },
+  {
+    "gageName": "LK BUENA VIS TR AT HOTEL PL BLVD AT LK BUENA VISTA ",
+    "siteId": "02264030"
+  },
+  {
+    "gageName": "LOXAHATCHEE RIVER DWS LAINHART DAM NR JUPITER FL ",
+    "siteId": "02277602"
+  },
+  {
+    "gageName": "LOXAHATCHEE RIVER NEAR JUPITER,FL ",
+    "siteId": "02277600"
+  },
+  {
+    "gageName": "LOX RIVER AT OUTLET OF KITCHINGS CREEK, FL ",
+    "siteId": "265929080091800"
+  },
+  {
+    "gageName": "NASSAU RIVER NEAR TISONIA, FL ",
+    "siteId": "02231291"
+  },
+  {
+    "gageName": "NORTH FEEDER CANAL BLW PC17A NR CLEWISTON, FL ",
+    "siteId": "262038080584600"
+  },
+  {
+    "gageName": "OAK CREEK NEAR GARDNER FL ",
+    "siteId": "02296389"
+  },
+  {
+    "gageName": "OCKLAWAHA RIVER NR OCALA,FLA. ",
+    "siteId": "02239000"
+  },
+  {
+    "gageName": "OYSTER CREEK NEAR FLAMINGO, FL ",
+    "siteId": "251033080440800"
+  },
+  {
+    "gageName": "PEACE RIVER AT BOWLING GREEN FL ",
+    "siteId": "02295194"
+  },
+  {
+    "gageName": "PEACE RIVER AT CLEAR SPRINGS NEAR BARTOW FL ",
+    "siteId": "02294775"
+  },
+  {
+    "gageName": "PEACE RIVER AT PLATT FL ",
+    "siteId": "02297345"
+  },
+  {
+    "gageName": "PEACE RIVER AT STATE HWY 664A NEAR WAUCHULA FL ",
+    "siteId": "02295440"
+  },
+  {
+    "gageName": "PEACE RIVER NEAR BARTOW FL ",
+    "siteId": "02294655"
+  },
+  {
+    "gageName": "PEACE RIVER NEAR HOMELAND FL ",
+    "siteId": "02294781"
+  },
+  {
+    "gageName": "PEACE RV DISTRIBUTARY AT DOVER SINK NR BARTOW FL ",
+    "siteId": "02294705"
+  },
+  {
+    "gageName": "PHOSPHATE MINE OUTFALL CS-8 NEAR BARTOW FL ",
+    "siteId": "02294759"
+  },
+  {
+    "gageName": "PITHLACHASCOTEE R BL SUNCOAST PKWY NR FIVAY JCT FL ",
+    "siteId": "02310288"
+  },
+  {
+    "gageName": "PITHLACHASCOTEE RIVER NEAR FIVAY JUNCTION FL ",
+    "siteId": "02310280"
+  },
+  {
+    "gageName": "Popash Creek at Leetana Rd. nr North Fort Myers,FL ",
+    "siteId": "02293090"
+  },
+  {
+    "gageName": "POTTSBURG CREEK NR SOUTH JACKSONVILLE, FLA. ",
+    "siteId": "02246515"
+  },
+  {
+    "gageName": "POTTSBURG CRK AT US90 NR S. JACKSONVILLE, FL ",
+    "siteId": "02246518"
+  },
+  {
+    "gageName": "RAINBOW RIVER NEAR DUNNELLON, FL ",
+    "siteId": "02313098"
+  },
+  {
+    "gageName": "RATTLESNAKE CREEK AT BELLEAIR FL ",
+    "siteId": "02309200"
+  },
+  {
+    "gageName": "RAULERSON BROTHERS CANAL AT CAPE SABLE, FL ",
+    "siteId": "251115081075800"
+  },
+  {
+    "gageName": "ROCKY CREEK NEAR SULPHUR SPRINGS FL ",
+    "siteId": "02307000"
+  },
+  {
+    "gageName": "S-253 WEIR NEAR FORT DRUM, FL ",
+    "siteId": "02231322"
+  },
+  {
+    "gageName": "S-253 WEIR UPSTREAM NEAR FORT DRUM, FL ",
+    "siteId": "022313219"
+  },
+  {
+    "gageName": "SANLANDO SPRINGS NR LONGWOOD, FL ",
+    "siteId": "02234991"
+  },
+  {
+    "gageName": "SANTA FE RIVER AT O&#039;LENO STATE PARK FLA ",
+    "siteId": "02321898"
+  },
+  {
+    "gageName": "SANTA FE RIVER AT RIVER RISE NR HIGH SPRINGS, FL ",
+    "siteId": "02321958"
+  },
+  {
+    "gageName": "SANTA FE RIVER AT US HWY 441 NEAR HIGH SPRINGS,FL. ",
+    "siteId": "02321975"
+  },
+  {
+    "gageName": "SANTA FE RIVER NEAR GRAHAM, FLA. ",
+    "siteId": "02320700"
+  },
+  {
+    "gageName": "SARAGASSA CANAL AT CRYSTAL RIVER FL ",
+    "siteId": "02310740"
+  },
+  {
+    "gageName": "SHAKETT CREEK NEAR NOKOMIS FL ",
+    "siteId": "02299727"
+  },
+  {
+    "gageName": "SHELL CREEK AT CIRCLE K GROVES NEAR FT OGDEN FL ",
+    "siteId": "02297600"
+  },
+  {
+    "gageName": "SIXMILE CREEK AT BARTOW FL ",
+    "siteId": "02294747"
+  },
+  {
+    "gageName": "SNAPPER CREEK CNL EXT AT NW74 ST NR HIALEAH, FL ",
+    "siteId": "255026080231300"
+  },
+  {
+    "gageName": "SNAPPER CREEK NO.5 ABV WATER PIPE NR S. MIAMI, FL ",
+    "siteId": "254157080213800"
+  },
+  {
+    "gageName": "SOUTH BRANCH ANCLOTE RIVER NEAR ODESSA FL ",
+    "siteId": "02309848"
+  },
+  {
+    "gageName": "STEINHATCHEE RIVER AT STEINHATCHEE, FL. ",
+    "siteId": "02324170"
+  },
+  {
+    "gageName": "ST JOE CREEK AT 62ND ST NR PINELLAS PARK FL ",
+    "siteId": "02308950"
+  },
+  {
+    "gageName": "ST JOHNS R BLW SHANDS BRIDGE NR GRN COVE SPRG, FL ",
+    "siteId": "02245340"
+  },
+  {
+    "gageName": "ST JOHNS RIVER AT RACY PT NEAR HASTINGS FL ",
+    "siteId": "02245290"
+  },
+  {
+    "gageName": "ST.JOHNS RIVER BUCKMAN BRIDGE AT JACKSONVILLE,FL ",
+    "siteId": "301124081395901"
+  },
+  {
+    "gageName": "ST LUCIE CANAL ABV S-80 NR STUART FL ",
+    "siteId": "02276998"
+  },
+  {
+    "gageName": "ST MARYS RIVER AT FERRY LANDING NEAR FOLKSTON, GA ",
+    "siteId": "02231175"
+  },
+  {
+    "gageName": "ST MARY&#039;S RIVER AT I-95, NEAR KINGSLAND, GA ",
+    "siteId": "02231254"
+  },
+  {
+    "gageName": "SULPHUR SPRINGS AT SULPHUR SPRINGS FL ",
+    "siteId": "02306000"
+  },
+  {
+    "gageName": "SULPHUR SPRINGS RUN AT SULPHUR SPRINGS FL ",
+    "siteId": "023060003"
+  },
+  {
+    "gageName": "SUWANNEE RIVER AT SUWANNEE SPRINGS FLA ",
+    "siteId": "02315550"
+  },
+  {
+    "gageName": "SUWANNEE RIVER AT WHITE SPRINGS, FLA. ",
+    "siteId": "02315500"
+  },
+  {
+    "gageName": "SW 122 AVE CANAL AT SW 202ND ST NR GOULDS, FL ",
+    "siteId": "0229070834"
+  },
+  {
+    "gageName": "SW 122 AVE CANAL AT SW 208TH ST NR GOULDS, FL ",
+    "siteId": "0229070836"
+  },
+  {
+    "gageName": "SWEETWATER CREEK NEAR SULPHUR SPRINGS FL ",
+    "siteId": "02306500"
+  },
+  {
+    "gageName": "TAMIAMI CANAL EAST END 1 MILE BRIDGE NR MIAMI, FL ",
+    "siteId": "02289085"
+  },
+  {
+    "gageName": "TAMIAMI CANAL EAST END 2.6 MILE BRIDGE NR MIAMI FL ",
+    "siteId": "02289056"
+  },
+  {
+    "gageName": "TAMIAMI CANAL OUTLETS, 40-MILE BEND TO MONROE, FL ",
+    "siteId": "02288900"
+  },
+  {
+    "gageName": "TAMIAMI CANAL OUTLETS L-30 TO L-67A NR MIAMI, FL ",
+    "siteId": "02289060"
+  },
+  {
+    "gageName": "TAMIAMI CANAL OUTLETS, MONROE TO CARNESTOWN, FLA ",
+    "siteId": "02288800"
+  },
+  {
+    "gageName": "TAMIAMI CANAL WEST END 1 MILE BRIDGE NR MIAMI, FL ",
+    "siteId": "02289080"
+  },
+  {
+    "gageName": "TAMIAMI CANAL WEST END 2.6 MILE BRIDGE NR MIAMI FL ",
+    "siteId": "02289054"
+  },
+  {
+    "gageName": "THREE MILE CANAL BELOW G409 NEAR CLEWISTON, FL ",
+    "siteId": "02289035"
+  },
+  {
+    "gageName": "TOWNSEND CANAL NEAR ALVA,FL ",
+    "siteId": "02292780"
+  },
+  {
+    "gageName": "TROUT CREEK AT MYSTIC OAK BLVD AT WESLEY CHAPEL FL ",
+    "siteId": "02303346"
+  },
+  {
+    "gageName": "TROUT CREEK AT OLD DIXIE HWY AT GRANT, FL ",
+    "siteId": "02250702"
+  },
+  {
+    "gageName": "TROUT CREEK AT WESLEY CHAPEL FL ",
+    "siteId": "02303348"
+  },
+  {
+    "gageName": "TROUT CREEK NEAR SULPHUR SPRINGS FL ",
+    "siteId": "02303350"
+  },
+  {
+    "gageName": "TROUT R NR JACKSONVILLE FLA ",
+    "siteId": "02246621"
+  },
+  {
+    "gageName": "VENICE INLET AT CROW&#039;S NEST MARINA AT VENICE FL ",
+    "siteId": "02299735"
+  },
+  {
+    "gageName": "WACISSA RIVER AT THOMAS SPRING NEAR WACISSA, FL ",
+    "siteId": "02326516"
+  },
+  {
+    "gageName": "WACISSA RIVER NR WACISSA FLA ",
+    "siteId": "02326526"
+  },
+  {
+    "gageName": "WARM MINERAL SPRINGS NEAR WOODMERE FL ",
+    "siteId": "02299260"
+  },
+  {
+    "gageName": "WEEKI WACHEE SPRINGS NEAR BROOKSVILLE FL ",
+    "siteId": "02310500"
+  },
+  {
+    "gageName": "WEST FEEDER CANAL ABV WEST WEIR NR CLEWISTON FL ",
+    "siteId": "261808081042800"
+  },
+  {
+    "gageName": "WEST LAKE OUTLET TO LONG LAKE NEAR FLAMINGO, FL ",
+    "siteId": "251203080480600"
+  },
+  {
+    "gageName": "WETLAND BELOW S-152 IN WCA-3 NR COOPERTOWN, FL ",
+    "siteId": "255154080371303"
+  },
+  {
+    "gageName": "WITHLACOOCHEE-HILLSBOROUGH OVFLO NEAR RICHLAND, FL ",
+    "siteId": "02311000"
+  }
+]

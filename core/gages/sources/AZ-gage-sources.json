@@ -1,0 +1,406 @@
+[
+  {
+    "gageName": "AGUA FRIA RIVER NEAR HUMBOLDT, AZ ",
+    "siteId": "09512450"
+  },
+  {
+    "gageName": "AGUA FRIA RIVER NEAR MAYER, AZ ",
+    "siteId": "09512500"
+  },
+  {
+    "gageName": "AGUA FRIA RIVER NEAR ROCK SPRINGS, AZ ",
+    "siteId": "09512800"
+  },
+  {
+    "gageName": "BARTLETT RESERVOIR AT BARTLETT DAM, AZ ",
+    "siteId": "09509502"
+  },
+  {
+    "gageName": "BIG CHINO WASH AT PAULDEN, AZ ",
+    "siteId": "09502830"
+  },
+  {
+    "gageName": "BIG SANDY RIVER AT US 93 BRIDGE, NEAR WIKIEUP, AZ ",
+    "siteId": "09424425"
+  },
+  {
+    "gageName": "BILL WILLIAMS RIVER BELOW ALAMO DAM, AZ ",
+    "siteId": "09426000"
+  },
+  {
+    "gageName": "BILL WILLIAMS RIVER NEAR PARKER, AZ ",
+    "siteId": "09426620"
+  },
+  {
+    "gageName": "BLACK RIVER NEAR FORT APACHE, AZ. ",
+    "siteId": "09490500"
+  },
+  {
+    "gageName": "BLACK RVR BLW PUMPING PLANT, NR POINT OF PINES, AZ ",
+    "siteId": "09489500"
+  },
+  {
+    "gageName": "BLUE RIVER NEAR CLIFTON, AZ. ",
+    "siteId": "09444200"
+  },
+  {
+    "gageName": "BONITA CREEK NEAR MORENCI, AZ. ",
+    "siteId": "09447800"
+  },
+  {
+    "gageName": "CATARACT CREEK BELOW TOPOCOBA GORGE NEAR SUPAI, AZ ",
+    "siteId": "09404109"
+  },
+  {
+    "gageName": "CAVE CREEK BLW COTTONWOOD CR NEAR CAVE CREEK, AZ. ",
+    "siteId": "09512280"
+  },
+  {
+    "gageName": "CHERRY CREEK NEAR GLOBE, AZ ",
+    "siteId": "09497980"
+  },
+  {
+    "gageName": "CHEVELON CREEK NEAR WINSLOW, AZ ",
+    "siteId": "09398000"
+  },
+  {
+    "gageName": "CHEVELON FORK BELOW WILDCAT CANYON, NR WINSLOW, AZ ",
+    "siteId": "09397500"
+  },
+  {
+    "gageName": "CIBECUE CREEK NEAR CHRYSOTILE, AZ ",
+    "siteId": "09497800"
+  },
+  {
+    "gageName": "CITY OF YUMA DIVERSION AT AVENUE 9E PUMPING PLANT ",
+    "siteId": "09522860"
+  },
+  {
+    "gageName": "COLORADO RIVER AT LEES FERRY, AZ ",
+    "siteId": "09380000"
+  },
+  {
+    "gageName": "COLORADO RIVER NEAR GRAND CANYON, AZ ",
+    "siteId": "09402500"
+  },
+  {
+    "gageName": "COLORADO RV BLW HOOVER DAM, AZ-NV ",
+    "siteId": "09421500"
+  },
+  {
+    "gageName": "COLORADO RVR ABV DIAMOND CREEK NR PEACH SPRINGS AZ ",
+    "siteId": "09404200"
+  },
+  {
+    "gageName": "DEL RIO SPRINGS NEAR CHINO VALLEY, AZ ",
+    "siteId": "09502900"
+  },
+  {
+    "gageName": "DIAMOND CREEK NEAR PEACH SPRINGS, AZ ",
+    "siteId": "09404208"
+  },
+  {
+    "gageName": "DRY BEAVER CREEK NEAR RIMROCK, AZ ",
+    "siteId": "09505350"
+  },
+  {
+    "gageName": "EAGLE CREEK ABOVE PUMPING PLANT, NEAR MORENCI, AZ. ",
+    "siteId": "09447000"
+  },
+  {
+    "gageName": "EAGLE CREEK AT EAGLE SCHOOL RD, NEAR MORENCI, AZ ",
+    "siteId": "09446320"
+  },
+  {
+    "gageName": "EAGLE CREEK NR DOUBLE CIRCLE RANCH, NR MORENCI, AZ ",
+    "siteId": "09446500"
+  },
+  {
+    "gageName": "EAST VERDE R DIV FROM EAST CLEAR CR NR PINE, AZ ",
+    "siteId": "09507580"
+  },
+  {
+    "gageName": "EAST VERDE RIVER NEAR CHILDS, AZ ",
+    "siteId": "09507980"
+  },
+  {
+    "gageName": "FIREBREAK CANAL AT HAVASU NWR NEAR NEEDLES, CA ",
+    "siteId": "09423560"
+  },
+  {
+    "gageName": "FISH CREEK NEAR TORTILLA FLAT, AZ ",
+    "siteId": "09501150"
+  },
+  {
+    "gageName": "FLORENCE-CASA GRANDE CANAL, NEAR FLORENCE, AZ. ",
+    "siteId": "09475500"
+  },
+  {
+    "gageName": "FOSSIL CREEK NEAR STRAWBERRY, AZ ",
+    "siteId": "09507480"
+  },
+  {
+    "gageName": "GILA MONSTER FARMS TURNOUT NO. 2 NEAR YUMA, AZ ",
+    "siteId": "09522680"
+  },
+  {
+    "gageName": "GILA RIVER AT CALVA, AZ. ",
+    "siteId": "09466500"
+  },
+  {
+    "gageName": "GILA RIVER AT DUNCAN, AZ ",
+    "siteId": "09439000"
+  },
+  {
+    "gageName": "GILA RIVER AT HEAD OF SAFFORD VALLEY, NR SOLOMON, ",
+    "siteId": "09448500"
+  },
+  {
+    "gageName": "GILA RIVER AT KELVIN, AZ. ",
+    "siteId": "09474000"
+  },
+  {
+    "gageName": "GILA RIVER BELOW COOLIDGE DAM, AZ. ",
+    "siteId": "09469500"
+  },
+  {
+    "gageName": "GILA RIVER NEAR CLIFTON, AZ ",
+    "siteId": "09442000"
+  },
+  {
+    "gageName": "GILA RIVER NEAR MARICOPA, AZ. ",
+    "siteId": "09479350"
+  },
+  {
+    "gageName": "GRANITE CREEK AT PRESCOTT, AZ ",
+    "siteId": "09502960"
+  },
+  {
+    "gageName": "GRANITE CREEK BELOW WATSON LAKE NEAR PRESCOTT, AZ ",
+    "siteId": "09503300"
+  },
+  {
+    "gageName": "GRANITE CREEK NEAR PRESCOTT, AZ ",
+    "siteId": "09503000"
+  },
+  {
+    "gageName": "HAVASU CREEK ABOVE THE MOUTH, NEAR SUPAI, AZ ",
+    "siteId": "09404115"
+  },
+  {
+    "gageName": "HORSESHOE RESERVOIR AT HORSESHOE DAM, AZ ",
+    "siteId": "09509501"
+  },
+  {
+    "gageName": "INDIAN BEND WASH AT CURRY ROAD, TEMPE, AZ. ",
+    "siteId": "09512162"
+  },
+  {
+    "gageName": "LAKE MOHAVE AT DAVIS DAM, AZ-NV ",
+    "siteId": "09422500"
+  },
+  {
+    "gageName": "LITTLE COLORADO R ABV LYMAN LAKE NR ST. JOHNS, AZ ",
+    "siteId": "09384000"
+  },
+  {
+    "gageName": "LITTLE COLORADO RIVER ABV MOUTH NR DESERT VIEW, AZ ",
+    "siteId": "09402300"
+  },
+  {
+    "gageName": "LITTLE COLORADO RIVER AT GREER, AZ ",
+    "siteId": "09383400"
+  },
+  {
+    "gageName": "LITTLE COLORADO RIVER NEAR CAMERON, AZ ",
+    "siteId": "09402000"
+  },
+  {
+    "gageName": "LITTLE SYCAMORE WASH NEAR BAGDAD, AZ ",
+    "siteId": "09424600"
+  },
+  {
+    "gageName": "LYMAN LAKE NEAR ST. JOHNS, AZ ",
+    "siteId": "09384600"
+  },
+  {
+    "gageName": "MITTRY LAKE DIVERSION AT IMPERIAL DAM, AZ ",
+    "siteId": "09522400"
+  },
+  {
+    "gageName": "MONTEZUMA CANYON WASH AT CORONADO NATL MEMORIAL,AZ ",
+    "siteId": "09470380"
+  },
+  {
+    "gageName": "MONTEZUMA CYN BLW SPARK&#039;S SPR AT CORONADO N.MEM,AZ ",
+    "siteId": "09470375"
+  },
+  {
+    "gageName": "NEWMAN CANYON ABOVE UPPER LAKE MARY, AZ ",
+    "siteId": "09400815"
+  },
+  {
+    "gageName": "NEW RIVER NEAR ROCK SPRINGS, AZ. ",
+    "siteId": "09513780"
+  },
+  {
+    "gageName": "NOGALES WASH AT NOGALES, AZ ",
+    "siteId": "09481000"
+  },
+  {
+    "gageName": "OAK CREEK NEAR CORNVILLE, AZ ",
+    "siteId": "09504500"
+  },
+  {
+    "gageName": "OAK CREEK NEAR SEDONA, AZ ",
+    "siteId": "09504420"
+  },
+  {
+    "gageName": "PINAL CREEK AT INSPIRATION DAM, NR GLOBE, AZ. ",
+    "siteId": "09498400"
+  },
+  {
+    "gageName": "PINTO CREEK ABOVE HAUNTED CANYON NR MIAMI, AZ ",
+    "siteId": "094985005"
+  },
+  {
+    "gageName": "PINTO CREEK BLW HAUNTED CANYON NR MIAMI, AZ ",
+    "siteId": "09498501"
+  },
+  {
+    "gageName": "PINTO CREEK NEAR MIAMI, AZ ",
+    "siteId": "09498502"
+  },
+  {
+    "gageName": "POSTON WASTEWAY NEAR POSTON, AZ ",
+    "siteId": "09428510"
+  },
+  {
+    "gageName": "QUEEN CREEK BELOW WHITLOW DAM NR SUPERIOR, AZ. ",
+    "siteId": "09478500"
+  },
+  {
+    "gageName": "QUITOBAQUITO SPRING NEAR LUKEVILLE, AZ ",
+    "siteId": "09535900"
+  },
+  {
+    "gageName": "SALT RIVER AT PRIEST DRIVE NEAR PHOENIX, AZ. ",
+    "siteId": "09512165"
+  },
+  {
+    "gageName": "SALT RIVER BLW STEWART MOUNTAIN DAM, AZ. ",
+    "siteId": "09502000"
+  },
+  {
+    "gageName": "SALT RIVER NEAR CHRYSOTILE, AZ ",
+    "siteId": "09497500"
+  },
+  {
+    "gageName": "SALT RIVER NEAR ROOSEVELT, AZ ",
+    "siteId": "09498500"
+  },
+  {
+    "gageName": "SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ ",
+    "siteId": "09469000"
+  },
+  {
+    "gageName": "SAN FRANCISCO RIVER AT CLIFTON, AZ. ",
+    "siteId": "09444500"
+  },
+  {
+    "gageName": "SAN PEDRO RIVER AT ST DAVID, AZ ",
+    "siteId": "09471580"
+  },
+  {
+    "gageName": "SANTA MARIA RIVER NEAR BAGDAD, AZ ",
+    "siteId": "09424900"
+  },
+  {
+    "gageName": "SKUNK CREEK NEAR PHOENIX, AZ ",
+    "siteId": "09513860"
+  },
+  {
+    "gageName": "SOUTH FORK PARKER CREEK NEAR ROOSEVELT, AZ ",
+    "siteId": "09498503"
+  },
+  {
+    "gageName": "SYCAMORE CREEK NEAR FORT MCDOWELL, AZ ",
+    "siteId": "09510200"
+  },
+  {
+    "gageName": "TONTO CREEK ABOVE GUN CREEK, NEAR ROOSEVELT, AZ ",
+    "siteId": "09499000"
+  },
+  {
+    "gageName": "TROUT CREEK ABOVE KNIGHT CREEK, NEAR WIKIEUP, AZ ",
+    "siteId": "09424380"
+  },
+  {
+    "gageName": "TURKEY TRACK CANYON NEAR CEDAR CREEK, AZ ",
+    "siteId": "09496910"
+  },
+  {
+    "gageName": "UNNAMED WASH AT HEARD SCOUT PUEBLO NEAR PHOENIX,AZ ",
+    "siteId": "332153112022300"
+  },
+  {
+    "gageName": "UPPER LITTLE SYCAMORE WASH NEAR BAGDAD, AZ ",
+    "siteId": "09424580"
+  },
+  {
+    "gageName": "VERDE RIVER ABOVE CAMP VERDE, AZ ",
+    "siteId": "09504950"
+  },
+  {
+    "gageName": "VERDE RIVER BELOW BARTLETT DAM, AZ ",
+    "siteId": "09510000"
+  },
+  {
+    "gageName": "VERDE RIVER BELOW EAST VERDE RIVER NEAR CHILDS, AZ ",
+    "siteId": "09508000"
+  },
+  {
+    "gageName": "VERDE RIVER NEAR CAMP VERDE, AZ ",
+    "siteId": "09506000"
+  },
+  {
+    "gageName": "VERDE RIVER NEAR CLARKDALE, AZ ",
+    "siteId": "09504000"
+  },
+  {
+    "gageName": "VERDE RIVER NEAR PAULDEN, AZ ",
+    "siteId": "09503700"
+  },
+  {
+    "gageName": "VERDE RIVER NEAR SCOTTSDALE, AZ ",
+    "siteId": "09511300"
+  },
+  {
+    "gageName": "VERDE RVR BLW TANGLE CREEK, ABV HORSESHOE DAM, AZ ",
+    "siteId": "09508500"
+  },
+  {
+    "gageName": "VIRGIN RV ABV THE NARROWS NR LITTLEFIELD, AZ ",
+    "siteId": "09413700"
+  },
+  {
+    "gageName": "VIRGIN RV AT LITTLEFIELD, AZ ",
+    "siteId": "09415000"
+  },
+  {
+    "gageName": "WEST CEDAR CREEK NEAR CEDAR CREEK, AZ ",
+    "siteId": "09496900"
+  },
+  {
+    "gageName": "WEST CLEAR CREEK NEAR CAMP VERDE, AZ ",
+    "siteId": "09505800"
+  },
+  {
+    "gageName": "WET BEAVER CREEK NEAR RIMROCK, AZ ",
+    "siteId": "09505200"
+  },
+  {
+    "gageName": "WET BOTTOM CREEK NEAR CHILDS, AZ ",
+    "siteId": "09508300"
+  }
+]

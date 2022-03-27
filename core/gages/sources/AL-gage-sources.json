@@ -1,0 +1,522 @@
+[
+  {
+    "gageName": "ALDRIDGE C AT SHERWOOD DR NR HUNTSVILLE, ALA ",
+    "siteId": "0357568980"
+  },
+  {
+    "gageName": "ALDRIDGE CREEK AT TONEY DRIVE AT HUNTSVILLE, AL. ",
+    "siteId": "0357568650"
+  },
+  {
+    "gageName": "ALDRIDGE CREEK NEAR FARLEY AL ",
+    "siteId": "03575700"
+  },
+  {
+    "gageName": "Barbour Creek at Barbour Lane nr Eufaula, AL ",
+    "siteId": "02342997"
+  },
+  {
+    "gageName": "BEAR CREEK AT BISHOP,AL. ",
+    "siteId": "03592500"
+  },
+  {
+    "gageName": "BEAR CREEK AT REDBAY, AL ",
+    "siteId": "03592000"
+  },
+  {
+    "gageName": "BIG CANOE CREEK AT ASHVILLE AL ",
+    "siteId": "02401390"
+  },
+  {
+    "gageName": "BIG COVE CREEK AT DUG HILL ROAD NR HUNTSVILLE, AL. ",
+    "siteId": "0357526200"
+  },
+  {
+    "gageName": "BIG CREEK NEAR SEVEN HILLS AL ",
+    "siteId": "02480020"
+  },
+  {
+    "gageName": "BIG ESCAMBIA CREEK AT FLOMATON AL ",
+    "siteId": "02375000"
+  },
+  {
+    "gageName": "BIG WILLS CREEK AT STATE HWY 35 NR FORT PAYNE, AL ",
+    "siteId": "02400680"
+  },
+  {
+    "gageName": "BIG WILLS CREEK NEAR REECE CITY ",
+    "siteId": "02401000"
+  },
+  {
+    "gageName": "BLACKBURN FORK LITTLE WARRIOR R NR HOLLY SPRINGS ",
+    "siteId": "02455185"
+  },
+  {
+    "gageName": "BLACK WARRIOR R AT BANKHEAD L&amp;D NEAR BESSEMER AL ",
+    "siteId": "02462500"
+  },
+  {
+    "gageName": "BLACK WARRIOR R BL BANKHEAD L&amp;D NEAR BESSEMER AL ",
+    "siteId": "02462501"
+  },
+  {
+    "gageName": "BLACK WARRIOR R BL OLIVER L&amp;D NEAR TUSCALOOSA, AL. ",
+    "siteId": "02465005"
+  },
+  {
+    "gageName": "BLACK WARRIOR RIVER AT HOLT L&amp;D NEAR HOLT AL. ",
+    "siteId": "02462951"
+  },
+  {
+    "gageName": "BLACK WARRIOR RIVER AT NORTHPORT AL ",
+    "siteId": "02465000"
+  },
+  {
+    "gageName": "BLACK WARRIOR RIVER BELOW HOLT L&amp;D NEAR HOLT AL ",
+    "siteId": "02462952"
+  },
+  {
+    "gageName": "BLACKWATER CREEK NEAR MANCHESTER AL ",
+    "siteId": "02453000"
+  },
+  {
+    "gageName": "BLUE SPRINGS CREEK NEAR BLOUNTSVILLE, AL. ",
+    "siteId": "02449882"
+  },
+  {
+    "gageName": "BRIER FORK AT MOORE&#039;S MILL RD NR MERIDIANVILLE, AL ",
+    "siteId": "03574975"
+  },
+  {
+    "gageName": "BROGLAN BRANCH AT OAKWOOD AVENUE AT HUNTSVILLE, AL ",
+    "siteId": "0357591500"
+  },
+  {
+    "gageName": "CAHABA RIVER AT CENTREVILLE AL ",
+    "siteId": "02424000"
+  },
+  {
+    "gageName": "CAHABA RIVER AT TRUSSVILLE, AL. ",
+    "siteId": "02423130"
+  },
+  {
+    "gageName": "CAHABA RIVER NEAR ACTON AL ",
+    "siteId": "02423500"
+  },
+  {
+    "gageName": "CAHABA RIVER NEAR CAHABA HEIGHTS AL ",
+    "siteId": "02423425"
+  },
+  {
+    "gageName": "CAHABA RIVER NEAR HELENA AL ",
+    "siteId": "02423555"
+  },
+  {
+    "gageName": "CAHABA RIVER NEAR HOOVER, AL ",
+    "siteId": "02423496"
+  },
+  {
+    "gageName": "CAHABA RIVER NEAR MARION JUNCTION AL ",
+    "siteId": "02425000"
+  },
+  {
+    "gageName": "CAHABA RIVER NEAR MOUNTAIN BROOK AL ",
+    "siteId": "02423380"
+  },
+  {
+    "gageName": "CAHABA RIVER NEAR TRUSSVILLE, ALA ",
+    "siteId": "02423110"
+  },
+  {
+    "gageName": "CAHABA RIVER NEAR WEST BLOCTON AL ",
+    "siteId": "02423647"
+  },
+  {
+    "gageName": "CAHABA RIVER NEAR WHITES CHAPEL AL ",
+    "siteId": "02423160"
+  },
+  {
+    "gageName": "CAHABA VALLEY CR AT INDIAN TRAIL RD NR INDIAN SPRS ",
+    "siteId": "0242354650"
+  },
+  {
+    "gageName": "CAHABA VALLEY CREEK AT CROSS CR RD AT PELHAM, AL. ",
+    "siteId": "0242354750"
+  },
+  {
+    "gageName": "CHATTOOGA RIVER ABOVE GAYLESVILLE AL ",
+    "siteId": "02398300"
+  },
+  {
+    "gageName": "CHEWACLA CREEK AT CHEWACLA STATE PARK NR AUBURN ",
+    "siteId": "02418760"
+  },
+  {
+    "gageName": "CHOCCOLOCCO CREEK AT JACKSON SHOAL NR LINCOLN AL ",
+    "siteId": "02404400"
+  },
+  {
+    "gageName": "CHOCCOLOCCO CREEK NEAR BOILING SPRING, ALABAMA ",
+    "siteId": "02403310"
+  },
+  {
+    "gageName": "CLEAR C AT NEW HOPE CHURCH NR POPLAR SPRINGS, AL. ",
+    "siteId": "02450825"
+  },
+  {
+    "gageName": "COOSA RIVER AT ADAMS FERRY BR NR BALLPLAY, AL ",
+    "siteId": "02400175"
+  },
+  {
+    "gageName": "COOSA RIVER AT CENTRE, AL ",
+    "siteId": "02399600"
+  },
+  {
+    "gageName": "COOSA RIVER AT CHILDERSBURG AL ",
+    "siteId": "02407000"
+  },
+  {
+    "gageName": "COOSA RIVER AT GADSDEN AL ",
+    "siteId": "02400500"
+  },
+  {
+    "gageName": "COOSA RIVER AT GADSDEN STEAM PLANT NR GADSDEN, AL ",
+    "siteId": "02400496"
+  },
+  {
+    "gageName": "COOSA RIVER AT GASTON STEAM PLANT NR WILSONVILLE ",
+    "siteId": "02407526"
+  },
+  {
+    "gageName": "COOSA RIVER AT HWY 14 NEAR WETUMPKA, AL ",
+    "siteId": "02411590"
+  },
+  {
+    "gageName": "COOSA RIVER AT LEESBURG AL ",
+    "siteId": "02399500"
+  },
+  {
+    "gageName": "COOSA RIVER AT STATE LINE, AL/GA ",
+    "siteId": "02397530"
+  },
+  {
+    "gageName": "COOSA RIVER AT WETUMPKA AL ",
+    "siteId": "02411600"
+  },
+  {
+    "gageName": "COOSA RIVER NR SOUTHSIDE, ALA ",
+    "siteId": "02401330"
+  },
+  {
+    "gageName": "COTACO CREEK AT FLORETTE AL ",
+    "siteId": "03576148"
+  },
+  {
+    "gageName": "CYPRESS CREEK NEAR FLORENCE AL ",
+    "siteId": "03590000"
+  },
+  {
+    "gageName": "DALLAS BRANCH AT COLEMAN ST IN HUNTSVILLE, AL ",
+    "siteId": "0357587728"
+  },
+  {
+    "gageName": "DUCK RIVER ABOVE HWY 278 NEAR BERLIN, AL ",
+    "siteId": "02449838"
+  },
+  {
+    "gageName": "EAST FORK PINHOOK CR AT WINCHESTER RD AT HUNTSVIL ",
+    "siteId": "0357587140"
+  },
+  {
+    "gageName": "ESTILL FORK AT ESTILLFORK AL ",
+    "siteId": "03574100"
+  },
+  {
+    "gageName": "FAGAN CREEK AT ADAMS STREET AT HUNTSVILLE, AL. ",
+    "siteId": "0357586650"
+  },
+  {
+    "gageName": "FISH RIVER NEAR MARLOW, AL ",
+    "siteId": "0237854520"
+  },
+  {
+    "gageName": "FIVEMILE CREEK NEAR REPUBLIC, AL ",
+    "siteId": "02457595"
+  },
+  {
+    "gageName": "FIVE MILE CREEK NR SAYRE, ALA ",
+    "siteId": "02457704"
+  },
+  {
+    "gageName": "FLINT CREEK NEAR FALKVILLE AL ",
+    "siteId": "03576500"
+  },
+  {
+    "gageName": "FLINT R AT OSCAR PATTERSON ROAD NR HAZEL GREEN, AL ",
+    "siteId": "03574768"
+  },
+  {
+    "gageName": "FLINT RIVER AT BROWNSBORO, AL. ",
+    "siteId": "03575100"
+  },
+  {
+    "gageName": "HATCHET CREEK BELOW ROCKFORD AL ",
+    "siteId": "02408540"
+  },
+  {
+    "gageName": "HESTER CREEK AT BUDDY WILLIAMSON RD NR PLEVNA, AL ",
+    "siteId": "0357479650"
+  },
+  {
+    "gageName": "HILLABEE CREEK NEAR HACKNEYVILLE AL ",
+    "siteId": "02415000"
+  },
+  {
+    "gageName": "HUNTSVILLE SP BR AT JOHNSON ROAD, HUNTSVILLE AL ",
+    "siteId": "03575950"
+  },
+  {
+    "gageName": "INDIAN CREEK NEAR MADISON AL ",
+    "siteId": "03575830"
+  },
+  {
+    "gageName": "INTRACOASTAL WATERWAY - GULF SHORES, AL. ",
+    "siteId": "02378185"
+  },
+  {
+    "gageName": "KELLY CREEK NEAR VINCENT AL ",
+    "siteId": "02405500"
+  },
+  {
+    "gageName": "LAKE TUSCALOOSA NEAR TUSCALOOSA, ALABAMA ",
+    "siteId": "02464800"
+  },
+  {
+    "gageName": "LIMESTONE CREEK NEAR ATHENS AL ",
+    "siteId": "03576250"
+  },
+  {
+    "gageName": "LITTLE CAHABA RIVER AT CAH BEA RD NR CAHABA HTS AL ",
+    "siteId": "02423414"
+  },
+  {
+    "gageName": "LITTLE CAHABA RIVER BELOW LEEDS, AL. ",
+    "siteId": "02423397"
+  },
+  {
+    "gageName": "LITTLE CAHABA RIVER NR JEFFERSON PARK, AL. ",
+    "siteId": "02423400"
+  },
+  {
+    "gageName": "LITTLE RIVER NEAR BLUE POND AL ",
+    "siteId": "02399200"
+  },
+  {
+    "gageName": "LOCUST FORK AT SAYRE, AL. ",
+    "siteId": "02456500"
+  },
+  {
+    "gageName": "LOCUST FORK NEAR CLEVELAND, AL. ",
+    "siteId": "02455000"
+  },
+  {
+    "gageName": "LOST CREEK ABOVE PARRISH, AL. ",
+    "siteId": "02454055"
+  },
+  {
+    "gageName": "MCDONALD CREEK AT PATTON ROAD NR HUNTSVILLE AL ",
+    "siteId": "03575980"
+  },
+  {
+    "gageName": "MULBERRY FORK AT CORDOVA AL ",
+    "siteId": "02453500"
+  },
+  {
+    "gageName": "MULBERRY FORK NEAR ARKADELPHIA, AL. ",
+    "siteId": "02450180"
+  },
+  {
+    "gageName": "NORTH RIVER NEAR SAMANTHA AL ",
+    "siteId": "02464000"
+  },
+  {
+    "gageName": "OHATCHEE CREEK AT OHATCHEE, ALA. ",
+    "siteId": "02401895"
+  },
+  {
+    "gageName": "OSELIGEE CREEK NEAR LANETT AL ",
+    "siteId": "02339495"
+  },
+  {
+    "gageName": "PAINT ROCK RIVER NEAR WOODVILLE AL ",
+    "siteId": "03574500"
+  },
+  {
+    "gageName": "PEEVEY CREEK NEAR GURLEY, ALA ",
+    "siteId": "03575272"
+  },
+  {
+    "gageName": "PINHOOK C AT MASTIN LAKE RD AT HUNTSVILLE, ALA ",
+    "siteId": "0357587400"
+  },
+  {
+    "gageName": "PINHOOK CREEK AT CLINTON AVE. AT HUNTSVILLE, AL. ",
+    "siteId": "03575890"
+  },
+  {
+    "gageName": "SHADES CREEK AT ELDER ST NEAR SPRINGDALE AL ",
+    "siteId": "02423571"
+  },
+  {
+    "gageName": "SHADES CREEK NEAR GREENWOOD AL ",
+    "siteId": "02423630"
+  },
+  {
+    "gageName": "SHADES CREEK NR HOMEWOOD, ALA ",
+    "siteId": "02423586"
+  },
+  {
+    "gageName": "SHIRTEE CREEK NEAR ODENA, ALABAMA ",
+    "siteId": "02406930"
+  },
+  {
+    "gageName": "SIPSEY FORK NEAR GRAYSON AL ",
+    "siteId": "02450250"
+  },
+  {
+    "gageName": "SOUGAHATCHEE CREEK AT CO RD 188 NR LOACHAPOKA, AL. ",
+    "siteId": "02418230"
+  },
+  {
+    "gageName": "South Fork Cowikee Creek nr Howe, AL ",
+    "siteId": "02342937"
+  },
+  {
+    "gageName": "SOUTH SAUTY CREEK NEAR RAINSVILLE, ALA ",
+    "siteId": "03572690"
+  },
+  {
+    "gageName": "STYX RIVER AT SEMINOLE, ALA ",
+    "siteId": "02377750"
+  },
+  {
+    "gageName": "STYX R NR LOXLEY, AT SMITHS SIDING, ALA ",
+    "siteId": "02377560"
+  },
+  {
+    "gageName": "SWAN CREEK BELOW ATHENS, ALA ",
+    "siteId": "03577225"
+  },
+  {
+    "gageName": "TALLADEGA CREEK AT ALPINE AL ",
+    "siteId": "02406500"
+  },
+  {
+    "gageName": "TALLAPOOSA RIVER AT MALONE, ALABAMA ",
+    "siteId": "02414300"
+  },
+  {
+    "gageName": "TALLAPOOSA RIVER AT MILSTEAD AL ",
+    "siteId": "02419500"
+  },
+  {
+    "gageName": "TALLAPOOSA RIVER AT WADLEY AL ",
+    "siteId": "02414500"
+  },
+  {
+    "gageName": "TALLAPOOSA RIVER NEAR MONT.-MONT. WATER WORKS ",
+    "siteId": "02419890"
+  },
+  {
+    "gageName": "TALLAPOOSA RIVER NR NEW SITE, AL.",
+    "siteId": "02414715"
+  },
+  {
+    "gageName": "TERRAPIN CREEK AT ELLISVILLE AL ",
+    "siteId": "02400100"
+  },
+  {
+    "gageName": "TOWN CREEK NEAR GERALDINE AL ",
+    "siteId": "03572900"
+  },
+  {
+    "gageName": "TRIB TO VILLAGE CREEK AT 50th ST IN BIRMINGHAM ",
+    "siteId": "02458190"
+  },
+  {
+    "gageName": "TUCKABUM CREEK NEAR BUTLER AL ",
+    "siteId": "02469500"
+  },
+  {
+    "gageName": "TURKEY CREEK AT MORRIS AL ",
+    "siteId": "02456000"
+  },
+  {
+    "gageName": "TURKEY CREEK AT SEWAGE PLANT NEAR PINSON AL ",
+    "siteId": "02455980"
+  },
+  {
+    "gageName": "UCHEE CREEK NEAR FORT MITCHELL, AL. ",
+    "siteId": "02342500"
+  },
+  {
+    "gageName": "UPHAPEE CREEK NEAR TUSKEGEE AL ",
+    "siteId": "02419000"
+  },
+  {
+    "gageName": "VALLEY CREEK AT AVE W NEAR ENSLEY, AL ",
+    "siteId": "02461192"
+  },
+  {
+    "gageName": "VALLEY CREEK AT CENTER ST AT BIRMINGHAM, AL ",
+    "siteId": "02461130"
+  },
+  {
+    "gageName": "VALLEY CREEK BELOW BRIGHTON, ALA ",
+    "siteId": "02461405"
+  },
+  {
+    "gageName": "VALLEY CREEK NEAR BESSEMER, AL ",
+    "siteId": "02461500"
+  },
+  {
+    "gageName": "VALLEY CREEK NEAR OAK GROVE AL ",
+    "siteId": "02462000"
+  },
+  {
+    "gageName": "VILLAGE CREEK AT 24TH ST. AT BIRMINGHAM, AL ",
+    "siteId": "02458300"
+  },
+  {
+    "gageName": "VILLAGE CREEK AT 86TH ST NORTH AT ROEBUCK, AL. ",
+    "siteId": "02458148"
+  },
+  {
+    "gageName": "VILLAGE CREEK AT AVENUE W AT ENSLEY, AL ",
+    "siteId": "02458450"
+  },
+  {
+    "gageName": "VILLAGE CREEK NEAR ADAMSVILLE, AL. ",
+    "siteId": "02460500"
+  },
+  {
+    "gageName": "VILLAGE CREEK NEAR DOCENA, ALABAMA ",
+    "siteId": "02458600"
+  },
+  {
+    "gageName": "VILLAGE CREEK NEAR PRATT CITY, ALABAMA ",
+    "siteId": "02458502"
+  },
+  {
+    "gageName": "WALNUT CREEK ABOVE CLANTON, ALA ",
+    "siteId": "02408150"
+  },
+  {
+    "gageName": "WEST FORK PINHOOK CR AT BLUE SPRS RD AT HUNTSVILLE ",
+    "siteId": "0357587090"
+  },
+  {
+    "gageName": "YELLOWLEAF CREEK NEAR WESTOVER, AL ",
+    "siteId": "02407514"
+  }
+]

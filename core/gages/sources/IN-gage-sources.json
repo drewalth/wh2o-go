@@ -1,0 +1,734 @@
+[
+  {
+    "gageName": "BEAVER CREEK NEAR SHOALS, IN ",
+    "siteId": "03373508"
+  },
+  {
+    "gageName": "BEE HUNTER DITCH AT LINTON, IN ",
+    "siteId": "03360652"
+  },
+  {
+    "gageName": "BIG BLUE RIVER AT CARTHAGE, IN ",
+    "siteId": "03361000"
+  },
+  {
+    "gageName": "BIG BLUE RIVER AT SHELBYVILLE, IN ",
+    "siteId": "03361500"
+  },
+  {
+    "gageName": "BIG DUCK CREEK AT 14TH STREET PARK AT ELWOOD, IN ",
+    "siteId": "033483827"
+  },
+  {
+    "gageName": "BIG MONON DITCH AT CR200N NEAR MEDARYVILLE, IN ",
+    "siteId": "03332349"
+  },
+  {
+    "gageName": "BIG PINE CREEK AT PINE VILLAGE, IN ",
+    "siteId": "033356848"
+  },
+  {
+    "gageName": "BIG RACCOON CREEK AT COXVILLE, IN ",
+    "siteId": "03341300"
+  },
+  {
+    "gageName": "BIG RACCOON CREEK AT FERNDALE, IN ",
+    "siteId": "03340900"
+  },
+  {
+    "gageName": "BIG RACCOON CREEK NEAR FINCASTLE, IN ",
+    "siteId": "03340800"
+  },
+  {
+    "gageName": "BLACK CREEK NEAR HARLAN, IN ",
+    "siteId": "04183038"
+  },
+  {
+    "gageName": "BLUE RIVER AT FREDERICKSBURG, IN ",
+    "siteId": "03302800"
+  },
+  {
+    "gageName": "BLUE RIVER NEAR WHITE CLOUD, IN ",
+    "siteId": "03303000"
+  },
+  {
+    "gageName": "BRANDYWINE CREEK AT GREENFIELD, IN ",
+    "siteId": "03361605"
+  },
+  {
+    "gageName": "BUCK CREEK AT ACTON, IN ",
+    "siteId": "03361850"
+  },
+  {
+    "gageName": "BUCK CREEK NEAR NEW MIDDLETOWN, IN ",
+    "siteId": "03302220"
+  },
+  {
+    "gageName": "BURNS DITCH AT USHWY 20 AT LAKE STATION, IN ",
+    "siteId": "04093503"
+  },
+  {
+    "gageName": "CARPENTER CREEK AT REMINGTON, IN ",
+    "siteId": "05523865"
+  },
+  {
+    "gageName": "CEDAR CREEK AT 18TH STREET AT AUBURN, IN ",
+    "siteId": "04179520"
+  },
+  {
+    "gageName": "CEDAR CREEK NEAR CEDARVILLE, IN ",
+    "siteId": "04180000"
+  },
+  {
+    "gageName": "CICERO CREEK AT ARCADIA, IN ",
+    "siteId": "03349510"
+  },
+  {
+    "gageName": "CICERO CREEK AT NOBLESVILLE, IN ",
+    "siteId": "03350500"
+  },
+  {
+    "gageName": "CICERO CREEK AT TIPTON, IN ",
+    "siteId": "03349210"
+  },
+  {
+    "gageName": "CLIFTY CREEK AT HARTSVILLE, IN ",
+    "siteId": "03364500"
+  },
+  {
+    "gageName": "CLIFTY CREEK NEAR COLUMBUS, IN ",
+    "siteId": "03364650"
+  },
+  {
+    "gageName": "CROOKED CREEK AT INDIANAPOLIS, IN ",
+    "siteId": "03351310"
+  },
+  {
+    "gageName": "DEEP RIVER AT GRAND BLVD AT MERRILLVILLE, IN ",
+    "siteId": "04092944"
+  },
+  {
+    "gageName": "DEEP RIVER AT LAKE GEORGE OUTLET AT HOBART, IN ",
+    "siteId": "04093000"
+  },
+  {
+    "gageName": "DEEP RIVER NEAR LIVERPOOL, IN ",
+    "siteId": "04093100"
+  },
+  {
+    "gageName": "DERBYSHIRE CK ABOVE MCFARLAND RD AT SOUTHPORT, IN ",
+    "siteId": "03353633"
+  },
+  {
+    "gageName": "DRAIN TILE EAST OF BULL RAPIDS RD NR HARLAN, IN ",
+    "siteId": "411229084541102"
+  },
+  {
+    "gageName": "DRAIN TILE WEST OF BULL RAPIDS RD NR HARLAN, IN ",
+    "siteId": "411228084541702"
+  },
+  {
+    "gageName": "DRIFTWOOD RIVER NEAR EDINBURGH, IN ",
+    "siteId": "03363000"
+  },
+  {
+    "gageName": "EAGLE CREEK AT 79TH STREET AT INDIANAPOLIS, IN ",
+    "siteId": "03353240"
+  },
+  {
+    "gageName": "EAGLE CREEK AT CLERMONT, IN ",
+    "siteId": "03353460"
+  },
+  {
+    "gageName": "EAGLE CREEK AT INDIANAPOLIS, IN ",
+    "siteId": "03353500"
+  },
+  {
+    "gageName": "EAGLE CREEK AT RAYMOND ST AT INDIANAPOLIS, IN ",
+    "siteId": "033536062"
+  },
+  {
+    "gageName": "EAGLE CREEK AT ZIONSVILLE, IN ",
+    "siteId": "03353200"
+  },
+  {
+    "gageName": "EAGLE CREEK BELOW RESERVOIR AT INDIANAPOLIS, IN ",
+    "siteId": "03353451"
+  },
+  {
+    "gageName": "EAST FORK WHITE LICK CREEK AT MOORESVILLE, IN ",
+    "siteId": "03353910"
+  },
+  {
+    "gageName": "EAST FORK WHITE RIVER AT SEYMOUR, IN ",
+    "siteId": "03365500"
+  },
+  {
+    "gageName": "EAST FORK WHITE RIVER AT SHOALS, IN ",
+    "siteId": "03373500"
+  },
+  {
+    "gageName": "EAST FORK WHITE RIVER NEAR BEDFORD, IN ",
+    "siteId": "03371500"
+  },
+  {
+    "gageName": "EAST FORK WHITEWATER RIVER AT ABINGTON, IN ",
+    "siteId": "03275600"
+  },
+  {
+    "gageName": "EAST FORK WHITEWATER RIVER AT BROOKVILLE, IN ",
+    "siteId": "03276000"
+  },
+  {
+    "gageName": "EAST FORK WHITEWATER RIVER AT RICHMOND, IN ",
+    "siteId": "03275500"
+  },
+  {
+    "gageName": "ELKHART RIVER AT GOSHEN, IN ",
+    "siteId": "04100500"
+  },
+  {
+    "gageName": "FALL CREEK AT 16TH STREET AT INDIANAPOLIS, IN ",
+    "siteId": "03352875"
+  },
+  {
+    "gageName": "FALL CREEK AT MILLERSVILLE, IN ",
+    "siteId": "03352500"
+  },
+  {
+    "gageName": "FALL CREEK NEAR FORTVILLE, IN ",
+    "siteId": "03351500"
+  },
+  {
+    "gageName": "FARLEY CREEK ABOVE 10TH STREET AT INDIANAPOLIS, IN ",
+    "siteId": "03353494"
+  },
+  {
+    "gageName": "FISH CREEK AT HAMILTON, IN ",
+    "siteId": "04177720"
+  },
+  {
+    "gageName": "FLATROCK RIVER AT COLUMBUS, IN ",
+    "siteId": "03363900"
+  },
+  {
+    "gageName": "FLATROCK RIVER AT ST. PAUL, IN ",
+    "siteId": "03363500"
+  },
+  {
+    "gageName": "FLATROCK RIVER NEAR RALEIGH, IN ",
+    "siteId": "03363220"
+  },
+  {
+    "gageName": "FLATROCK RIVER NR RUSHVILLE, IN ",
+    "siteId": "03363400"
+  },
+  {
+    "gageName": "GEIST RESERVOIR AT INDIANAPOLIS, IN ",
+    "siteId": "03351700"
+  },
+  {
+    "gageName": "GERKE DITCH NEAR DECATUR, IN ",
+    "siteId": "04181635"
+  },
+  {
+    "gageName": "GERMANIA CREEK AT WEST STREET AT INDIANAPOLIS, IN ",
+    "siteId": "033531908"
+  },
+  {
+    "gageName": "GRAND CALUMET RIVER AT COLUMBIA AV AT HAMMOND, IN ",
+    "siteId": "05536356"
+  },
+  {
+    "gageName": "GRAND CALUMET RIVER AT INDUSTRIAL HWY AT GARY, IN ",
+    "siteId": "04092677"
+  },
+  {
+    "gageName": "HAMILTON LAKE AT HAMILTON, IN ",
+    "siteId": "04177700"
+  },
+  {
+    "gageName": "HAW CREEK AT EAST COLUMBUS, IN ",
+    "siteId": "03364340"
+  },
+  {
+    "gageName": "HAW CREEK AT HOPE, IN ",
+    "siteId": "03364042"
+  },
+  {
+    "gageName": "HAW CREEK NEAR CLIFFORD, IN ",
+    "siteId": "03364200"
+  },
+  {
+    "gageName": "HERON LAKE AT INDIANAPOLIS, IN ",
+    "siteId": "03352695"
+  },
+  {
+    "gageName": "HOLLY CREEK ABOVE 86TH STREET AT INDIANAPOLIS, IN ",
+    "siteId": "03351007"
+  },
+  {
+    "gageName": "HUNTER DITCH AT GOODLAND, IN ",
+    "siteId": "05524546"
+  },
+  {
+    "gageName": "INDIANA HARBOR CANAL AT EAST CHICAGO, IN ",
+    "siteId": "04092750"
+  },
+  {
+    "gageName": "INDIAN-KENTUCK CREEK NEAR CANAAN, IN ",
+    "siteId": "03291780"
+  },
+  {
+    "gageName": "IROQUOIS RIVER NEAR PARR, IN ",
+    "siteId": "05520980"
+  },
+  {
+    "gageName": "JUDY CREEK NEAR SOUTH BEND, IN ",
+    "siteId": "04101370"
+  },
+  {
+    "gageName": "JUNK DITCH AT FORT WAYNE, IN ",
+    "siteId": "04182755"
+  },
+  {
+    "gageName": "LAKE MAXINHALL AT INDIANAPOLIS, IN ",
+    "siteId": "03352690"
+  },
+  {
+    "gageName": "LAKE MAXINKUCKEE AT CULVER, IN ",
+    "siteId": "03331440"
+  },
+  {
+    "gageName": "LICK CREEK AT INDIANAPOLIS, IN ",
+    "siteId": "03353620"
+  },
+  {
+    "gageName": "LICK CREEK AT PAOLI, IN ",
+    "siteId": "03373610"
+  },
+  {
+    "gageName": "LITTLE BLUE RIVER AT SHELBYVILLE, IN ",
+    "siteId": "03361440"
+  },
+  {
+    "gageName": "LITTLE BUCK CREEK AT TIBBS AV NR INDIANAPOLIS, IN ",
+    "siteId": "03353638"
+  },
+  {
+    "gageName": "LITTLE CALUMET R AT NORTHCOTE AV AT MUNSTER, IN ",
+    "siteId": "05536191"
+  },
+  {
+    "gageName": "LITTLE CALUMET RIVER AT GRANT ST AT GARY, IN ",
+    "siteId": "04093176"
+  },
+  {
+    "gageName": "LITTLE CALUMET RIVER AT MUNSTER, IN ",
+    "siteId": "05536195"
+  },
+  {
+    "gageName": "LITTLE CALUMET RIVER AT PORTER, IN ",
+    "siteId": "04094000"
+  },
+  {
+    "gageName": "LITTLE CALUMET RIVER NEAR LAKE STATION, IN ",
+    "siteId": "04093250"
+  },
+  {
+    "gageName": "LITTLE EAGLE CREEK AT SPEEDWAY, IN ",
+    "siteId": "03353600"
+  },
+  {
+    "gageName": "LITTLE RIVER NEAR HUNTINGTON, IN ",
+    "siteId": "03324000"
+  },
+  {
+    "gageName": "LOST RIVER NEAR PROSPECT, IN ",
+    "siteId": "03373560"
+  },
+  {
+    "gageName": "MAUMEE RIVER AT COLUMBIA ST AT FORT WAYNE, IN ",
+    "siteId": "04182830"
+  },
+  {
+    "gageName": "MILL CREEK NEAR CATARACT, IN ",
+    "siteId": "03358000"
+  },
+  {
+    "gageName": "MISSISSINEWA RIVER AT RIDGEVILLE, IN ",
+    "siteId": "03325519"
+  },
+  {
+    "gageName": "MORSE RESERVOIR AT NOBLESVILLE, IN ",
+    "siteId": "03350400"
+  },
+  {
+    "gageName": "MUD CREEK AT FISHERS, IN ",
+    "siteId": "03352162"
+  },
+  {
+    "gageName": "NB ELKHART RIVER AT COSPERVILLE, IN ",
+    "siteId": "04100222"
+  },
+  {
+    "gageName": "NICKELSEN CREEK NEAR DECATUR, IN ",
+    "siteId": "04181755"
+  },
+  {
+    "gageName": "NORTH FORK SALT CREEK AT NASHVILLE, IN ",
+    "siteId": "03371650"
+  },
+  {
+    "gageName": "OVERLAND FLOW EAST OF BULL RAPIDS RD NR HARLAN, IN ",
+    "siteId": "411229084541101"
+  },
+  {
+    "gageName": "OVERLAND FLOW WEST OF BULL RAPIDS RD NR HARLAN, IN ",
+    "siteId": "411228084541701"
+  },
+  {
+    "gageName": "PIGEON CREEK NR ANGOLA, IN ",
+    "siteId": "04099510"
+  },
+  {
+    "gageName": "PIGEON RIVER NEAR SCOTT, IN ",
+    "siteId": "04099750"
+  },
+  {
+    "gageName": "PIKE LAKE AT WARSAW, IN ",
+    "siteId": "03331040"
+  },
+  {
+    "gageName": "PIPE CREEK AT FRANKTON, IN ",
+    "siteId": "03348350"
+  },
+  {
+    "gageName": "PLEASANT RUN AT ARLINGTON AV AT INDIANAPOLIS, IN ",
+    "siteId": "03353120"
+  },
+  {
+    "gageName": "POGUES RUN ABOVE DAM AT INDIANAPOLIS, IN ",
+    "siteId": "03352972"
+  },
+  {
+    "gageName": "POGUES RUN AT VERMONT STREET AT INDIANAPOLIS, IN ",
+    "siteId": "03352988"
+  },
+  {
+    "gageName": "PORTAGE-BURNS WATERWAY AT PORTAGE, IN ",
+    "siteId": "04095090"
+  },
+  {
+    "gageName": "PRAIRIE CREEK NEAR LEBANON, IN ",
+    "siteId": "03339280"
+  },
+  {
+    "gageName": "REDWOOD CREEK NEAR MARSHFIELD, IN ",
+    "siteId": "03335960"
+  },
+  {
+    "gageName": "SALAMONIE RIVER AT PORTLAND, IN ",
+    "siteId": "03324200"
+  },
+  {
+    "gageName": "SALT CREEK AT VALPARAISO, IN ",
+    "siteId": "04094400"
+  },
+  {
+    "gageName": "SALT CREEK NEAR HARRODSBURG, IN ",
+    "siteId": "03372500"
+  },
+  {
+    "gageName": "SAND CREEK AT 116TH STREET AT FISHERS, IN ",
+    "siteId": "033521504"
+  },
+  {
+    "gageName": "SCHOOL BRANCH AT CR750N AT BROWNSBURG, IN ",
+    "siteId": "03353420"
+  },
+  {
+    "gageName": "SCHOOL BRANCH AT MALONEY ROAD NEAR BROWNSBURG, IN ",
+    "siteId": "03353415"
+  },
+  {
+    "gageName": "SHATTO DITCH NEAR MENTONE, IN ",
+    "siteId": "03331224"
+  },
+  {
+    "gageName": "SILVER CREEK NEAR SELLERSBURG, IN ",
+    "siteId": "03294000"
+  },
+  {
+    "gageName": "SMOTHERS CREEK NR PLAINVILLE, IN ",
+    "siteId": "03360600"
+  },
+  {
+    "gageName": "SOUTH FORK SALT CREEK AT KURTZ, IN ",
+    "siteId": "03371600"
+  },
+  {
+    "gageName": "ST. JOSEPH R AT PARNELL AV AT FORT WAYNE, IN ",
+    "siteId": "04180610"
+  },
+  {
+    "gageName": "ST. JOSEPH RIVER AT ELKHART, IN ",
+    "siteId": "04101000"
+  },
+  {
+    "gageName": "ST. JOSEPH RIVER AT SOUTH BEND, IN ",
+    "siteId": "04101225"
+  },
+  {
+    "gageName": "ST. JOSEPH RIVER NEAR FORT WAYNE, IN ",
+    "siteId": "04180500"
+  },
+  {
+    "gageName": "ST. MARYS RIVER AT MAIN ST. AT FORT WAYNE, IN ",
+    "siteId": "04182769"
+  },
+  {
+    "gageName": "ST. MARYS RIVER AT PLEASANT MILLS, IN ",
+    "siteId": "04181120"
+  },
+  {
+    "gageName": "STONY CREEK AT FISHERSBURG, IN ",
+    "siteId": "03350655"
+  },
+  {
+    "gageName": "STONY CREEK NEAR NOBLESVILLE, IN ",
+    "siteId": "03350700"
+  },
+  {
+    "gageName": "SUGAR CREEK AT CRAWFORDSVILLE, IN ",
+    "siteId": "03339500"
+  },
+  {
+    "gageName": "SUGAR CREEK AT NEW PALESTINE, IN ",
+    "siteId": "03361650"
+  },
+  {
+    "gageName": "SUGAR CREEK NEAR BOGGSTOWN, IN ",
+    "siteId": "03361872"
+  },
+  {
+    "gageName": "SUGAR CREEK NEAR EDINBURGH, IN ",
+    "siteId": "03362500"
+  },
+  {
+    "gageName": "SUGAR CREEK NEAR THORNTOWN, IN ",
+    "siteId": "03339305"
+  },
+  {
+    "gageName": "SYLVAN LAKE AT ROME CITY, IN ",
+    "siteId": "04100180"
+  },
+  {
+    "gageName": "TANNERS CREEK AT LAWRENCEBURG, IN ",
+    "siteId": "03276650"
+  },
+  {
+    "gageName": "TIPPECANOE RIVER AT BUFFALO, IN ",
+    "siteId": "03332345"
+  },
+  {
+    "gageName": "TRAIL CREEK AT MICHIGAN CITY HARBOR, IN ",
+    "siteId": "04095380"
+  },
+  {
+    "gageName": "TRAIL CREEK AT MICHIGAN CITY, IN ",
+    "siteId": "04095300"
+  },
+  {
+    "gageName": "TURKEY CREEK AT 61ST AV AT MERRILLVILLE, IN ",
+    "siteId": "04092977"
+  },
+  {
+    "gageName": "TURKEY CREEK AT JOLIET ST AT SCHERERVILLE, IN ",
+    "siteId": "04092964"
+  },
+  {
+    "gageName": "WABASH RIVER AT BLUFFTON, IN ",
+    "siteId": "03323000"
+  },
+  {
+    "gageName": "WABASH RIVER AT COVINGTON, IN ",
+    "siteId": "03336000"
+  },
+  {
+    "gageName": "WABASH RIVER AT DELPHI, IN ",
+    "siteId": "03329500"
+  },
+  {
+    "gageName": "WABASH RIVER AT HUNTINGTON, IN ",
+    "siteId": "03323500"
+  },
+  {
+    "gageName": "WABASH RIVER AT LAFAYETTE, IN ",
+    "siteId": "03335500"
+  },
+  {
+    "gageName": "WABASH RIVER AT LINN GROVE, IN ",
+    "siteId": "03322900"
+  },
+  {
+    "gageName": "WABASH RIVER AT MONTEZUMA, IN ",
+    "siteId": "03340500"
+  },
+  {
+    "gageName": "WABASH RIVER AT PERU, IN ",
+    "siteId": "03327500"
+  },
+  {
+    "gageName": "WABASH RIVER AT WABASH, IN ",
+    "siteId": "03325000"
+  },
+  {
+    "gageName": "WALDRON LAKE NEAR COSPERVILLE, IN ",
+    "siteId": "04100220"
+  },
+  {
+    "gageName": "WEST FORK BLUE RIVER AT SALEM, IN ",
+    "siteId": "03302680"
+  },
+  {
+    "gageName": "WEST FORK WHITE LICK CREEK AT DANVILLE, IN ",
+    "siteId": "03353700"
+  },
+  {
+    "gageName": "WHISKEY RUN AT MARENGO, IN ",
+    "siteId": "03302849"
+  },
+  {
+    "gageName": "WHITE LICK CREEK AT MOORESVILLE, IN ",
+    "siteId": "03353800"
+  },
+  {
+    "gageName": "WHITE LICK CREEK NEAR BROWNSBURG, IN ",
+    "siteId": "03353670"
+  },
+  {
+    "gageName": "WHITE R. AT STOUT GEN. STN. AT INDIANAPOLIS, IN ",
+    "siteId": "03353611"
+  },
+  {
+    "gageName": "WHITE RIVER ABOVE PETERSBURG, IN ",
+    "siteId": "03373980"
+  },
+  {
+    "gageName": "WHITE RIVER AT 146TH ST NEAR NOBLESVILLE, IN ",
+    "siteId": "03350800"
+  },
+  {
+    "gageName": "WHITE RIVER AT 16TH STREET AT INDIANAPOLIS, IN ",
+    "siteId": "03351350"
+  },
+  {
+    "gageName": "WHITE RIVER AT ANDERSON, IN ",
+    "siteId": "03348000"
+  },
+  {
+    "gageName": "WHITE RIVER AT BROAD RIPPLE, IN ",
+    "siteId": "03351060"
+  },
+  {
+    "gageName": "WHITE RIVER AT HAZLETON, IN ",
+    "siteId": "03374100"
+  },
+  {
+    "gageName": "WHITE RIVER AT INDIANAPOLIS, IN ",
+    "siteId": "03353000"
+  },
+  {
+    "gageName": "WHITE RIVER AT INDIANAPOLIS MUSEUM OF ART, IN ",
+    "siteId": "03351201"
+  },
+  {
+    "gageName": "WHITE RIVER AT MICHIGAN STREET AT INDIANAPOLIS, IN ",
+    "siteId": "03352953"
+  },
+  {
+    "gageName": "WHITE RIVER AT MUNCIE, IN ",
+    "siteId": "03347000"
+  },
+  {
+    "gageName": "WHITE RIVER AT NEWBERRY, IN ",
+    "siteId": "03360500"
+  },
+  {
+    "gageName": "WHITE RIVER AT NOBLESVILLE, IN ",
+    "siteId": "03349000"
+  },
+  {
+    "gageName": "WHITE RIVER AT PETERSBURG, IN ",
+    "siteId": "03374000"
+  },
+  {
+    "gageName": "WHITE RIVER AT RAIBLE AVENUE AT ANDERSON, IN ",
+    "siteId": "03348130"
+  },
+  {
+    "gageName": "WHITE RIVER AT RAVENSWOOD, IN ",
+    "siteId": "03351005"
+  },
+  {
+    "gageName": "WHITE RIVER AT SPENCER, IN ",
+    "siteId": "03357000"
+  },
+  {
+    "gageName": "WHITE RIVER BELOW DAM AT BROAD RIPPLE, IN ",
+    "siteId": "03351071"
+  },
+  {
+    "gageName": "WHITE RIVER NEAR CENTERTON, IN ",
+    "siteId": "03354000"
+  },
+  {
+    "gageName": "WHITE RIVER NEAR EDWARDSPORT, IN ",
+    "siteId": "03360730"
+  },
+  {
+    "gageName": "WHITE RIVER NEAR NORA, IN ",
+    "siteId": "03351000"
+  },
+  {
+    "gageName": "WHITE RIVER NEAR STRAWTOWN, IN ",
+    "siteId": "03348502"
+  },
+  {
+    "gageName": "WHITEWATER RIVER AT BROOKVILLE, IN ",
+    "siteId": "03276500"
+  },
+  {
+    "gageName": "WHITEWATER RIVER NEAR ALPINE, IN ",
+    "siteId": "03275000"
+  },
+  {
+    "gageName": "WHITEWATER RIVER NEAR ECONOMY, IN ",
+    "siteId": "03274650"
+  },
+  {
+    "gageName": "WILDCAT CREEK AT KOKOMO, IN ",
+    "siteId": "03333700"
+  },
+  {
+    "gageName": "WILDCAT CREEK NEAR JEROME, IN ",
+    "siteId": "03333450"
+  },
+  {
+    "gageName": "WILLIAM LOCK DITCH NEAR DURBIN, IN ",
+    "siteId": "03350660"
+  },
+  {
+    "gageName": "WILLIAMS CREEK AT 96TH STREET, INDIANAPOLIS, IN ",
+    "siteId": "03351072"
+  },
+  {
+    "gageName": "YELLOW RIVER NEAR OAK GROVE, IN ",
+    "siteId": "05516665"
+  },
+  {
+    "gageName": "YOUNGS CREEK NEAR EDINBURGH, IN ",
+    "siteId": "03362000"
+  }
+]
