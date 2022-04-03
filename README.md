@@ -6,18 +6,6 @@
 
 ---
 
-# Heads Up\*
-
-After struggling to deploy this app on an over-burdened Raspberry Pi and tolerating poor development experience with
-Nextjs, I've decided to transition to a Golang server with a static Reactjs frontend.
-
-With this new setup we can compile the API to run on a Pi--and it actually works.
-
-The Nextjs version will no longer be actively worked on, please see
-the [golang-develop](https://github.com/drewalth/wh2o-next/tree/golang-develop) branch.
-
----
-
 With `wh2o-next` you can subscribe to USGS river gages via
 the [Official REST API](https://waterservices.usgs.gov/rest/IV-Service.html), view aggregate gage reading data in the
 the browser and create custom notifications--daily emails summarizing all your bookmarked gages or immediate SMS alerts when
