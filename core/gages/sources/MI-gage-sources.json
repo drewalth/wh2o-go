@@ -1,0 +1,646 @@
+[
+  {
+    "gageName": "ALGER CREEK AT HILL ROAD NEAR SWARTZ CREEK, MI ",
+    "siteId": "041482663"
+  },
+  {
+    "gageName": "ALLEN CREEK AT MOUTH AT ANN ARBOR, MI ",
+    "siteId": "04174490"
+  },
+  {
+    "gageName": "AUGUSTA CREEK NEAR AUGUSTA, MI ",
+    "siteId": "04105700"
+  },
+  {
+    "gageName": "AUSTIN LAKE NEAR KALAMAZOO, MI ",
+    "siteId": "04097188"
+  },
+  {
+    "gageName": "AU TRAIN RIVER AT FOREST LAKE, MI ",
+    "siteId": "04044724"
+  },
+  {
+    "gageName": "BATTLE CREEK AT BATTLE CREEK, MI ",
+    "siteId": "04105000"
+  },
+  {
+    "gageName": "BELLE RIVER AT MEMPHIS, MI ",
+    "siteId": "04160600"
+  },
+  {
+    "gageName": "BLACK RIVER NEAR BESSEMER, MI ",
+    "siteId": "04031000"
+  },
+  {
+    "gageName": "BLACK RIVER NEAR GARNET, MI ",
+    "siteId": "04046000"
+  },
+  {
+    "gageName": "BLACK RIVER NEAR JEDDO, MI ",
+    "siteId": "04159492"
+  },
+  {
+    "gageName": "BOARDMAN R ABOVE BROWN BRIDGE ROAD NR MAYFIELD, MI ",
+    "siteId": "04126970"
+  },
+  {
+    "gageName": "BOARDMAN RIVER AT BEITNER RD NR TRAVERSE CITY, MI ",
+    "siteId": "04127200"
+  },
+  {
+    "gageName": "BUCK CREEK AT WILSON AVENUE AT GRANDVILLE, MI ",
+    "siteId": "04119160"
+  },
+  {
+    "gageName": "CASS RIVER AT FRANKENMUTH, MI ",
+    "siteId": "04151500"
+  },
+  {
+    "gageName": "CASS RIVER AT WAHJAMEGA, MI ",
+    "siteId": "04150800"
+  },
+  {
+    "gageName": "CEDAR RIVER AT COUNTY ROAD 366 NR CEDAR RIVER, MI ",
+    "siteId": "04059750"
+  },
+  {
+    "gageName": "CHIPPEWA CREEK AT 90TH AVENUE NEAR EVART, MI ",
+    "siteId": "04121494"
+  },
+  {
+    "gageName": "CHIPPEWA RIVER AT DREW RD NR DREW, MI ",
+    "siteId": "04153725"
+  },
+  {
+    "gageName": "Chippewa River at S. Homer Rd nr Midland ",
+    "siteId": "04154512"
+  },
+  {
+    "gageName": "CHIPPEWA RIVER NEAR MOUNT PLEASANT, MI ",
+    "siteId": "04154000"
+  },
+  {
+    "gageName": "CISCO BRANCH ONTONAGON R AT CISCO LAKE OUTLET, MI ",
+    "siteId": "04037500"
+  },
+  {
+    "gageName": "CISCO LAKE NEAR WATERSMEET, MI ",
+    "siteId": "04037400"
+  },
+  {
+    "gageName": "CLINTON RIVER AT AUBURN HILLS, MI ",
+    "siteId": "04161000"
+  },
+  {
+    "gageName": "CLINTON RIVER AT MORAVIAN DRIVE AT MT. CLEMENS, MI ",
+    "siteId": "04165500"
+  },
+  {
+    "gageName": "CLINTON RIVER AT STERLING HEIGHTS, MI ",
+    "siteId": "04161820"
+  },
+  {
+    "gageName": "CLINTON RIVER NEAR FRASER, MI ",
+    "siteId": "04164000"
+  },
+  {
+    "gageName": "DEAD RIVER AT MARQUETTE, MI ",
+    "siteId": "04044003"
+  },
+  {
+    "gageName": "DICKINSON CREEK NEAR CERESCO, MI ",
+    "siteId": "041035285"
+  },
+  {
+    "gageName": "DOWAGIAC CREEK AT DUTCH SETTLEMENT RD NR DOWAGIAC, ",
+    "siteId": "04101590"
+  },
+  {
+    "gageName": "DOWAGIAC RIVER AT STATE HWY 51 NEAR DOWAGIAC, MI ",
+    "siteId": "04101535"
+  },
+  {
+    "gageName": "DOWAGIAC RIVER AT SUMNERVILLE, MI ",
+    "siteId": "04101800"
+  },
+  {
+    "gageName": "EAST BRANCH PINE RIVER NEAR TUSTIN, MI ",
+    "siteId": "04124500"
+  },
+  {
+    "gageName": "EAST BRANCH SALMON TROUT RIVER NEAR DODGE CITY, MI ",
+    "siteId": "04043244"
+  },
+  {
+    "gageName": "EAST POND CREEK AT ROMEO, MI ",
+    "siteId": "04164100"
+  },
+  {
+    "gageName": "E BR ST JOSEPH R AT TERRITORIAL RD NR WALDRON, MI ",
+    "siteId": "04177080"
+  },
+  {
+    "gageName": "ESCANABA RIVER AT CORNELL, MI ",
+    "siteId": "04059000"
+  },
+  {
+    "gageName": "FALLS RIVER NEAR L&#039;ANSE, MI ",
+    "siteId": "04043097"
+  },
+  {
+    "gageName": "FARMERS CREEK NEAR LAPEER, MI ",
+    "siteId": "04146000"
+  },
+  {
+    "gageName": "FISH CREEK NEAR CRYSTAL, MI ",
+    "siteId": "04115265"
+  },
+  {
+    "gageName": "FLAT RIVER AT SMYRNA, MI ",
+    "siteId": "04116500"
+  },
+  {
+    "gageName": "FLINT RIVER NEAR OTISVILLE, MI ",
+    "siteId": "04147500"
+  },
+  {
+    "gageName": "FORD RIVER NEAR HYDE, MI ",
+    "siteId": "04059500"
+  },
+  {
+    "gageName": "FRANK AND POET DRAIN AT KING RD AT TRENTON, MI ",
+    "siteId": "04168660"
+  },
+  {
+    "gageName": "GALIEN RIVER NEAR SAWYER, MI ",
+    "siteId": "04096015"
+  },
+  {
+    "gageName": "GRAND RIVER AT GRAND RAPIDS, MI ",
+    "siteId": "04119000"
+  },
+  {
+    "gageName": "GRAND RIVER AT IONIA, MI ",
+    "siteId": "04116000"
+  },
+  {
+    "gageName": "GRAND RIVER AT JACKSON, MI ",
+    "siteId": "04109000"
+  },
+  {
+    "gageName": "GRAND RIVER AT N PARK ST NE AT GRAND RAPIDS, MI ",
+    "siteId": "04118564"
+  },
+  {
+    "gageName": "GRAND RIVER AT PORTLAND, MI ",
+    "siteId": "04114000"
+  },
+  {
+    "gageName": "GRAND RIVER AT STATE HWY M-11 AT GRANDVILLE, MI ",
+    "siteId": "04119070"
+  },
+  {
+    "gageName": "GRAND RIVER NEAR EASTMANVILLE, MI ",
+    "siteId": "04119400"
+  },
+  {
+    "gageName": "GRAND RIVER NEAR EATON RAPIDS, MI ",
+    "siteId": "04111000"
+  },
+  {
+    "gageName": "GREENWOOD AFTERBAY NEAR GREENWOOD, MI ",
+    "siteId": "04057812"
+  },
+  {
+    "gageName": "GREENWOOD DIVERSION NEAR GREENWOOD, MI ",
+    "siteId": "04057813"
+  },
+  {
+    "gageName": "GREENWOOD RELEASE NEAR GREENWOOD, MI ",
+    "siteId": "04057814"
+  },
+  {
+    "gageName": "GREENWOOD RESERVOIR NEAR GREENWOOD, MI ",
+    "siteId": "04057811"
+  },
+  {
+    "gageName": "HURON RIVER AT ANN ARBOR, MI ",
+    "siteId": "04174500"
+  },
+  {
+    "gageName": "HURON RIVER NEAR HAMBURG, MI ",
+    "siteId": "04172000"
+  },
+  {
+    "gageName": "INTERMEDIATE LAKE AT CENTRAL LAKE, MI ",
+    "siteId": "450415085153501"
+  },
+  {
+    "gageName": "IRON RIVER AT CASPIAN, MI ",
+    "siteId": "04060500"
+  },
+  {
+    "gageName": "JORDAN RIVER NEAR EAST JORDAN, MI ",
+    "siteId": "04127800"
+  },
+  {
+    "gageName": "KALAMAZOO RIVER AT COMSTOCK, MI ",
+    "siteId": "04106000"
+  },
+  {
+    "gageName": "KALAMAZOO RIVER AT MARSHALL, MI ",
+    "siteId": "04103500"
+  },
+  {
+    "gageName": "KALAMAZOO RIVER AT NEW RICHMOND, MI ",
+    "siteId": "04108660"
+  },
+  {
+    "gageName": "KALAMAZOO RIVER NEAR BATTLE CREEK, MI ",
+    "siteId": "04105500"
+  },
+  {
+    "gageName": "LAKE GOGEBIC NEAR BERGLAND, MI ",
+    "siteId": "04035995"
+  },
+  {
+    "gageName": "LIME CREEK AT RANGER HIGHWAY NEAR MORENCI, MI ",
+    "siteId": "041843678"
+  },
+  {
+    "gageName": "LOOKING GLASS RIVER NEAR EAGLE, MI ",
+    "siteId": "04114498"
+  },
+  {
+    "gageName": "MALLETTS CREEK AT ANN ARBOR, MI ",
+    "siteId": "04174518"
+  },
+  {
+    "gageName": "MANISTEE RIVER NEAR GRAYLING, MI ",
+    "siteId": "04123500"
+  },
+  {
+    "gageName": "MANISTEE RIVER NEAR MESICK, MI ",
+    "siteId": "04124200"
+  },
+  {
+    "gageName": "MANISTEE RIVER NEAR SHERMAN, MI ",
+    "siteId": "04124000"
+  },
+  {
+    "gageName": "MANISTEE RIVER NEAR WELLSTON, MI ",
+    "siteId": "04125550"
+  },
+  {
+    "gageName": "MENOMINEE RIVER AT KOSS, MI ",
+    "siteId": "04066800"
+  },
+  {
+    "gageName": "MENOMINEE RIVER AT US HWY-2 NEAR IRON MOUNTAIN, MI ",
+    "siteId": "04063522"
+  },
+  {
+    "gageName": "MENOMINEE RIVER AT WHITE RAPIDS DAM NEAR BANAT, MI ",
+    "siteId": "04066030"
+  },
+  {
+    "gageName": "MENOMINEE RIVER BELOW PEMENE CREEK NR PEMBINE, WI ",
+    "siteId": "04066003"
+  },
+  {
+    "gageName": "MENOMINEE RIVER NEAR MC ALLISTER, WI ",
+    "siteId": "04067500"
+  },
+  {
+    "gageName": "MENOMINEE RIVER NEAR VULCAN, MI ",
+    "siteId": "04065722"
+  },
+  {
+    "gageName": "MICHIGAMME RIVER NEAR CRYSTAL FALLS, MI ",
+    "siteId": "04062500"
+  },
+  {
+    "gageName": "MIDDLE BRANCH CLINTON RIVER AT MACOMB, MI ",
+    "siteId": "04164800"
+  },
+  {
+    "gageName": "MIDDLE BRANCH ESCANABA RIVER AT HUMBOLDT, MI ",
+    "siteId": "04057800"
+  },
+  {
+    "gageName": "MIDDLE BRANCH ESCANABA RIVER NR PRINCETON, MI ",
+    "siteId": "04058100"
+  },
+  {
+    "gageName": "MIDDLE BRANCH ONTONAGON RIVER NEAR PAULDING, MI ",
+    "siteId": "04033000"
+  },
+  {
+    "gageName": "MILL CREEK AT QUAKER STREET NEAR MOTTVILLE, MI ",
+    "siteId": "04098980"
+  },
+  {
+    "gageName": "MILL CREEK NEAR DEXTER, MI ",
+    "siteId": "04173500"
+  },
+  {
+    "gageName": "MINERS RIVER NR MUNISING, MI ",
+    "siteId": "04044755"
+  },
+  {
+    "gageName": "MUDDY C AT BELLETERRE RD NR COLUMBUS GROVE, MI ",
+    "siteId": "04176617"
+  },
+  {
+    "gageName": "MUSKEGON RIVER AT BRIDGE STREET AT NEWAYGO, MI ",
+    "siteId": "04122001"
+  },
+  {
+    "gageName": "MUSKEGON RIVER AT BRIDGETON, MI ",
+    "siteId": "04122025"
+  },
+  {
+    "gageName": "NB AU SABLE RIVER AT KELLOGGS BR NEAR LOVELLS, MI ",
+    "siteId": "04135800"
+  },
+  {
+    "gageName": "N BR CHIPPEWA RIVER MERIDIAN RD NR MT PLEASANT MI ",
+    "siteId": "04153905"
+  },
+  {
+    "gageName": "NILE DITCH AT ARNOLD HWY NR JASPER, MI ",
+    "siteId": "04176063"
+  },
+  {
+    "gageName": "NORTH BRANCH CLINTON RIVER NEAR MT. CLEMENS, MI ",
+    "siteId": "04164500"
+  },
+  {
+    "gageName": "ONTONAGON RIVER NEAR ROCKLAND, MI ",
+    "siteId": "04040000"
+  },
+  {
+    "gageName": "OSBORN DRAIN AT DEWEY LAKE ST NR GLENWOOD, MI ",
+    "siteId": "041015313"
+  },
+  {
+    "gageName": "OTSEGO LAKE NEAR GAYLORD, MI ",
+    "siteId": "445512084415301"
+  },
+  {
+    "gageName": "PAINT RIVER NEAR ALPHA, MI ",
+    "siteId": "04062000"
+  },
+  {
+    "gageName": "PAW PAW RIVER AT RIVERSIDE, MI ",
+    "siteId": "04102500"
+  },
+  {
+    "gageName": "PIGEON RIVER AT 120TH AVENUE NR OLIVE CENTER, MI ",
+    "siteId": "04108862"
+  },
+  {
+    "gageName": "PIGEON RIVER NEAR VANDERBILT, MI ",
+    "siteId": "04128990"
+  },
+  {
+    "gageName": "PILGRIM RIVER AT PARADISE RD NR DODGEVILLE, MI ",
+    "siteId": "04043016"
+  },
+  {
+    "gageName": "PINE RIVER AT HIGH SCHOOL BRIDGE NR HOXEYVILLE, MI ",
+    "siteId": "04125460"
+  },
+  {
+    "gageName": "PINE RIVER NEAR MIDLAND, MI ",
+    "siteId": "04155500"
+  },
+  {
+    "gageName": "PINE RIVER NEAR RUDYARD, MI ",
+    "siteId": "04127917"
+  },
+  {
+    "gageName": "PLASTER CREEK AT 28TH STREET AT GRAND RAPIDS, MI ",
+    "siteId": "04119055"
+  },
+  {
+    "gageName": "PLUM BROOK AT UTICA, MI ",
+    "siteId": "04163400"
+  },
+  {
+    "gageName": "PORTAGE CREEK AT KALAMAZOO, MI ",
+    "siteId": "04106500"
+  },
+  {
+    "gageName": "PRAIRIE RIVER AT US 12 NEAR BURR OAK, MI ",
+    "siteId": "040975299"
+  },
+  {
+    "gageName": "PRAIRIE RIVER NEAR NOTTAWA, MI ",
+    "siteId": "04097540"
+  },
+  {
+    "gageName": "PRESQUE ISLE RIVER NEAR TULA, MI ",
+    "siteId": "04032000"
+  },
+  {
+    "gageName": "QUAKER BROOK AT STATE HWY M-66 NEAR NASHVILLE, MI ",
+    "siteId": "04117004"
+  },
+  {
+    "gageName": "RABBIT RIVER NEAR HOPKINS, MI ",
+    "siteId": "04108600"
+  },
+  {
+    "gageName": "RED CEDAR RIVER AT EAST LANSING, MI ",
+    "siteId": "04112500"
+  },
+  {
+    "gageName": "RED CEDAR RIVER NEAR WILLIAMSTON, MI ",
+    "siteId": "04111379"
+  },
+  {
+    "gageName": "RICE CREEK AT MONROE STREET AT MARSHALL, MI ",
+    "siteId": "04103490"
+  },
+  {
+    "gageName": "ROGUE RIVER NEAR ROCKFORD, MI ",
+    "siteId": "04118500"
+  },
+  {
+    "gageName": "SAGINAW RIVER AT HOLLAND AVENUE AT SAGINAW, MI ",
+    "siteId": "04157005"
+  },
+  {
+    "gageName": "SAGINAW RIVER AT MIDLAND STREET AT BAY CITY, MI ",
+    "siteId": "04157060"
+  },
+  {
+    "gageName": "SALINE RIVER NEAR SALINE, MI ",
+    "siteId": "04176400"
+  },
+  {
+    "gageName": "SALMON TROUT RIVER NEAR BIG BAY, MI ",
+    "siteId": "04043238"
+  },
+  {
+    "gageName": "SALT RIVER NEAR NORTH BRADLEY, MI ",
+    "siteId": "04153500"
+  },
+  {
+    "gageName": "S BRANCH RIVER RAISIN AT BENNER HWAY NR CADMUS MI ",
+    "siteId": "04175748"
+  },
+  {
+    "gageName": "SCHWEITZER CREEK NEAR PALMER, MI ",
+    "siteId": "04058200"
+  },
+  {
+    "gageName": "SCHWEITZER RESERVOIR NEAR PALMER, MI ",
+    "siteId": "04058190"
+  },
+  {
+    "gageName": "SILVER RIVER NEAR L&#039;ANSE, MI ",
+    "siteId": "04043150"
+  },
+  {
+    "gageName": "SLOAN CREEK NEAR WILLIAMSTON, MI ",
+    "siteId": "04112000"
+  },
+  {
+    "gageName": "SOUTH BRANCH HOG CREEK NEAR ALLEN, MI ",
+    "siteId": "04096515"
+  },
+  {
+    "gageName": "SOUTH BRANCH PAW PAW RIVER NEAR PAW PAW, MI ",
+    "siteId": "04102148"
+  },
+  {
+    "gageName": "SPRING CREEK AT RAMBADT ROAD NEAR CENTREVILLE, MI ",
+    "siteId": "0409754132"
+  },
+  {
+    "gageName": "ST. JOSEPH RIVER AT BURLINGTON, MI ",
+    "siteId": "04096405"
+  },
+  {
+    "gageName": "ST. JOSEPH RIVER AT MOTTVILLE, MI ",
+    "siteId": "04099000"
+  },
+  {
+    "gageName": "ST. JOSEPH RIVER AT NILES, MI ",
+    "siteId": "04101500"
+  },
+  {
+    "gageName": "ST. JOSEPH RIVER AT THREE RIVERS, MI ",
+    "siteId": "04097500"
+  },
+  {
+    "gageName": "ST. MARYS RIVER AT SAULT STE. MARIE, ONTARIO ",
+    "siteId": "04127885"
+  },
+  {
+    "gageName": "STURGEON RIVER AT US HWY-2 AT LORETTO, MI ",
+    "siteId": "04065650"
+  },
+  {
+    "gageName": "STURGEON RIVER AT WOLVERINE, MI ",
+    "siteId": "04127997"
+  },
+  {
+    "gageName": "STURGEON RIVER NEAR ALSTON, MI ",
+    "siteId": "04041500"
+  },
+  {
+    "gageName": "STURGEON RIVER NEAR SIDNAW, MI ",
+    "siteId": "04040500"
+  },
+  {
+    "gageName": "SWAN CREEK AT FROST ROAD NEAR FROST, MI ",
+    "siteId": "04145785"
+  },
+  {
+    "gageName": "SWARTZ CREEK AT CLAUDE AVENUE AT FLINT, MI ",
+    "siteId": "04148295"
+  },
+  {
+    "gageName": "SYCAMORE CREEK AT HOLT ROAD NEAR HOLT, MI ",
+    "siteId": "04112850"
+  },
+  {
+    "gageName": "TAHQUAMENON RIVER NEAR PARADISE, MI ",
+    "siteId": "04045500"
+  },
+  {
+    "gageName": "THORNAPPLE RIVER NEAR CALEDONIA, MI ",
+    "siteId": "04118000"
+  },
+  {
+    "gageName": "THREEMILE CREEK AT PRIOR ROAD NEAR DURAND, MI ",
+    "siteId": "04144032"
+  },
+  {
+    "gageName": "TITTABAWASSEE RIVER AT SANFORD, MI ",
+    "siteId": "04153300"
+  },
+  {
+    "gageName": "TITTABAWASSEE RIVER AT SECORD DAM NR GLADWIN, MI ",
+    "siteId": "04152049"
+  },
+  {
+    "gageName": "TOBACCO RIVER AT GLIDDEN ROAD AT BEAVERTON, MI ",
+    "siteId": "04152500"
+  },
+  {
+    "gageName": "TRAP ROCK RIVER NEAR LAKE LINDEN, MI ",
+    "siteId": "04043050"
+  },
+  {
+    "gageName": "TRIB ",
+    "siteId": "0414826503"
+  },
+  {
+    "gageName": "TRIB ",
+    "siteId": "04184846"
+  },
+  {
+    "gageName": "TRIB TO KIMBALL DRAIN NEAR SWARTZ CREEK, MI ",
+    "siteId": "0414826504"
+  },
+  {
+    "gageName": "TWIN CREEK AT EIGHT MILE ROAD NEAR EVART, MI ",
+    "siteId": "04121507"
+  },
+  {
+    "gageName": "WANADOGA CREEK NEAR BATTLE CREEK, MI ",
+    "siteId": "04104945"
+  },
+  {
+    "gageName": "WASHINGTON CREEK AT WINDIGO, MI ",
+    "siteId": "04001000"
+  },
+  {
+    "gageName": "WEST BRANCH ONTONAGON RIVER NEAR BERGLAND, MI ",
+    "siteId": "04036000"
+  },
+  {
+    "gageName": "WEST FORK PORTAGE CREEK AT KALAMAZOO, MI ",
+    "siteId": "04106400"
+  },
+  {
+    "gageName": "WEST FORK PORTAGE CREEK NEAR OSHTEMO, MI ",
+    "siteId": "04106320"
+  },
+  {
+    "gageName": "WHETSTONE BROOK AT ALTAMONT ST AT MARQUETTE, MI ",
+    "siteId": "04044090"
+  },
+  {
+    "gageName": "WILLOW CREEK AT MOELLER ROAD NR REDMAN, MI ",
+    "siteId": "041590774"
+  },
+  {
+    "gageName": "WOLF CREEK AT PINE GROVE ROAD NEAR VESTABURG, MI ",
+    "siteId": "04154612"
+  }
+]

@@ -1,0 +1,650 @@
+[
+  {
+    "gageName": "01S-03E-01 ABB 1 Antelope Spring at Sulphur, OK ",
+    "siteId": "07329849"
+  },
+  {
+    "gageName": "Alum Fork Saline River at Winona Dam at Reform, AR ",
+    "siteId": "07362591"
+  },
+  {
+    "gageName": "Alum Fork Saline River near Reform, AR ",
+    "siteId": "07362587"
+  },
+  {
+    "gageName": "Antoine River at Antoine, AR ",
+    "siteId": "07361500"
+  },
+  {
+    "gageName": "Arkansas River at Dardanelle, AR ",
+    "siteId": "07258000"
+  },
+  {
+    "gageName": "Arkansas River at Little Rock, AR ",
+    "siteId": "07263500"
+  },
+  {
+    "gageName": "Arkansas River at Murray Dam near Little Rock, AR ",
+    "siteId": "07263450"
+  },
+  {
+    "gageName": "Arkansas River at Pine Bluff, AR ",
+    "siteId": "07263650"
+  },
+  {
+    "gageName": "Arkansas River near Morrilton, AR ",
+    "siteId": "07260800"
+  },
+  {
+    "gageName": "AR River at James W. Trimble L&amp;D nr Van Buren, AR ",
+    "siteId": "07250550"
+  },
+  {
+    "gageName": "AR River at Van Buren, AR ",
+    "siteId": "07250500"
+  },
+  {
+    "gageName": "Baron Fork at Dutch Mills, AR ",
+    "siteId": "07196900"
+  },
+  {
+    "gageName": "Bayou Deview near Brinkley, AR ",
+    "siteId": "07077730"
+  },
+  {
+    "gageName": "BAYOU METO NR STUTTGART, AR ",
+    "siteId": "07264500"
+  },
+  {
+    "gageName": "BAYOU TWO PRAIRIE AT CARLISLE, ARK. ",
+    "siteId": "07264200"
+  },
+  {
+    "gageName": "Bear Bayou near Humphrey, AR ",
+    "siteId": "07263879"
+  },
+  {
+    "gageName": "Bear Creek near Omaha, AR ",
+    "siteId": "07054410"
+  },
+  {
+    "gageName": "Bear Creek near Silver Hill, AR ",
+    "siteId": "07056515"
+  },
+  {
+    "gageName": "Beaver Dam Slough HW near Lodge Corner, AR ",
+    "siteId": "07263885"
+  },
+  {
+    "gageName": "Bennetts River at Vidette, AR ",
+    "siteId": "07058980"
+  },
+  {
+    "gageName": "Big Creek near Elizabeth, AR ",
+    "siteId": "07059450"
+  },
+  {
+    "gageName": "Big Piney Creek at Highway 164 near Dover, AR ",
+    "siteId": "07257006"
+  },
+  {
+    "gageName": "Black River near Corning, AR ",
+    "siteId": "07064000"
+  },
+  {
+    "gageName": "Black River near Peach Orchard, AR ",
+    "siteId": "07064026"
+  },
+  {
+    "gageName": "Board Camp Cr nr Wolf Pen Gap Rec nr Nunley, AR ",
+    "siteId": "07355860"
+  },
+  {
+    "gageName": "Boeuf River nr Eudora, AR ",
+    "siteId": "07367680"
+  },
+  {
+    "gageName": "Bringle Creek at Martindale, AR ",
+    "siteId": "072632962"
+  },
+  {
+    "gageName": "Brushy Creek Near Vanndale, AR ",
+    "siteId": "070479376"
+  },
+  {
+    "gageName": "Buckingham Flats HW/TW near Bayou Meto, AR ",
+    "siteId": "07263886"
+  },
+  {
+    "gageName": "Buffalo River at Carver Access nr Hasty, AR ",
+    "siteId": "07055780"
+  },
+  {
+    "gageName": "Buffalo River at Ponca, AR ",
+    "siteId": "07055660"
+  },
+  {
+    "gageName": "Buffalo River at Pruitt, AR ",
+    "siteId": "07055680"
+  },
+  {
+    "gageName": "Buffalo River near Boxley, AR ",
+    "siteId": "07055646"
+  },
+  {
+    "gageName": "Buffalo River near Harriet, AR ",
+    "siteId": "07056700"
+  },
+  {
+    "gageName": "Buffalo River near St. Joe, AR ",
+    "siteId": "07056000"
+  },
+  {
+    "gageName": "Caddo River near Caddo Gap, AR ",
+    "siteId": "07359610"
+  },
+  {
+    "gageName": "Cadron Creek near Guy, AR ",
+    "siteId": "07261000"
+  },
+  {
+    "gageName": "Canon Brake HW/TW near Bayou Meto, AR ",
+    "siteId": "07263888"
+  },
+  {
+    "gageName": "Cossatot River near DeQueen, AR ",
+    "siteId": "07340500"
+  },
+  {
+    "gageName": "Cossatot River near Vandervoort, AR ",
+    "siteId": "07340300"
+  },
+  {
+    "gageName": "Crooked Creek at Harrison, AR ",
+    "siteId": "07055565"
+  },
+  {
+    "gageName": "Crooked Creek at Kelly Crossing at Yellville, AR ",
+    "siteId": "07055607"
+  },
+  {
+    "gageName": "CROOKED CREEK NEAR HUMPHREY, ARK. ",
+    "siteId": "07265000"
+  },
+  {
+    "gageName": "Cutoff Creek near Rio Vista, AR ",
+    "siteId": "07074886"
+  },
+  {
+    "gageName": "Cypress Creek nr Birdtown, AR ",
+    "siteId": "07261090"
+  },
+  {
+    "gageName": "Deep Bayou near Star City, AR ",
+    "siteId": "07364130"
+  },
+  {
+    "gageName": "Dutch Creek at Waltreak, AR ",
+    "siteId": "07260000"
+  },
+  {
+    "gageName": "Dutch Creek Near Waltreak, AR ",
+    "siteId": "07259950"
+  },
+  {
+    "gageName": "Eleven Point River near Ravenden Springs, AR ",
+    "siteId": "07072000"
+  },
+  {
+    "gageName": "Fish Lake Ditch near Altheimer, AR ",
+    "siteId": "072638805"
+  },
+  {
+    "gageName": "Flint Creek at Springtown, AR ",
+    "siteId": "07195800"
+  },
+  {
+    "gageName": "Fourche Creek at Lindsey St. E of Little Rock, AR ",
+    "siteId": "07263605"
+  },
+  {
+    "gageName": "Fourche Creek at Univ. Avenue at Little Rock, AR ",
+    "siteId": "07263555"
+  },
+  {
+    "gageName": "Fourche LaFave River near Aplin, AR ",
+    "siteId": "07263012"
+  },
+  {
+    "gageName": "Fourche LaFave River Near Gravelly, AR ",
+    "siteId": "07261500"
+  },
+  {
+    "gageName": "Fourche La Fave River near Houston, AR ",
+    "siteId": "07263115"
+  },
+  {
+    "gageName": "Frog Bayou at Rudy, AR ",
+    "siteId": "07251500"
+  },
+  {
+    "gageName": "Frog Bayou at Winfrey, AR ",
+    "siteId": "07250965"
+  },
+  {
+    "gageName": "Gap Cr nr Wolf Pen Gap Rec Area nr Nunley, AR ",
+    "siteId": "07355870"
+  },
+  {
+    "gageName": "Government Cyprus HW/TW near New Gascony, AR ",
+    "siteId": "07263880"
+  },
+  {
+    "gageName": "Gulpha Cr at Ridgeway St at Hot Springs, AR ",
+    "siteId": "07358570"
+  },
+  {
+    "gageName": "Gulpha Creek at Hot Springs, AR ",
+    "siteId": "07358550"
+  },
+  {
+    "gageName": "Hot Springs at Hot Springs, AR ",
+    "siteId": "07358280"
+  },
+  {
+    "gageName": "Hot Springs Cr DS of Grand Ave at Hot Springs, AR ",
+    "siteId": "07358284"
+  },
+  {
+    "gageName": "Hot Sprngs Cr US of T.E. at Glade St at Hot Sp.,AR ",
+    "siteId": "07358257"
+  },
+  {
+    "gageName": "Huckleberry Creek nr Augsburg, AR ",
+    "siteId": "07257693"
+  },
+  {
+    "gageName": "Hurricane Creek below Sheridan, AR ",
+    "siteId": "07363400"
+  },
+  {
+    "gageName": "Hurricane Creek near Humphrey, AR ",
+    "siteId": "07265010"
+  },
+  {
+    "gageName": "Illinois Bayou near Scottsville, AR ",
+    "siteId": "07257500"
+  },
+  {
+    "gageName": "Illinois River at Hwy. 16 near Siloam Springs AR ",
+    "siteId": "07195400"
+  },
+  {
+    "gageName": "Illinois River at Savoy, AR ",
+    "siteId": "07194800"
+  },
+  {
+    "gageName": "Illinois River South of Siloam Springs, AR ",
+    "siteId": "07195430"
+  },
+  {
+    "gageName": "Jack Creek near Winfrey, AR ",
+    "siteId": "07250974"
+  },
+  {
+    "gageName": "James Fork near Hackett, AR ",
+    "siteId": "07249400"
+  },
+  {
+    "gageName": "Jones Creek at Winfrey, AR ",
+    "siteId": "07250935"
+  },
+  {
+    "gageName": "Kings River near Berryville, AR ",
+    "siteId": "07050500"
+  },
+  {
+    "gageName": "Lake Catherine at Jones Mill, AR ",
+    "siteId": "07359000"
+  },
+  {
+    "gageName": "Lake Conway near Mayflower, AR ",
+    "siteId": "07263265"
+  },
+  {
+    "gageName": "Lake Hamilton at Carpenter Dam nr. Hot Springs, AR ",
+    "siteId": "07358500"
+  },
+  {
+    "gageName": "Lake Maumelle at State Hwy 10 near Wye, AR ",
+    "siteId": "072632966"
+  },
+  {
+    "gageName": "L&#039;ANGUILLE R NR WHITEHALL, AR ",
+    "siteId": "07047932"
+  },
+  {
+    "gageName": "Lee Creek at Lee Creek Reservoir near Van Buren,AR ",
+    "siteId": "07250085"
+  },
+  {
+    "gageName": "Little Missouri River near Langley, AR ",
+    "siteId": "07360200"
+  },
+  {
+    "gageName": "Little Piney Creek near Lamar, AR ",
+    "siteId": "07257200"
+  },
+  {
+    "gageName": "Little Red River at Judsonia, AR ",
+    "siteId": "07076634"
+  },
+  {
+    "gageName": "Little Red River near Dewey, AR ",
+    "siteId": "07076517"
+  },
+  {
+    "gageName": "Little River near Horatio, AR ",
+    "siteId": "07340000"
+  },
+  {
+    "gageName": "Little River near Peach Orchard, AR ",
+    "siteId": "07064040"
+  },
+  {
+    "gageName": "Lk Maumelle at Mouth of Pigeon Roost Cr nr Wye, AR ",
+    "siteId": "072632968"
+  },
+  {
+    "gageName": "Long Creek at Denver, AR ",
+    "siteId": "07053207"
+  },
+  {
+    "gageName": "Lost Creek at Floyd St. at Jonesboro, AR ",
+    "siteId": "07077652"
+  },
+  {
+    "gageName": "Lower Vallier",
+    "siteId": "07263882"
+  },
+  {
+    "gageName": "Lwr Vallier",
+    "siteId": "07263883"
+  },
+  {
+    "gageName": "Mammoth Spring at Mammoth Spring ",
+    "siteId": "07069190"
+  },
+  {
+    "gageName": "Maumelle River at Maumelle Dam at Natural Steps,AR ",
+    "siteId": "07263300"
+  },
+  {
+    "gageName": "Maumelle River at Williams Junction, AR ",
+    "siteId": "07263295"
+  },
+  {
+    "gageName": "Maumelle River below Bringle Creek nr Wye, AR ",
+    "siteId": "072632963"
+  },
+  {
+    "gageName": "Maumelle River near Wye, AR ",
+    "siteId": "07263296"
+  },
+  {
+    "gageName": "Maumelle River West of Wye, AR ",
+    "siteId": "072632958"
+  },
+  {
+    "gageName": "Middle Fork of Little Red River at Shirley, AR ",
+    "siteId": "07075000"
+  },
+  {
+    "gageName": "Mound Lake at Toltec Mounds State Park, AR ",
+    "siteId": "07263708"
+  },
+  {
+    "gageName": "Mud Creek near Johnson, AR ",
+    "siteId": "071948095"
+  },
+  {
+    "gageName": "Mulberry River near Mulberry, AR ",
+    "siteId": "07252000"
+  },
+  {
+    "gageName": "North Sylamore Creek near Fifty Six, AR ",
+    "siteId": "07060710"
+  },
+  {
+    "gageName": "Osage Creek near Cave Springs, AR ",
+    "siteId": "07194880"
+  },
+  {
+    "gageName": "Osage Creek near Elm Springs, AR ",
+    "siteId": "07195000"
+  },
+  {
+    "gageName": "Ouachita River at Camden, AR ",
+    "siteId": "07362000"
+  },
+  {
+    "gageName": "Ouachita River at Felsenthal L&amp;D ",
+    "siteId": "07364078"
+  },
+  {
+    "gageName": "Ouachita River at Remmel Dam above Jones Mill, AR ",
+    "siteId": "07359002"
+  },
+  {
+    "gageName": "Ouachita River near Mount Ida, AR ",
+    "siteId": "07356000"
+  },
+  {
+    "gageName": "Petit Jean River at Danville, AR ",
+    "siteId": "07260500"
+  },
+  {
+    "gageName": "Petit Jean River near Booneville, AR ",
+    "siteId": "07258500"
+  },
+  {
+    "gageName": "Petit Jean River near Centerville, AR ",
+    "siteId": "07260640"
+  },
+  {
+    "gageName": "Poteau River at Cauthron, AR ",
+    "siteId": "07247000"
+  },
+  {
+    "gageName": "Red River at Fulton, AR ",
+    "siteId": "07341500"
+  },
+  {
+    "gageName": "Reece Creek at Little Italy, AR ",
+    "siteId": "072632982"
+  },
+  {
+    "gageName": "Richland Creek near Goshen, AR ",
+    "siteId": "07048780"
+  },
+  {
+    "gageName": "Richland Creek near Witts Spring, AR ",
+    "siteId": "07055875"
+  },
+  {
+    "gageName": "Rock Creek at 36th Street at Little Rock, AR ",
+    "siteId": "07263580"
+  },
+  {
+    "gageName": "Rolling Fork near DeQueen, AR ",
+    "siteId": "07339500"
+  },
+  {
+    "gageName": "Saline River at Benton, AR ",
+    "siteId": "07363000"
+  },
+  {
+    "gageName": "Saline River near Dierks, AR ",
+    "siteId": "07341000"
+  },
+  {
+    "gageName": "Saline River near Lockesburg, AR ",
+    "siteId": "07341200"
+  },
+  {
+    "gageName": "Saline River near Shaw, AR ",
+    "siteId": "07363054"
+  },
+  {
+    "gageName": "Saline River near Sheridan, AR ",
+    "siteId": "07363200"
+  },
+  {
+    "gageName": "Salt Bayou Ditch nr Humphrey, AR ",
+    "siteId": "07263878"
+  },
+  {
+    "gageName": "South Alum Creek nr Jessieville, AR ",
+    "siteId": "07362579"
+  },
+  {
+    "gageName": "South Fork of Little Red River at Clinton, AR ",
+    "siteId": "07075300"
+  },
+  {
+    "gageName": "South Fork of Little Red River near Scotland, AR ",
+    "siteId": "07075270"
+  },
+  {
+    "gageName": "South Fork Spring River at Saddle, AR ",
+    "siteId": "07069295"
+  },
+  {
+    "gageName": "South Fourche LaFave River near Hollis, AR ",
+    "siteId": "07263000"
+  },
+  {
+    "gageName": "Spadra Creek at Clarksville, AR ",
+    "siteId": "07256500"
+  },
+  {
+    "gageName": "Spavinaw Creek near Cherokee City, AR ",
+    "siteId": "07191179"
+  },
+  {
+    "gageName": "Spavinaw Creek near Maysville, AR ",
+    "siteId": "07191160"
+  },
+  {
+    "gageName": "Spring Creek at Hwy 112 nr Springdale, AR ",
+    "siteId": "07194933"
+  },
+  {
+    "gageName": "Spring Creek at Sanders Ave at Springdale, AR ",
+    "siteId": "07194906"
+  },
+  {
+    "gageName": "Spring River at Imboden, AR ",
+    "siteId": "07069500"
+  },
+  {
+    "gageName": "Spring River at Spring Street Bridge at Hardy, AR ",
+    "siteId": "07069305"
+  },
+  {
+    "gageName": "Spring River near Mammoth Springs, AR ",
+    "siteId": "07069220"
+  },
+  {
+    "gageName": "Strawberry River near Poughkeepsie, AR ",
+    "siteId": "07074000"
+  },
+  {
+    "gageName": "Temple Island HW/TW near Humphrey, AR ",
+    "siteId": "07263877"
+  },
+  {
+    "gageName": "Town Branch at Armstrong St. at Fayetteville, AR ",
+    "siteId": "07048495"
+  },
+  {
+    "gageName": "Tuckerman Ditch at Tuckerman, AR ",
+    "siteId": "07074670"
+  },
+  {
+    "gageName": "Upper Vallier HW/TW near Lodge Corner, AR ",
+    "siteId": "07263881"
+  },
+  {
+    "gageName": "WABBASEKA BAYOU AT WABBASEKA, ARK. ",
+    "siteId": "07263875"
+  },
+  {
+    "gageName": "War Eagle Creek near Hindsville, AR ",
+    "siteId": "07049000"
+  },
+  {
+    "gageName": "West Fork Point Remove Creek near Hattieville, AR ",
+    "siteId": "07260673"
+  },
+  {
+    "gageName": "West Fork White River east of Fayetteville, AR ",
+    "siteId": "07048550"
+  },
+  {
+    "gageName": "Whiteman&#039;s Crk at Ind Dr at Jonesboro, AR ",
+    "siteId": "07047855"
+  },
+  {
+    "gageName": "White River at Allison, AR ",
+    "siteId": "07060728"
+  },
+  {
+    "gageName": "White River at Batesville, AR ",
+    "siteId": "07061000"
+  },
+  {
+    "gageName": "White River at Calico Rock, AR ",
+    "siteId": "07060500"
+  },
+  {
+    "gageName": "White River at DeValls Bluff, AR ",
+    "siteId": "07077000"
+  },
+  {
+    "gageName": "White River at Elkins, AR ",
+    "siteId": "07047980"
+  },
+  {
+    "gageName": "White River at Georgetown, AR ",
+    "siteId": "07076750"
+  },
+  {
+    "gageName": "White River near Busch, AR ",
+    "siteId": "07049698"
+  },
+  {
+    "gageName": "White River near Fayetteville, AR ",
+    "siteId": "07048600"
+  },
+  {
+    "gageName": "White River near Norfork, AR ",
+    "siteId": "07057370"
+  },
+  {
+    "gageName": "Whittington Cr at Tunnel Ent at Hot Springs, AR ",
+    "siteId": "07358253"
+  },
+  {
+    "gageName": "Whittington Cr at Whitt. Pk at Hot Springs, AR ",
+    "siteId": "07358250"
+  },
+  {
+    "gageName": "Yocum Creek near Oak Grove, AR ",
+    "siteId": "07053250"
+  },
+  {
+    "gageName": "Yount Creek near Martindale, AR ",
+    "siteId": "072632971"
+  }
+]

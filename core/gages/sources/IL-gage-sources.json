@@ -1,0 +1,590 @@
+[
+  {
+    "gageName": "ADDISON CREEK AT BELLWOOD, IL ",
+    "siteId": "05532000"
+  },
+  {
+    "gageName": "APPLE RIVER NEAR HANOVER, IL ",
+    "siteId": "05419000"
+  },
+  {
+    "gageName": "BAY CREEK AT PITTSFIELD, IL ",
+    "siteId": "05512500"
+  },
+  {
+    "gageName": "BEAR CREEK NEAR MARCELLINE, IL ",
+    "siteId": "05495500"
+  },
+  {
+    "gageName": "BIG BUREAU CREEK AT PRINCETON, IL ",
+    "siteId": "05556500"
+  },
+  {
+    "gageName": "BIG MUDDY RIVER AT PLUMFIELD, IL ",
+    "siteId": "05597000"
+  },
+  {
+    "gageName": "BIG MUDDY RIVER AT RTE 127 AT MURPHYSBORO, IL ",
+    "siteId": "05599490"
+  },
+  {
+    "gageName": "BIG MUDDY RIVER NEAR MT. VERNON, IL ",
+    "siteId": "05595700"
+  },
+  {
+    "gageName": "BIG MUDDY SUBIMPOUNDMENT NEAR WALTONVILLE, IL ",
+    "siteId": "05595765"
+  },
+  {
+    "gageName": "BLACKBERRY CREEK NEAR MONTGOMERY, IL ",
+    "siteId": "05551675"
+  },
+  {
+    "gageName": "BLACKBERRY CREEK NEAR YORKVILLE, IL ",
+    "siteId": "05551700"
+  },
+  {
+    "gageName": "BONEYARD CREEK BELOW 6TH STREET AT CHAMPAIGN, IL ",
+    "siteId": "03336998"
+  },
+  {
+    "gageName": "BOONE CREEK NEAR MC HENRY, IL ",
+    "siteId": "05549000"
+  },
+  {
+    "gageName": "BUFFALO CREEK NEAR WHEELING, IL ",
+    "siteId": "05528500"
+  },
+  {
+    "gageName": "CAHOKIA CREEK AT EDWARDSVILLE, IL ",
+    "siteId": "05587900"
+  },
+  {
+    "gageName": "CALUMET SAG CHANNEL AT BLUE ISLAND, IL ",
+    "siteId": "05536368"
+  },
+  {
+    "gageName": "CALUMET UNION DRAINAGE CANAL NEAR MARKHAM, IL ",
+    "siteId": "05536310"
+  },
+  {
+    "gageName": "CASEY FORK AT MOUNT VERNON, IL ",
+    "siteId": "05595820"
+  },
+  {
+    "gageName": "CASEY FORK SUBIMPOUNDMENT NEAR BONNIE, IL ",
+    "siteId": "05595860"
+  },
+  {
+    "gageName": "CHANNEL LAKE NEAR ANTIOCH, IL ",
+    "siteId": "05547000"
+  },
+  {
+    "gageName": "CHICAGO RIVER AT COLUMBUS DRIVE AT CHICAGO, IL ",
+    "siteId": "05536123"
+  },
+  {
+    "gageName": "CHICAGO SANITARY AND SHIP CANAL AT LEMONT, IL ",
+    "siteId": "05536900"
+  },
+  {
+    "gageName": "CHICAGO SANITARY AND SHIP CANAL AT STICKNEY, IL ",
+    "siteId": "05536140"
+  },
+  {
+    "gageName": "CHICAGO SANITARY AND SHIP CANAL NR LEMONT, IL ",
+    "siteId": "05536890"
+  },
+  {
+    "gageName": "CHICAGO S &amp; S CANAL AT WESTERN AVE AT CHICAGO, IL ",
+    "siteId": "05536137"
+  },
+  {
+    "gageName": "CRAB ORCHARD CREEK NEAR MARION, IL ",
+    "siteId": "05597500"
+  },
+  {
+    "gageName": "DES PLAINES R AT ALGONQUIN RD AT DES PLAINES, IL ",
+    "siteId": "05530100"
+  },
+  {
+    "gageName": "DES PLAINES RIVER AT LINCOLNSHIRE, IL ",
+    "siteId": "05528100"
+  },
+  {
+    "gageName": "DES PLAINES RIVER AT LYONS, IL ",
+    "siteId": "05532600"
+  },
+  {
+    "gageName": "DES PLAINES RIVER AT RIVER FOREST, IL ",
+    "siteId": "05530750"
+  },
+  {
+    "gageName": "DES PLAINES RIVER AT RIVERSIDE, IL ",
+    "siteId": "05532500"
+  },
+  {
+    "gageName": "DES PLAINES RIVER AT ROUTE 53 AT JOLIET, IL ",
+    "siteId": "05537980"
+  },
+  {
+    "gageName": "DES PLAINES RIVER AT RUSSELL, IL ",
+    "siteId": "05527800"
+  },
+  {
+    "gageName": "DES PLAINES RIVER IN LOCK CHANNEL AT ROCKDALE, IL ",
+    "siteId": "05538020"
+  },
+  {
+    "gageName": "DES PLAINES RIVER NEAR DES PLAINES, IL ",
+    "siteId": "05529000"
+  },
+  {
+    "gageName": "DES PLAINES RIVER NEAR GURNEE, IL ",
+    "siteId": "05528000"
+  },
+  {
+    "gageName": "DES PLAINES RIVER NEAR LEMONT, IL ",
+    "siteId": "05533600"
+  },
+  {
+    "gageName": "DU PAGE RIVER AT SHOREWOOD, IL ",
+    "siteId": "05540500"
+  },
+  {
+    "gageName": "DU PAGE RIVER NEAR PLAINFIELD, IL ",
+    "siteId": "05540290"
+  },
+  {
+    "gageName": "EAST BRANCH DU PAGE RIVER AT BOLINGBROOK, IL ",
+    "siteId": "05540250"
+  },
+  {
+    "gageName": "EAST BRANCH DUPAGE RIVER AT SHORT ST AT LISLE, IL ",
+    "siteId": "05540228"
+  },
+  {
+    "gageName": "EAST BRANCH DU PAGE RIVER NEAR DOWNERS GROVE, IL ",
+    "siteId": "05540160"
+  },
+  {
+    "gageName": "ELIZABETH LAKE DRAIN NR TWIN LAKES, WI-IL ",
+    "siteId": "05548185"
+  },
+  {
+    "gageName": "ELKHORN CREEK NEAR PENROSE, IL ",
+    "siteId": "05444000"
+  },
+  {
+    "gageName": "FARM CREEK AT FARMDALE, IL ",
+    "siteId": "05560500"
+  },
+  {
+    "gageName": "FERSON CREEK NEAR ST. CHARLES, IL ",
+    "siteId": "05551200"
+  },
+  {
+    "gageName": "FLAG CREEK NEAR WILLOW SPRINGS, IL ",
+    "siteId": "05533000"
+  },
+  {
+    "gageName": "FONDULAC CREEK NEAR EAST PEORIA, IL ",
+    "siteId": "05561500"
+  },
+  {
+    "gageName": "FOX LAKE NEAR LAKE VILLA, IL ",
+    "siteId": "05547500"
+  },
+  {
+    "gageName": "FOX RIVER AT ALGONQUIN, IL ",
+    "siteId": "05550000"
+  },
+  {
+    "gageName": "FOX RIVER AT DAYTON, IL ",
+    "siteId": "05552500"
+  },
+  {
+    "gageName": "FOX RIVER AT JOHNSBURG, IL ",
+    "siteId": "05548500"
+  },
+  {
+    "gageName": "FOX RIVER AT MILLER BRIDGE NEAR MCHENRY, IL ",
+    "siteId": "05549400"
+  },
+  {
+    "gageName": "FOX RIVER AT MONTGOMERY, IL ",
+    "siteId": "05551540"
+  },
+  {
+    "gageName": "FOX RIVER AT SOUTH ELGIN, IL ",
+    "siteId": "05551000"
+  },
+  {
+    "gageName": "FOX RIVER AT SOUTH ELGIN, IL ",
+    "siteId": "05551001"
+  },
+  {
+    "gageName": "FOX RIVER AT YORKVILLE, IL ",
+    "siteId": "05551580"
+  },
+  {
+    "gageName": "FOX RIVER BYPASS AT YORKVILLE, IL ",
+    "siteId": "05551582"
+  },
+  {
+    "gageName": "FOX RIVER NEAR MCHENRY, IL ",
+    "siteId": "05549500"
+  },
+  {
+    "gageName": "FOX RIVER ",
+    "siteId": "05550001"
+  },
+  {
+    "gageName": "FOX RIVER TAILWATER AT YORKVILLE, IL ",
+    "siteId": "05551581"
+  },
+  {
+    "gageName": "FOX RIVER ",
+    "siteId": "05549501"
+  },
+  {
+    "gageName": "HANSON GRAVEL PIT AT CULVERT NEAR MORRIS, IL ",
+    "siteId": "411955088280601"
+  },
+  {
+    "gageName": "HICKORY CREEK AT JOLIET, IL ",
+    "siteId": "05539000"
+  },
+  {
+    "gageName": "ILLINOIS RIVER AT FLORENCE, IL ",
+    "siteId": "05586300"
+  },
+  {
+    "gageName": "ILLINOIS RIVER AT HENRY, IL ",
+    "siteId": "05558300"
+  },
+  {
+    "gageName": "ILLINOIS RIVER AT MORRIS, IL ",
+    "siteId": "05542500"
+  },
+  {
+    "gageName": "ILLINOIS RIVER AT SENECA, IL ",
+    "siteId": "05543010"
+  },
+  {
+    "gageName": "INDIAN CREEK AT WANDA, IL ",
+    "siteId": "05588000"
+  },
+  {
+    "gageName": "IROQUOIS RIVER AT IROQUOIS, IL ",
+    "siteId": "05525000"
+  },
+  {
+    "gageName": "KANKAKEE R AT INFLOW OF POWER PLANT NR LORENZO, IL ",
+    "siteId": "412320088154101"
+  },
+  {
+    "gageName": "KASKASKIA RIVER AT NEW ATHENS, IL ",
+    "siteId": "05595000"
+  },
+  {
+    "gageName": "KASKASKIA RIVER BELOW FICKLIN, IL ",
+    "siteId": "05590520"
+  },
+  {
+    "gageName": "KASKASKIA RIVER INFLOW AT FICKLIN, IL ",
+    "siteId": "394803088215001"
+  },
+  {
+    "gageName": "KISHWAUKEE RIVER AT MARENGO, IL ",
+    "siteId": "05438170"
+  },
+  {
+    "gageName": "KRESS CREEK AT WEST CHICAGO, IL ",
+    "siteId": "05540060"
+  },
+  {
+    "gageName": "LANSING DITCH NEAR LANSING, IL ",
+    "siteId": "05536265"
+  },
+  {
+    "gageName": "LITTLE WABASH RIVER NEAR GOLDEN GATE, IL ",
+    "siteId": "03380000"
+  },
+  {
+    "gageName": "LONG RUN NEAR LEMONT, IL ",
+    "siteId": "05537500"
+  },
+  {
+    "gageName": "LUSK CREEK NEAR EDDYVILLE, IL ",
+    "siteId": "03384450"
+  },
+  {
+    "gageName": "MACOUPIN CREEK AT HWY 108 NR CARLINVILLE, IL ",
+    "siteId": "05586647"
+  },
+  {
+    "gageName": "MACOUPIN CREEK AT HWY 111 NR SUMMERVILLE, IL ",
+    "siteId": "05586745"
+  },
+  {
+    "gageName": "MC DONALD CREEK NEAR MOUNT PROSPECT, IL ",
+    "siteId": "05529500"
+  },
+  {
+    "gageName": "MIDDLE FORK SALINE RIVER NEAR HARRISBURG, IL ",
+    "siteId": "03382200"
+  },
+  {
+    "gageName": "MIDLOTHIAN CREEK AT OAK FOREST, IL ",
+    "siteId": "05536340"
+  },
+  {
+    "gageName": "MILL CREEK AT MILAN, IL ",
+    "siteId": "05448000"
+  },
+  {
+    "gageName": "MILL CREEK AT OLD MILL CREEK, IL ",
+    "siteId": "05527950"
+  },
+  {
+    "gageName": "MILL CREEK NEAR BATAVIA, IL ",
+    "siteId": "05551330"
+  },
+  {
+    "gageName": "Mississippi River at Chester, IL ",
+    "siteId": "07020500"
+  },
+  {
+    "gageName": "Mississippi River at St. Louis, MO ",
+    "siteId": "07010000"
+  },
+  {
+    "gageName": "Mississippi River at Thebes, IL ",
+    "siteId": "07022000"
+  },
+  {
+    "gageName": "NATALIE CREEK AT MIDLOTHIAN, IL ",
+    "siteId": "05536343"
+  },
+  {
+    "gageName": "NB CHICAGO RIVER AT GRAND AVENUE AT CHICAGO, IL ",
+    "siteId": "05536118"
+  },
+  {
+    "gageName": "NB CHICAGO RIVER AT N PULASKI ROAD AT CHICAGO, IL ",
+    "siteId": "05536085"
+  },
+  {
+    "gageName": "NIPPERSINK CREEK ABOVE WONDER LAKE, IL ",
+    "siteId": "05548105"
+  },
+  {
+    "gageName": "NIPPERSINK CREEK NEAR SPRING GROVE, IL ",
+    "siteId": "05548280"
+  },
+  {
+    "gageName": "NIPPERSINK LAKE AT FOX LAKE, IL ",
+    "siteId": "05548000"
+  },
+  {
+    "gageName": "NORTH FORK SALT CREEK NEAR DE WITT, IL ",
+    "siteId": "05578250"
+  },
+  {
+    "gageName": "NORTH FORK VERMILION RIVER NEAR BISMARCK, IL ",
+    "siteId": "03338780"
+  },
+  {
+    "gageName": "OHIO RIVER AT DAM 51 AT GOLCONDA, IL ",
+    "siteId": "03384500"
+  },
+  {
+    "gageName": "OHIO RIVER AT OLD SHAWNEETOWN, IL-KY ",
+    "siteId": "03381700"
+  },
+  {
+    "gageName": "PECATONICA RIVER AT FREEPORT, IL ",
+    "siteId": "05435500"
+  },
+  {
+    "gageName": "PECATONICA RIVER NR SHIRLAND, ILL ",
+    "siteId": "05437050"
+  },
+  {
+    "gageName": "PLUM CREEK NEAR CRETE, IL ",
+    "siteId": "05536162"
+  },
+  {
+    "gageName": "POPLAR CREEK AT ELGIN, IL ",
+    "siteId": "05550500"
+  },
+  {
+    "gageName": "RAYSE CREEK NEAR WALTONVILLE, IL ",
+    "siteId": "05595730"
+  },
+  {
+    "gageName": "ROCK RIVER ABOVE DAM AT ROCKFORD, IL ",
+    "siteId": "05437645"
+  },
+  {
+    "gageName": "ROCK RIVER ABOVE SINNISSIPPI DAM AT ROCK FALLS, IL ",
+    "siteId": "05443000"
+  },
+  {
+    "gageName": "ROCK RIVER AT AUBURN ST AT ROCKFORD ",
+    "siteId": "05437641"
+  },
+  {
+    "gageName": "ROCK RIVER AT BYRON, IL ",
+    "siteId": "05440700"
+  },
+  {
+    "gageName": "ROCK RIVER AT COMO, IL ",
+    "siteId": "05443500"
+  },
+  {
+    "gageName": "ROCK RIVER AT DIXON, IL ",
+    "siteId": "05442300"
+  },
+  {
+    "gageName": "ROCK RIVER AT LATHAM PARK, IL ",
+    "siteId": "05437610"
+  },
+  {
+    "gageName": "ROCK RIVER AT ROCKTON, IL ",
+    "siteId": "05437500"
+  },
+  {
+    "gageName": "ROCK RIVER NEAR JOSLIN, IL ",
+    "siteId": "05446500"
+  },
+  {
+    "gageName": "SALINE BRANCH ABOVE 1700E NEAR URBANA, IL ",
+    "siteId": "03337570"
+  },
+  {
+    "gageName": "SALT CREEK AT 22ND STREET AT OAK BROOK, IL ",
+    "siteId": "05531410"
+  },
+  {
+    "gageName": "SALT CREEK AT ELK GROVE VILLAGE, IL ",
+    "siteId": "05531045"
+  },
+  {
+    "gageName": "SALT CREEK AT ELMHURST, IL ",
+    "siteId": "05531300"
+  },
+  {
+    "gageName": "SALT CREEK AT HIGGINS RD NR ELK GROVE VILLAGE, IL ",
+    "siteId": "05531015"
+  },
+  {
+    "gageName": "SALT CREEK AT ROLLING MEADOWS, IL ",
+    "siteId": "05530990"
+  },
+  {
+    "gageName": "SALT CREEK AT WESTERN SPRINGS, IL ",
+    "siteId": "05531500"
+  },
+  {
+    "gageName": "SALT CREEK AT WOOD DALE, IL ",
+    "siteId": "05531175"
+  },
+  {
+    "gageName": "SALT CREEK NEAR FARMER CITY, IL ",
+    "siteId": "05578100"
+  },
+  {
+    "gageName": "SANGAMON RIVER AT PETERSBURG, IL ",
+    "siteId": "05578000"
+  },
+  {
+    "gageName": "SANGAMON RIVER AT RIVERTON, IL ",
+    "siteId": "05576500"
+  },
+  {
+    "gageName": "SANGAMON RIVER NEAR SPRINGFIELD, IL ",
+    "siteId": "05576900"
+  },
+  {
+    "gageName": "SAWMILL CREEK NEAR LEMONT, IL ",
+    "siteId": "05533400"
+  },
+  {
+    "gageName": "SINSINAWA RIVER NEAR MENOMINEE, IL ",
+    "siteId": "05414820"
+  },
+  {
+    "gageName": "SOUTH FORK SANGAMON RIVER BELOW ROCHESTER, IL ",
+    "siteId": "05576022"
+  },
+  {
+    "gageName": "SOUTH FORK SANGAMON RIVER NEAR ROCHESTER, IL ",
+    "siteId": "05576000"
+  },
+  {
+    "gageName": "SPOON RIVER NEAR ST. JOSEPH, IL ",
+    "siteId": "03336890"
+  },
+  {
+    "gageName": "SPRING BROOK AT 87TH STREET NEAR NAPERVILLE, IL ",
+    "siteId": "05540275"
+  },
+  {
+    "gageName": "ST. JOSEPH CREEK AT ROUTE 34 AT LISLE, IL ",
+    "siteId": "05540195"
+  },
+  {
+    "gageName": "SUGAR CREEK NEAR SPRINGFIELD, IL ",
+    "siteId": "05576250"
+  },
+  {
+    "gageName": "SUMMIT CONDUIT OUTFALL AT SUMMIT, IL ",
+    "siteId": "414745087484901"
+  },
+  {
+    "gageName": "THORN CREEK AT GLENWOOD, IL ",
+    "siteId": "05536215"
+  },
+  {
+    "gageName": "TINLEY CREEK NEAR PALOS PARK, IL ",
+    "siteId": "05536500"
+  },
+  {
+    "gageName": "TYLER CREEK AT ELGIN, IL ",
+    "siteId": "05550300"
+  },
+  {
+    "gageName": "VERMILION RIVER AT PONTIAC, IL ",
+    "siteId": "05554500"
+  },
+  {
+    "gageName": "VERMILION RIVER NEAR LEONORE, IL ",
+    "siteId": "05555300"
+  },
+  {
+    "gageName": "WAUBONSEE CREEK NEAR OSWEGO, IL ",
+    "siteId": "05551545"
+  },
+  {
+    "gageName": "WELLER CREEK AT DES PLAINES, IL ",
+    "siteId": "05530000"
+  },
+  {
+    "gageName": "WEST BRANCH DU PAGE RIVER NEAR NAPERVILLE, IL ",
+    "siteId": "05540130"
+  },
+  {
+    "gageName": "WEST BRANCH DU PAGE RIVER NEAR WARRENVILLE, IL ",
+    "siteId": "05540095"
+  },
+  {
+    "gageName": "WEST BRANCH DU PAGE RIVER NEAR WEST CHICAGO, IL ",
+    "siteId": "05539900"
+  },
+  {
+    "gageName": "WF OF NB CHICAGO RIVER AT DEERFIELD, IL ",
+    "siteId": "05535400"
+  }
+]

@@ -1,0 +1,854 @@
+[
+  {
+    "gageName": "ALLEQUASH CREEK @ CT HWY M NR BOULDER JUNCTION, WI ",
+    "siteId": "05357215"
+  },
+  {
+    "gageName": "ALLEQUASH CREEK NEAR SAYNER, WI ",
+    "siteId": "05357205"
+  },
+  {
+    "gageName": "ALLEQUASH CREEK SITE NO. 3 NR BOULDER JUNCTION, WI ",
+    "siteId": "05357206"
+  },
+  {
+    "gageName": "ANVIL LAKE NEAR EAGLE RIVER, WI ",
+    "siteId": "05390500"
+  },
+  {
+    "gageName": "ASHLAND BREAKWATER LIGHTHOUSE CHEQUAMEGON BAY, WI ",
+    "siteId": "463741090521301"
+  },
+  {
+    "gageName": "ASHWAUBENON CREEK AT GRANT ST NR WEST DEPERE, WI ",
+    "siteId": "040850684"
+  },
+  {
+    "gageName": "BADFISH CREEK NEAR COOKSVILLE, WI ",
+    "siteId": "05430150"
+  },
+  {
+    "gageName": "BADGER MILL CREEK AT VERONA, WI ",
+    "siteId": "05435943"
+  },
+  {
+    "gageName": "BAD RIVER AT ODANAH, WI ",
+    "siteId": "04027595"
+  },
+  {
+    "gageName": "BAD RIVER NEAR ODANAH, WI ",
+    "siteId": "04027000"
+  },
+  {
+    "gageName": "BARABOO RIVER AT LA VALLE, WI ",
+    "siteId": "05404129"
+  },
+  {
+    "gageName": "BARABOO RIVER AT MAIN STREET AT REEDSBURG, WI ",
+    "siteId": "054041665"
+  },
+  {
+    "gageName": "BARABOO RIVER NEAR BARABOO, WI ",
+    "siteId": "05405000"
+  },
+  {
+    "gageName": "BARK RIVER AT NAGAWICKA ROAD AT DELAFIELD, WI ",
+    "siteId": "05426067"
+  },
+  {
+    "gageName": "BARK RIVER NEAR ROME, WI ",
+    "siteId": "05426250"
+  },
+  {
+    "gageName": "BEAR RIVER NEAR MANITOWISH WATERS, WI ",
+    "siteId": "05357335"
+  },
+  {
+    "gageName": "BEARTRAP CREEK AT U.S. HIGHWAY 2 NEAR ASHLAND, WI ",
+    "siteId": "04026390"
+  },
+  {
+    "gageName": "BEAVERDAM RIVER AT BEAVER DAM, WI ",
+    "siteId": "05425912"
+  },
+  {
+    "gageName": "BERRY LAKE NEAR SHAWANO, WI ",
+    "siteId": "445322088281801"
+  },
+  {
+    "gageName": "BIG CREEK OUTLET AT LAKE REDSTONE NR LA VALLE, WI ",
+    "siteId": "05404147"
+  },
+  {
+    "gageName": "BIG EAU PLEINE RIVER AT STRATFORD, WI ",
+    "siteId": "05399500"
+  },
+  {
+    "gageName": "BIG RIB RIVER AT RIB FALLS, WI ",
+    "siteId": "05396000"
+  },
+  {
+    "gageName": "BIG ROCHE A CRI CREEK AT HWY G NR LEOLA, WI ",
+    "siteId": "05401514"
+  },
+  {
+    "gageName": "BLACK EARTH CK NR TREATMENT PLNT @ CROSS PLAINS,WI ",
+    "siteId": "05406479"
+  },
+  {
+    "gageName": "BLACK EARTH CREEK AT BLACK EARTH, WI ",
+    "siteId": "05406500"
+  },
+  {
+    "gageName": "BLACK EARTH CREEK NR BREWERY RD AT CROSS PLAINS,WI ",
+    "siteId": "05406457"
+  },
+  {
+    "gageName": "BLACK RIVER AT NEILLSVILLE, WI ",
+    "siteId": "05381000"
+  },
+  {
+    "gageName": "BLACK RIVER DS ST HWY 54 AT BLACK RIVER FALLS, WI ",
+    "siteId": "053813595"
+  },
+  {
+    "gageName": "BLACK RIVER NEAR GALESVILLE, WI ",
+    "siteId": "05382000"
+  },
+  {
+    "gageName": "BOIS BRULE RIVER AT BRULE, WI ",
+    "siteId": "04025500"
+  },
+  {
+    "gageName": "BOIS BRULE RIVER NEAR LAKE SUPERIOR, WI ",
+    "siteId": "04026005"
+  },
+  {
+    "gageName": "BREWERY CREEK-UPSTREAM SITE-AT CROSS PLAINS, WI ",
+    "siteId": "05406469"
+  },
+  {
+    "gageName": "BRULE RIVER AT US HIGHWAY 2 NEAR FLORENCE, WI ",
+    "siteId": "04060993"
+  },
+  {
+    "gageName": "BRULE RIVER NEAR COMMONWEALTH, WI ",
+    "siteId": "04062011"
+  },
+  {
+    "gageName": "CEDAR CREEK NEAR CEDARBURG, WI ",
+    "siteId": "04086500"
+  },
+  {
+    "gageName": "CHAFFEE CREEK AT I-39 NEAR COLOMA, WI ",
+    "siteId": "04073240"
+  },
+  {
+    "gageName": "CHIPPEWA R AT GRAND AVE AT EAU CLAIRE, WI ",
+    "siteId": "05366800"
+  },
+  {
+    "gageName": "CHIPPEWA RIVER AT BISHOPS BRIDGE NEAR WINTER, WI ",
+    "siteId": "05356000"
+  },
+  {
+    "gageName": "CHIPPEWA RIVER AT CHIPPEWA FALLS, WI ",
+    "siteId": "05365500"
+  },
+  {
+    "gageName": "CHIPPEWA RIVER AT DURAND, WI ",
+    "siteId": "05369500"
+  },
+  {
+    "gageName": "CHIPPEWA RIVER BELOW DELLS DAM AT EAU CLAIRE, WI ",
+    "siteId": "05365550"
+  },
+  {
+    "gageName": "CHIPPEWA RIVER NEAR BRUCE, WI ",
+    "siteId": "05356500"
+  },
+  {
+    "gageName": "CRAWFISH RIVER AT MILFORD, WI ",
+    "siteId": "05426000"
+  },
+  {
+    "gageName": "DELAVAN LAKE OUTLET AT BORG ROAD NEAR DELAVAN, WI ",
+    "siteId": "05431022"
+  },
+  {
+    "gageName": "DENOMIE CREEK AT MAPLE STREET NEAR ODANAH, WI ",
+    "siteId": "040276505"
+  },
+  {
+    "gageName": "DETENTION POND OUTLET AT MEMORIAL HS @ MADISON, WI ",
+    "siteId": "430338089295701"
+  },
+  {
+    "gageName": "DEVILS LAKE NEAR BARABOO, WI ",
+    "siteId": "05404500"
+  },
+  {
+    "gageName": "DISCOVERY FARMS WATERWAY AO1 NEAR ANTIGO, WI ",
+    "siteId": "451021089064901"
+  },
+  {
+    "gageName": "DISCOVERY FARMS WATERWAY AO2 NEAR ANTIGO, WI ",
+    "siteId": "451207089041801"
+  },
+  {
+    "gageName": "DISCOVERY FARMS WATERWAY AO3 NEAR ANTIGO, WI ",
+    "siteId": "451337089035401"
+  },
+  {
+    "gageName": "DISCOVERY FARMS WATERWAY KD1 NEAR KEWAUNEE, WI ",
+    "siteId": "442405087414401"
+  },
+  {
+    "gageName": "DISCOVERY FARMS WATERWAY KD2 NEAR KEWAUNEE, WI ",
+    "siteId": "442155087330001"
+  },
+  {
+    "gageName": "DISCOVERY FARMS WATERWAY RS1 NEAR MAUSTON, WI ",
+    "siteId": "433939090050501"
+  },
+  {
+    "gageName": "DISCOVERY FARMS WATERWAY RS2 NEAR MAUSTON, WI ",
+    "siteId": "433821090063801"
+  },
+  {
+    "gageName": "DORN ",
+    "siteId": "05427930"
+  },
+  {
+    "gageName": "DORN ",
+    "siteId": "05427927"
+  },
+  {
+    "gageName": "DRYWOOD CREEK AT COVERED FOOTBRIDGE NR CADOTT, WI ",
+    "siteId": "05364128"
+  },
+  {
+    "gageName": "DUTCHMAN CREEK AT CYRUS ST NR ASHWAUBENON, WI ",
+    "siteId": "04085074"
+  },
+  {
+    "gageName": "DUTCHMAN CREEK AT HANSEN RD AT ASHWAUBENON, WI ",
+    "siteId": "04085078"
+  },
+  {
+    "gageName": "EAST BRANCH PECATONICA RIVER NR BLANCHARDVILLE, WI ",
+    "siteId": "05433000"
+  },
+  {
+    "gageName": "EAST RIVER @ CNTY TRUNK HIGHWAY ZZ NR GREENLEAF,WI ",
+    "siteId": "04085108"
+  },
+  {
+    "gageName": "EAU CLAIRE RIVER AT KELLY, WI ",
+    "siteId": "05397500"
+  },
+  {
+    "gageName": "EAU GALLE RIVER AT SPRING VALLEY, WI ",
+    "siteId": "05370000"
+  },
+  {
+    "gageName": "E BRANCH BIG CREEK AT LAVALLE RD NR LA VALLE, WI ",
+    "siteId": "05404150"
+  },
+  {
+    "gageName": "ELIZABETH LAKE AT TWIN LAKES, WI-IL ",
+    "siteId": "423000088164401"
+  },
+  {
+    "gageName": "EMBARRASS RIVER NEAR EMBARRASS, WI ",
+    "siteId": "04078500"
+  },
+  {
+    "gageName": "FLAMBEAU RIVER NEAR BRUCE, WI ",
+    "siteId": "05360500"
+  },
+  {
+    "gageName": "FOX RIVER AT APPLETON, WI ",
+    "siteId": "04084445"
+  },
+  {
+    "gageName": "FOX RIVER AT OIL TANK DEPOT AT GREEN BAY, WI ",
+    "siteId": "040851385"
+  },
+  {
+    "gageName": "FOX RIVER AT ROCHESTER, WI ",
+    "siteId": "05544475"
+  },
+  {
+    "gageName": "FOX RIVER AT WATERFORD DAM, AT WATERFORD, WI ",
+    "siteId": "05544348"
+  },
+  {
+    "gageName": "FOX RIVER AT WAUKESHA, WI ",
+    "siteId": "05543830"
+  },
+  {
+    "gageName": "FOX RIVER NEAR NEW MUNSTER, WI ",
+    "siteId": "05545750"
+  },
+  {
+    "gageName": "GENEVA LAKE AT LAKE GENEVA, WI ",
+    "siteId": "423525088260400"
+  },
+  {
+    "gageName": "GLEN DR STORM SEWER AT MADISON, WI ",
+    "siteId": "430319089262101"
+  },
+  {
+    "gageName": "GLRI BIOREACTOR INLET NR DUVALL,WI ",
+    "siteId": "444049087424302"
+  },
+  {
+    "gageName": "GLRI BIOREACTOR OUTLET NR DUVALL, WI ",
+    "siteId": "444049087424303"
+  },
+  {
+    "gageName": "GLRI EAST RIVER TILE 1 NEAR GREENLEAF, WI ",
+    "siteId": "441520088045002"
+  },
+  {
+    "gageName": "GLRI EAST RIVER WATERWAY 3 NEAR GREENLEAF, WI ",
+    "siteId": "441520088045001"
+  },
+  {
+    "gageName": "GLRI EAST RIVER WATERWAY NUMBER 2 NR GREENLEAF, WI ",
+    "siteId": "441546088082001"
+  },
+  {
+    "gageName": "GLRI WATERWAY NUMBER 4 NR WRIGHTSTOWN, WI ",
+    "siteId": "442119088085501"
+  },
+  {
+    "gageName": "GLRI WATERWAY NUMBER 5 NR WRIGHTSTOWN, WI ",
+    "siteId": "442114088085701"
+  },
+  {
+    "gageName": "GRANT RIVER AT BURTON, WI ",
+    "siteId": "05413500"
+  },
+  {
+    "gageName": "GREEN LAKE AT GREEN LAKE, WI ",
+    "siteId": "434840089000001"
+  },
+  {
+    "gageName": "GREEN LAKE SW INLET @ CT HIGHWY K NR GREEN LAKE,WI ",
+    "siteId": "040734605"
+  },
+  {
+    "gageName": "HAY RIVER AT WHEELER, WI ",
+    "siteId": "05368000"
+  },
+  {
+    "gageName": "HONEY CREEK AT WAUWATOSA, WI ",
+    "siteId": "04087119"
+  },
+  {
+    "gageName": "JACKSON CREEK AT MOUND ROAD NEAR ELKHORN, WI ",
+    "siteId": "05431016"
+  },
+  {
+    "gageName": "JUMP RIVER AT SHELDON, WI ",
+    "siteId": "05362000"
+  },
+  {
+    "gageName": "KEWAUNEE RIVER NEAR KEWAUNEE, WI ",
+    "siteId": "04085200"
+  },
+  {
+    "gageName": "KICKAPOO R @ ST HWY 131 AT ONTARIO, WI ",
+    "siteId": "05407468"
+  },
+  {
+    "gageName": "KINNICKINNIC RIVER AT S. 1ST ST AT MILWAUKEE, WI ",
+    "siteId": "04087161"
+  },
+  {
+    "gageName": "KINNICKINNIC RIVER NEAR RIVER FALLS, WI ",
+    "siteId": "05342000"
+  },
+  {
+    "gageName": "KINNICKINNIC RIVER @ S. 11TH STREET @ MILWAUKEE,WI ",
+    "siteId": "04087159"
+  },
+  {
+    "gageName": "LAKE HURON NEAR PLAINFIELD, WI ",
+    "siteId": "05401063"
+  },
+  {
+    "gageName": "LAKE KEGONSA AT BARBER DRIVE NEAR STOUGHTON, WI ",
+    "siteId": "425715089164700"
+  },
+  {
+    "gageName": "LAKE KOSHKONONG NEAR NEWVILLE, WI ",
+    "siteId": "05427235"
+  },
+  {
+    "gageName": "LAKE MENDOTA AT MADISON, WI ",
+    "siteId": "05428000"
+  },
+  {
+    "gageName": "LAKE MONONA AT MADISON, WI ",
+    "siteId": "05429000"
+  },
+  {
+    "gageName": "LAKE WAUBESA AT MC FARLAND, WI ",
+    "siteId": "05429485"
+  },
+  {
+    "gageName": "LEMONWEIR RIVER AT NEW LISBON, WI ",
+    "siteId": "05403500"
+  },
+  {
+    "gageName": "LINCOLN CREEK @ SHERMAN BOULEVARD AT MILWAUKEE, WI ",
+    "siteId": "040869416"
+  },
+  {
+    "gageName": "LITTLE MENOMONEE RIVER AT MILWAUKEE, WI ",
+    "siteId": "04087070"
+  },
+  {
+    "gageName": "LITTLE MENOMONEE RIVER NEAR FREISTADT, WI ",
+    "siteId": "04087050"
+  },
+  {
+    "gageName": "LITTLE PLOVER RIVER NEAR PLOVER, WI ",
+    "siteId": "05400625"
+  },
+  {
+    "gageName": "LONG LAKE NEAR PLAINFIELD, WI ",
+    "siteId": "05401065"
+  },
+  {
+    "gageName": "MANITOWOC RIVER AT MANITOWOC, WI ",
+    "siteId": "04085427"
+  },
+  {
+    "gageName": "MARENGO RIVER NEAR MELLEN, WI ",
+    "siteId": "04026740"
+  },
+  {
+    "gageName": "MENOMINEE RIVER AT NIAGARA, WI ",
+    "siteId": "04065106"
+  },
+  {
+    "gageName": "MENOMINEE RIVER NEAR FLORENCE, WI ",
+    "siteId": "04063000"
+  },
+  {
+    "gageName": "MENOMONEE RIVER AT 16TH STREET AT MILWAUKEE, WI ",
+    "siteId": "04087142"
+  },
+  {
+    "gageName": "MENOMONEE RIVER AT MENOMONEE FALLS, WI ",
+    "siteId": "04087030"
+  },
+  {
+    "gageName": "MENOMONEE RIVER AT WAUWATOSA, WI ",
+    "siteId": "04087120"
+  },
+  {
+    "gageName": "MILWAUKEE RIVER AT MILWAUKEE, WI ",
+    "siteId": "04087000"
+  },
+  {
+    "gageName": "MILWAUKEE RIVER NEAR CEDARBURG, WI ",
+    "siteId": "04086600"
+  },
+  {
+    "gageName": "MUKWONAGO RIVER AT MUKWONAGO, WI ",
+    "siteId": "05544200"
+  },
+  {
+    "gageName": "MUSKEGO ",
+    "siteId": "05544385"
+  },
+  {
+    "gageName": "NAMEKAGON RIVER AT LEONARDS, WI ",
+    "siteId": "05331833"
+  },
+  {
+    "gageName": "NEMADJI RIVER NEAR SOUTH SUPERIOR, WI ",
+    "siteId": "04024430"
+  },
+  {
+    "gageName": "NF YELLOW R AT YELLOW RIVER RD NR PERKINSTOWN, WI ",
+    "siteId": "05363600"
+  },
+  {
+    "gageName": "NORTH CREEK AT TROUT LAKE NEAR BOULDER JUNCTION,WI ",
+    "siteId": "05357230"
+  },
+  {
+    "gageName": "OAK CREEK AT SOUTH MILWAUKEE, WI ",
+    "siteId": "04087204"
+  },
+  {
+    "gageName": "OCONTO RIVER NEAR GILLETT, WI ",
+    "siteId": "04071000"
+  },
+  {
+    "gageName": "OCONTO RIVER NEAR OCONTO, WI ",
+    "siteId": "04071765"
+  },
+  {
+    "gageName": "PECATONICA RIVER AT DARLINGTON, WI ",
+    "siteId": "05432500"
+  },
+  {
+    "gageName": "PECATONICA RIVER AT MARTINTOWN, WI ",
+    "siteId": "05434500"
+  },
+  {
+    "gageName": "PESHTIGO RIVER AT PESHTIGO, WI ",
+    "siteId": "04069500"
+  },
+  {
+    "gageName": "PESHTIGO RIVER AT PORTERFIELD, WI ",
+    "siteId": "04069416"
+  },
+  {
+    "gageName": "PESHTIGO RIVER NEAR WABENO, WI ",
+    "siteId": "04067958"
+  },
+  {
+    "gageName": "PHEASANT BRANCH AT AIRPORT ROAD NEAR MIDDLETON, WI ",
+    "siteId": "05427943"
+  },
+  {
+    "gageName": "PHEASANT BRANCH AT MIDDLETON, WI ",
+    "siteId": "05427948"
+  },
+  {
+    "gageName": "PIKE RIVER AT AMBERG, WI ",
+    "siteId": "04066500"
+  },
+  {
+    "gageName": "PIKE RIVER NEAR RACINE, WI ",
+    "siteId": "04087257"
+  },
+  {
+    "gageName": "PINE RIVER BELOW PINE R POWERPLANT NR FLORENCE, WI ",
+    "siteId": "04064500"
+  },
+  {
+    "gageName": "PISCASAW CREEK NEAR WALWORTH, WI ",
+    "siteId": "05438283"
+  },
+  {
+    "gageName": "PLATTE RIVER NEAR ROCKVILLE, WI ",
+    "siteId": "05414000"
+  },
+  {
+    "gageName": "PLEASANT LAKE NEAR WESTFIELD, WI ",
+    "siteId": "435857089325301"
+  },
+  {
+    "gageName": "PLUM CREEK NEAR WRIGHTSTOWN, WI ",
+    "siteId": "04084911"
+  },
+  {
+    "gageName": "POPPLE RIVER NEAR FENCE, WI ",
+    "siteId": "04063700"
+  },
+  {
+    "gageName": "PRAIRIE RIVER NEAR MERRILL, WI ",
+    "siteId": "05394500"
+  },
+  {
+    "gageName": "RED CEDAR RIVER AT MENOMONIE, WI ",
+    "siteId": "05369000"
+  },
+  {
+    "gageName": "RED CEDAR RIVER NEAR COLFAX, WI ",
+    "siteId": "05367500"
+  },
+  {
+    "gageName": "RED RIVER AT MORGAN ROAD NEAR MORGAN, WI ",
+    "siteId": "04077630"
+  },
+  {
+    "gageName": "ROCK RIVER AT AFTON, WI ",
+    "siteId": "05430500"
+  },
+  {
+    "gageName": "ROCK RIVER AT HORICON, WI ",
+    "siteId": "05424057"
+  },
+  {
+    "gageName": "ROCK RIVER AT NEWVILLE, WI ",
+    "siteId": "05427530"
+  },
+  {
+    "gageName": "ROCK RIVER AT ROBERT STREET AT FORT ATKINSON, WI ",
+    "siteId": "05427085"
+  },
+  {
+    "gageName": "ROCK RIVER AT WATERTOWN, WI ",
+    "siteId": "05425500"
+  },
+  {
+    "gageName": "ROOT RIVER AT 60TH ST NEAR CALEDONIA, WI ",
+    "siteId": "04087234"
+  },
+  {
+    "gageName": "ROOT RIVER AT GRANGE AVENUE AT GREENFIELD, WI ",
+    "siteId": "04087214"
+  },
+  {
+    "gageName": "ROOT RIVER AT RACINE, WI ",
+    "siteId": "04087240"
+  },
+  {
+    "gageName": "ROOT RIVER CANAL NEAR FRANKLIN, WI ",
+    "siteId": "04087233"
+  },
+  {
+    "gageName": "ROOT RIVER NEAR FRANKLIN, WI ",
+    "siteId": "04087220"
+  },
+  {
+    "gageName": "S.BR.TENMILE CREEK NEAR BANCROFT, WI ",
+    "siteId": "05401034"
+  },
+  {
+    "gageName": "S FORK PHEASANT BRANCH @ DEMING WAY @ MIDDLETON,WI ",
+    "siteId": "054279465"
+  },
+  {
+    "gageName": "SHEBOYGAN RIVER AT SHEBOYGAN, WI ",
+    "siteId": "04086000"
+  },
+  {
+    "gageName": "SILVER CREEK AT FLORIST DRIVE AT ONEIDA, WI ",
+    "siteId": "04072076"
+  },
+  {
+    "gageName": "SILVER CREEK AT SPAULDING ROAD NEAR GREEN LAKE, WI ",
+    "siteId": "04073466"
+  },
+  {
+    "gageName": "SILVER CREEK AT STATE HIGHWAY 21 NEAR ANGELO, WI ",
+    "siteId": "05382284"
+  },
+  {
+    "gageName": "SISKIWIT RIVER AT CORNUCOPIA, WI ",
+    "siteId": "04026160"
+  },
+  {
+    "gageName": "SISKIWIT RIVER AT CTY HWY C NEAR CORNUCOPIA, WI ",
+    "siteId": "04026157"
+  },
+  {
+    "gageName": "SIXMILE CREEK AT STATE HIGHWAY 19 NEAR WAUNAKEE,WI ",
+    "siteId": "05427880"
+  },
+  {
+    "gageName": "SIXMILE CREEK @ COUNTY TRNK HGHWY M NR WAUNAKEE,WI ",
+    "siteId": "05427910"
+  },
+  {
+    "gageName": "SOUTH BRANCH ROCK RIVER AT WAUPUN, WI ",
+    "siteId": "05423500"
+  },
+  {
+    "gageName": "SOUTH FORK FLAMBEAU RIVER NEAR PHILLIPS, WI ",
+    "siteId": "05359500"
+  },
+  {
+    "gageName": "SOUTH SEGOE RD STORM SEWER AT MADISON, WI ",
+    "siteId": "430347089273001"
+  },
+  {
+    "gageName": "SPIRIT RIVER AT SPIRIT FALLS, WI ",
+    "siteId": "05393500"
+  },
+  {
+    "gageName": "ST. CROIX RIVER AT PRESCOTT, WI ",
+    "siteId": "05344490"
+  },
+  {
+    "gageName": "ST. CROIX RIVER NEAR DANBURY, WI ",
+    "siteId": "05333500"
+  },
+  {
+    "gageName": "STEVENSON CREEK @ CT HWY M NR BOULDER JUNCTION, WI ",
+    "siteId": "05357225"
+  },
+  {
+    "gageName": "SUGAR RIVER NEAR BRODHEAD, WI ",
+    "siteId": "05436500"
+  },
+  {
+    "gageName": "SUGAR RIVER NEAR VERONA, WI ",
+    "siteId": "05435950"
+  },
+  {
+    "gageName": "SWAN CREEK AT LALOR ROAD NEAR FITCHBURG, WI ",
+    "siteId": "05429369"
+  },
+  {
+    "gageName": "SW COMMUTER PATH STORM SEWER AT MADISON, WI ",
+    "siteId": "430310089262901"
+  },
+  {
+    "gageName": "TENMILE CREEK NEAR NEKOOSA, WI ",
+    "siteId": "05401050"
+  },
+  {
+    "gageName": "TOMORROW RIVER NEAR NELSONVILLE, WI ",
+    "siteId": "04080798"
+  },
+  {
+    "gageName": "TROUT RIVER AT TROUT LAKE NEAR BOULDER JUNCTION,WI ",
+    "siteId": "05357245"
+  },
+  {
+    "gageName": "TRT WETLAND TWO DRAIN TILE INLET NR KAUKAUNA, WI ",
+    "siteId": "441605088115702"
+  },
+  {
+    "gageName": "TRT WETLAND TWO SURFACE INLET NR KAUKAUNA, WI ",
+    "siteId": "441605088115701"
+  },
+  {
+    "gageName": "TURTLE CREEK AT CARVERS ROCK ROAD NEAR CLINTON, WI ",
+    "siteId": "05431486"
+  },
+  {
+    "gageName": "TYLER FORKS RIVER AT STRICKER ROAD NEAR MELLEN, WI ",
+    "siteId": "04026561"
+  },
+  {
+    "gageName": "UNDERWOOD CREEK AT 115TH STREET AT WAUWATOSA, WI ",
+    "siteId": "04087087"
+  },
+  {
+    "gageName": "UNDERWOOD CREEK AT UNNAMED ROAD, ELM GROVE, WI ",
+    "siteId": "0408708567"
+  },
+  {
+    "gageName": "UNDERWOOD CREEK AT WAUWATOSA, WI ",
+    "siteId": "04087088"
+  },
+  {
+    "gageName": "UNDERWOOD CREEK AT W BLUE MOUND RD, ELM GROVE, WI ",
+    "siteId": "040870860"
+  },
+  {
+    "gageName": "UNDERWOOD CR ON BIKE PATH/Rt 100, WEST ALLIS, WI. ",
+    "siteId": "040870876"
+  },
+  {
+    "gageName": "W BRANCH BIG CREEK AT CLARK RD NR LA VALLE, WI ",
+    "siteId": "05404140"
+  },
+  {
+    "gageName": "WESTMORLAND PARK STORM SEWER AT MADISON, WI ",
+    "siteId": "430320089264001"
+  },
+  {
+    "gageName": "WEST PLUM CREEK AT NEW ROAD NEAR WRIGHTSTOWN, WI ",
+    "siteId": "04084927"
+  },
+  {
+    "gageName": "WHITE RIVER AT CENTER STREET AT LAKE GENEVA, WI ",
+    "siteId": "055451345"
+  },
+  {
+    "gageName": "WHITE RIVER NEAR ASHLAND, WI ",
+    "siteId": "04027500"
+  },
+  {
+    "gageName": "WHITTLESEY CREEK NEAR ASHLAND, WI ",
+    "siteId": "040263205"
+  },
+  {
+    "gageName": "WILLOW RIVER @ WILLOW R STATE PARK NR BURKHARDT,WI ",
+    "siteId": "05341752"
+  },
+  {
+    "gageName": "WILSON PARK CK @ ST. LUKES HOSPITAL @ MILWAUKEE,WI ",
+    "siteId": "040871488"
+  },
+  {
+    "gageName": "WIND LAKE AT OUTLET AT WIND LAKE, WI ",
+    "siteId": "424848088083100"
+  },
+  {
+    "gageName": "WISCONSIN R BELOW CASTLE ROCK DAM NR MAUSTON, WI ",
+    "siteId": "05403202"
+  },
+  {
+    "gageName": "WISCONSIN RIVER AT MERRILL, WI ",
+    "siteId": "05395000"
+  },
+  {
+    "gageName": "WISCONSIN RIVER AT MOSINEE, WI ",
+    "siteId": "05398100"
+  },
+  {
+    "gageName": "WISCONSIN RIVER AT MUSCODA, WI ",
+    "siteId": "05407000"
+  },
+  {
+    "gageName": "WISCONSIN RIVER AT ROTHSCHILD, WI ",
+    "siteId": "05398000"
+  },
+  {
+    "gageName": "WISCONSIN RIVER AT WISCONSIN RAPIDS, WI ",
+    "siteId": "05400760"
+  },
+  {
+    "gageName": "WISCONSIN RIVER NEAR WISCONSIN DELLS, WI ",
+    "siteId": "05404000"
+  },
+  {
+    "gageName": "WISCONSIN RIVER @ RAINBOW LAKE NR LAKE TOMAHAWK,WI ",
+    "siteId": "05391000"
+  },
+  {
+    "gageName": "WOLF RIVER AT LANGLADE, WI ",
+    "siteId": "04074950"
+  },
+  {
+    "gageName": "WOLF RIVER AT NEW LONDON, WI ",
+    "siteId": "04079000"
+  },
+  {
+    "gageName": "YAHARA RIVER AT EAST MAIN STREET AT MADISON, WI ",
+    "siteId": "05428500"
+  },
+  {
+    "gageName": "YAHARA RIVER AT MC FARLAND, WI ",
+    "siteId": "05429500"
+  },
+  {
+    "gageName": "YAHARA RIVER AT STATE HIGHWAY 113 AT MADISON, WI ",
+    "siteId": "05427850"
+  },
+  {
+    "gageName": "YAHARA RIVER AT WINDSOR, WI ",
+    "siteId": "05427718"
+  },
+  {
+    "gageName": "YAHARA RIVER @ FORTON STREET BRIDGE @ STOUGHTON,WI ",
+    "siteId": "05429700"
+  },
+  {
+    "gageName": "YAHARA RIVER NEAR FULTON, WI ",
+    "siteId": "05430175"
+  },
+  {
+    "gageName": "YELLOW RIVER AT BABCOCK, WI ",
+    "siteId": "05402000"
+  },
+  {
+    "gageName": "YELLOW RIVER AT NECEDAH, WI ",
+    "siteId": "05403000"
+  }
+]

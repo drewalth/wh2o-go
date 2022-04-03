@@ -1,7 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-.env
-*.sqlite
 # dependencies
 /node_modules
 /.pnp
@@ -9,40 +7,17 @@
 
 # testing
 /coverage
-/.idea/
-
-# next.js
-/.next/
-/out/
 
 # production
 /build
-client/
-wh2o-next
+
 # misc
 .DS_Store
-*.pem
-
-# debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# local env files
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
 
-# vercel
-.vercel
-
-# typescript
-*.tsbuildinfo
-
-test.db
-wh2o-next
-
-/tmp/
-
-wh2o-data-*.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

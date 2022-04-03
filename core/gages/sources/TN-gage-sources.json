@@ -1,0 +1,438 @@
+[
+  {
+    "gageName": "BASSES CREEK AT LAKE TANSI NR CROSSVILLE,TN ",
+    "siteId": "03538970"
+  },
+  {
+    "gageName": "BEAVER CREEK AT SOLWAY, TN ",
+    "siteId": "03535400"
+  },
+  {
+    "gageName": "BEECH RIVER BELOW WOLF CREEK NEAR LEXINGTON, TN ",
+    "siteId": "03594421"
+  },
+  {
+    "gageName": "BIG ELK CREEK AT ELK MILLS, MD ",
+    "siteId": "01495000"
+  },
+  {
+    "gageName": "BIG LIMESTONE CREEK NEAR LIMESTONE, TN ",
+    "siteId": "03466208"
+  },
+  {
+    "gageName": "BIG ROCK CR AT DOUBLE BRIDGES, TN ",
+    "siteId": "03599100"
+  },
+  {
+    "gageName": "BLEDSOE CREEK NEAR BETHPAGE, TN ",
+    "siteId": "03425622"
+  },
+  {
+    "gageName": "BUFFALO RIVER BELOW LOBELVILLE, TN ",
+    "siteId": "03604400"
+  },
+  {
+    "gageName": "BUFFALO RIVER NEAR FLAT WOODS, TN ",
+    "siteId": "03604000"
+  },
+  {
+    "gageName": "BULLRUN CREEK NEAR HALLS CROSSROADS, TN ",
+    "siteId": "03535000"
+  },
+  {
+    "gageName": "CALFKILLER RIVER AT HWY 70 AT SPARTA, TN ",
+    "siteId": "03419530"
+  },
+  {
+    "gageName": "CANEY FORK AT STONEWALL ",
+    "siteId": "03424860"
+  },
+  {
+    "gageName": "CLEAR CREEK AT LILLY BRIDGE NEAR LANCING, TN ",
+    "siteId": "03539778"
+  },
+  {
+    "gageName": "CLEAR FORK NEAR ROBBINS, TN ",
+    "siteId": "03409500"
+  },
+  {
+    "gageName": "CLINCH RIVER ABOVE TAZEWELL, TN ",
+    "siteId": "03528000"
+  },
+  {
+    "gageName": "CLINCH RIVER NEAR LOONEYS GAP, TN ",
+    "siteId": "03527220"
+  },
+  {
+    "gageName": "COLLINS RIVER NEAR MCMINNVILLE, TN ",
+    "siteId": "03421000"
+  },
+  {
+    "gageName": "CROCKETT CREEK BELOW ROGERSVILLE, TN ",
+    "siteId": "03491544"
+  },
+  {
+    "gageName": "CUMBERLAND RIVER AT ASHLAND CITY, TN ",
+    "siteId": "03431790"
+  },
+  {
+    "gageName": "CUMBERLAND RIVER AT BRILEY PKWY AT COCKRILL BEND ",
+    "siteId": "03431712"
+  },
+  {
+    "gageName": "CUMBERLAND RIVER AT BRILEY PKWY NR INGLEWOOD, TN ",
+    "siteId": "03430320"
+  },
+  {
+    "gageName": "CUMBERLAND RIVER AT CELINA, TN ",
+    "siteId": "03417500"
+  },
+  {
+    "gageName": "CUMBERLAND RIVER AT EDENWOLD, TN ",
+    "siteId": "03426490"
+  },
+  {
+    "gageName": "CUMBERLAND RIVER AT NASHVILLE, TN ",
+    "siteId": "03431500"
+  },
+  {
+    "gageName": "CUMBERLAND RIVER AT STONES RIVER NEAR HERMITAGE,TN ",
+    "siteId": "03430250"
+  },
+  {
+    "gageName": "CUMBERLAND RIVER BELOW CORDELL HULL DAM, TN ",
+    "siteId": "03418420"
+  },
+  {
+    "gageName": "DADDYS CREEK NEAR HEBBERTSBURG, TN ",
+    "siteId": "03539600"
+  },
+  {
+    "gageName": "DOE RIVER AT ELIZABETHTON, TN ",
+    "siteId": "03485500"
+  },
+  {
+    "gageName": "DUCK RIVER ABOVE HURRICANE MILLS, TN ",
+    "siteId": "03603000"
+  },
+  {
+    "gageName": "DUCK RIVER ABOVE MILLTOWN, TN ",
+    "siteId": "03599240"
+  },
+  {
+    "gageName": "DUCK RIVER AT COLUMBIA, TN ",
+    "siteId": "03599500"
+  },
+  {
+    "gageName": "DUCK RIVER AT CRAIG BRIDGE RD AB WILLIAMSPORT, TN ",
+    "siteId": "03600358"
+  },
+  {
+    "gageName": "DUCK RIVER AT HALLS MILL BRIDGE, TN ",
+    "siteId": "03598185"
+  },
+  {
+    "gageName": "DUCK RIVER AT HWY 100 AT CENTERVILLE, TN ",
+    "siteId": "03601990"
+  },
+  {
+    "gageName": "DUCK RIVER AT MILE 156 NEAR POTTSVILLE, TN ",
+    "siteId": "03599419"
+  },
+  {
+    "gageName": "DUCK RIVER AT SHELBYVILLE, TN ",
+    "siteId": "03597860"
+  },
+  {
+    "gageName": "DUCK RIVER BELOW MANCHESTER, TN ",
+    "siteId": "03596000"
+  },
+  {
+    "gageName": "DUCK RIVER NEAR SHADY GROVE, TN. ",
+    "siteId": "03601600"
+  },
+  {
+    "gageName": "DUCK RIVER NEAR SHELBYVILLE, TN ",
+    "siteId": "03598000"
+  },
+  {
+    "gageName": "EAST FORK STONES RIVER NEAR LASCASSAS, TN ",
+    "siteId": "03427500"
+  },
+  {
+    "gageName": "ELK RIVER AT PROSPECT, TN ",
+    "siteId": "03584600"
+  },
+  {
+    "gageName": "ELK RIVER NEAR PELHAM, TN ",
+    "siteId": "03578000"
+  },
+  {
+    "gageName": "EMORY RIVER AT OAKDALE, TN ",
+    "siteId": "03540500"
+  },
+  {
+    "gageName": "FALLING WATER RIVER NEAR COOKEVILLE, TN ",
+    "siteId": "03423000"
+  },
+  {
+    "gageName": "FLAT CREEK NEAR MASCOT, TN ",
+    "siteId": "03495005"
+  },
+  {
+    "gageName": "FOUNTAIN CREEK NEAR FOUNTAIN HEIGHTS, TN ",
+    "siteId": "03599450"
+  },
+  {
+    "gageName": "FRENCH BROAD RIVER NEAR NEWPORT, TN ",
+    "siteId": "03455000"
+  },
+  {
+    "gageName": "FRIAR BRANCH AT POLYMER DR AT CHATTANOOGA, TN ",
+    "siteId": "03567595"
+  },
+  {
+    "gageName": "GOOSE CREEK NEAR HARTSVILLE, TN ",
+    "siteId": "03425290"
+  },
+  {
+    "gageName": "HARPETH RIVER AT BELLEVUE, TN ",
+    "siteId": "03433500"
+  },
+  {
+    "gageName": "HARPETH RIVER AT FRANKLIN, TN ",
+    "siteId": "03432350"
+  },
+  {
+    "gageName": "HARPETH RIVER AT MILE 90.5 NEAR FRANKLIN, TN ",
+    "siteId": "0343233905"
+  },
+  {
+    "gageName": "HARPETH RIVER BELOW FRANKLIN, TN ",
+    "siteId": "03432400"
+  },
+  {
+    "gageName": "HARPETH RIVER NEAR KINGSTON SPRINGS, TN ",
+    "siteId": "03434500"
+  },
+  {
+    "gageName": "HORSE CREEK NEAR SAVANNAH, TN ",
+    "siteId": "03593800"
+  },
+  {
+    "gageName": "JENNINGS CREEK AT RILEY CR RD AT WHITLEYVILLE, TN ",
+    "siteId": "03418224"
+  },
+  {
+    "gageName": "LITTLE PIGEON RIVER AT SEVIERVILLE, TN ",
+    "siteId": "03470000"
+  },
+  {
+    "gageName": "LITTLE RIVER ABOVE TOWNSEND, TN ",
+    "siteId": "03497300"
+  },
+  {
+    "gageName": "LITTLE RIVER NEAR ALCOA, TN ",
+    "siteId": "03498850"
+  },
+  {
+    "gageName": "LITTLE RIVER NEAR MARYVILLE, TN ",
+    "siteId": "03498500"
+  },
+  {
+    "gageName": "LOOKOUT CREEK AT MILE 2.6 NR WAUHATCHIE, TN ",
+    "siteId": "03569008"
+  },
+  {
+    "gageName": "LOOSAHATCHIE RV AT SINGLETON PKWY NR BARTLETT, TN ",
+    "siteId": "07030290"
+  },
+  {
+    "gageName": "MANSKER CREEK AT HWY 41 NEAR MILLERSVILLE, TN ",
+    "siteId": "03426387"
+  },
+  {
+    "gageName": "MILL CREEK AT THOMPSON LANE, NEAR WOODBINE, TN ",
+    "siteId": "03431060"
+  },
+  {
+    "gageName": "MISSISSIPPI RIVER AT MEMPHIS, TN ",
+    "siteId": "07032000"
+  },
+  {
+    "gageName": "MOUNTAIN CREEK NEAR GLENDALE, TN ",
+    "siteId": "03569190"
+  },
+  {
+    "gageName": "NEW RIVER AT NEW RIVER, TN ",
+    "siteId": "03408500"
+  },
+  {
+    "gageName": "NOLICHUCKY RIVER AT EMBREEVILLE, TN ",
+    "siteId": "03465500"
+  },
+  {
+    "gageName": "NOLICHUCKY RIVER BELOW NOLICHUCKY DAM, TN ",
+    "siteId": "03466500"
+  },
+  {
+    "gageName": "NOLICHUCKY RIVER NEAR LOWLAND ",
+    "siteId": "03467609"
+  },
+  {
+    "gageName": "NONCONNAH CREEK AT FARRISVIEW RD AT MEMPHIS, TN ",
+    "siteId": "070322435"
+  },
+  {
+    "gageName": "NONCONNAH CREEK AT RIVERPORT RD AT MEMPHIS, TN ",
+    "siteId": "07032252"
+  },
+  {
+    "gageName": "NORTH CHICKAMAUGA CR AT MILE STRAIGHT, TN ",
+    "siteId": "03566535"
+  },
+  {
+    "gageName": "OBED RIVER AT ADAMS BRIDGE NEAR CROSSVILLE, TN ",
+    "siteId": "03538830"
+  },
+  {
+    "gageName": "OBED RIVER NEAR LANCING, TN ",
+    "siteId": "03539800"
+  },
+  {
+    "gageName": "OCOEE RIVER AT COPPERHILL, TN ",
+    "siteId": "03559500"
+  },
+  {
+    "gageName": "OOSTANAULA CREEK NEAR SANFORD, TN ",
+    "siteId": "03565500"
+  },
+  {
+    "gageName": "PIGEON R BL POWER PLANT NR WATERVILLE, NC ",
+    "siteId": "03460795"
+  },
+  {
+    "gageName": "PIGEON RIVER AT NEWPORT, TN ",
+    "siteId": "03461500"
+  },
+  {
+    "gageName": "PINEY RIVER AT VERNON, TN ",
+    "siteId": "03602500"
+  },
+  {
+    "gageName": "POWELL RIVER NEAR ARTHUR, TN ",
+    "siteId": "03532000"
+  },
+  {
+    "gageName": "RICHLAND CREEK AT CHARLOTTE AVE, AT NASHVILLE, TN ",
+    "siteId": "03431700"
+  },
+  {
+    "gageName": "RICHLAND CREEK AT HARDING PLACE AT BELLE MEADE, TN ",
+    "siteId": "03431655"
+  },
+  {
+    "gageName": "RICHLAND CREEK AT HWY 64 BYPASS AT PULASKI, TN ",
+    "siteId": "03584045"
+  },
+  {
+    "gageName": "ROARING RIVER NEAR HILHAM, TN ",
+    "siteId": "03418000"
+  },
+  {
+    "gageName": "ROSEBERRY CREEK AT HWY11W NR MASCOT, TN ",
+    "siteId": "03495405"
+  },
+  {
+    "gageName": "RUNNING REELFOOT BAYOU BELOW REELFOOT SPILLWAY ",
+    "siteId": "07027005"
+  },
+  {
+    "gageName": "SEQUATCHIE RIVER NEAR WHITWELL, TN ",
+    "siteId": "03571000"
+  },
+  {
+    "gageName": "SEVENMILE CREEK AT BLACKMAN RD,NR NASHVILLE TN ",
+    "siteId": "03431040"
+  },
+  {
+    "gageName": "SEWEE CREEK NEAR DECATUR, TN ",
+    "siteId": "03543500"
+  },
+  {
+    "gageName": "SINKING POND AT AEDC, TN ",
+    "siteId": "03596075"
+  },
+  {
+    "gageName": "SMITH FORK AT TEMPERANCE HALL, TN ",
+    "siteId": "03424730"
+  },
+  {
+    "gageName": "SOUTH CHICKAMAUGA CREEK NEAR CHICKAMAUGA, TN ",
+    "siteId": "03567500"
+  },
+  {
+    "gageName": "SOUTH FK CUMBERLAND RIVER AT LEATHERWOOD FORD, TN ",
+    "siteId": "03410210"
+  },
+  {
+    "gageName": "SPRING CREEK BELOW LEBANON, TENN ",
+    "siteId": "03425520"
+  },
+  {
+    "gageName": "STEWARTS CREEK AT SMYRNA,TN ",
+    "siteId": "03429498"
+  },
+  {
+    "gageName": "STOCK CREEK AT MARTIN MILL RD NR KNOXVILLE ",
+    "siteId": "034991109"
+  },
+  {
+    "gageName": "TELLICO RIVER AT TELLICO PLAINS, TN ",
+    "siteId": "03518500"
+  },
+  {
+    "gageName": "WARTRACE CREEK BELOW COUNTY ROAD AT WARTRACE, TN ",
+    "siteId": "03597590"
+  },
+  {
+    "gageName": "WATAUGA RIVER AT ELIZABETHTON, TN ",
+    "siteId": "03486000"
+  },
+  {
+    "gageName": "WEST FORK OBEY RIVER NEAR ALPINE, TN ",
+    "siteId": "03415000"
+  },
+  {
+    "gageName": "WEST FORK STONES RIVER AT MURFREESBORO, TN ",
+    "siteId": "03428200"
+  },
+  {
+    "gageName": "WEST PRONG LITTLE PIGEON R NR GATLINBURG, TN ",
+    "siteId": "03469251"
+  },
+  {
+    "gageName": "W F BROWNS C AT GLENDALE LANE AT NASHVILLE, TN ",
+    "siteId": "03431100"
+  },
+  {
+    "gageName": "WHITES C AT OLD HICKORY BLVD AT WHITES CREEK, TN ",
+    "siteId": "03431530"
+  },
+  {
+    "gageName": "WOLF RIVER AT GERMANTOWN, TN ",
+    "siteId": "07031650"
+  },
+  {
+    "gageName": "WOLF RIVER NEAR BYRDSTOWN, TN ",
+    "siteId": "03416000"
+  },
+  {
+    "gageName": "WOLF RIVER NEAR COLLIERVILLE ",
+    "siteId": "07030600"
+  },
+  {
+    "gageName": "WOLFTEVER CREEK NEAR OOLTEWAH, TN ",
+    "siteId": "03566420"
+  }
+]

@@ -1,0 +1,666 @@
+[
+  {
+    "gageName": "ABRAM CREEK AT OAKMONT, WV ",
+    "siteId": "01595300"
+  },
+  {
+    "gageName": "ANTHONY CREEK NEAR ANTHONY, WV ",
+    "siteId": "03182700"
+  },
+  {
+    "gageName": "Back Creek near Jones Springs, WV ",
+    "siteId": "01614000"
+  },
+  {
+    "gageName": "BIG COAL RIVER AT ASHFORD, WV ",
+    "siteId": "03198500"
+  },
+  {
+    "gageName": "BIG SANDY CREEK AT ROCKVILLE, WV ",
+    "siteId": "03070500"
+  },
+  {
+    "gageName": "BIG SANDY CREEK BL LT HAND CREEK NR CLENDENIN, WV ",
+    "siteId": "03197445"
+  },
+  {
+    "gageName": "BIRCH RIVER AT HEROLD, WV ",
+    "siteId": "03196500"
+  },
+  {
+    "gageName": "BLACKWATER RIVER AT DAVIS, WV ",
+    "siteId": "03066000"
+  },
+  {
+    "gageName": "BLUESTONE RIVER NEAR PIPESTEM, WV ",
+    "siteId": "03179000"
+  },
+  {
+    "gageName": "BLUESTONE R NR SPANISHBURG, WV ",
+    "siteId": "03178000"
+  },
+  {
+    "gageName": "BRUSH CREEK NEAR PRINCETON, WV ",
+    "siteId": "03178179"
+  },
+  {
+    "gageName": "BRUSHY FORK NEAR SUGAR GROVE, WV ",
+    "siteId": "01607300"
+  },
+  {
+    "gageName": "BUCKHANNON R AT BUCKHANNON, WV ",
+    "siteId": "03052450"
+  },
+  {
+    "gageName": "BUCKHANNON RIVER AT ALTON, WV ",
+    "siteId": "03052120"
+  },
+  {
+    "gageName": "BUCKHANNON RIVER AT HALL, WV ",
+    "siteId": "03053500"
+  },
+  {
+    "gageName": "BUFFALO CREEK AT BARRACKVILLE, WV ",
+    "siteId": "03061500"
+  },
+  {
+    "gageName": "BULLSKIN RUN BELOW KABLETOWN, WV ",
+    "siteId": "01636464"
+  },
+  {
+    "gageName": "CACAPON RIVER NEAR GREAT CACAPON, WV ",
+    "siteId": "01611500"
+  },
+  {
+    "gageName": "CAMP CREEK AT HWY 19 NEAR CAMP CREEK, WV ",
+    "siteId": "03178120"
+  },
+  {
+    "gageName": "CHEAT RIVER AT ALBRIGHT, WV ",
+    "siteId": "03070260"
+  },
+  {
+    "gageName": "CHEAT RIVER BELOW SALTLICK CREEK AT ROWLESBURG, WV ",
+    "siteId": "0307020015"
+  },
+  {
+    "gageName": "CHEAT RIVER @ LAKE LYNN, PA ",
+    "siteId": "03071600"
+  },
+  {
+    "gageName": "CHEAT RIVER NEAR PARSONS, WV ",
+    "siteId": "03069500"
+  },
+  {
+    "gageName": "CLEAR FORK AT CLEAR FORK, WV ",
+    "siteId": "03202750"
+  },
+  {
+    "gageName": "CLEAR FORK AT WHITESVILLE, WV ",
+    "siteId": "03198350"
+  },
+  {
+    "gageName": "COAL RIVER AT TORNADO, WV ",
+    "siteId": "03200500"
+  },
+  {
+    "gageName": "CRANBERRY RIVER NEAR RICHWOOD, WV ",
+    "siteId": "03187500"
+  },
+  {
+    "gageName": "DECKERS CREEK AT MORGANTOWN, WV ",
+    "siteId": "03062500"
+  },
+  {
+    "gageName": "DRY FORK AT BEARTOWN, WV ",
+    "siteId": "03212980"
+  },
+  {
+    "gageName": "DRY FORK AT GLADWIN, WV ",
+    "siteId": "03064800"
+  },
+  {
+    "gageName": "DRY FORK AT HENDRICKS, WV ",
+    "siteId": "03065000"
+  },
+  {
+    "gageName": "DRY FORK AT JOB, WV ",
+    "siteId": "03063550"
+  },
+  {
+    "gageName": "EAST RIVER AT WILLOWTON, WV ",
+    "siteId": "03177120"
+  },
+  {
+    "gageName": "ELK RIVER AT CHARLESTON, WV ",
+    "siteId": "03197950"
+  },
+  {
+    "gageName": "ELK RIVER AT CLAY, WV ",
+    "siteId": "03196800"
+  },
+  {
+    "gageName": "ELK RIVER AT QUEEN SHOALS, WV ",
+    "siteId": "03197000"
+  },
+  {
+    "gageName": "ELK RIVER AT SUTTON, WV ",
+    "siteId": "03195500"
+  },
+  {
+    "gageName": "ELK RIVER BELOW WEBSTER SPRINGS, WV ",
+    "siteId": "03194700"
+  },
+  {
+    "gageName": "ELK RIVER NEAR FRAMETOWN, WV ",
+    "siteId": "03196600"
+  },
+  {
+    "gageName": "ELK TWOMILE CREEK NEAR CHARLESTON, WV ",
+    "siteId": "03197939"
+  },
+  {
+    "gageName": "ELKWATER FORK NEAR SPANGLER, WV ",
+    "siteId": "03049930"
+  },
+  {
+    "gageName": "GAULEY RIVER ABOVE BELVA, WV ",
+    "siteId": "03192000"
+  },
+  {
+    "gageName": "GAULEY RIVER AT CAMDEN ON GAULEY, WV ",
+    "siteId": "03187000"
+  },
+  {
+    "gageName": "GAULEY RIVER BELOW SUMMERSVILLE DAM, WV ",
+    "siteId": "03189600"
+  },
+  {
+    "gageName": "GAULEY RIVER NEAR CRAIGSVILLE, WV ",
+    "siteId": "03189100"
+  },
+  {
+    "gageName": "GREENBRIER RIVER AT ALDERSON, WV ",
+    "siteId": "03183500"
+  },
+  {
+    "gageName": "GREENBRIER RIVER AT BUCKEYE, WV ",
+    "siteId": "03182500"
+  },
+  {
+    "gageName": "GREENBRIER RIVER AT CALDWELL, WV ",
+    "siteId": "03182890"
+  },
+  {
+    "gageName": "GREENBRIER RIVER AT CLOVER LICK, WV ",
+    "siteId": "03180900"
+  },
+  {
+    "gageName": "GREENBRIER RIVER AT DURBIN, WV ",
+    "siteId": "03180500"
+  },
+  {
+    "gageName": "GREENBRIER RIVER AT HILLDALE, WV ",
+    "siteId": "03184000"
+  },
+  {
+    "gageName": "GREENBRIER RIVER AT RENICK, WV ",
+    "siteId": "03182600"
+  },
+  {
+    "gageName": "GREENBRIER RIVER AT RONCEVERTE, WV ",
+    "siteId": "03182970"
+  },
+  {
+    "gageName": "GUYANDOTTE RIVER AT BRANCHLAND, WV ",
+    "siteId": "03204000"
+  },
+  {
+    "gageName": "GUYANDOTTE RIVER AT LOGAN, WV ",
+    "siteId": "03203600"
+  },
+  {
+    "gageName": "GUYANDOTTE RIVER AT MAN, WV ",
+    "siteId": "03203000"
+  },
+  {
+    "gageName": "GUYANDOTTE RIVER AT PINEVILLE, WV ",
+    "siteId": "03202300"
+  },
+  {
+    "gageName": "GUYANDOTTE RIVER NEAR BAILEYSVILLE, WV ",
+    "siteId": "03202400"
+  },
+  {
+    "gageName": "HOPEWELL RUN AT LEETOWN, WV ",
+    "siteId": "01616425"
+  },
+  {
+    "gageName": "HOWARD CREEK AT WHITE SULPHUR SPRINGS, WV ",
+    "siteId": "03182900"
+  },
+  {
+    "gageName": "INDIAN CREEK AT RED SULPHUR SPRINGS, WV ",
+    "siteId": "03177480"
+  },
+  {
+    "gageName": "ISLAND CREEK AT ROUTE 44 AT LOGAN, WV ",
+    "siteId": "03203647"
+  },
+  {
+    "gageName": "KANAWHA RIVER AT KANAWHA FALLS, WV ",
+    "siteId": "03193000"
+  },
+  {
+    "gageName": "KANAWHA RIVER AT S SIDE BRIDGE AT CHARLESTON, WV ",
+    "siteId": "0319382976"
+  },
+  {
+    "gageName": "KINGS CREEK AT WEIRTON, WV ",
+    "siteId": "03110830"
+  },
+  {
+    "gageName": "KNAPP CREEK NEAR MARLINTON, WV ",
+    "siteId": "03181949"
+  },
+  {
+    "gageName": "LAUREL CREEK NEAR FENWICK, WV ",
+    "siteId": "03188900"
+  },
+  {
+    "gageName": "LINTON CREEK NEAR LAUREL DALE, WV ",
+    "siteId": "01599200"
+  },
+  {
+    "gageName": "LITTLE COAL RIVER AT DANVILLE, WV ",
+    "siteId": "03199000"
+  },
+  {
+    "gageName": "LITTLE HUFF CR AT LITTLE CUB CR RD AT HANOVER, WV ",
+    "siteId": "03202928"
+  },
+  {
+    "gageName": "LITTLE KANAWHA RIVER AT BURNSVILLE, WV ",
+    "siteId": "03151600"
+  },
+  {
+    "gageName": "LITTLE KANAWHA RIVER AT GLENVILLE, WV ",
+    "siteId": "03152000"
+  },
+  {
+    "gageName": "LITTLE KANAWHA RIVER AT GRANTSVILLE, WV ",
+    "siteId": "03153500"
+  },
+  {
+    "gageName": "LITTLE KANAWHA RIVER AT PALESTINE, WV ",
+    "siteId": "03155000"
+  },
+  {
+    "gageName": "LITTLE KANAWHA RIVER NR WILDCAT, WV ",
+    "siteId": "03151400"
+  },
+  {
+    "gageName": "LITTLE PATUXENT RIVER AT GUILFORD, MD ",
+    "siteId": "01593500"
+  },
+  {
+    "gageName": "LITTLE SANDY CREEK NEAR ELKVIEW,WV ",
+    "siteId": "03197790"
+  },
+  {
+    "gageName": "LITTLE TYGART CREEK AT MINERAL WELLS, WV ",
+    "siteId": "03155588"
+  },
+  {
+    "gageName": "MARLIN RUN AT MARLINTON, WV ",
+    "siteId": "03182050"
+  },
+  {
+    "gageName": "MEADOW RIVER AT NALLEN, WV ",
+    "siteId": "03190000"
+  },
+  {
+    "gageName": "MEADOW RIVER NEAR HINES, WV ",
+    "siteId": "03189863"
+  },
+  {
+    "gageName": "MEATHOUSE FORK AT HWY 18 NEAR WEST UNION, WV ",
+    "siteId": "03114350"
+  },
+  {
+    "gageName": "MIDDLE FORK BRUSH CREEK AT EDISON, WV ",
+    "siteId": "03178150"
+  },
+  {
+    "gageName": "MIDDLE FORK MUD RIVER NEAR GRIFFITHSVILLE, WV ",
+    "siteId": "03204346"
+  },
+  {
+    "gageName": "MIDDLE FORK RIVER AT ADOLPH, WV ",
+    "siteId": "03051100"
+  },
+  {
+    "gageName": "MIDDLE FORK RIVER AT AUDRA, WV ",
+    "siteId": "03052000"
+  },
+  {
+    "gageName": "MIDDLE FORK RIVER AT ELLAMORE, WV ",
+    "siteId": "03051260"
+  },
+  {
+    "gageName": "MIDDLE ISLAND CREEK AT HWY 18 NR MIDDLEBOURNE, WV ",
+    "siteId": "03114431"
+  },
+  {
+    "gageName": "MIDDLE ISLAND CREEK AT LITTLE, WV ",
+    "siteId": "03114500"
+  },
+  {
+    "gageName": "MILL CREEK AT BUNKER HILL, WV ",
+    "siteId": "01616400"
+  },
+  {
+    "gageName": "MONONGAHELA R AT HILDEBRAND LOCK &amp; DAM ",
+    "siteId": "03062250"
+  },
+  {
+    "gageName": "MONONGAHELA R AT HILDEBRAND LOCK &amp; DAM ",
+    "siteId": "03062245"
+  },
+  {
+    "gageName": "MONONGAHELA R AT MORGANTOWN LOCK &amp; DAM ",
+    "siteId": "03062450"
+  },
+  {
+    "gageName": "MONONGAHELA R AT MORGANTOWN LOCK &amp; DAM ",
+    "siteId": "03062445"
+  },
+  {
+    "gageName": "MONONGAHELA R AT OPEKISKA LOCK &amp; DAM ",
+    "siteId": "03062225"
+  },
+  {
+    "gageName": "MONONGAHELA R AT OPEKISKA LOCK &amp; DAM ",
+    "siteId": "03062224"
+  },
+  {
+    "gageName": "MUD RIVER AT HAMLIN, WV ",
+    "siteId": "03204294"
+  },
+  {
+    "gageName": "MUD RIVER AT PALERMO, WV ",
+    "siteId": "03204250"
+  },
+  {
+    "gageName": "MUD RIVER NEAR MILTON, WV ",
+    "siteId": "03204500"
+  },
+  {
+    "gageName": "NEW RIVER AT HINTON, WV ",
+    "siteId": "03184500"
+  },
+  {
+    "gageName": "NEW RIVER AT THURMOND, WV ",
+    "siteId": "03185400"
+  },
+  {
+    "gageName": "NEW RIVER BELOW HAWKS NEST DAM, WV ",
+    "siteId": "380649081083301"
+  },
+  {
+    "gageName": "N F SOUTH BRANCH POTOMAC RIVER AT CABINS, WV ",
+    "siteId": "01606000"
+  },
+  {
+    "gageName": "NORTH BRANCH POTOMAC RIVER AT BARNUM, WV ",
+    "siteId": "01595800"
+  },
+  {
+    "gageName": "NORTH BRANCH POTOMAC RIVER AT STEYER, MD ",
+    "siteId": "01595000"
+  },
+  {
+    "gageName": "NORTH BRANCH POTOMAC RIVER NEAR CUMBERLAND, MD ",
+    "siteId": "01603000"
+  },
+  {
+    "gageName": "NORTH FORK HUGHES RIVER NEAR CAIRO, WV ",
+    "siteId": "03155405"
+  },
+  {
+    "gageName": "OHIO RIVER AT PARKERSBURG, WV ",
+    "siteId": "03151000"
+  },
+  {
+    "gageName": "OHIO RIVER AT POINT PLEASANT, WV ",
+    "siteId": "03201500"
+  },
+  {
+    "gageName": "Opequon Creek near Martinsburg, WV ",
+    "siteId": "01616500"
+  },
+  {
+    "gageName": "PAINTER RUN NEAR FORT ASHBY, WV ",
+    "siteId": "01605002"
+  },
+  {
+    "gageName": "PANTHER CREEK NEAR PANTHER, WV ",
+    "siteId": "03213500"
+  },
+  {
+    "gageName": "PARKER HOLLOW RUN AT NEEDMORE, WV ",
+    "siteId": "01610195"
+  },
+  {
+    "gageName": "PATTERSON CREEK NEAR HEADSVILLE, WV ",
+    "siteId": "01604500"
+  },
+  {
+    "gageName": "PETERS CREEK NEAR LOCKWOOD, WV ",
+    "siteId": "03191500"
+  },
+  {
+    "gageName": "PINEY CREEK AT RALEIGH, WV ",
+    "siteId": "03185000"
+  },
+  {
+    "gageName": "POCATALICO RIVER AT SISSONVILLE, WV ",
+    "siteId": "03201000"
+  },
+  {
+    "gageName": "POTOMAC RIVER AT HANCOCK, MD ",
+    "siteId": "01613000"
+  },
+  {
+    "gageName": "POTOMAC RIVER AT SHEPHERDSTOWN, WV ",
+    "siteId": "01618000"
+  },
+  {
+    "gageName": "ROCKYMARSH RUN AT SCRABBLE, WV ",
+    "siteId": "01618100"
+  },
+  {
+    "gageName": "SALTLICK CREEK NEAR FLATWOODS, WV ",
+    "siteId": "03151550"
+  },
+  {
+    "gageName": "SAND FORK NEAR GLENVILLE, WV ",
+    "siteId": "03151915"
+  },
+  {
+    "gageName": "SAND RUN NEAR BUCKHANNON, WV ",
+    "siteId": "03052500"
+  },
+  {
+    "gageName": "SEWELL CREEK AB LTL SEWELL CREEK AT RAINELLE, WV ",
+    "siteId": "0318989690"
+  },
+  {
+    "gageName": "S F SOUTH BRANCH POTOMAC RIVER AT BRANDYWINE, WV ",
+    "siteId": "01607500"
+  },
+  {
+    "gageName": "S F SOUTH BRANCH POTOMAC RIVER NR MOOREFIELD, WV ",
+    "siteId": "01608000"
+  },
+  {
+    "gageName": "SHAVERS FORK AT BEMIS, WV ",
+    "siteId": "03068000"
+  },
+  {
+    "gageName": "SHAVERS FORK BELOW BOWDEN, WV ",
+    "siteId": "03068800"
+  },
+  {
+    "gageName": "SHAVERS FORK NR CHEAT BRIDGE, WV ",
+    "siteId": "03067510"
+  },
+  {
+    "gageName": "SHENANDOAH RIVER AT MILLVILLE, WV ",
+    "siteId": "01636500"
+  },
+  {
+    "gageName": "SOUTH BRANCH POTOMAC RIVER AT FRANKLIN, WV ",
+    "siteId": "01605500"
+  },
+  {
+    "gageName": "SOUTH BRANCH POTOMAC RIVER NEAR MOOREFIELD, WV ",
+    "siteId": "01608070"
+  },
+  {
+    "gageName": "SOUTH BRANCH POTOMAC RIVER NEAR PETERSBURG, WV ",
+    "siteId": "01606500"
+  },
+  {
+    "gageName": "SOUTH BRANCH POTOMAC RIVER NEAR SPRINGFIELD, WV ",
+    "siteId": "01608500"
+  },
+  {
+    "gageName": "SOUTH FORK FISHING CREEK AT SMITHFIELD, WV ",
+    "siteId": "03114283"
+  },
+  {
+    "gageName": "SOUTH FORK HUGHES RIVER BELOW MACFARLAN, WV ",
+    "siteId": "03155220"
+  },
+  {
+    "gageName": "SOUTH MILL CREEK NEAR MOZER, WV ",
+    "siteId": "01606900"
+  },
+  {
+    "gageName": "THREE FORK CREEK NR GRAFTON, WV ",
+    "siteId": "03056250"
+  },
+  {
+    "gageName": "TUG FORK AT LITWAR, WV ",
+    "siteId": "03213000"
+  },
+  {
+    "gageName": "TUG FORK AT STATTS MILLS, WV ",
+    "siteId": "03159750"
+  },
+  {
+    "gageName": "TUG FORK DOWNSTREAM OF ELKHORN CREEK AT WELCH, WV ",
+    "siteId": "03212750"
+  },
+  {
+    "gageName": "TUSCARORA CREEK ABOVE MARTINSBURG, WV ",
+    "siteId": "01617000"
+  },
+  {
+    "gageName": "TWELVEPOLE CREEK AT LAVALETTE, WV ",
+    "siteId": "03207061"
+  },
+  {
+    "gageName": "TYGART VALLEY R AT TYGART DAM NR GRAFTON, WV ",
+    "siteId": "03056000"
+  },
+  {
+    "gageName": "TYGART VALLEY RIVER AT BELINGTON, WV ",
+    "siteId": "03051000"
+  },
+  {
+    "gageName": "TYGART VALLEY RIVER AT COLFAX, WV ",
+    "siteId": "03057000"
+  },
+  {
+    "gageName": "TYGART VALLEY RIVER AT MILL CREEK, WV ",
+    "siteId": "03049975"
+  },
+  {
+    "gageName": "TYGART VALLEY RIVER AT PHILIPPI, WV ",
+    "siteId": "03054500"
+  },
+  {
+    "gageName": "TYGART VALLEY RIVER AT VALLEY HEAD, WV ",
+    "siteId": "03049925"
+  },
+  {
+    "gageName": "TYGART VALLEY RIVER BYPASS CHANNEL NEAR ELKINS, WV ",
+    "siteId": "03050339"
+  },
+  {
+    "gageName": "TYGART VALLEY RIVER NEAR DAILEY, WV ",
+    "siteId": "03050000"
+  },
+  {
+    "gageName": "TYGART VALLEY RIVER NEAR ELKINS, WV ",
+    "siteId": "03050500"
+  },
+  {
+    "gageName": "UNNAMED TRIB TO ELK TWOMILE CR NR CHARLESTON, WV ",
+    "siteId": "03197910"
+  },
+  {
+    "gageName": "UNNAMED TRIB TO WARM SPR RUN NR BERKELEY SPR, WV ",
+    "siteId": "01613020"
+  },
+  {
+    "gageName": "WARM SPRINGS RUN NEAR BERKELEY SPRINGS, WV ",
+    "siteId": "01613030"
+  },
+  {
+    "gageName": "WEST FORK LITTLE KANAWHA RIVER AT ROCKSDALE, WV ",
+    "siteId": "03154000"
+  },
+  {
+    "gageName": "WEST FORK R BL STONEWALL JACKSON DAM NR WESTON, WV ",
+    "siteId": "03058000"
+  },
+  {
+    "gageName": "WEST FORK RIVER AT BUTCHERVILLE, WV ",
+    "siteId": "03058500"
+  },
+  {
+    "gageName": "WEST FORK RIVER AT ENTERPRISE, WV ",
+    "siteId": "03061000"
+  },
+  {
+    "gageName": "WEST FORK RIVER AT WALKERSVILLE, WV ",
+    "siteId": "03057300"
+  },
+  {
+    "gageName": "WEST FORK RIVER AT WESTON, WV ",
+    "siteId": "03058020"
+  },
+  {
+    "gageName": "WEST FORK RIVER NEAR MOUNT CLARE, WV ",
+    "siteId": "03058975"
+  },
+  {
+    "gageName": "WHEELING CREEK AT ELM GROVE, WV ",
+    "siteId": "03112000"
+  },
+  {
+    "gageName": "WHETSTONE RUN NEAR MANNINGTON, WV ",
+    "siteId": "03061430"
+  },
+  {
+    "gageName": "WILLIAMS RIVER AT DYER, WV ",
+    "siteId": "03186500"
+  },
+  {
+    "gageName": "WV FORK FISH CREEK NEAR HUNDRED, WV ",
+    "siteId": "0311404647"
+  }
+]

@@ -1,0 +1,518 @@
+[
+  {
+    "gageName": "Assunpink Creek at Trenton NJ ",
+    "siteId": "01464000"
+  },
+  {
+    "gageName": "Assunpink Creek below STP near Mercerville NJ ",
+    "siteId": "01463882"
+  },
+  {
+    "gageName": "Assunpink Creek near Clarksville NJ ",
+    "siteId": "01463620"
+  },
+  {
+    "gageName": "Beaver Brook near Belvidere NJ ",
+    "siteId": "01446000"
+  },
+  {
+    "gageName": "Beaver Dam Brook at Lincoln Park NJ ",
+    "siteId": "01388700"
+  },
+  {
+    "gageName": "Bound Brook at Middlesex NJ ",
+    "siteId": "01403900"
+  },
+  {
+    "gageName": "Canoe Brook near Summit NJ ",
+    "siteId": "01379530"
+  },
+  {
+    "gageName": "Cedar Creek at Western Blvd near Lanoka Harbor NJ ",
+    "siteId": "01408900"
+  },
+  {
+    "gageName": "Crosswicks Creek at Extonville NJ ",
+    "siteId": "01464500"
+  },
+  {
+    "gageName": "Deep Run at Old Bridge NJ ",
+    "siteId": "01406050"
+  },
+  {
+    "gageName": "Delaware and Raritan Canal at Port Mercer NJ ",
+    "siteId": "01460440"
+  },
+  {
+    "gageName": "Delaware River at Belvidere NJ ",
+    "siteId": "01446500"
+  },
+  {
+    "gageName": "Delaware River at Frenchtown NJ ",
+    "siteId": "01458500"
+  },
+  {
+    "gageName": "Delaware River at Montague NJ ",
+    "siteId": "01438500"
+  },
+  {
+    "gageName": "Delaware River at Riegelsville NJ ",
+    "siteId": "01457500"
+  },
+  {
+    "gageName": "Delaware River at Trenton NJ ",
+    "siteId": "01463500"
+  },
+  {
+    "gageName": "Delaware River at US Route 22 at Phillipsburg NJ ",
+    "siteId": "01446995"
+  },
+  {
+    "gageName": "Delaware River at Washington Crossing NJ ",
+    "siteId": "01462500"
+  },
+  {
+    "gageName": "Delaware River near Delaware Water Gap Pa ",
+    "siteId": "01440200"
+  },
+  {
+    "gageName": "D&amp;R Ca feeder US of gate at Washington Crossing NJ ",
+    "siteId": "01460378"
+  },
+  {
+    "gageName": "East Branch Paulins Kill near Lafayette NJ ",
+    "siteId": "01443280"
+  },
+  {
+    "gageName": "Flat Brook near Flatbrookville NJ ",
+    "siteId": "01440000"
+  },
+  {
+    "gageName": "Great Egg Harbor River near Blue Anchor NJ ",
+    "siteId": "01410820"
+  },
+  {
+    "gageName": "Great Egg Harbor R near Sicklerville NJ ",
+    "siteId": "01410784"
+  },
+  {
+    "gageName": "Green Brook at Rock Avenue at Plainfield NJ ",
+    "siteId": "01403600"
+  },
+  {
+    "gageName": "Green Brook at Seeley Mills NJ ",
+    "siteId": "01403400"
+  },
+  {
+    "gageName": "Green Pond Bk blw Picatinny Lk at Picatinny Ars NJ ",
+    "siteId": "01379780"
+  },
+  {
+    "gageName": "Green Pond Brook at Picatinny Arsenal NJ ",
+    "siteId": "01379773"
+  },
+  {
+    "gageName": "Greenwood Lake at Awosting NJ ",
+    "siteId": "01383000"
+  },
+  {
+    "gageName": "Hackensack River at New Milford NJ ",
+    "siteId": "01378500"
+  },
+  {
+    "gageName": "Hackensack River at Rivervale NJ ",
+    "siteId": "01377000"
+  },
+  {
+    "gageName": "Haynes C at Tuckerton Rd at Lake Pine NJ ",
+    "siteId": "0146587310"
+  },
+  {
+    "gageName": "Hohokus Brook at Ho-Ho-Kus NJ ",
+    "siteId": "01391000"
+  },
+  {
+    "gageName": "Lake Hopatcong at Landing NJ ",
+    "siteId": "01455400"
+  },
+  {
+    "gageName": "Lamington ",
+    "siteId": "01399500"
+  },
+  {
+    "gageName": "Lamington River at Burnt Mills NJ ",
+    "siteId": "01399780"
+  },
+  {
+    "gageName": "Lawrence Brook at Westons Mills NJ ",
+    "siteId": "01405030"
+  },
+  {
+    "gageName": "Lockatong Creek at Route 12 at Baptistown NJ ",
+    "siteId": "01460860"
+  },
+  {
+    "gageName": "Manalapan Brook at Spotswood NJ ",
+    "siteId": "01405400"
+  },
+  {
+    "gageName": "Mantua Creek at East Holly Avenue at Pitman NJ ",
+    "siteId": "01475001"
+  },
+  {
+    "gageName": "Manumuskin River at Cumberland NJ ",
+    "siteId": "01412080"
+  },
+  {
+    "gageName": "Menantico Creek near Millville NJ ",
+    "siteId": "01412000"
+  },
+  {
+    "gageName": "Middle Brook at Bound Brook NJ ",
+    "siteId": "01403200"
+  },
+  {
+    "gageName": "Middle Brook at Burnt Mills NJ ",
+    "siteId": "01399100"
+  },
+  {
+    "gageName": "Millstone River at Blackwells Mills NJ ",
+    "siteId": "01402000"
+  },
+  {
+    "gageName": "Millstone River at Griggstown NJ ",
+    "siteId": "01401750"
+  },
+  {
+    "gageName": "Millstone River at Millstone NJ ",
+    "siteId": "01402500"
+  },
+  {
+    "gageName": "Millstone River at Weston NJ ",
+    "siteId": "01402540"
+  },
+  {
+    "gageName": "Molly Ann Brook at North Haledon NJ ",
+    "siteId": "01389765"
+  },
+  {
+    "gageName": "Mulhockaway Creek at Van Syckel NJ ",
+    "siteId": "01396660"
+  },
+  {
+    "gageName": "Mullica River near Batsto NJ ",
+    "siteId": "01409400"
+  },
+  {
+    "gageName": "Musconetcong River at outlet of Lake Hopatcong NJ ",
+    "siteId": "01455500"
+  },
+  {
+    "gageName": "Musconetcong River near Bloomsbury NJ ",
+    "siteId": "01457000"
+  },
+  {
+    "gageName": "Neshanic River at Reaville NJ ",
+    "siteId": "01398000"
+  },
+  {
+    "gageName": "North Branch Raritan River at North Branch NJ ",
+    "siteId": "01399830"
+  },
+  {
+    "gageName": "North Branch Raritan River at South Branch NJ ",
+    "siteId": "01400010"
+  },
+  {
+    "gageName": "North Branch Raritan River near Far Hills NJ ",
+    "siteId": "01398500"
+  },
+  {
+    "gageName": "North Branch Raritan River near Raritan NJ ",
+    "siteId": "01400000"
+  },
+  {
+    "gageName": "Oswego River at Harrisville NJ ",
+    "siteId": "01410000"
+  },
+  {
+    "gageName": "Pascack Bk at Woodcliff Lk outlet at Hillsdale NJ ",
+    "siteId": "01377451"
+  },
+  {
+    "gageName": "Pascack Brook at Park Ridge NJ ",
+    "siteId": "01377370"
+  },
+  {
+    "gageName": "Pascack Brook at Westwood NJ ",
+    "siteId": "01377500"
+  },
+  {
+    "gageName": "Passaic R at Passaic ",
+    "siteId": "01389802"
+  },
+  {
+    "gageName": "Passaic River abv Beatties Dam at Little Falls NJ ",
+    "siteId": "01389492"
+  },
+  {
+    "gageName": "Passaic River at Dundee Dam at Clifton NJ ",
+    "siteId": "01389890"
+  },
+  {
+    "gageName": "Passaic River at I-80 at Singac NJ ",
+    "siteId": "01389010"
+  },
+  {
+    "gageName": "Passaic River at Little Falls NJ ",
+    "siteId": "01389500"
+  },
+  {
+    "gageName": "Passaic River at Pine Brook NJ ",
+    "siteId": "01381900"
+  },
+  {
+    "gageName": "Passaic River below Pompton Riv at Two Bridges NJ ",
+    "siteId": "01389005"
+  },
+  {
+    "gageName": "Passaic River near Chatham NJ ",
+    "siteId": "01379500"
+  },
+  {
+    "gageName": "Passaic River near Millington NJ ",
+    "siteId": "01379000"
+  },
+  {
+    "gageName": "Paulins Kill at Blairstown NJ ",
+    "siteId": "01443500"
+  },
+  {
+    "gageName": "Peckman River at Little Falls NJ ",
+    "siteId": "01389550"
+  },
+  {
+    "gageName": "Peckman River at Ozone Ave at Verona NJ ",
+    "siteId": "01389534"
+  },
+  {
+    "gageName": "Pequannock River at Green Pond Junction NJ ",
+    "siteId": "01382385"
+  },
+  {
+    "gageName": "Pequannock River at Macopin Intake Dam NJ ",
+    "siteId": "01382500"
+  },
+  {
+    "gageName": "Pequannock River at Oak Ridge NJ ",
+    "siteId": "01382210"
+  },
+  {
+    "gageName": "Pequannock River at Riverdale NJ ",
+    "siteId": "01382800"
+  },
+  {
+    "gageName": "Pequest River at Huntsville NJ ",
+    "siteId": "01445000"
+  },
+  {
+    "gageName": "Pequest River at Pequest NJ ",
+    "siteId": "01445500"
+  },
+  {
+    "gageName": "Peters Brook at Mercer St at Somerville NJ ",
+    "siteId": "01400360"
+  },
+  {
+    "gageName": "Pike Run at Belle Mead NJ ",
+    "siteId": "01401650"
+  },
+  {
+    "gageName": "Pohatcong Crk at Creek Rd nr Carpentersville NJ ",
+    "siteId": "01455290"
+  },
+  {
+    "gageName": "Pompton River at Mountain View NJ ",
+    "siteId": "01388910"
+  },
+  {
+    "gageName": "Pompton River at Pompton Plains NJ ",
+    "siteId": "01388500"
+  },
+  {
+    "gageName": "Raccoon Creek at Wrights Mill NJ ",
+    "siteId": "01477070"
+  },
+  {
+    "gageName": "Ramapo River above dam at Pompton Lakes NJ ",
+    "siteId": "01387998"
+  },
+  {
+    "gageName": "Ramapo River at Dawes Highway at Pompton NJ ",
+    "siteId": "01388100"
+  },
+  {
+    "gageName": "Ramapo River at Lakeside Ave at Pompton Lakes NJ ",
+    "siteId": "01387940"
+  },
+  {
+    "gageName": "Ramapo River at Pompton Lakes NJ ",
+    "siteId": "01388000"
+  },
+  {
+    "gageName": "Ramapo River at West Oakland Avenue at Oakland NJ ",
+    "siteId": "01387905"
+  },
+  {
+    "gageName": "Ramapo River near Mahwah NJ ",
+    "siteId": "01387500"
+  },
+  {
+    "gageName": "Rancocas Creek at Bridgeboro NJ ",
+    "siteId": "01467024"
+  },
+  {
+    "gageName": "Raritan River at Manville NJ ",
+    "siteId": "01400500"
+  },
+  {
+    "gageName": "Raritan River below Calco Dam at Bound Brook NJ ",
+    "siteId": "01403060"
+  },
+  {
+    "gageName": "Ringwood Creek near Wanaque NJ ",
+    "siteId": "01384500"
+  },
+  {
+    "gageName": "Rockaway River at Main Street at Boonton NJ ",
+    "siteId": "01380450"
+  },
+  {
+    "gageName": "Rockaway River at Warren Street at Dover NJ ",
+    "siteId": "01379845"
+  },
+  {
+    "gageName": "Rockaway River below Reservoir at Boonton NJ ",
+    "siteId": "01381000"
+  },
+  {
+    "gageName": "Royce Brook at Hamilton Road near Manville NJ ",
+    "siteId": "01402630"
+  },
+  {
+    "gageName": "Saddle River at Lodi NJ ",
+    "siteId": "01391500"
+  },
+  {
+    "gageName": "Saddle River at Ridgewood NJ ",
+    "siteId": "01390500"
+  },
+  {
+    "gageName": "Saddle River at Upper Saddle River NJ ",
+    "siteId": "01390450"
+  },
+  {
+    "gageName": "Saddle River below Hohokus Brook at Paramus NJ ",
+    "siteId": "01391102"
+  },
+  {
+    "gageName": "SALLIE HARRIS CREEK NEAR CARMICHAEL, MD ",
+    "siteId": "01492500"
+  },
+  {
+    "gageName": "SB Raritan R at Black Point Rd at Neshanic Sta NJ ",
+    "siteId": "01397420"
+  },
+  {
+    "gageName": "Second River at Belleville NJ ",
+    "siteId": "01392500"
+  },
+  {
+    "gageName": "Shabakunk C at Sylva Lake Dam at Ewingville NJ ",
+    "siteId": "01463740"
+  },
+  {
+    "gageName": "SILVER LAKE TRIBUTARY AT MIDDLETOWN, DE ",
+    "siteId": "01483155"
+  },
+  {
+    "gageName": "South Branch Raritan River at South Branch NJ ",
+    "siteId": "01398102"
+  },
+  {
+    "gageName": "South Branch Raritan River at Stanton NJ ",
+    "siteId": "01397000"
+  },
+  {
+    "gageName": "South Branch Raritan River near High Bridge NJ ",
+    "siteId": "01396500"
+  },
+  {
+    "gageName": "South B Rockaway Creek at Whitehouse Station NJ ",
+    "siteId": "01399670"
+  },
+  {
+    "gageName": "Spruce Run at Clinton NJ ",
+    "siteId": "01396800"
+  },
+  {
+    "gageName": "Spruce Run at Main Street at Glen Gardner NJ ",
+    "siteId": "01396582"
+  },
+  {
+    "gageName": "Stony Brook at North Plainfield NJ ",
+    "siteId": "01403570"
+  },
+  {
+    "gageName": "Stony Brook at Princeton NJ ",
+    "siteId": "01401000"
+  },
+  {
+    "gageName": "Stony Brook at Watchung NJ ",
+    "siteId": "01403540"
+  },
+  {
+    "gageName": "Third River at Bloomfield NJ ",
+    "siteId": "01392170"
+  },
+  {
+    "gageName": "Wallkill R at Scott Road at Franklin NJ ",
+    "siteId": "01367715"
+  },
+  {
+    "gageName": "Wanaque River at Awosting NJ ",
+    "siteId": "01383500"
+  },
+  {
+    "gageName": "Wanaque River at Wanaque NJ ",
+    "siteId": "01387000"
+  },
+  {
+    "gageName": "West Branch Middle Brook near Martinsville NJ ",
+    "siteId": "01403150"
+  },
+  {
+    "gageName": "West Branch Wading River near Jenkins NJ ",
+    "siteId": "01409810"
+  },
+  {
+    "gageName": "West Brook near Wanaque NJ ",
+    "siteId": "01386000"
+  },
+  {
+    "gageName": "Whippany River at Morristown NJ ",
+    "siteId": "01381500"
+  },
+  {
+    "gageName": "Whippany River near Morristown NJ ",
+    "siteId": "01381400"
+  },
+  {
+    "gageName": "Whippany River near Pine Brook NJ ",
+    "siteId": "01381800"
+  },
+  {
+    "gageName": "Yards Creek near Blairstown NJ ",
+    "siteId": "01443900"
+  }
+]

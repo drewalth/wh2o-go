@@ -1,0 +1,490 @@
+[
+  {
+    "gageName": "ABIQUIU RESERVOIR NEAR ABIQUIU N MEX ",
+    "siteId": "08286900"
+  },
+  {
+    "gageName": "ANIMAS RIVER AT FARMINGTON, NM ",
+    "siteId": "09364500"
+  },
+  {
+    "gageName": "ANIMAS RIVER AT PENNY LANE NEAR FLORA VISTA, NM ",
+    "siteId": "09364200"
+  },
+  {
+    "gageName": "ANIMAS RIVER BELOW AZTEC, NM ",
+    "siteId": "09364010"
+  },
+  {
+    "gageName": "BEAR ARROYO AT JEFFERSON ST AT ALBQ, NM ",
+    "siteId": "08329870"
+  },
+  {
+    "gageName": "BLACK RIVER AT HARKEY CROSSING NR MALAGA, NM ",
+    "siteId": "08405400"
+  },
+  {
+    "gageName": "BLACK RIVER BELOW BLUE SPRINGS NR WHITES CITY, NM ",
+    "siteId": "08405350"
+  },
+  {
+    "gageName": "BLUE SPRINGS ABOVE DIVERSIONS NR WHITES CITY, NM ",
+    "siteId": "08405450"
+  },
+  {
+    "gageName": "CAMPUS WASH AT ALBUQUERQUE, NM ",
+    "siteId": "08329700"
+  },
+  {
+    "gageName": "CANADIAN RIVER BELOW CONCHAS DAM, NM ",
+    "siteId": "07224500"
+  },
+  {
+    "gageName": "CANADIAN RIVER NEAR SANCHEZ, NM ",
+    "siteId": "07221500"
+  },
+  {
+    "gageName": "CANADIAN RIVER NEAR TAYLOR SPRINGS, NM ",
+    "siteId": "07211500"
+  },
+  {
+    "gageName": "CANONCITO DITCH NEAR HOLMAN, NM ",
+    "siteId": "07214670"
+  },
+  {
+    "gageName": "CASIAS CREEK NEAR COSTILLA, NM ",
+    "siteId": "08253000"
+  },
+  {
+    "gageName": "CHACO RIVER NR SHIPROCK, NM ",
+    "siteId": "09367958"
+  },
+  {
+    "gageName": "CIMARRON RIVER NEAR CIMARRON, NM ",
+    "siteId": "07207000"
+  },
+  {
+    "gageName": "COCHITI EAST SIDE MAIN CANAL AT COCHITI, NM ",
+    "siteId": "08313500"
+  },
+  {
+    "gageName": "COCHITI LAKE NEAR COCHITI PUEBLO, NM ",
+    "siteId": "08317300"
+  },
+  {
+    "gageName": "CONCHAS LAKE AT CONCHAS DAM N. MEX. ",
+    "siteId": "07223500"
+  },
+  {
+    "gageName": "CONCHAS RIVER AT VARIADERO, NM ",
+    "siteId": "07222500"
+  },
+  {
+    "gageName": "COSTILLA CREEK ABOVE COSTILLA DAM, NM ",
+    "siteId": "08252500"
+  },
+  {
+    "gageName": "COSTILLA CREEK BELOW COSTILLA DAM, NM ",
+    "siteId": "08254000"
+  },
+  {
+    "gageName": "COSTILLA CREEK NEAR COSTILLA, NM ",
+    "siteId": "08255500"
+  },
+  {
+    "gageName": "COSTILLA CREEK NEAR GARCIA, CO ",
+    "siteId": "08261000"
+  },
+  {
+    "gageName": "COSTILLA RESERVOIR NEAR COSTILLA, NM ",
+    "siteId": "08253900"
+  },
+  {
+    "gageName": "COYOTE CREEK NEAR GOLONDRINAS, NM ",
+    "siteId": "07218000"
+  },
+  {
+    "gageName": "EAGLE TAIL DITCH NR MAXWELL, NM ",
+    "siteId": "07202500"
+  },
+  {
+    "gageName": "EMBUDO ARROYO AT ALBUQUERQUE, NM ",
+    "siteId": "08329720"
+  },
+  {
+    "gageName": "EMBUDO CREEK AT DIXON, NM ",
+    "siteId": "08279000"
+  },
+  {
+    "gageName": "FOURMILE DRAW NR LAKEWOOD, NM ",
+    "siteId": "08400000"
+  },
+  {
+    "gageName": "GALISTEO CREEK BELOW GALISTEO DAM, NM ",
+    "siteId": "08317950"
+  },
+  {
+    "gageName": "GALLINAS CREEK NEAR MONTEZUMA, NM ",
+    "siteId": "08380500"
+  },
+  {
+    "gageName": "GALLINAS RIVER NEAR LOURDES, NM ",
+    "siteId": "08382000"
+  },
+  {
+    "gageName": "GALLINAS R NR COLONIAS, NM ",
+    "siteId": "08382500"
+  },
+  {
+    "gageName": "GILA RIVER BELOW BLUE CREEK, NEAR VIRDEN, NM ",
+    "siteId": "09432000"
+  },
+  {
+    "gageName": "GILA RIVER NEAR GILA, NM ",
+    "siteId": "09430500"
+  },
+  {
+    "gageName": "GILA RIVER NEAR REDROCK, NM ",
+    "siteId": "09431500"
+  },
+  {
+    "gageName": "Gila River nr Gila Hot Springs, NM ",
+    "siteId": "09430030"
+  },
+  {
+    "gageName": "HAHN ARROYO IN ALBUQUERQUE, NM ",
+    "siteId": "08329840"
+  },
+  {
+    "gageName": "HOGBACK CANAL NEAR WATERFLOW, NM ",
+    "siteId": "09367580"
+  },
+  {
+    "gageName": "JEMEZ CANYON RES NR BERNALILLO N M ",
+    "siteId": "08328500"
+  },
+  {
+    "gageName": "JEMEZ RIVER NEAR JEMEZ, NM ",
+    "siteId": "08324000"
+  },
+  {
+    "gageName": "JEMEZ RIVER OUTLET BELOW JEMEZ CANYON DAM, NM ",
+    "siteId": "08328950"
+  },
+  {
+    "gageName": "LAKE AVALON NR CARLSBAD N MEX ",
+    "siteId": "08403800"
+  },
+  {
+    "gageName": "LAKE SUMNER NR FORT SUMNER, NM ",
+    "siteId": "08384000"
+  },
+  {
+    "gageName": "LA PLATA RIVER AT LA PLATA, NM ",
+    "siteId": "09367000"
+  },
+  {
+    "gageName": "LA PLATA RIVER NEAR FARMINGTON, NM ",
+    "siteId": "09367500"
+  },
+  {
+    "gageName": "LA SIERRA DITCH NEAR HOLMAN, NM ",
+    "siteId": "07214680"
+  },
+  {
+    "gageName": "MALPAIS SPRING NR OSCURA, NM ",
+    "siteId": "08480594"
+  },
+  {
+    "gageName": "MANCOS RIVER NR FOUR CORNERS, CO ",
+    "siteId": "093710009"
+  },
+  {
+    "gageName": "MCEWEN POND ",
+    "siteId": "350249106404810"
+  },
+  {
+    "gageName": "MOGOLLON CREEK NEAR CLIFF, NM ",
+    "siteId": "09430600"
+  },
+  {
+    "gageName": "MORA RIVER AT LA CUEVA, NM ",
+    "siteId": "07215500"
+  },
+  {
+    "gageName": "MORA RIVER NEAR GOLONDRINAS, NM ",
+    "siteId": "07216500"
+  },
+  {
+    "gageName": "N. FLOODWAY CHANNEL AT ALBUQUERQUE, NM ",
+    "siteId": "08329835"
+  },
+  {
+    "gageName": "PECOS R ABV CANON DEL UTA NR COLONIAS, NM ",
+    "siteId": "08382600"
+  },
+  {
+    "gageName": "PECOS RIVER ABOVE SANTA ROSA LAKE, NM ",
+    "siteId": "08382650"
+  },
+  {
+    "gageName": "PECOS RIVER AT PIERCE CANYON CROSSING, NM ",
+    "siteId": "08407000"
+  },
+  {
+    "gageName": "PECOS RIVER BELOW SANTA ROSA DAM, NM ",
+    "siteId": "08382830"
+  },
+  {
+    "gageName": "PECOS RIVER NEAR ANTON CHICO, NM ",
+    "siteId": "08379500"
+  },
+  {
+    "gageName": "PECOS RIVER NEAR PUERTO DE LUNA, NM ",
+    "siteId": "08383500"
+  },
+  {
+    "gageName": "RED RIVER BELOW FISH HATCHERY, NEAR QUESTA, NM ",
+    "siteId": "08266820"
+  },
+  {
+    "gageName": "RED RIVER NEAR QUESTA, NM ",
+    "siteId": "08265000"
+  },
+  {
+    "gageName": "RIO BRAZOS AT FISHTAIL ROAD NR TIERRA AMARILLA, NM ",
+    "siteId": "08282300"
+  },
+  {
+    "gageName": "RIO CHAMA ABOVE ABIQUIU RESERVOIR, NM ",
+    "siteId": "08286500"
+  },
+  {
+    "gageName": "RIO CHAMA ABOVE CHAMA, NM ",
+    "siteId": "08281400"
+  },
+  {
+    "gageName": "RIO CHAMA BELOW ABIQUIU DAM, NM ",
+    "siteId": "08287000"
+  },
+  {
+    "gageName": "RIO CHAMA BELOW EL VADO DAM, NM ",
+    "siteId": "08285500"
+  },
+  {
+    "gageName": "RIO CHAMA NEAR CHAMITA, NM ",
+    "siteId": "08290000"
+  },
+  {
+    "gageName": "RIO CHAMA NEAR LA PUENTE, NM ",
+    "siteId": "08284100"
+  },
+  {
+    "gageName": "RIO FELIX AT OLD HWY BRD NR HAGERMAN, NM ",
+    "siteId": "08394500"
+  },
+  {
+    "gageName": "RIO GRANDE AT EMBUDO, NM ",
+    "siteId": "08279500"
+  },
+  {
+    "gageName": "RIO GRANDE AT NARROWS IN ELEPHANT BUTTE RES., NM ",
+    "siteId": "08359500"
+  },
+  {
+    "gageName": "RIO GRANDE AT OTOWI BRIDGE, NM ",
+    "siteId": "08313000"
+  },
+  {
+    "gageName": "RIO GRANDE AT SAN FELIPE, NM ",
+    "siteId": "08319000"
+  },
+  {
+    "gageName": "RIO GRANDE AT VALLE DE ORO, NM ",
+    "siteId": "08330830"
+  },
+  {
+    "gageName": "RIO GRANDE BELOW COCHITI DAM, NM ",
+    "siteId": "08317400"
+  },
+  {
+    "gageName": "RIO GRANDE BLW TAOS JUNCTION BRIDGE NEAR TAOS, NM ",
+    "siteId": "08276500"
+  },
+  {
+    "gageName": "RIO GRANDE DEL RANCHO NEAR TALPA, NM ",
+    "siteId": "08275500"
+  },
+  {
+    "gageName": "RIO GRANDE NEAR CERRO, NM ",
+    "siteId": "08263500"
+  },
+  {
+    "gageName": "RIO HONDO NEAR VALDEZ, NM ",
+    "siteId": "08267500"
+  },
+  {
+    "gageName": "RIO LUCERO NEAR ARROYO SECO, NM ",
+    "siteId": "08271000"
+  },
+  {
+    "gageName": "RIO MORA NEAR TERRERO, NM ",
+    "siteId": "08377900"
+  },
+  {
+    "gageName": "RIO NAMBE ABOVE NAMBE FALLS DAM NEAR NAMBE, NM ",
+    "siteId": "08294195"
+  },
+  {
+    "gageName": "RIO NAMBE BELOW NAMBE FALLS DAM NEAR NAMBE, NM ",
+    "siteId": "08294210"
+  },
+  {
+    "gageName": "RIO OJO CALIENTE AT LA MADERA, NM ",
+    "siteId": "08289000"
+  },
+  {
+    "gageName": "RIO PENASCO AT DAYTON, NM ",
+    "siteId": "08398500"
+  },
+  {
+    "gageName": "RIO PENASCO NEAR DUNKEN, NM ",
+    "siteId": "08397600"
+  },
+  {
+    "gageName": "RIO PENASCO NEAR HOPE, NM ",
+    "siteId": "08397620"
+  },
+  {
+    "gageName": "RIO PUEBLO DE TAOS BELOW LOS CORDOVAS, NM ",
+    "siteId": "08276300"
+  },
+  {
+    "gageName": "RIO PUEBLO DE TAOS NEAR TAOS, NM ",
+    "siteId": "08269000"
+  },
+  {
+    "gageName": "RIO PUEBLO NR PENASCO, NM ",
+    "siteId": "08277470"
+  },
+  {
+    "gageName": "RIO SAN JOSE AT ACOMA PUEBLO, NM ",
+    "siteId": "08343500"
+  },
+  {
+    "gageName": "RIO TESUQUE BELOW DIVERSIONS NEAR SANTA FE, NM ",
+    "siteId": "08308050"
+  },
+  {
+    "gageName": "ROCKY ARROYO AT HWY BRD NR CARLSBAD, NM ",
+    "siteId": "08401900"
+  },
+  {
+    "gageName": "ROCKY ARROYO BLW ROCKY DAM, NM ",
+    "siteId": "08393300"
+  },
+  {
+    "gageName": "SALT CREEK NEAR TULAROSA, NM ",
+    "siteId": "08480595"
+  },
+  {
+    "gageName": "San Antonio Arroyo at Rio Grande Confluence in ABQ ",
+    "siteId": "083299377"
+  },
+  {
+    "gageName": "SAN FRANCISCO RIVER AT RESERVE, NM ",
+    "siteId": "09442681"
+  },
+  {
+    "gageName": "SAN FRANCISCO RIVER NEAR GLENWOOD, NM ",
+    "siteId": "09444000"
+  },
+  {
+    "gageName": "SAN JOSE DRAIN AT WOODWARD RD AT ALBQ., NM ",
+    "siteId": "08330200"
+  },
+  {
+    "gageName": "SAN JUAN R AT BOLACK RANCH BRDG NR FARMINGTON NM ",
+    "siteId": "09357700"
+  },
+  {
+    "gageName": "SAN JUAN RIVER AT BLOOMFIELD, NM ",
+    "siteId": "09357000"
+  },
+  {
+    "gageName": "SAN JUAN RIVER AT FARMINGTON, NM ",
+    "siteId": "09365000"
+  },
+  {
+    "gageName": "SAN JUAN RIVER AT SHIPROCK, NM ",
+    "siteId": "09368000"
+  },
+  {
+    "gageName": "SAN JUAN RIVER NEAR ARCHULETA, NM ",
+    "siteId": "09355500"
+  },
+  {
+    "gageName": "SAN JUAN R NR FRUITLAND, NM ",
+    "siteId": "09367540"
+  },
+  {
+    "gageName": "SANTA CRUZ RIVER NEAR CUNDIYO, NM ",
+    "siteId": "08291000"
+  },
+  {
+    "gageName": "SANTA FE RIVER ABOVE COCHITI LAKE, NM ",
+    "siteId": "08317200"
+  },
+  {
+    "gageName": "SANTA FE RIVER ABOVE MCCLURE RES, NR SANTA FE, NM ",
+    "siteId": "08315480"
+  },
+  {
+    "gageName": "SANTA FE RIVER NEAR SANTA FE, NM ",
+    "siteId": "08316000"
+  },
+  {
+    "gageName": "SANTA ROSA LAKE NR SANTA ROSA, N.M. ",
+    "siteId": "08382810"
+  },
+  {
+    "gageName": "SANTISTEVAN CREEK NEAR COSTILLA, NM ",
+    "siteId": "08253500"
+  },
+  {
+    "gageName": "SIERRA DITCH NEAR CHACON, NM ",
+    "siteId": "07214470"
+  },
+  {
+    "gageName": "SILE MAIN CANAL ",
+    "siteId": "08314000"
+  },
+  {
+    "gageName": "SOUTH SEVEN RIVERS NR LAKEWOOD, NM ",
+    "siteId": "08401200"
+  },
+  {
+    "gageName": "TESUQUE CREEK ABOVE DIVERSIONS NEAR SANTA FE, NM ",
+    "siteId": "08302500"
+  },
+  {
+    "gageName": "TWO R RES ",
+    "siteId": "08390610"
+  },
+  {
+    "gageName": "TWO R RES ",
+    "siteId": "08390620"
+  },
+  {
+    "gageName": "VERMEJO RIVER NEAR DAWSON, NM ",
+    "siteId": "07203000"
+  },
+  {
+    "gageName": "WEST FORK GILA RIVER AT GILA CLIFF DWELLINGS, NM ",
+    "siteId": "09430010"
+  },
+  {
+    "gageName": "W FORK GILA R BLW MDL FORK NR GILA HOT SPRINGS, NM ",
+    "siteId": "09430020"
+  }
+]

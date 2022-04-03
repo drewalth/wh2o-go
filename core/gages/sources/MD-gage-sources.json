@@ -1,0 +1,482 @@
+[
+  {
+    "gageName": "ANACOSTIA RIVER AT BLADENSBURG WATERFRONT PARK, MD ",
+    "siteId": "01651007"
+  },
+  {
+    "gageName": "ANTIETAM CREEK NEAR SHARPSBURG, MD ",
+    "siteId": "01619500"
+  },
+  {
+    "gageName": "ANTIETAM CREEK NEAR WAYNESBORO, PA ",
+    "siteId": "01619000"
+  },
+  {
+    "gageName": "ARROWHEAD RUN AT THAYERVILLE, MD ",
+    "siteId": "03075850"
+  },
+  {
+    "gageName": "BAISMAN RUN AT BROADMOOR, MD ",
+    "siteId": "01583580"
+  },
+  {
+    "gageName": "BEAR CREEK AT FRIENDSVILLE, MD ",
+    "siteId": "03076600"
+  },
+  {
+    "gageName": "BEAVERDAM CREEK NEAR CHEVERLY, MD ",
+    "siteId": "01651730"
+  },
+  {
+    "gageName": "BEAVERDAM RUN AT COCKEYSVILLE, MD ",
+    "siteId": "01583600"
+  },
+  {
+    "gageName": "BEETREE RUN AT BENTLEY SPRINGS, MD ",
+    "siteId": "01581960"
+  },
+  {
+    "gageName": "BENNETT CREEK AT PARK MILLS, MD ",
+    "siteId": "01643500"
+  },
+  {
+    "gageName": "BIG PIPE CREEK AT BRUCEVILLE, MD ",
+    "siteId": "01639500"
+  },
+  {
+    "gageName": "BYNUM RUN AT BEL AIR, MD ",
+    "siteId": "01581500"
+  },
+  {
+    "gageName": "CABIN BRANCH NEAR BOYDS, MD ",
+    "siteId": "01644380"
+  },
+  {
+    "gageName": "CARROLL CREEK ABOVE ROCK CREEK AT FREDERICK, MD ",
+    "siteId": "01642199"
+  },
+  {
+    "gageName": "CARROLL CREEK NEAR FREDERICK, MD ",
+    "siteId": "01642198"
+  },
+  {
+    "gageName": "CASSELMAN RIVER AT GRANTSVILLE, MD ",
+    "siteId": "03078000"
+  },
+  {
+    "gageName": "CATOCTIN CREEK NEAR MIDDLETOWN, MD ",
+    "siteId": "01637500"
+  },
+  {
+    "gageName": "CATTAIL CREEK NEAR GLENWOOD, MD ",
+    "siteId": "01591400"
+  },
+  {
+    "gageName": "CHERRY CREEK AT STATE PARK ROAD NEAR MCHENRY, MD ",
+    "siteId": "03075905"
+  },
+  {
+    "gageName": "CHES BAY AT MOUTH OF SUS R AT HAVRE DE GRACE, MD ",
+    "siteId": "01580620"
+  },
+  {
+    "gageName": "CHESTERVILLE BRANCH NEAR CRUMPTON, MD ",
+    "siteId": "01493112"
+  },
+  {
+    "gageName": "CONOCOCHEAGUE CREEK AT FAIRVIEW, MD ",
+    "siteId": "01614500"
+  },
+  {
+    "gageName": "CRANBERRY BRANCH NEAR WESTMINSTER, MD ",
+    "siteId": "01585500"
+  },
+  {
+    "gageName": "DEAD RUN AT WOODLAWN, MD ",
+    "siteId": "01589315"
+  },
+  {
+    "gageName": "DEAD RUN NEAR CATONSVILLE, MD ",
+    "siteId": "01589312"
+  },
+  {
+    "gageName": "DEAD RUN TRIBUTARY AT WOODLAWN, MD ",
+    "siteId": "01589320"
+  },
+  {
+    "gageName": "DEAD RUN TRIBUTARY NEAR WOODLAWN, MD ",
+    "siteId": "01589316"
+  },
+  {
+    "gageName": "DEER CREEK AT EDEN MILL DAM NEAR PYLESVILLE, MD ",
+    "siteId": "01579905"
+  },
+  {
+    "gageName": "DEER CREEK AT ROCKS, MD ",
+    "siteId": "01580000"
+  },
+  {
+    "gageName": "DEER CREEK NEAR DARLINGTON, MD ",
+    "siteId": "01580520"
+  },
+  {
+    "gageName": "EAST BRANCH HERBERT RUN AT ARBUTUS, MD ",
+    "siteId": "01589100"
+  },
+  {
+    "gageName": "FOSTER BRANCH NEAR JOPPATOWNE, MD ",
+    "siteId": "01585075"
+  },
+  {
+    "gageName": "GEORGES CREEK AT FRANKLIN, MD ",
+    "siteId": "01599000"
+  },
+  {
+    "gageName": "GEORGES RUN NEAR BECKLEYSVILLE, MD ",
+    "siteId": "01581870"
+  },
+  {
+    "gageName": "GUNPOWDER FALLS AT HOFFMANVILLE, MD ",
+    "siteId": "01581810"
+  },
+  {
+    "gageName": "GWYNNS FALLS AT WASHINGTON BLVD AT BALTIMORE, MD ",
+    "siteId": "01589352"
+  },
+  {
+    "gageName": "HAWLINGS RIVER NEAR SANDY SPRING, MD ",
+    "siteId": "01591700"
+  },
+  {
+    "gageName": "HERRING RUN AT SINCLAIR LANE AT BALTIMORE, MD ",
+    "siteId": "01585219"
+  },
+  {
+    "gageName": "HONEYGO RUN NEAR WHITE MARSH, MD ",
+    "siteId": "01585104"
+  },
+  {
+    "gageName": "JAMES RUN NEAR BELCAMP, MD ",
+    "siteId": "01581649"
+  },
+  {
+    "gageName": "JONES FALLS AT SORRENTO, MD ",
+    "siteId": "01589440"
+  },
+  {
+    "gageName": "LICKING CREEK AT PECTONVILLE, MD ",
+    "siteId": "01613525"
+  },
+  {
+    "gageName": "LITTLE FALLS AT BLUE MOUNT, MD ",
+    "siteId": "01582000"
+  },
+  {
+    "gageName": "LITTLE GUNPOWDER FALLS AT LAUREL BROOK, MD ",
+    "siteId": "01584500"
+  },
+  {
+    "gageName": "LITTLE PATUXENT RIVER AT SAVAGE, MD ",
+    "siteId": "01594000"
+  },
+  {
+    "gageName": "LITTLE SENECA CREEK TRIBUTARY AT BRINK, MD ",
+    "siteId": "01644372"
+  },
+  {
+    "gageName": "LITTLE SENECA CREEK TRIBUTARY NEAR CLARKSBURG, MD ",
+    "siteId": "01644371"
+  },
+  {
+    "gageName": "LITTLE SENECA CREEK TRIBUTARY NEAR GERMANTOWN, MD ",
+    "siteId": "01644375"
+  },
+  {
+    "gageName": "LONG GREEN CREEK AT GLEN ARM, MD ",
+    "siteId": "01584050"
+  },
+  {
+    "gageName": "LONG QUARTER BRANCH AT LUTHERVILLE, MD ",
+    "siteId": "01583800"
+  },
+  {
+    "gageName": "L PAX RIV TRIB ABOVE LAKE ELKHORN NR GUILFORD, MD ",
+    "siteId": "01593450"
+  },
+  {
+    "gageName": "L PAX RIV TRIB ABOVE WILDE LAKE AT COLUMBIA, MD ",
+    "siteId": "01593370"
+  },
+  {
+    "gageName": "MARSH RUN AT GRIMES, MD ",
+    "siteId": "01617800"
+  },
+  {
+    "gageName": "MATTAWOMAN CREEK NEAR POMONKEY, MD ",
+    "siteId": "01658000"
+  },
+  {
+    "gageName": "MCINTOSH RUN NEAR LEONARDTOWN, MD ",
+    "siteId": "01661350"
+  },
+  {
+    "gageName": "MINEBANK RUN NEAR GLEN ARM, MD ",
+    "siteId": "0158397967"
+  },
+  {
+    "gageName": "MONOCACY RIVER AT BRIDGEPORT, MD ",
+    "siteId": "01639000"
+  },
+  {
+    "gageName": "MONOCACY RIVER AT JUG BRIDGE NEAR FREDERICK, MD ",
+    "siteId": "01643000"
+  },
+  {
+    "gageName": "MONOCACY RIVER AT MONOCACY BLVD AT FREDERICK, MD ",
+    "siteId": "01642190"
+  },
+  {
+    "gageName": "MOORES RUN AT RADECKE AVE AT BALTIMORE, MD ",
+    "siteId": "01585230"
+  },
+  {
+    "gageName": "MOORES RUN TRIB. NEAR TODD AVE AT BALTIMORE, MD ",
+    "siteId": "01585225"
+  },
+  {
+    "gageName": "MORGAN CREEK NEAR KENNEDYVILLE, MD ",
+    "siteId": "01493500"
+  },
+  {
+    "gageName": "MORGAN RUN NEAR LOUISVILLE, MD ",
+    "siteId": "01586610"
+  },
+  {
+    "gageName": "NORTH BRANCH PATAPSCO RIVER AT CEDARHURST, MD ",
+    "siteId": "01586000"
+  },
+  {
+    "gageName": "NORTH BRANCH POTOMAC RIVER AT KITZMILLER, MD ",
+    "siteId": "01595500"
+  },
+  {
+    "gageName": "NORTH BRANCH POTOMAC RIVER AT LUKE, MD ",
+    "siteId": "01598500"
+  },
+  {
+    "gageName": "NORTHEAST BRANCH ANACOSTIA RIVER AT RIVERDALE, MD ",
+    "siteId": "01649500"
+  },
+  {
+    "gageName": "NORTH GLADE RUN NEAR SWANTON, MD ",
+    "siteId": "03075825"
+  },
+  {
+    "gageName": "NORTHWEST BRANCH ANACOSTIA RIVER NR COLESVILLE, MD ",
+    "siteId": "01650500"
+  },
+  {
+    "gageName": "Octoraro Creek near Richardsmere, MD ",
+    "siteId": "01578475"
+  },
+  {
+    "gageName": "PAINT BRANCH NEAR COLLEGE PARK, MARYLAND ",
+    "siteId": "01649190"
+  },
+  {
+    "gageName": "PAINT BRANCH TRIBUTARY NEAR COLESVILLE, MD ",
+    "siteId": "01649150"
+  },
+  {
+    "gageName": "PATAPSCO RIVER AT HOLLOFIELD, MD ",
+    "siteId": "01589000"
+  },
+  {
+    "gageName": "PATAPSCO RIVER NEAR CATONSVILLE, MD ",
+    "siteId": "01589025"
+  },
+  {
+    "gageName": "PATAPSCO RIVER NEAR ELKRIDGE, MD ",
+    "siteId": "01589035"
+  },
+  {
+    "gageName": "PATUXENT RIVER BELOW BRIGHTON DAM NEAR BRIGHTON,MD ",
+    "siteId": "01591610"
+  },
+  {
+    "gageName": "PATUXENT RIVER NEAR BOWIE, MD ",
+    "siteId": "01594440"
+  },
+  {
+    "gageName": "PATUXENT RIVER NEAR UNITY, MD ",
+    "siteId": "01591000"
+  },
+  {
+    "gageName": "PATUXENT RIV NEAR LAUREL, MD ",
+    "siteId": "01592500"
+  },
+  {
+    "gageName": "PINEY RUN AT DOVER, MD ",
+    "siteId": "01583100"
+  },
+  {
+    "gageName": "PISCATAWAY CREEK AT PISCATAWAY, MD ",
+    "siteId": "01653600"
+  },
+  {
+    "gageName": "PLUMTREE RUN NEAR BEL AIR, MD ",
+    "siteId": "01581752"
+  },
+  {
+    "gageName": "POND BRANCH AT OREGON RIDGE, MD ",
+    "siteId": "01583570"
+  },
+  {
+    "gageName": "POTOMAC RIVER AT EDWARDS FERRY NEAR POOLESVILLE,MD ",
+    "siteId": "01644148"
+  },
+  {
+    "gageName": "POTOMAC RIVER AT PAW PAW, WV ",
+    "siteId": "01610000"
+  },
+  {
+    "gageName": "POTOMAC RIVER AT POINT OF ROCKS, MD ",
+    "siteId": "01638500"
+  },
+  {
+    "gageName": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA ",
+    "siteId": "01646500"
+  },
+  {
+    "gageName": "RED RUN NEAR OWINGS MILLS, MD ",
+    "siteId": "01589230"
+  },
+  {
+    "gageName": "SAVAGE RIV BL SAVAGE RIV DAM NEAR BLOOMINGTON, MD ",
+    "siteId": "01597500"
+  },
+  {
+    "gageName": "SAVAGE RIVER NEAR BARTON, MD ",
+    "siteId": "01596500"
+  },
+  {
+    "gageName": "SAWMILL CREEK AT GLEN BURNIE, MD ",
+    "siteId": "01589500"
+  },
+  {
+    "gageName": "SCOTTS LEVEL BRANCH AT ROCKDALE, MD ",
+    "siteId": "01589290"
+  },
+  {
+    "gageName": "SENECA CREEK AT DAWSONVILLE, MD ",
+    "siteId": "01645000"
+  },
+  {
+    "gageName": "SIDELING HILL CREEK NEAR BELLEGROVE, MD ",
+    "siteId": "01610155"
+  },
+  {
+    "gageName": "SLIGO CREEK NEAR TAKOMA PARK, MD ",
+    "siteId": "01650800"
+  },
+  {
+    "gageName": "SOPER BRANCH AT HYATTSTOWN, MD ",
+    "siteId": "01643395"
+  },
+  {
+    "gageName": "ST CLEMENTS CREEK NEAR CLEMENTS, MD ",
+    "siteId": "01661050"
+  },
+  {
+    "gageName": "ST MARYS RIVER AT GREAT MILLS, MD ",
+    "siteId": "01661500"
+  },
+  {
+    "gageName": "SUSQUEHANNA RIVER AT CONOWINGO, MD ",
+    "siteId": "01578310"
+  },
+  {
+    "gageName": "SWAN CREEK AT SWAN CREEK, MD ",
+    "siteId": "01580700"
+  },
+  {
+    "gageName": "TENMILE CREEK NEAR BOYDS, MD ",
+    "siteId": "01644390"
+  },
+  {
+    "gageName": "TENMILE CREEK NEAR CLARKSBURG, MD ",
+    "siteId": "01644388"
+  },
+  {
+    "gageName": "TONOLOWAY CREEK NEAR HANCOCK, MD ",
+    "siteId": "01613095"
+  },
+  {
+    "gageName": "TOWN CREEK NEAR OLDTOWN, MD ",
+    "siteId": "01609000"
+  },
+  {
+    "gageName": "TRIBUTARY TO DEAD RUN TRIBUTARY AT WOODLAWN, MD ",
+    "siteId": "01589317"
+  },
+  {
+    "gageName": "TURKEY BRANCH NEAR ROCKVILLE, MD ",
+    "siteId": "01647850"
+  },
+  {
+    "gageName": "UNICORN BRANCH NEAR MILLINGTON, MD ",
+    "siteId": "01493000"
+  },
+  {
+    "gageName": "UNNAMED DITCH ON WILSON PT RD AT MIDDLE RIVER, MD ",
+    "siteId": "01585175"
+  },
+  {
+    "gageName": "WEST BRANCH HERRING RUN AT IDLEWYLDE, MD ",
+    "siteId": "01585200"
+  },
+  {
+    "gageName": "WESTERN BRANCH AT UPPER MARLBORO, MD ",
+    "siteId": "01594526"
+  },
+  {
+    "gageName": "WHEEL CREEK NEAR ABINGDON, MD ",
+    "siteId": "0158175320"
+  },
+  {
+    "gageName": "WHITEMARSH RUN AT WHITE MARSH, MD ",
+    "siteId": "01585100"
+  },
+  {
+    "gageName": "WHITEMARSH RUN NEAR FULLERTON, MD ",
+    "siteId": "01585090"
+  },
+  {
+    "gageName": "WILLS CREEK NEAR CUMBERLAND, MD ",
+    "siteId": "01601500"
+  },
+  {
+    "gageName": "WINTERS RUN HD OF OTTER PT CREEK NEAR BEL AIR, MD ",
+    "siteId": "01581750"
+  },
+  {
+    "gageName": "WINTERS RUN NEAR BENSON, MD ",
+    "siteId": "01581700"
+  },
+  {
+    "gageName": "YOUGHIOGHENY RIVER AT FRIENDSVILLE, MD ",
+    "siteId": "03076500"
+  },
+  {
+    "gageName": "YOUGHIOGHENY RIVER AT HOYES, MD ",
+    "siteId": "03076100"
+  },
+  {
+    "gageName": "YOUGHIOGHENY RIVER NEAR OAKLAND, MD ",
+    "siteId": "03075500"
+  },
+  {
+    "gageName": "ZEKIAH SWAMP RUN NEAR NEWTOWN, MD ",
+    "siteId": "01660920"
+  }
+]

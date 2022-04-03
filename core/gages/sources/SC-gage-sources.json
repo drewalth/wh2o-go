@@ -1,0 +1,562 @@
+[
+  {
+    "gageName": "ALLISON CREEK AT RD 114 NEAR YORK, SC ",
+    "siteId": "021457492"
+  },
+  {
+    "gageName": "ASHLEY RIVER BELOW SUMMERVILLE, SC ",
+    "siteId": "021720825"
+  },
+  {
+    "gageName": "BIG DUTCHMAN CREEK AT ROCK HILL, SC ",
+    "siteId": "021459367"
+  },
+  {
+    "gageName": "BIG FALLS CREEK NEAR TIGERVILLE,SC ",
+    "siteId": "021623957"
+  },
+  {
+    "gageName": "BLACK CREEK BELOW CHESTERFIELD, SC ",
+    "siteId": "02130840"
+  },
+  {
+    "gageName": "BLACK CREEK NEAR HARTSVILLE, SC ",
+    "siteId": "02130910"
+  },
+  {
+    "gageName": "BLACK CREEK NEAR MCBEE, SC ",
+    "siteId": "02130900"
+  },
+  {
+    "gageName": "BLACK CREEK NEAR QUINBY, SC ",
+    "siteId": "02130980"
+  },
+  {
+    "gageName": "BLACK RIVER AT I-95, NEAR MANNING,SC ",
+    "siteId": "02135501"
+  },
+  {
+    "gageName": "BLACK RIVER NEAR ANDREWS,SC ",
+    "siteId": "02136030"
+  },
+  {
+    "gageName": "BROAD RIVER AT ALSTON, SC ",
+    "siteId": "02161000"
+  },
+  {
+    "gageName": "BROAD RIVER BELOW NEAL SHOALS RES. NR CARLISLE,SC ",
+    "siteId": "021564493"
+  },
+  {
+    "gageName": "BROAD RIVER BELOW NINETYNINE ISLAND RESERVOIR,SC ",
+    "siteId": "02153551"
+  },
+  {
+    "gageName": "BROAD RIVER NEAR BLACKSBURG, SC ",
+    "siteId": "02153200"
+  },
+  {
+    "gageName": "BROAD RIVER NEAR CARLISLE, SC ",
+    "siteId": "02156500"
+  },
+  {
+    "gageName": "BROAD RIVER NEAR COLUMBIA, SC ",
+    "siteId": "02162035"
+  },
+  {
+    "gageName": "BROAD RIVER NEAR JENKINSVILLE, SC ",
+    "siteId": "02160991"
+  },
+  {
+    "gageName": "BRUSHY CREEK NEAR GREENVILLE, SC ",
+    "siteId": "02160325"
+  },
+  {
+    "gageName": "BUFFALO CREEK AT MT PISGAH, SC ",
+    "siteId": "021313485"
+  },
+  {
+    "gageName": "BUSH RIVER NR PROSPERITY, SC ",
+    "siteId": "02167582"
+  },
+  {
+    "gageName": "CATAWBA RIVER AT GREAT FALLS,SC ",
+    "siteId": "02147310"
+  },
+  {
+    "gageName": "CATAWBA RIVER BELOW CATAWBA, SC ",
+    "siteId": "02147020"
+  },
+  {
+    "gageName": "CATAWBA RIVER BL LAKE WYLIE DAM FEWELL ISLAND, SC ",
+    "siteId": "02145910"
+  },
+  {
+    "gageName": "CATAWBA RIVER NEAR ROCK HILL, SC ",
+    "siteId": "02146000"
+  },
+  {
+    "gageName": "CEDAR CREEK AT CONGAREE NP NEAR GADSDEN, SC ",
+    "siteId": "02169672"
+  },
+  {
+    "gageName": "CEDAR CREEK RES. TAILRACE BELOW GREAT FALLS,SC ",
+    "siteId": "02147505"
+  },
+  {
+    "gageName": "CHAUGA RIVER ABOVE WESTMINSTER,SC ",
+    "siteId": "344108083090600"
+  },
+  {
+    "gageName": "CHINQUAPIN CREEK NEAR MONETTA, SC ",
+    "siteId": "021731105"
+  },
+  {
+    "gageName": "COMBAHEE RIVER NEAR YEMASSEE, S. C. ",
+    "siteId": "02176000"
+  },
+  {
+    "gageName": "CONGAREE RIVER AT COLUMBIA, SC ",
+    "siteId": "02169500"
+  },
+  {
+    "gageName": "CONGAREE RIVER AT U.S. HWY 601 NR. FORT MOTTE, SC ",
+    "siteId": "02169750"
+  },
+  {
+    "gageName": "CONGAREE RIVER BELOW CAYCE,SC ",
+    "siteId": "021695075"
+  },
+  {
+    "gageName": "COOPER RIVER ABOVE GOOSE CREEK,SC ",
+    "siteId": "021720508"
+  },
+  {
+    "gageName": "COOPER RIVER AT U.S. HWY 17 AT CHARLESTON, SC ",
+    "siteId": "021720709"
+  },
+  {
+    "gageName": "COOPER RVR @ PORTS AUTHORITY PIER K, CHARLESTON SC ",
+    "siteId": "0217206935"
+  },
+  {
+    "gageName": "COOSAWHATCHIE RIVER AT I95, NEAR RIDGELAND,SC ",
+    "siteId": "021765182"
+  },
+  {
+    "gageName": "DURBIN CREEK ABOVE FOUNTAIN INN, SC ",
+    "siteId": "02160381"
+  },
+  {
+    "gageName": "EASTATOEE CRK ON CLEO CHAPMAN HWY NEAR SUNSET,SC ",
+    "siteId": "02185010"
+  },
+  {
+    "gageName": "EDISTO RIVER AT I-95, ABOVE CANADYS,SC ",
+    "siteId": "02174045"
+  },
+  {
+    "gageName": "EDISTO RIVER NEAR BRANCHVILLE, SC ",
+    "siteId": "02174000"
+  },
+  {
+    "gageName": "EIGHTEENMILE CREEK BELOW PENDLETON,SC ",
+    "siteId": "02186702"
+  },
+  {
+    "gageName": "ENOREE RIVER AT PELHAM, SC ",
+    "siteId": "02160326"
+  },
+  {
+    "gageName": "ENOREE RIVER AT WHITMIRE, SC ",
+    "siteId": "02160700"
+  },
+  {
+    "gageName": "ENOREE RIVER NEAR WOODRUFF, SC ",
+    "siteId": "02160390"
+  },
+  {
+    "gageName": "FAIRFOREST CREEK NEAR UNION, S.C. ",
+    "siteId": "02160000"
+  },
+  {
+    "gageName": "FISHING CREEK BELOW FORT LAWN, SC ",
+    "siteId": "02147403"
+  },
+  {
+    "gageName": "FISHING CREEK @ HWY 5 BELOW YORK, SC ",
+    "siteId": "021473415"
+  },
+  {
+    "gageName": "FRENCH QUARTER CREEK NEAR HUGER,SC ",
+    "siteId": "021720368"
+  },
+  {
+    "gageName": "GASTON SHOALS RESERVOIR ABOVE BLACKSBURG, SC ",
+    "siteId": "02153051"
+  },
+  {
+    "gageName": "GILLS CREEK AT COLUMBIA, SC ",
+    "siteId": "02169570"
+  },
+  {
+    "gageName": "GREAT FALLS RESERVOIR TAILRACE AT GREAT FALLS,SC ",
+    "siteId": "021474095"
+  },
+  {
+    "gageName": "HORSE CREEK AT CLEARWATER, SC ",
+    "siteId": "02196690"
+  },
+  {
+    "gageName": "LAKE GREENWOOD TAILRACE NR CHAPPELLS, SC ",
+    "siteId": "02166501"
+  },
+  {
+    "gageName": "LAKE MURRAY TAILRACE NEAR COLUMBIA, SC ",
+    "siteId": "02168501"
+  },
+  {
+    "gageName": "LAKE WATEREE TAILRACE ABOVE CAMDEN, SC ",
+    "siteId": "02147801"
+  },
+  {
+    "gageName": "LAWSONS FORK CREEK AT SPARTANBURG SC ",
+    "siteId": "02156300"
+  },
+  {
+    "gageName": "LITTLE BACK RIVER AT F&amp;W DOCK, NEAR LIMEHOUSE, SC ",
+    "siteId": "021989791"
+  },
+  {
+    "gageName": "LITTLE BACK RIVER AT GA 25 AT PORT WENTWORTH, GA ",
+    "siteId": "021989792"
+  },
+  {
+    "gageName": "LITTLE LYNCHES RIVER ABOVE KERSHAW, SC ",
+    "siteId": "02131452"
+  },
+  {
+    "gageName": "LITTLE LYNCHES RIVER NEAR KERSHAW, SC ",
+    "siteId": "02131455"
+  },
+  {
+    "gageName": "LITTLE PEE DEE RIVER NEAR DILLON, S. C. ",
+    "siteId": "02132500"
+  },
+  {
+    "gageName": "LITTLE RIVER AT LAURENS, SC ",
+    "siteId": "021671101"
+  },
+  {
+    "gageName": "LITTLE RIVER NEAR MT. CARMEL, SC ",
+    "siteId": "02192500"
+  },
+  {
+    "gageName": "LITTLE RIVER NR SILVERSTREET, SC ",
+    "siteId": "02167450"
+  },
+  {
+    "gageName": "LITTLE SALKEHATCHIE RIVER BELOW DENMARK, SC ",
+    "siteId": "02175552"
+  },
+  {
+    "gageName": "LITTLE SALUDA RIVER NEAR SALUDA, SC ",
+    "siteId": "02167705"
+  },
+  {
+    "gageName": "LUMBER RIVER AT NICHOLS,SC ",
+    "siteId": "02134900"
+  },
+  {
+    "gageName": "LYNCHES RIVER AT I-95, ABOVE OLANTA,SC ",
+    "siteId": "02131510"
+  },
+  {
+    "gageName": "MANCHESTER CREEK AT ROCK HILL, SC ",
+    "siteId": "02146110"
+  },
+  {
+    "gageName": "MCALPINE CREEK AT SR2964 NR CAMP COX, SC ",
+    "siteId": "0214676115"
+  },
+  {
+    "gageName": "MIDDLE SALUDA RIVER NEAR CLEVELAND, SC ",
+    "siteId": "02162350"
+  },
+  {
+    "gageName": "MIDDLE TYGER RIVER NEAR LYMAN, SC ",
+    "siteId": "02157510"
+  },
+  {
+    "gageName": "NORTH FORK EDISTO RIVER AT SC394, ABOVE NORTH, SC ",
+    "siteId": "02173299"
+  },
+  {
+    "gageName": "NORTH PACOLET RIVER AT FINGERVILLE, SC ",
+    "siteId": "02154500"
+  },
+  {
+    "gageName": "NORTH RABON CREEK NEAR HICKORY TAVERN, SC ",
+    "siteId": "021652801"
+  },
+  {
+    "gageName": "NORTH SALUDA RESERVOIR NEAR TIGERVILLE,SC ",
+    "siteId": "021623961"
+  },
+  {
+    "gageName": "NORTH SALUDA RIVER ABOVE SLATER,SC ",
+    "siteId": "021623975"
+  },
+  {
+    "gageName": "NORTH SALUDA RIVER NEAR HIGHLAND,SC ",
+    "siteId": "021623950"
+  },
+  {
+    "gageName": "NORTH TYGER RIVER NEAR FAIRMONT, S. C. ",
+    "siteId": "02157000"
+  },
+  {
+    "gageName": "PACOLET RIVER AT PACOLET S C ",
+    "siteId": "02156350"
+  },
+  {
+    "gageName": "PACOLET RIVER BELOW LAKE BLALOCK NEAR COWPENS, SC ",
+    "siteId": "021556525"
+  },
+  {
+    "gageName": "PACOLET RIVER NEAR FINGERVILLE, SC ",
+    "siteId": "02155500"
+  },
+  {
+    "gageName": "PACOLET RIVER NEAR SARATT,SC ",
+    "siteId": "02156370"
+  },
+  {
+    "gageName": "PEE DEE RIVER AT CHERAW, SC ",
+    "siteId": "02130000"
+  },
+  {
+    "gageName": "PEE DEE RIVER AT HWY 701 NR BUCKSPORT, SC ",
+    "siteId": "02135200"
+  },
+  {
+    "gageName": "PEE DEE RIVER AT PEEDEE, SC ",
+    "siteId": "02131000"
+  },
+  {
+    "gageName": "PEE DEE RIVER BELOW PEE DEE, SC ",
+    "siteId": "02131010"
+  },
+  {
+    "gageName": "PEEDEE RIVER NEAR FLORENCE,SC ",
+    "siteId": "02130810"
+  },
+  {
+    "gageName": "PEE DEE RIVER NR BENNETTSVILLE, SC ",
+    "siteId": "02130561"
+  },
+  {
+    "gageName": "PEN BRANCH AT COLUMBIA, SC ",
+    "siteId": "02169568"
+  },
+  {
+    "gageName": "POCOTALIGO RIVER AT I-95, ABOVE MANNING,SC ",
+    "siteId": "02135615"
+  },
+  {
+    "gageName": "REEDY RIVER ABOVE FORK SHOALS, SC ",
+    "siteId": "02164110"
+  },
+  {
+    "gageName": "REEDY RIVER NEAR GREENVILLE, SC ",
+    "siteId": "02164000"
+  },
+  {
+    "gageName": "REEDY RIVER NEAR WATERLOO, SC ",
+    "siteId": "021650905"
+  },
+  {
+    "gageName": "ROCKY BRANCH AT PICKENS ST AT COLUMBIA, SC ",
+    "siteId": "02169505"
+  },
+  {
+    "gageName": "ROCKY BRANCH @ WHALEY ST. AT COLUMBIA, SC ",
+    "siteId": "02169506"
+  },
+  {
+    "gageName": "ROCKY CREEK AT GREAT FALLS, SC ",
+    "siteId": "02147500"
+  },
+  {
+    "gageName": "ROCKY CREEK NEAR WADE HAMPTON,SC ",
+    "siteId": "021603273"
+  },
+  {
+    "gageName": "ROCKY RIVER NR STARR, SC ",
+    "siteId": "02187910"
+  },
+  {
+    "gageName": "ROCKY SWAMP CREEK NEAR NORWAY, SC ",
+    "siteId": "021727610"
+  },
+  {
+    "gageName": "SALKEHATCHIE R AT SC HWY 64 NR BARNWELL, SC ",
+    "siteId": "02175200"
+  },
+  {
+    "gageName": "SALUDA RIVER AT CHAPPELLS, SC ",
+    "siteId": "02167000"
+  },
+  {
+    "gageName": "SALUDA RIVER AT I-20, NEAR COLUMBIA,SC ",
+    "siteId": "02168900"
+  },
+  {
+    "gageName": "SALUDA RIVER BELOW LK MURRAY DAM NR COLUMBIA, SC ",
+    "siteId": "02168504"
+  },
+  {
+    "gageName": "SALUDA RIVER NEAR COLUMBIA, SC ",
+    "siteId": "02169000"
+  },
+  {
+    "gageName": "SALUDA RIVER NEAR GREENVILLE, SC ",
+    "siteId": "02162500"
+  },
+  {
+    "gageName": "SALUDA RIVER NEAR WARE SHOALS, SC ",
+    "siteId": "02163500"
+  },
+  {
+    "gageName": "SALUDA RIVER NEAR WILLIAMSTON, SC ",
+    "siteId": "02163001"
+  },
+  {
+    "gageName": "SAMPLE BRANCH AT GREENWOOD, SC ",
+    "siteId": "02166975"
+  },
+  {
+    "gageName": "SANTEE R AT TREZESVANTS LANDING NR FT MOTTE, SC ",
+    "siteId": "02169810"
+  },
+  {
+    "gageName": "SAVANNAH RIVER AT ELBA ISLAND, NEAR SAVANNAH, GA ",
+    "siteId": "0219897993"
+  },
+  {
+    "gageName": "SHAWS CREEK NEAR AIKEN, SC ",
+    "siteId": "02172525"
+  },
+  {
+    "gageName": "SKRINE CREEK NEAR MCCLELLENVILLE,SC ",
+    "siteId": "330428079214800"
+  },
+  {
+    "gageName": "SLICKING CREEK NEAR ROCKY BOTTOM,SC ",
+    "siteId": "021622847"
+  },
+  {
+    "gageName": "SMITH BRANCH AT NORTH MAIN ST AT COLUMBIA, SC ",
+    "siteId": "02162093"
+  },
+  {
+    "gageName": "SOUTH FORK EDISTO RIVER ABOVE SPRINGFIELD,SC ",
+    "siteId": "02172558"
+  },
+  {
+    "gageName": "SOUTH FORK EDISTO RIVER BELOW MONETTA, SC ",
+    "siteId": "021722801"
+  },
+  {
+    "gageName": "SOUTH PACOLET RIVER NR CAMPOBELLO, SC ",
+    "siteId": "02154790"
+  },
+  {
+    "gageName": "SOUTH RABON CREEK NEAR GRAY COURT, SC ",
+    "siteId": "02165200"
+  },
+  {
+    "gageName": "SOUTH SALUDA RIVER NEAR CLEVELAND, SC ",
+    "siteId": "02162290"
+  },
+  {
+    "gageName": "SOUTH SALUDA RIVER NEAR ROCKY BOTTOM,SC ",
+    "siteId": "021622845"
+  },
+  {
+    "gageName": "SOUTH TYGER RIVER BELOW DUNCAN, SC ",
+    "siteId": "02158408"
+  },
+  {
+    "gageName": "STEVENS CREEK NEAR MODOC, SC ",
+    "siteId": "02196000"
+  },
+  {
+    "gageName": "STEVENS CREEK NEAR MURPHY VILLAGE, SC ",
+    "siteId": "021963601"
+  },
+  {
+    "gageName": "SUGAR CREEK NR FORT MILL, SC ",
+    "siteId": "02146800"
+  },
+  {
+    "gageName": "TABLE ROCK RESERVOIR NR CLEVELAND, SC ",
+    "siteId": "02162285"
+  },
+  {
+    "gageName": "TABLE ROCK RESERVOIR TAILRACE NR CLEVELAND, SC ",
+    "siteId": "02162287"
+  },
+  {
+    "gageName": "TEARCOAT BRANCH AT I-95, NEAR MANNING,SC ",
+    "siteId": "021355015"
+  },
+  {
+    "gageName": "THICKETTY CREEK AT CNTY ROAD 42 NEAR GAFFNEY, SC ",
+    "siteId": "02153700"
+  },
+  {
+    "gageName": "THOMPSON CREEK AT CHESTERFIELD, SC ",
+    "siteId": "02130450"
+  },
+  {
+    "gageName": "TOOLS FORK CREEK NEAR ROCK HILL, SC ",
+    "siteId": "021473426"
+  },
+  {
+    "gageName": "TWELVE MILE CREEK AT LEXINGTON,SC ",
+    "siteId": "02168810"
+  },
+  {
+    "gageName": "TWELVEMILE CREEK NEAR LIBERTY, SC ",
+    "siteId": "02186000"
+  },
+  {
+    "gageName": "TYGER RIVER NEAR DELTA, SC ",
+    "siteId": "02160105"
+  },
+  {
+    "gageName": "TYGER RIVER NEAR WOODRUFF, S. C. ",
+    "siteId": "02159500"
+  },
+  {
+    "gageName": "UPPER THREE RUNS NEAR NEW ELLENTON, SC ",
+    "siteId": "02197300"
+  },
+  {
+    "gageName": "WACCAMAW RIVER ABOVE CONWAY, SC ",
+    "siteId": "02110550"
+  },
+  {
+    "gageName": "WANDO RIVER AT CAINHOY BELOW WANDO,SC ",
+    "siteId": "0217206962"
+  },
+  {
+    "gageName": "WILDCAT CREEK BELOW ROCK HILL, SC ",
+    "siteId": "021473428"
+  },
+  {
+    "gageName": "WILSON CREEK AT NINETY SIX,SC ",
+    "siteId": "021668000"
+  }
+]

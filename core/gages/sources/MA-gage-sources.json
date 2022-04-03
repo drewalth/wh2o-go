@@ -1,0 +1,462 @@
+[
+  {
+    "gageName": "ABERJONA RIVER AT WINCHESTER, MA ",
+    "siteId": "01102500"
+  },
+  {
+    "gageName": "ALEWIFE BROOK NEAR ARLINGTON, MA ",
+    "siteId": "01103025"
+  },
+  {
+    "gageName": "ASSABET RIVER AT MAYNARD, MA ",
+    "siteId": "01097000"
+  },
+  {
+    "gageName": "AVERY BROOK NR WHATELY, MA ",
+    "siteId": "01171000"
+  },
+  {
+    "gageName": "BEAVER BROOK, LINDEN STREET, AT WALTHAM, MA ",
+    "siteId": "01104501"
+  },
+  {
+    "gageName": "BLACKSTONE RIVER AT NORTHBRIDGE, MA ",
+    "siteId": "01110500"
+  },
+  {
+    "gageName": "BLACKSTONE RIVER, RT 122 BRIDGE NEAR UXBRIDGE, MA ",
+    "siteId": "01111212"
+  },
+  {
+    "gageName": "BLACKSTONE RIVER, W. MAIN ST., AT MILLBURY, MA ",
+    "siteId": "01109730"
+  },
+  {
+    "gageName": "CAMBRIDGE RES., UNNAMED TRIB 1, NR LEXINGTON, MA ",
+    "siteId": "01104410"
+  },
+  {
+    "gageName": "CAMBRIDGE RES., UNNAMED TRIB 2, NR LEXINGTON, MA ",
+    "siteId": "01104415"
+  },
+  {
+    "gageName": "CAMBRIDGE RES., UNNAMED TRIB 3, NR LEXINGTON, MA ",
+    "siteId": "01104420"
+  },
+  {
+    "gageName": "CHARLES RIVER AT DOVER, MA ",
+    "siteId": "01103500"
+  },
+  {
+    "gageName": "CHARLES RIVER AT FIRST ST AT CAMBRIDGE, MA ",
+    "siteId": "01104705"
+  },
+  {
+    "gageName": "CHARLES RIVER AT MEDWAY, MA ",
+    "siteId": "01103280"
+  },
+  {
+    "gageName": "CHARLES RIVER AT WALTHAM, MA ",
+    "siteId": "01104500"
+  },
+  {
+    "gageName": "CHARLES RIVER AT WELLESLEY, MA ",
+    "siteId": "01104200"
+  },
+  {
+    "gageName": "CHARLES RIVER, NEW CHARLES RIVER DAM AT BOSTON, MA ",
+    "siteId": "01104715"
+  },
+  {
+    "gageName": "CHICOPEE RIVER AT INDIAN ORCHARD, MA ",
+    "siteId": "01177000"
+  },
+  {
+    "gageName": "COCHITUATE BK BL LAKE COCHITUATE AT FRAMINGHAM, MA ",
+    "siteId": "01098500"
+  },
+  {
+    "gageName": "COLD RIVER AT FLORIDA, MA ",
+    "siteId": "01168250"
+  },
+  {
+    "gageName": "CONCORD R BELOW R MEADOW BROOK, AT LOWELL, MA ",
+    "siteId": "01099500"
+  },
+  {
+    "gageName": "CONNECTICUT R AT I-391 BRIDGE AT HOLYOKE, MA ",
+    "siteId": "01172010"
+  },
+  {
+    "gageName": "CONNECTICUT RIVER AT MONTAGUE CITY, MA ",
+    "siteId": "01170500"
+  },
+  {
+    "gageName": "CONNECTICUT RIVER NEAR NORTHFIELD, MA ",
+    "siteId": "01161280"
+  },
+  {
+    "gageName": "DEERFIELD RIVER AT CHARLEMONT, MA ",
+    "siteId": "01168500"
+  },
+  {
+    "gageName": "DEERFIELD RIVER NEAR WEST DEERFIELD, MA ",
+    "siteId": "01170000"
+  },
+  {
+    "gageName": "EAST BRANCH HOUSATONIC RIVER AT COLTSVILLE, MA ",
+    "siteId": "01197000"
+  },
+  {
+    "gageName": "EAST BRANCH NEPONSET RIVER AT CANTON, MA ",
+    "siteId": "01105500"
+  },
+  {
+    "gageName": "EAST BRANCH SWIFT RIVER NEAR HARDWICK, MA ",
+    "siteId": "01174500"
+  },
+  {
+    "gageName": "GATES BROOK NEAR WEST BOYLSTON, MA ",
+    "siteId": "01095434"
+  },
+  {
+    "gageName": "GREEN RIVER AT WILLIAMSTOWN, MA ",
+    "siteId": "01333000"
+  },
+  {
+    "gageName": "GREEN RIVER NEAR COLRAIN, MA ",
+    "siteId": "01170100"
+  },
+  {
+    "gageName": "GREEN RIVER NEAR GREAT BARRINGTON, MA ",
+    "siteId": "01198000"
+  },
+  {
+    "gageName": "HERRING R AT CHEQUESSETT NECK RD AT WELLFLEET, MA ",
+    "siteId": "011058798"
+  },
+  {
+    "gageName": "HOBBS BK BELOW CAMBRIDGE RES NR KENDALL GREEN, MA ",
+    "siteId": "01104430"
+  },
+  {
+    "gageName": "HOOSIC RIVER AT ADAMS, MA ",
+    "siteId": "01331500"
+  },
+  {
+    "gageName": "HOOSIC RIVER NEAR WILLIAMSTOWN, MA ",
+    "siteId": "01332500"
+  },
+  {
+    "gageName": "HOUSATONIC RIVER NEAR ASHLEY FALLS, MA ",
+    "siteId": "01198125"
+  },
+  {
+    "gageName": "HOUSATONIC RIVER NEAR GREAT BARRINGTON, MA ",
+    "siteId": "01197500"
+  },
+  {
+    "gageName": "IPSWICH RIVER AT SOUTH MIDDLETON, MA ",
+    "siteId": "01101500"
+  },
+  {
+    "gageName": "IPSWICH RIVER NEAR IPSWICH, MA ",
+    "siteId": "01102000"
+  },
+  {
+    "gageName": "MARSTONS MILLS RV, DS OUT. OF BOG, MARS. MILLS, MA ",
+    "siteId": "0110588332"
+  },
+  {
+    "gageName": "MERRIMACK R 0.3 MILES U.S.RT 125 AT HAVERHILL,MA ",
+    "siteId": "01100693"
+  },
+  {
+    "gageName": "MERRIMACK RIVER AT LAWRENCE, MA ",
+    "siteId": "01100500"
+  },
+  {
+    "gageName": "MERRIMACK RIVER AT NEWBURYPORT, MA ",
+    "siteId": "01100870"
+  },
+  {
+    "gageName": "MERRIMACK RIVER BL CONCORD RIVER AT LOWELL, MA ",
+    "siteId": "01100000"
+  },
+  {
+    "gageName": "MILLERS RIVER AT ERVING, MA ",
+    "siteId": "01166500"
+  },
+  {
+    "gageName": "MILLERS RIVER NEAR WINCHENDON, MA ",
+    "siteId": "01162000"
+  },
+  {
+    "gageName": "MILL RIVER AT NORTHAMPTON, MA ",
+    "siteId": "01171500"
+  },
+  {
+    "gageName": "MILL RIVER AT SPRING STREET AT TAUNTON, MA ",
+    "siteId": "01108410"
+  },
+  {
+    "gageName": "MONATIQUOT RIVER AT EAST BRAINTREE, MA ",
+    "siteId": "01105583"
+  },
+  {
+    "gageName": "MOTHER BROOK AT DEDHAM, MA ",
+    "siteId": "01104000"
+  },
+  {
+    "gageName": "MUDDY RIVER AT BROOKLINE, MA ",
+    "siteId": "01104683"
+  },
+  {
+    "gageName": "MYSTIC R AT AMELIA EARHART DAM NR SOMERVILLE, MA ",
+    "siteId": "01103050"
+  },
+  {
+    "gageName": "NASHOBA BROOK NEAR ACTON, MA ",
+    "siteId": "01097300"
+  },
+  {
+    "gageName": "NASHUA RIVER AT EAST PEPPERELL, MA ",
+    "siteId": "01096500"
+  },
+  {
+    "gageName": "NASHUA RIVER, WATER STREET BRIDGE, AT CLINTON, MA ",
+    "siteId": "01095503"
+  },
+  {
+    "gageName": "NEPONSET RIVER AT GREENLODGE ST NEAR CANTON, MA ",
+    "siteId": "01105554"
+  },
+  {
+    "gageName": "NEPONSET RIVER AT MILTON VILLAGE, MA ",
+    "siteId": "011055566"
+  },
+  {
+    "gageName": "NEPONSET RIVER AT NORWOOD, MA ",
+    "siteId": "01105000"
+  },
+  {
+    "gageName": "NORTH NASHUA RIVER AT FITCHBURG, MA ",
+    "siteId": "01094400"
+  },
+  {
+    "gageName": "NORTH NASHUA RIVER NEAR LEOMINSTER, MA ",
+    "siteId": "01094500"
+  },
+  {
+    "gageName": "NORTH RIVER AT SHATTUCKVILLE, MA ",
+    "siteId": "01169000"
+  },
+  {
+    "gageName": "OLD SWAMP RIVER NEAR SOUTH WEYMOUTH, MA ",
+    "siteId": "01105600"
+  },
+  {
+    "gageName": "OTTER RIVER AT OTTER RIVER, MA ",
+    "siteId": "01163200"
+  },
+  {
+    "gageName": "PARKER RIVER AT BYFIELD, MA ",
+    "siteId": "01101000"
+  },
+  {
+    "gageName": "PONKAPOAG BRK UPSTREAM RT 138,NR CANTON, MA ",
+    "siteId": "011055525"
+  },
+  {
+    "gageName": "POPPONESSET BAY, MASHPEE NECK RD, NEAR MASHPEE, MA ",
+    "siteId": "413601070275800"
+  },
+  {
+    "gageName": "PRIEST BROOK NEAR WINCHENDON, MA ",
+    "siteId": "01162500"
+  },
+  {
+    "gageName": "PROVINCETOWN TIDE GAGE, PROVINCETOWN, MA ",
+    "siteId": "420259070105600"
+  },
+  {
+    "gageName": "QUABOAG RIVER AT WEST BRIMFIELD, MA ",
+    "siteId": "01176000"
+  },
+  {
+    "gageName": "QUASHNET R. 0.6 MI DS OF JOHNS POND NR MASHPEE, MA ",
+    "siteId": "0110588364"
+  },
+  {
+    "gageName": "QUINAPOXET RIVER AT CANADA MILLS NEAR HOLDEN, MA ",
+    "siteId": "01095375"
+  },
+  {
+    "gageName": "QUINEBAUG R BL E BRIMFIELD DAM AT FISKDALE, MA ",
+    "siteId": "01123360"
+  },
+  {
+    "gageName": "QUINEBAUG R BL WESTVILLE DAM NR SOUTHBRIDGE, MA ",
+    "siteId": "01123600"
+  },
+  {
+    "gageName": "QUINSIGAMOND RIVER AT NORTH GRAFTON, MA ",
+    "siteId": "01110000"
+  },
+  {
+    "gageName": "SANTUIT RIVER AT OLD KINGS ROAD AT SANTUIT, MA ",
+    "siteId": "0110588340"
+  },
+  {
+    "gageName": "SAUGUS RIVER AT SAUGUS IRONWORKS AT SAUGUS, MA ",
+    "siteId": "01102345"
+  },
+  {
+    "gageName": "SEGREGANSET RIVER NEAR DIGHTON, MA ",
+    "siteId": "01109070"
+  },
+  {
+    "gageName": "SESUIT HARBOR TIDE GAGE AT DENNIS, MA ",
+    "siteId": "414507070091400"
+  },
+  {
+    "gageName": "SEVENMILE RIVER NEAR SPENCER, MA ",
+    "siteId": "01175670"
+  },
+  {
+    "gageName": "SHAWSHEEN RIVER AT BALMORAL STREET AT ANDOVER, MA ",
+    "siteId": "01100627"
+  },
+  {
+    "gageName": "SHAWSHEEN RIVER AT HANSCOM FIELD NEAR BEDFORD, MA ",
+    "siteId": "01100568"
+  },
+  {
+    "gageName": "SHAWSHEEN RIVER NEAR WILMINGTON, MA ",
+    "siteId": "01100600"
+  },
+  {
+    "gageName": "SOUTH RIVER NEAR CONWAY, MA ",
+    "siteId": "01169900"
+  },
+  {
+    "gageName": "SPICKET RIVER NEAR METHUEN, MA ",
+    "siteId": "01100561"
+  },
+  {
+    "gageName": "SQUANNACOOK RIVER NEAR WEST GROTON, MA ",
+    "siteId": "01096000"
+  },
+  {
+    "gageName": "STILLWATER RIVER NEAR STERLING, MA ",
+    "siteId": "01095220"
+  },
+  {
+    "gageName": "STONY BROOK AT RT 20 AT WALTHAM, MA ",
+    "siteId": "01104460"
+  },
+  {
+    "gageName": "STONY BROOK AT VILES STREET, NEAR WESTON, MA ",
+    "siteId": "01104370"
+  },
+  {
+    "gageName": "STONY BROOK RESERVOIR AT DAM NEAR WALTHAM, MA ",
+    "siteId": "01104480"
+  },
+  {
+    "gageName": "STONY BROOK RES., UNNAMED TRIB 1, NEAR WESTON, MA ",
+    "siteId": "01104475"
+  },
+  {
+    "gageName": "STONY BROOK, UNNAMED TRIBUTARY 1, NEAR WALTHAM, MA ",
+    "siteId": "01104455"
+  },
+  {
+    "gageName": "SUDBURY RIVER AT SAXONVILLE, MA ",
+    "siteId": "01098530"
+  },
+  {
+    "gageName": "SWIFT RIVER AT WEST WARE, MA ",
+    "siteId": "01175500"
+  },
+  {
+    "gageName": "TAUNTON RIVER NEAR BRIDGEWATER, MA ",
+    "siteId": "01108000"
+  },
+  {
+    "gageName": "TEN MILE R., PAWTUCKET AVE. AT E. PROVIDENCE, RI ",
+    "siteId": "01109403"
+  },
+  {
+    "gageName": "THREEMILE RIVER AT NORTH DIGHTON, MA ",
+    "siteId": "01109060"
+  },
+  {
+    "gageName": "TOWN BROOK AT DIVERSION TUNNEL AT QUINCY, MA ",
+    "siteId": "01105584"
+  },
+  {
+    "gageName": "TOWN BROOK AT QUINCY, MA ",
+    "siteId": "01105585"
+  },
+  {
+    "gageName": "TROUT BROOK AT DOVER, MA ",
+    "siteId": "01103455"
+  },
+  {
+    "gageName": "WADING RIVER NEAR NORTON, MA ",
+    "siteId": "01109000"
+  },
+  {
+    "gageName": "WARE RIVER AT GIBBS CROSSING, MA ",
+    "siteId": "01173500"
+  },
+  {
+    "gageName": "WARE RIVER AT INTAKE WORKS NEAR BARRE, MA ",
+    "siteId": "01173000"
+  },
+  {
+    "gageName": "WARE RIVER NEAR BARRE, MA ",
+    "siteId": "01172500"
+  },
+  {
+    "gageName": "WEIR RIVER AT LEAVITT STREET AT HINGHAM, MA ",
+    "siteId": "01105638"
+  },
+  {
+    "gageName": "WEST BRANCH FARMINGTON RIVER NEAR NEW BOSTON, MA ",
+    "siteId": "01185500"
+  },
+  {
+    "gageName": "WEST BRANCH SWIFT RIVER NEAR SHUTESBURY, MA ",
+    "siteId": "01174565"
+  },
+  {
+    "gageName": "WEST BRANCH WESTFIELD RIVER AT HUNTINGTON, MA ",
+    "siteId": "01181000"
+  },
+  {
+    "gageName": "WEST BROOK NR WHATELY, MA ",
+    "siteId": "01171100"
+  },
+  {
+    "gageName": "WESTFIELD RIVER AT KNIGHTVILLE, MA ",
+    "siteId": "01179500"
+  },
+  {
+    "gageName": "WESTFIELD RIVER NEAR WESTFIELD, MA ",
+    "siteId": "01183500"
+  },
+  {
+    "gageName": "WHITMANS POND FISH LADDER AT EAST WEYMOUTH, MA ",
+    "siteId": "01105608"
+  },
+  {
+    "gageName": "WHITMANS POND FLOOD BY-PASS AT EAST WEYMOUTH, MA ",
+    "siteId": "01105607"
+  },
+  {
+    "gageName": "WHITMANS POND, WHITMANS POND DAM AT E. WEYMOUTH,MA ",
+    "siteId": "01105606"
+  }
+]

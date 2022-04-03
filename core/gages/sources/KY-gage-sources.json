@@ -1,0 +1,734 @@
+[
+  {
+    "gageName": "BACON CREEK NEAR PRICEVILLE, KY ",
+    "siteId": "03310400"
+  },
+  {
+    "gageName": "BANKLICK CREEK @ HIGHWAY 1829 NR ERLANGER, KY ",
+    "siteId": "03254550"
+  },
+  {
+    "gageName": "BARREN RIVER AT BOWLING GREEN, KY ",
+    "siteId": "03314500"
+  },
+  {
+    "gageName": "BARREN RIVER LAKE NEAR FINNEY, KY ",
+    "siteId": "03312900"
+  },
+  {
+    "gageName": "BARREN RIVER NEAR FINNEY, KY ",
+    "siteId": "03313000"
+  },
+  {
+    "gageName": "BEARGRASS CREEK AT RIVER ROAD AT LOUISVILLE, KY ",
+    "siteId": "03293510"
+  },
+  {
+    "gageName": "BEAVER CREEK NEAR MONTICELLO, KY ",
+    "siteId": "03413200"
+  },
+  {
+    "gageName": "BEECH FORK AT BARDSTOWN, KY ",
+    "siteId": "03301000"
+  },
+  {
+    "gageName": "BEECH FORK AT MAUD, KY ",
+    "siteId": "03300400"
+  },
+  {
+    "gageName": "BIG SANDY R AT LOUISA, KY ",
+    "siteId": "03215000"
+  },
+  {
+    "gageName": "BLAINE CREEK NEAR BLAINE, KY ",
+    "siteId": "03215410"
+  },
+  {
+    "gageName": "BRIER CREEK AT PENDELTON ROAD NEAR LOUISVILLE, KY ",
+    "siteId": "03302050"
+  },
+  {
+    "gageName": "BUCK CREEK NEAR SHOPVILLE, KY ",
+    "siteId": "03407500"
+  },
+  {
+    "gageName": "BUCKHORN LAKE AT BUCKHORN, KY ",
+    "siteId": "03280800"
+  },
+  {
+    "gageName": "CANE RUN CREEK AT CITATION BLVD NR LEXINGTON, KY ",
+    "siteId": "03288180"
+  },
+  {
+    "gageName": "CANEY CREEK NEAR HORSE BRANCH, KY ",
+    "siteId": "03318800"
+  },
+  {
+    "gageName": "CARR CREEK LAKE NEAR SASSAFRAS, KY ",
+    "siteId": "03277446"
+  },
+  {
+    "gageName": "CARR FORK NEAR SASSAFRAS, KY ",
+    "siteId": "03277450"
+  },
+  {
+    "gageName": "CAVE RUN LAKE NEAR FARMERS, KY ",
+    "siteId": "03249498"
+  },
+  {
+    "gageName": "CEDAR CREEK AT HWY 1442 NEAR SHEPHERDSVILLE, KY ",
+    "siteId": "03297800"
+  },
+  {
+    "gageName": "CEDAR CREEK AT THIXTON ROAD NEAR LOUISVILLE, KY ",
+    "siteId": "03298250"
+  },
+  {
+    "gageName": "CHENOWETH RUN AT GELHAUS LANE NEAR FERN CREEK, KY ",
+    "siteId": "03298150"
+  },
+  {
+    "gageName": "CHENOWETH RUN AT RUCKRIEGAL PARKWAY, KY ",
+    "siteId": "03298135"
+  },
+  {
+    "gageName": "CLARKS RIVER AT MURRAY, KY ",
+    "siteId": "03610000"
+  },
+  {
+    "gageName": "CLEAR FORK AT SAXTON, KY ",
+    "siteId": "03403910"
+  },
+  {
+    "gageName": "CROCUS CREEK NEAR AMANDAVILLE, KY ",
+    "siteId": "03414078"
+  },
+  {
+    "gageName": "CRUISES CREEK AT HWY 17 NR PINER, KY ",
+    "siteId": "03254480"
+  },
+  {
+    "gageName": "CUMBERLAND R AT PINE ST BR AT PINEVILLE, KY ",
+    "siteId": "03402900"
+  },
+  {
+    "gageName": "CUMBERLAND RIVER AT BARBOURVILLE, KY ",
+    "siteId": "03403500"
+  },
+  {
+    "gageName": "CUMBERLAND RIVER AT BURKESVILLE, KY ",
+    "siteId": "03414100"
+  },
+  {
+    "gageName": "CUMBERLAND RIVER AT CUMBERLAND FALLS, KY ",
+    "siteId": "03404500"
+  },
+  {
+    "gageName": "CUMBERLAND RIVER AT WILLIAMSBURG, KY ",
+    "siteId": "03404000"
+  },
+  {
+    "gageName": "CUMBERLAND RIVER NEAR HARLAN, KY ",
+    "siteId": "03401000"
+  },
+  {
+    "gageName": "CUMBERLAND RIVER NEAR ROWENA, KY ",
+    "siteId": "03414000"
+  },
+  {
+    "gageName": "CUTSHIN CREEK AT WOOTON, KY ",
+    "siteId": "03280700"
+  },
+  {
+    "gageName": "DIX RIVER AT DIX DAM NEAR BURGIN, KY ",
+    "siteId": "03286200"
+  },
+  {
+    "gageName": "DIX RIVER NEAR DANVILLE, KY ",
+    "siteId": "03285000"
+  },
+  {
+    "gageName": "DRAKES CREEK NEAR ALVATON, KY ",
+    "siteId": "03314000"
+  },
+  {
+    "gageName": "DRY CREEK AT SEWAGE PLANT NEAR ERLANGER, KY ",
+    "siteId": "03260050"
+  },
+  {
+    "gageName": "EAGLE CREEK AT GLENCOE, KY ",
+    "siteId": "03291500"
+  },
+  {
+    "gageName": "EAGLE CREEK AT SADIEVILLE, KY ",
+    "siteId": "03291000"
+  },
+  {
+    "gageName": "EAST HICKMAN CR AT TATES CR RD NR EAST HICKMAN, KY ",
+    "siteId": "03284533"
+  },
+  {
+    "gageName": "E HICKMAN CR TRIB AT CHILESBURG RD NR LEXINGTON,KY ",
+    "siteId": "03284525"
+  },
+  {
+    "gageName": "ELIJAHS CREEK @ ELIJAHS CREEK RD NR HEBRON, KY ",
+    "siteId": "03260100"
+  },
+  {
+    "gageName": "ELKHORN CREEK NEAR FRANKFORT, KY ",
+    "siteId": "03289500"
+  },
+  {
+    "gageName": "FERN CREEK AT OLD BARDSTOWN RD AT LOUISVILLE, KY ",
+    "siteId": "03301900"
+  },
+  {
+    "gageName": "FLOYDS FORK AT FISHERVILLE, KY ",
+    "siteId": "03298000"
+  },
+  {
+    "gageName": "FLOYDS FORK NEAR MT WASHINGTON, KY ",
+    "siteId": "03298200"
+  },
+  {
+    "gageName": "FLOYDS FORK NEAR PEWEE VALLEY, KY ",
+    "siteId": "03297900"
+  },
+  {
+    "gageName": "FLOYDS FORK NEAR SHEPHERDSVILLE, KY ",
+    "siteId": "03298470"
+  },
+  {
+    "gageName": "FOUR MILE CREEK AT HWY 8 AT SILVER GROVE, KY ",
+    "siteId": "03238798"
+  },
+  {
+    "gageName": "FOURMILE CREEK AT POPLAR RIDGE RD NR ALEXANDRIA,KY ",
+    "siteId": "03238772"
+  },
+  {
+    "gageName": "FOUR MILE CREEK @ GRAYS CROSSING @ SILVER GROVE,KY ",
+    "siteId": "03238785"
+  },
+  {
+    "gageName": "GOOSE CREEK AT MANCHESTER, KY ",
+    "siteId": "03281100"
+  },
+  {
+    "gageName": "GOOSE CREEK AT OLD WESTPORT RD NR ST MATTHEWS, KY ",
+    "siteId": "03292474"
+  },
+  {
+    "gageName": "GOOSE CREEK AT US HWY 42 NEAR GLENVIEW ACRES, KY ",
+    "siteId": "03292475"
+  },
+  {
+    "gageName": "GRAPEVINE CREEK NEAR PHYLLIS, KY ",
+    "siteId": "03207965"
+  },
+  {
+    "gageName": "GRAYSON LAKE NEAR LEON, KY ",
+    "siteId": "03216300"
+  },
+  {
+    "gageName": "GREEN RIVER AT LOCK 1 AT SPOTTSVILLE, KY ",
+    "siteId": "03321500"
+  },
+  {
+    "gageName": "GREEN RIVER AT MUNFORDVILLE, KY ",
+    "siteId": "03308500"
+  },
+  {
+    "gageName": "GREEN RIVER AT WATER PLANT AT BROWNSVILLE, KY ",
+    "siteId": "03311505"
+  },
+  {
+    "gageName": "GREEN RIVER LAKE NEAR CAMPBELLSVILLE, KY ",
+    "siteId": "03305990"
+  },
+  {
+    "gageName": "GREEN RIVER NEAR MCKINNEY, KY ",
+    "siteId": "03305000"
+  },
+  {
+    "gageName": "GUNPOWDER CR AT CAMP ERNST RD NR UNION, KY ",
+    "siteId": "03277075"
+  },
+  {
+    "gageName": "HARRODS CREEK AT HIGHWAY 329 NR GOSHEN, KY. ",
+    "siteId": "03292470"
+  },
+  {
+    "gageName": "HOUSTON CREEK AT HWY 27 NEAR PARIS, KY ",
+    "siteId": "03251980"
+  },
+  {
+    "gageName": "HUMPHREY CR AT LACENTER, KY ",
+    "siteId": "03613000"
+  },
+  {
+    "gageName": "KENTUCKY RIVER AT LOCK 11 NEAR COLLEGE HILL, KY ",
+    "siteId": "03282290"
+  },
+  {
+    "gageName": "KENTUCKY RIVER AT LOCK 12 NEAR IRVINE, KY ",
+    "siteId": "03282120"
+  },
+  {
+    "gageName": "KENTUCKY RIVER AT LOCK 13 NEAR WILLOW SHOALS, KY ",
+    "siteId": "03282060"
+  },
+  {
+    "gageName": "KENTUCKY RIVER AT LOCK 14 AT HEIDELBERG, KY ",
+    "siteId": "03282000"
+  },
+  {
+    "gageName": "KENTUCKY RIVER AT LOCK 1 NEAR CARROLLTON, KY ",
+    "siteId": "03291585"
+  },
+  {
+    "gageName": "KENTUCKY RIVER AT LOCK 2 AT LOCKPORT, KY ",
+    "siteId": "03290500"
+  },
+  {
+    "gageName": "KENTUCKY RIVER AT LOCK 3 AT GEST, KY ",
+    "siteId": "03290080"
+  },
+  {
+    "gageName": "KENTUCKY RIVER AT LOCK 4 AT FRANKFORT, KY ",
+    "siteId": "03287500"
+  },
+  {
+    "gageName": "KENTUCKY RIVER AT LOCK 5 NEAR TYRONE, KY ",
+    "siteId": "03287250"
+  },
+  {
+    "gageName": "KENTUCKY RIVER AT LOCK 6 NEAR SALVISA, KY ",
+    "siteId": "03287000"
+  },
+  {
+    "gageName": "KENTUCKY RIVER AT LOCK 7 AT HIGHBRIDGE, KY ",
+    "siteId": "03286500"
+  },
+  {
+    "gageName": "KENTUCKY RIVER AT LOCK 8 NEAR CAMP NELSON, KY ",
+    "siteId": "03284500"
+  },
+  {
+    "gageName": "KENTUCKY RIVER AT LOCK 9 AT VALLEY VIEW, KY ",
+    "siteId": "03284230"
+  },
+  {
+    "gageName": "LAUREL RIVER AT MUNICIPAL DAM NEAR CORBIN, KY ",
+    "siteId": "03404820"
+  },
+  {
+    "gageName": "LEVISA FORK BELOW FISHTRAP DAM NEAR MILLARD, KY ",
+    "siteId": "03208000"
+  },
+  {
+    "gageName": "LICKING RIVER AT BLUE LICK SPRINGS, KY ",
+    "siteId": "03250500"
+  },
+  {
+    "gageName": "LICKING RIVER AT CATAWBA, KY ",
+    "siteId": "03253500"
+  },
+  {
+    "gageName": "LICKING RIVER AT FARMERS, KY ",
+    "siteId": "03249500"
+  },
+  {
+    "gageName": "LICKING RIVER AT HWY 536 NEAR ALEXANDRIA, KY ",
+    "siteId": "03254520"
+  },
+  {
+    "gageName": "LICKING RIVER AT HWY 60 AT FARMERS, KY ",
+    "siteId": "03249505"
+  },
+  {
+    "gageName": "LICKING RIVER AT MCKINNEYSBURG, KY ",
+    "siteId": "03251500"
+  },
+  {
+    "gageName": "LICKING RIVER BELOW MASON FORK NR SALYERSVILLE, KY ",
+    "siteId": "03248300"
+  },
+  {
+    "gageName": "LITTLE GOOSE CREEK NEAR HARRODS CREEK, KY ",
+    "siteId": "03292480"
+  },
+  {
+    "gageName": "LITTLE SANDY RIVER AT GRAYSON, KY ",
+    "siteId": "03216500"
+  },
+  {
+    "gageName": "LITTLE SANDY RIVER BELOW GRAYSON DAM NEAR LEON, KY ",
+    "siteId": "03216350"
+  },
+  {
+    "gageName": "LONG LICK AT CLERMONT, KY ",
+    "siteId": "03298550"
+  },
+  {
+    "gageName": "LYNN CAMP CREEK AT CORBIN, KY ",
+    "siteId": "03404900"
+  },
+  {
+    "gageName": "MARTINS FORK ABOVE SMITH, KY ",
+    "siteId": "03400785"
+  },
+  {
+    "gageName": "MARTINS FORK LK AT MARTINS FK DAM NR SMITH, KY ",
+    "siteId": "03400798"
+  },
+  {
+    "gageName": "MARTIN&#039;S FORK NEAR HARLAN, KY ",
+    "siteId": "03400986"
+  },
+  {
+    "gageName": "MARTINS FORK NEAR SMITH, KY ",
+    "siteId": "03400800"
+  },
+  {
+    "gageName": "M FK BEARGRASS CR AT LEXINGTON RD AT LOUISVILLE,KY ",
+    "siteId": "03293500"
+  },
+  {
+    "gageName": "M FK BEARGRASS CR AT OLD CANNONS LN AT LOUISVILLE, ",
+    "siteId": "03293000"
+  },
+  {
+    "gageName": "MIDDLE FORK KENTUCKY RIVER AT HWY 2431 AT HYDEN,KY ",
+    "siteId": "03280612"
+  },
+  {
+    "gageName": "MIDDLE FORK KENTUCKY RIVER AT TALLEGA, KY ",
+    "siteId": "03281000"
+  },
+  {
+    "gageName": "MILL CREEK AT ORELL ROAD NEAR LOUISVILLE, KY ",
+    "siteId": "03294570"
+  },
+  {
+    "gageName": "MILL CREEK CUTOFF NEAR LOUISVILLE, KY ",
+    "siteId": "03294550"
+  },
+  {
+    "gageName": "MUDDY FK AT MOCKINGBIRD VALLEY RD AT LOUISVILLE,KY ",
+    "siteId": "03293530"
+  },
+  {
+    "gageName": "MUD LICK CR AT HWY 42 NR BEAVERLICK, KY ",
+    "siteId": "03277130"
+  },
+  {
+    "gageName": "N ELKHORN CR AT BRYAN STATION RD AT MONTROSE, KY ",
+    "siteId": "03287600"
+  },
+  {
+    "gageName": "N ELKHORN CR AT WINCHESTER RD NR LEXINGTON, KY ",
+    "siteId": "03287590"
+  },
+  {
+    "gageName": "N FK LITTLE R AT WATER PLANT AT HOPKINSVILLE, KY ",
+    "siteId": "03437370"
+  },
+  {
+    "gageName": "NOLIN LAKE NEAR KYROCK, KY ",
+    "siteId": "03310900"
+  },
+  {
+    "gageName": "NORTH ELKHORN CREEK AT GEORGETOWN, KY ",
+    "siteId": "03288100"
+  },
+  {
+    "gageName": "NORTHERN DITCH AT OKOLONA, KY ",
+    "siteId": "03301940"
+  },
+  {
+    "gageName": "NORTH FORK KENTUCKY RIVER AT HAZARD, KY ",
+    "siteId": "03277500"
+  },
+  {
+    "gageName": "NORTH FORK KENTUCKY RIVER AT JACKSON, KY ",
+    "siteId": "03280000"
+  },
+  {
+    "gageName": "NORTH FORK KENTUCKY RIVER AT WHITESBURG, KY ",
+    "siteId": "03277300"
+  },
+  {
+    "gageName": "NORTH FORK LICKING RIVER NEAR MT OLIVET, KY ",
+    "siteId": "03251200"
+  },
+  {
+    "gageName": "NORTH FORK NOLIN RIVER AT HODGENVILLE, KY ",
+    "siteId": "03310000"
+  },
+  {
+    "gageName": "NORTH FORK TRIPLETT CREEK NEAR MOREHEAD, KY ",
+    "siteId": "03250100"
+  },
+  {
+    "gageName": "OHIO RIVER AT ASHLAND, KY ",
+    "siteId": "03216000"
+  },
+  {
+    "gageName": "OHIO RIVER AT GREENUP DAM NEAR GREENUP, KY ",
+    "siteId": "03216600"
+  },
+  {
+    "gageName": "OHIO RIVER AT KOSMOSDALE, KY ",
+    "siteId": "03294600"
+  },
+  {
+    "gageName": "OHIO RIVER AT LOUISVILLE, KY ",
+    "siteId": "03294500"
+  },
+  {
+    "gageName": "OHIO RIVER AT MARKLAND DAM NEAR WARSAW, KY ",
+    "siteId": "03277200"
+  },
+  {
+    "gageName": "OHIO RIVER AT MAYSVILLE, KY ",
+    "siteId": "03238000"
+  },
+  {
+    "gageName": "OHIO RIVER AT SMITHLAND DAM, SMITHLAND, KY ",
+    "siteId": "03399800"
+  },
+  {
+    "gageName": "OHIO RIVER AT WATER TOWER AT LOUISVILLE, KY ",
+    "siteId": "03292494"
+  },
+  {
+    "gageName": "OHIO R US OF MCALPINE DAM @ RRB AT LOUISVILLE, KY ",
+    "siteId": "03293551"
+  },
+  {
+    "gageName": "PENNSLYVANIA RUN AT MT WASHINGTON RD NR LOUISVILLE ",
+    "siteId": "03298300"
+  },
+  {
+    "gageName": "PLEASANT RUN CREEK AT OAK STREET NEAR LUDLOW, KY ",
+    "siteId": "03260015"
+  },
+  {
+    "gageName": "POND CREEK AT PENDLETON ROAD NEAR LOUISVILLE, KY ",
+    "siteId": "03302030"
+  },
+  {
+    "gageName": "POND CREEK NEAR LOUISVILLE, KY ",
+    "siteId": "03302000"
+  },
+  {
+    "gageName": "POOR FORK AT CUMBERLAND, KY ",
+    "siteId": "03400500"
+  },
+  {
+    "gageName": "RED RIVER AT CLAY CITY, KY ",
+    "siteId": "03283500"
+  },
+  {
+    "gageName": "RED RIVER AT DOT, KY ",
+    "siteId": "03435105"
+  },
+  {
+    "gageName": "RED RIVER NEAR HAZEL GREEN, KY ",
+    "siteId": "03282500"
+  },
+  {
+    "gageName": "ROCKCASTLE RIVER AT BILLOWS, KY ",
+    "siteId": "03406500"
+  },
+  {
+    "gageName": "ROCK LICK CR AT STATE HWY 158 NR SHARKEY, KY STA D ",
+    "siteId": "03250322"
+  },
+  {
+    "gageName": "Rolling Fork at HWY 208 at Calvary, KY ",
+    "siteId": "03298940"
+  },
+  {
+    "gageName": "ROLLING FORK AT NEW HAVEN, KY ",
+    "siteId": "03299500"
+  },
+  {
+    "gageName": "ROLLING FORK NEAR BOSTON, KY ",
+    "siteId": "03301500"
+  },
+  {
+    "gageName": "ROLLING FORK NEAR LEBANON JUNCTION, KY ",
+    "siteId": "03301630"
+  },
+  {
+    "gageName": "ROUGH RIVER AT HARTFORD, KY ",
+    "siteId": "03319600"
+  },
+  {
+    "gageName": "ROUGH RIVER DAM LAKESIDE STATION 1A ",
+    "siteId": "373705086301002"
+  },
+  {
+    "gageName": "ROUGH RIVER DAM LAKESIDE STATION 1B ",
+    "siteId": "373705086301003"
+  },
+  {
+    "gageName": "ROUGH RIVER DAM TAILWATER STATION 2B ",
+    "siteId": "373713086295603"
+  },
+  {
+    "gageName": "ROUGH RIVER DAM TAILWATER STATION 2C ",
+    "siteId": "373713086295604"
+  },
+  {
+    "gageName": "ROUGH RIVER LAKE NEAR FALLS OF ROUGH, KY ",
+    "siteId": "03318005"
+  },
+  {
+    "gageName": "ROUGH RIVER NEAR DUNDEE, KY ",
+    "siteId": "03319000"
+  },
+  {
+    "gageName": "ROUGH RIVER NEAR FALLS OF ROUGH AT DAM, KY ",
+    "siteId": "03318010"
+  },
+  {
+    "gageName": "ROYAL SPRINGS AT GEORGETOWN, KY ",
+    "siteId": "03288110"
+  },
+  {
+    "gageName": "RUSSELL FORK AT CEDARVILLE, KY ",
+    "siteId": "03209410"
+  },
+  {
+    "gageName": "SALT RIVER AT GLENSBORO, KY ",
+    "siteId": "03295400"
+  },
+  {
+    "gageName": "SALT RIVER AT MOUTH AT WEST POINT, KY ",
+    "siteId": "03302060"
+  },
+  {
+    "gageName": "SALT RIVER AT SHEPHERDSVILLE, KY ",
+    "siteId": "03298500"
+  },
+  {
+    "gageName": "Sand Run at Thornwilde Dr at Francisville, KY ",
+    "siteId": "03260270"
+  },
+  {
+    "gageName": "S FK BEARGRASS CR @ E BRECKINRIDGE ST @ LOUISVILLE ",
+    "siteId": "03292555"
+  },
+  {
+    "gageName": "S FK LITTLE R AT HWY 68 BY-PASS AT HOPKINSVILLE,KY ",
+    "siteId": "03437495"
+  },
+  {
+    "gageName": "S FK LITTLE RIVER AT HWY 68/80 NR HOPKINSVILLE, KY ",
+    "siteId": "03437480"
+  },
+  {
+    "gageName": "SLATE CREEK AT HIGHWAY 713 NR MT. STERLING, KY ",
+    "siteId": "03250190"
+  },
+  {
+    "gageName": "SOUTH ELKHORN CREEK AT FORT SPRING, KY ",
+    "siteId": "03289000"
+  },
+  {
+    "gageName": "SOUTH FORK BEARGRASS CREEK AT LOUISVILLE, KY ",
+    "siteId": "03292500"
+  },
+  {
+    "gageName": "SOUTH FORK CUMBERLAND RIVER NEAR STEARNS, KY ",
+    "siteId": "03410500"
+  },
+  {
+    "gageName": "SOUTH FORK KENTUCKY RIVER AT BOONEVILLE, KY ",
+    "siteId": "03281500"
+  },
+  {
+    "gageName": "SOUTH FORK LICKING RIVER AT HAYES, KY ",
+    "siteId": "03253000"
+  },
+  {
+    "gageName": "SOUTH FORK LITTLE RIVER AT HOPKINSVILLE, KY ",
+    "siteId": "03437500"
+  },
+  {
+    "gageName": "SOUTH FORK PANTHER CREEK NEAR WHITESVILLE, KY ",
+    "siteId": "03321350"
+  },
+  {
+    "gageName": "STONER CREEK AT WATER PLANT AT PARIS, KY ",
+    "siteId": "03251900"
+  },
+  {
+    "gageName": "STURGEON CREEK AT CRESSMONT, KY ",
+    "siteId": "03282040"
+  },
+  {
+    "gageName": "TAYLOR CREEK AT DONNERMEYER DRIVE AT BELLEVUE, KY ",
+    "siteId": "03238140"
+  },
+  {
+    "gageName": "TAYLORSVILLE LAKE NEAR TAYLORSVILLE, KY ",
+    "siteId": "03295597"
+  },
+  {
+    "gageName": "THREEMILE CREEK AT THREE MILE ROAD AT COVINGTON,KY ",
+    "siteId": "03254693"
+  },
+  {
+    "gageName": "TOWN BRANCH AT YARNALLTON ROAD AT YARNALLTON, KY ",
+    "siteId": "03289200"
+  },
+  {
+    "gageName": "TRACE BR AT TRACE BR CAMPGROUND AT CONFLUENCE, KY ",
+    "siteId": "03280790"
+  },
+  {
+    "gageName": "TRIB TO CANE RUN CR AT NEWTOWN PK NR LEXINGTON, KY ",
+    "siteId": "03288190"
+  },
+  {
+    "gageName": "TUG FORK AT KERMIT, WV ",
+    "siteId": "03214500"
+  },
+  {
+    "gageName": "TUG FORK AT WILLIAMSON, WV ",
+    "siteId": "03213700"
+  },
+  {
+    "gageName": "TWELVEMILE CREEK AT HIGHWAY 1997 NR ALEXANDRIA, KY ",
+    "siteId": "03238745"
+  },
+  {
+    "gageName": "TYGARTS CREEK AT LAWTON RD AT OLIVE HILL,KY ",
+    "siteId": "03216777"
+  },
+  {
+    "gageName": "TYGARTS CREEK NEAR GREENUP, KY ",
+    "siteId": "03217000"
+  },
+  {
+    "gageName": "WEST FORK DRAKES CREEK NEAR FRANKLIN, KY ",
+    "siteId": "03313700"
+  },
+  {
+    "gageName": "WEST HICKMAN CR AT VETERANS PARK NR LEXINGTON, KY ",
+    "siteId": "03284552"
+  },
+  {
+    "gageName": "WOLF RUN AT OLD FRANKFORT PIKE AT LEXINGTON, KY ",
+    "siteId": "03289193"
+  },
+  {
+    "gageName": "WOOLPER CREEK AT WOOLPER ROAD NEAR BURLINGTON, KY ",
+    "siteId": "03262001"
+  }
+]

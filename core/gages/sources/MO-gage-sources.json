@@ -1,0 +1,722 @@
+[
+  {
+    "gageName": "Adair Creek at Independence, MO ",
+    "siteId": "06893830"
+  },
+  {
+    "gageName": "Auxvasse Creek near Reform, MO ",
+    "siteId": "06927240"
+  },
+  {
+    "gageName": "Bear Creek at Hannibal, MO ",
+    "siteId": "05502000"
+  },
+  {
+    "gageName": "Beaver Creek at Bradleyville, MO ",
+    "siteId": "07054080"
+  },
+  {
+    "gageName": "Big Creek at Sam A Baker State Park, MO ",
+    "siteId": "07037300"
+  },
+  {
+    "gageName": "Big River at Byrnesville, MO ",
+    "siteId": "07018500"
+  },
+  {
+    "gageName": "Big River at Irondale, MO ",
+    "siteId": "07017200"
+  },
+  {
+    "gageName": "Big River below Bonne Terre, MO ",
+    "siteId": "07017610"
+  },
+  {
+    "gageName": "Big River below Desloge, MO ",
+    "siteId": "07017260"
+  },
+  {
+    "gageName": "Big River near Richwoods, MO ",
+    "siteId": "07018100"
+  },
+  {
+    "gageName": "Big Spring near Van Buren, MO ",
+    "siteId": "07067500"
+  },
+  {
+    "gageName": "Big Sugar Creek near Powell, MO ",
+    "siteId": "07188653"
+  },
+  {
+    "gageName": "Black Creek near Brentwood, MO ",
+    "siteId": "07010082"
+  },
+  {
+    "gageName": "Black River above Williamsville, MO ",
+    "siteId": "07062575"
+  },
+  {
+    "gageName": "Black River at Leeper, MO ",
+    "siteId": "07062500"
+  },
+  {
+    "gageName": "Black River at Poplar Bluff, MO ",
+    "siteId": "07063000"
+  },
+  {
+    "gageName": "Black River below Annapolis, MO ",
+    "siteId": "07061600"
+  },
+  {
+    "gageName": "Black River near Annapolis, MO ",
+    "siteId": "07061500"
+  },
+  {
+    "gageName": "Blue River at 12th Street in Kansas City, MO ",
+    "siteId": "06893590"
+  },
+  {
+    "gageName": "Blue River at 17th Street, Kansas City, Mo ",
+    "siteId": "06893588"
+  },
+  {
+    "gageName": "Blue River at 63rd Street, Kansas City, Mo ",
+    "siteId": "06893530"
+  },
+  {
+    "gageName": "Blue River at Blue Ridge Blvd Ext in KC, MO ",
+    "siteId": "06893150"
+  },
+  {
+    "gageName": "Blue River at Colorado Avenue, Kansas City, Mo ",
+    "siteId": "06893553"
+  },
+  {
+    "gageName": "Blue River at Highway 71, Kansas City, Mo ",
+    "siteId": "06893510"
+  },
+  {
+    "gageName": "Blue River at Kansas City, MO ",
+    "siteId": "06893500"
+  },
+  {
+    "gageName": "Blue River at Red Bridge Road, Kansas City, Mo ",
+    "siteId": "06893195"
+  },
+  {
+    "gageName": "Blue River at Stadium Drive in Kansas City, MO ",
+    "siteId": "06893578"
+  },
+  {
+    "gageName": "Bonhomme Creek near Clarkson Valley, MO ",
+    "siteId": "06935770"
+  },
+  {
+    "gageName": "Bonhomme Creek near Ellisville, MO ",
+    "siteId": "06935755"
+  },
+  {
+    "gageName": "Bourbeuse River at Union, MO ",
+    "siteId": "07016500"
+  },
+  {
+    "gageName": "Bourbeuse River near High Gate, MO ",
+    "siteId": "07015720"
+  },
+  {
+    "gageName": "Brush Creek at Rockhill Road in Kansas City, MO ",
+    "siteId": "06893562"
+  },
+  {
+    "gageName": "Brush Creek at Ward Parkway in Kansas City, MO ",
+    "siteId": "06893557"
+  },
+  {
+    "gageName": "Bryant Creek near Tecumseh, MO ",
+    "siteId": "07058000"
+  },
+  {
+    "gageName": "Buffalo Creek at Tiff City, MO ",
+    "siteId": "07189100"
+  },
+  {
+    "gageName": "Bull Creek near Walnut Shade, MO ",
+    "siteId": "07053810"
+  },
+  {
+    "gageName": "Castor River at Zalma, MO ",
+    "siteId": "07021000"
+  },
+  {
+    "gageName": "Caulks Creek at Chesterfield, MO ",
+    "siteId": "06935830"
+  },
+  {
+    "gageName": "Clearwater Tailwater near Piedmont, MO ",
+    "siteId": "07062050"
+  },
+  {
+    "gageName": "Coldwater Creek near Black Jack, MO ",
+    "siteId": "06936475"
+  },
+  {
+    "gageName": "Cowmire Creek at Bridgeton, MO ",
+    "siteId": "06935980"
+  },
+  {
+    "gageName": "Creve Coeur Creek at Chesterfield, MO ",
+    "siteId": "06935850"
+  },
+  {
+    "gageName": "Creve Coeur Creek near Creve Coeur, MO ",
+    "siteId": "06935890"
+  },
+  {
+    "gageName": "Crooked River near Richmond, MO ",
+    "siteId": "06895000"
+  },
+  {
+    "gageName": "Cuivre River at Old Monroe, MO ",
+    "siteId": "05514705"
+  },
+  {
+    "gageName": "Current River above Akers, MO ",
+    "siteId": "07064533"
+  },
+  {
+    "gageName": "Current River above Powder Mill, MO ",
+    "siteId": "07066510"
+  },
+  {
+    "gageName": "Current River at Doniphan, MO ",
+    "siteId": "07068000"
+  },
+  {
+    "gageName": "Current River at Montauk State Park, MO ",
+    "siteId": "07064440"
+  },
+  {
+    "gageName": "Current River at Van Buren, MO ",
+    "siteId": "07067000"
+  },
+  {
+    "gageName": "Deer Creek at Ladue, MO ",
+    "siteId": "07010075"
+  },
+  {
+    "gageName": "Deer Creek at Litzinger Road at Ladue, MO ",
+    "siteId": "07010055"
+  },
+  {
+    "gageName": "Deer Creek at Maplewood, MO ",
+    "siteId": "07010086"
+  },
+  {
+    "gageName": "Denny Creek at Ladue, MO ",
+    "siteId": "07010040"
+  },
+  {
+    "gageName": "Des Moines River at St. Francisville, MO ",
+    "siteId": "05490600"
+  },
+  {
+    "gageName": "East Drywood Creek at Prairie State Park ",
+    "siteId": "06917630"
+  },
+  {
+    "gageName": "East Fork Black River near Lesterville, MO ",
+    "siteId": "07061270"
+  },
+  {
+    "gageName": "East Fork Little Blue River near Blue Springs, MO ",
+    "siteId": "06893890"
+  },
+  {
+    "gageName": "East Locust Creek near Boynton, MO ",
+    "siteId": "06901205"
+  },
+  {
+    "gageName": "E. Fk. Black R. bl Lower Taum Sauk Reservoir ",
+    "siteId": "07061290"
+  },
+  {
+    "gageName": "Eleven Point River near Bardley, MO ",
+    "siteId": "07071500"
+  },
+  {
+    "gageName": "Elk River near Tiff City, Mo ",
+    "siteId": "07189000"
+  },
+  {
+    "gageName": "Engelholm Creek near Wellston, MO ",
+    "siteId": "07010035"
+  },
+  {
+    "gageName": "Fee Fee Creek near Bridgeton, MO ",
+    "siteId": "06935955"
+  },
+  {
+    "gageName": "Fenton Creek near Fenton, MO ",
+    "siteId": "07019220"
+  },
+  {
+    "gageName": "Finley Creek below Riverdale, MO ",
+    "siteId": "07052345"
+  },
+  {
+    "gageName": "Fishing River above Mosby, MO ",
+    "siteId": "06894200"
+  },
+  {
+    "gageName": "Fishpot Creek at Valley Park, MO ",
+    "siteId": "07019120"
+  },
+  {
+    "gageName": "Flat Creek below Jenkins, MO ",
+    "siteId": "07052820"
+  },
+  {
+    "gageName": "Fox River at Wayland, MO ",
+    "siteId": "05495000"
+  },
+  {
+    "gageName": "Grammond Creek near Wilbur Park, MO ",
+    "siteId": "07010094"
+  },
+  {
+    "gageName": "Grand Glaize Creek near Manchester, MO ",
+    "siteId": "07019150"
+  },
+  {
+    "gageName": "Grand Glaize Creek near Valley Park, MO ",
+    "siteId": "07019185"
+  },
+  {
+    "gageName": "Grand River near Fountain Grove, MO ",
+    "siteId": "06900800"
+  },
+  {
+    "gageName": "Grand River near Pattonsburg, MO ",
+    "siteId": "06896900"
+  },
+  {
+    "gageName": "Gravois Creek near Mehlville, MO ",
+    "siteId": "07010180"
+  },
+  {
+    "gageName": "Greer Spring at Greer, MO ",
+    "siteId": "07071000"
+  },
+  {
+    "gageName": "Hinkson Creek at Columbia, MO ",
+    "siteId": "06910230"
+  },
+  {
+    "gageName": "Huzzah Creek near Steelville, MO ",
+    "siteId": "07014000"
+  },
+  {
+    "gageName": "Indian Creek at 103rd St in Kansas City, MO ",
+    "siteId": "06893400"
+  },
+  {
+    "gageName": "Indian Creek near Lanagan, MO ",
+    "siteId": "07188885"
+  },
+  {
+    "gageName": "Jacks Fork at Alley Spring, MO ",
+    "siteId": "07065495"
+  },
+  {
+    "gageName": "Jacks Fork at Eminence, MO ",
+    "siteId": "07066000"
+  },
+  {
+    "gageName": "Jacks Fork near Mountain View, MO ",
+    "siteId": "07065200"
+  },
+  {
+    "gageName": "James River at Galena, MO ",
+    "siteId": "07052500"
+  },
+  {
+    "gageName": "James River near Boaz, MO ",
+    "siteId": "07052250"
+  },
+  {
+    "gageName": "James River near Springfield, MO ",
+    "siteId": "07050700"
+  },
+  {
+    "gageName": "Joachim Creek at De Soto, MO ",
+    "siteId": "07019500"
+  },
+  {
+    "gageName": "KANSAS R AT KANSAS CITY, KS ",
+    "siteId": "06892950"
+  },
+  {
+    "gageName": "Kiefer Creek near Ballwin, MO ",
+    "siteId": "07019072"
+  },
+  {
+    "gageName": "Little Black River below Fairdealing, MO ",
+    "siteId": "07068510"
+  },
+  {
+    "gageName": "Little Blue R. at Lees Summit Rd in Independence ",
+    "siteId": "06893820"
+  },
+  {
+    "gageName": "Little Blue River at Grandview, MO ",
+    "siteId": "06893750"
+  },
+  {
+    "gageName": "Little Blue River near Lake City, MO ",
+    "siteId": "06894000"
+  },
+  {
+    "gageName": "Little North Fork River at Thornfield, MO ",
+    "siteId": "07054288"
+  },
+  {
+    "gageName": "Little St. Francis River at Fredericktown, MO ",
+    "siteId": "07035000"
+  },
+  {
+    "gageName": "Little Sugar Creek near Pineville, MO ",
+    "siteId": "07188838"
+  },
+  {
+    "gageName": "Logan Creek at Ellington, MO ",
+    "siteId": "07061900"
+  },
+  {
+    "gageName": "MacKenzie Creek near Shrewsbury, MO ",
+    "siteId": "07010090"
+  },
+  {
+    "gageName": "Main Ditch Number Six at Levee Rd near Hamburg, IA ",
+    "siteId": "06810030"
+  },
+  {
+    "gageName": "Maline Creek at Bellefontaine Neighbors, MO ",
+    "siteId": "07005000"
+  },
+  {
+    "gageName": "Martigney Creek near Arnold, MO ",
+    "siteId": "07010208"
+  },
+  {
+    "gageName": "Mattese Creek near Mattese, MO ",
+    "siteId": "07019317"
+  },
+  {
+    "gageName": "Medicine Creek at Lucerne, MO ",
+    "siteId": "06899900"
+  },
+  {
+    "gageName": "Meramec River at Arnold, MO ",
+    "siteId": "07019300"
+  },
+  {
+    "gageName": "Meramec River at Cook Station, MO ",
+    "siteId": "07010350"
+  },
+  {
+    "gageName": "Meramec River at Fenton, MO ",
+    "siteId": "07019210"
+  },
+  {
+    "gageName": "Meramec River at Pacific, MO ",
+    "siteId": "07017020"
+  },
+  {
+    "gageName": "Meramec River at Valley Park, MO ",
+    "siteId": "07019130"
+  },
+  {
+    "gageName": "Meramec River near Eureka, MO ",
+    "siteId": "07019000"
+  },
+  {
+    "gageName": "Meramec River near Steelville, MO ",
+    "siteId": "07013000"
+  },
+  {
+    "gageName": "Meramec River near Sullivan, MO ",
+    "siteId": "07014500"
+  },
+  {
+    "gageName": "Mill Creek near Florissant, MO ",
+    "siteId": "06935997"
+  },
+  {
+    "gageName": "Mississippi River at Cape Girardeau, MO ",
+    "siteId": "07020850"
+  },
+  {
+    "gageName": "Mississippi River at New Madrid, MO ",
+    "siteId": "07024175"
+  },
+  {
+    "gageName": "Missouri River above Parkville, MO ",
+    "siteId": "06821250"
+  },
+  {
+    "gageName": "Missouri River at Boonville, MO ",
+    "siteId": "06909000"
+  },
+  {
+    "gageName": "Missouri River at Glasgow, MO ",
+    "siteId": "06906500"
+  },
+  {
+    "gageName": "Missouri River at Hermann, MO ",
+    "siteId": "06934500"
+  },
+  {
+    "gageName": "Missouri River at Jefferson City, MO ",
+    "siteId": "06910450"
+  },
+  {
+    "gageName": "Missouri River at Kansas City, MO ",
+    "siteId": "06893000"
+  },
+  {
+    "gageName": "Missouri River at Napoleon, MO ",
+    "siteId": "06894650"
+  },
+  {
+    "gageName": "Missouri River at St. Charles, MO ",
+    "siteId": "06935965"
+  },
+  {
+    "gageName": "Missouri River at Washington, MO ",
+    "siteId": "06935450"
+  },
+  {
+    "gageName": "Missouri River at Waverly, MO ",
+    "siteId": "06895500"
+  },
+  {
+    "gageName": "Missouri River near Labadie, MO ",
+    "siteId": "06935550"
+  },
+  {
+    "gageName": "Moniteau Creek near Fayette, MO ",
+    "siteId": "06909500"
+  },
+  {
+    "gageName": "Moreau River near Jefferson City, MO ",
+    "siteId": "06910750"
+  },
+  {
+    "gageName": "Nodaway River near Burlington Junction, MO ",
+    "siteId": "06817500"
+  },
+  {
+    "gageName": "North Fork River near Tecumseh, MO ",
+    "siteId": "07057500"
+  },
+  {
+    "gageName": "North Fork Spring River near Purcell, MO ",
+    "siteId": "07185910"
+  },
+  {
+    "gageName": "North River at Palmyra, MO ",
+    "siteId": "05501000"
+  },
+  {
+    "gageName": "One Hundred and Two River at Maryville, MO ",
+    "siteId": "06819500"
+  },
+  {
+    "gageName": "One Hundred Two River near Bolckow, MO ",
+    "siteId": "06820410"
+  },
+  {
+    "gageName": "Osage River at Taberville, MO ",
+    "siteId": "06918250"
+  },
+  {
+    "gageName": "Osage River at Tuscumbia, MO ",
+    "siteId": "06926080"
+  },
+  {
+    "gageName": "Pearson Creek near Springfield, MO ",
+    "siteId": "07050690"
+  },
+  {
+    "gageName": "Petite Saline Creek at Hwy U nr Boonville, M0 ",
+    "siteId": "06909950"
+  },
+  {
+    "gageName": "Pomme de Terre River at Hermitage, MO ",
+    "siteId": "06921500"
+  },
+  {
+    "gageName": "River Des Peres at Macklind Ave, St Louis, MO ",
+    "siteId": "07010038"
+  },
+  {
+    "gageName": "River Des Peres at Shrewsbury, MO ",
+    "siteId": "07010088"
+  },
+  {
+    "gageName": "River Des Peres at St. Louis, MO ",
+    "siteId": "07010097"
+  },
+  {
+    "gageName": "River Des Peres near University City, MO ",
+    "siteId": "07010022"
+  },
+  {
+    "gageName": "River Des Peres Tributary at Pagedale, MO ",
+    "siteId": "07010030"
+  },
+  {
+    "gageName": "Roaring River at Roaring River State Park ",
+    "siteId": "07050152"
+  },
+  {
+    "gageName": "Roark Creek at Branson, MO ",
+    "siteId": "07053710"
+  },
+  {
+    "gageName": "Rock Creek at Kentucky Road in Independence, MO ",
+    "siteId": "06893620"
+  },
+  {
+    "gageName": "Sac River at Hwy J below Stockton, MO ",
+    "siteId": "06919020"
+  },
+  {
+    "gageName": "Salt River near Center, MO ",
+    "siteId": "05507800"
+  },
+  {
+    "gageName": "Sebago Creek near Rock Hill, MO ",
+    "siteId": "07010070"
+  },
+  {
+    "gageName": "Shoal Creek above Joplin, MO ",
+    "siteId": "07187000"
+  },
+  {
+    "gageName": "South Creek near Springfield, MO ",
+    "siteId": "07052120"
+  },
+  {
+    "gageName": "South Fabius River above Newark, MO ",
+    "siteId": "05498700"
+  },
+  {
+    "gageName": "South Fabius River near Taylor, MO ",
+    "siteId": "05500000"
+  },
+  {
+    "gageName": "South Fork Saline Creek near Perryville, MO ",
+    "siteId": "07020550"
+  },
+  {
+    "gageName": "South Grand River at Urich, MO ",
+    "siteId": "06921600"
+  },
+  {
+    "gageName": "Spanish Lake Trib. nr Black Jack, MO ",
+    "siteId": "06936530"
+  },
+  {
+    "gageName": "Spring Branch Ck at Holke Rd in Independence, MO ",
+    "siteId": "06893970"
+  },
+  {
+    "gageName": "Spring Creek at Stahl, MO ",
+    "siteId": "06904650"
+  },
+  {
+    "gageName": "Spring River at Carthage, MO ",
+    "siteId": "07185765"
+  },
+  {
+    "gageName": "Spring River at La Russell, MO ",
+    "siteId": "07185700"
+  },
+  {
+    "gageName": "Spring River near Waco, MO ",
+    "siteId": "07186000"
+  },
+  {
+    "gageName": "St. Francis River at Wappapello, MO ",
+    "siteId": "07039500"
+  },
+  {
+    "gageName": "St. Francis River near Mill Creek, MO ",
+    "siteId": "07035800"
+  },
+  {
+    "gageName": "St. Francis River near Patterson, MO ",
+    "siteId": "07037500"
+  },
+  {
+    "gageName": "St. Francis River near Saco, MO ",
+    "siteId": "07036100"
+  },
+  {
+    "gageName": "Sugar Creek at Kirkwood, MO ",
+    "siteId": "07019175"
+  },
+  {
+    "gageName": "Tavern Creek below St. Elizabeth, MO ",
+    "siteId": "06926290"
+  },
+  {
+    "gageName": "Turkey Creek near Hollister, MO ",
+    "siteId": "07053690"
+  },
+  {
+    "gageName": "Two Mile Creek at Ladue, MO ",
+    "siteId": "07010061"
+  },
+  {
+    "gageName": "Wakenda Creek at Carrollton, MO ",
+    "siteId": "06896000"
+  },
+  {
+    "gageName": "Watkins Ck at Belgrove Dr, Bellefontaine Neighbors ",
+    "siteId": "07001960"
+  },
+  {
+    "gageName": "Watkins Creek near Bellefontaine Neighbors, MO ",
+    "siteId": "07001910"
+  },
+  {
+    "gageName": "Weaubleau Creek near Weaubleau, MO ",
+    "siteId": "06920520"
+  },
+  {
+    "gageName": "Williams Creek near Peerless Park, MO ",
+    "siteId": "07019090"
+  },
+  {
+    "gageName": "Wilson Creek at Springfield, MO ",
+    "siteId": "07052000"
+  },
+  {
+    "gageName": "Wilson Creek near Brookline, MO ",
+    "siteId": "07052152"
+  },
+  {
+    "gageName": "Wilson Creek near Springfield, MO ",
+    "siteId": "07052100"
+  },
+  {
+    "gageName": "Wyaconda River above Canton, MO ",
+    "siteId": "05496000"
+  },
+  {
+    "gageName": "Yarnell Creek at Fenton, MO ",
+    "siteId": "07019195"
+  }
+]

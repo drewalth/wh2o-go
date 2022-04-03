@@ -1,0 +1,194 @@
+[
+  {
+    "gageName": "AYERS BROOK AT RANDOLPH, VT ",
+    "siteId": "01142500"
+  },
+  {
+    "gageName": "BARTON RIVER NEAR COVENTRY, VT ",
+    "siteId": "04296280"
+  },
+  {
+    "gageName": "BLACK RIVER AT COVENTRY, VT ",
+    "siteId": "04296000"
+  },
+  {
+    "gageName": "BLACK RIVER AT NORTH SPRINGFIELD, VT ",
+    "siteId": "01153000"
+  },
+  {
+    "gageName": "CLYDE RIVER AT NEWPORT, VT ",
+    "siteId": "04296500"
+  },
+  {
+    "gageName": "CONNECTICUT RIVER NEAR DALTON, NH ",
+    "siteId": "01131500"
+  },
+  {
+    "gageName": "DOG RIVER AT NORTHFIELD FALLS, VT ",
+    "siteId": "04287000"
+  },
+  {
+    "gageName": "EAST BRANCH PASSUMPSIC RIVER NEAR EAST HAVEN, VT ",
+    "siteId": "01133000"
+  },
+  {
+    "gageName": "EAST BR DEAD CREEK NEAR BRIDPORT, VT ",
+    "siteId": "04282581"
+  },
+  {
+    "gageName": "EAST ORANGE BRANCH AT EAST ORANGE, VT ",
+    "siteId": "01139800"
+  },
+  {
+    "gageName": "JEWETT BROOK AT VT 38, NEAR ST. ALBANS, VT ",
+    "siteId": "04292810"
+  },
+  {
+    "gageName": "LAMOILLE RIVER AT EAST GEORGIA, VT ",
+    "siteId": "04292500"
+  },
+  {
+    "gageName": "LAMOILLE RIVER AT JEFFERSONVILLE, VT ",
+    "siteId": "04292201"
+  },
+  {
+    "gageName": "LAMOILLE RIVER AT JOHNSON, VT ",
+    "siteId": "04292000"
+  },
+  {
+    "gageName": "LAPLATTE RIVER AT SHELBURNE FALLS, VT. ",
+    "siteId": "04282795"
+  },
+  {
+    "gageName": "LEWIS CREEK AT NORTH FERRISBURG, VT. ",
+    "siteId": "04282780"
+  },
+  {
+    "gageName": "LITTLE OTTER CK AT MONKTON RD, NR FERRISBURGH, VT ",
+    "siteId": "04282629"
+  },
+  {
+    "gageName": "LITTLE OTTER CREEK AT FERRISBURG, VT. ",
+    "siteId": "04282650"
+  },
+  {
+    "gageName": "LITTLE RIVER NEAR STOWE, VT ",
+    "siteId": "04288295"
+  },
+  {
+    "gageName": "LITTLE RIVER NEAR WATERBURY, VT ",
+    "siteId": "04289000"
+  },
+  {
+    "gageName": "MAD RIVER NEAR MORETOWN, VT ",
+    "siteId": "04288000"
+  },
+  {
+    "gageName": "MILL RIVER AT GEORGIA SHORE RD, NR ST ALBANS, VT ",
+    "siteId": "04292750"
+  },
+  {
+    "gageName": "MISSISQUOI RIVER AT SWANTON, VT ",
+    "siteId": "04294000"
+  },
+  {
+    "gageName": "MISSISQUOI RIVER NEAR EAST BERKSHIRE, VT ",
+    "siteId": "04293500"
+  },
+  {
+    "gageName": "MISSISQUOI RIVER NEAR NORTH TROY, VT ",
+    "siteId": "04293000"
+  },
+  {
+    "gageName": "MOOSE RIVER AT VICTORY, VT ",
+    "siteId": "01134500"
+  },
+  {
+    "gageName": "NEW HAVEN RIVER @ BROOKSVILLE, NR MIDDLEBURY, VT ",
+    "siteId": "04282525"
+  },
+  {
+    "gageName": "NORTH BRANCH WINOOSKI RIVER AT MONTPELIER, VT ",
+    "siteId": "04285800"
+  },
+  {
+    "gageName": "NORTH BRANCH WINOOSKI RIVER AT WRIGHTSVILLE, VT ",
+    "siteId": "04285500"
+  },
+  {
+    "gageName": "OTTAUQUECHEE RIVER AT NORTH HARTLAND, VT ",
+    "siteId": "01151500"
+  },
+  {
+    "gageName": "OTTAUQUECHEE RIVER NEAR WEST BRIDGEWATER, VT ",
+    "siteId": "01150900"
+  },
+  {
+    "gageName": "OTTER CREEK AT CENTER RUTLAND, VT ",
+    "siteId": "04282000"
+  },
+  {
+    "gageName": "OTTER CREEK AT MIDDLEBURY, VT ",
+    "siteId": "04282500"
+  },
+  {
+    "gageName": "PASSUMPSIC RIVER AT PASSUMPSIC, VT ",
+    "siteId": "01135500"
+  },
+  {
+    "gageName": "POPE BROOK ",
+    "siteId": "01135150"
+  },
+  {
+    "gageName": "RANCH BROOK AT RANCH CAMP, NEAR STOWE, VT ",
+    "siteId": "04288230"
+  },
+  {
+    "gageName": "ROCK RIVER NEAR HIGHGATE CENTER, VT ",
+    "siteId": "04294140"
+  },
+  {
+    "gageName": "SAXTONS RIVER AT SAXTONS RIVER, VT ",
+    "siteId": "01154000"
+  },
+  {
+    "gageName": "SLEEPERS RIVER ",
+    "siteId": "01135300"
+  },
+  {
+    "gageName": "WALLOOMSAC RIVER NEAR NORTH BENNINGTON, VT ",
+    "siteId": "01334000"
+  },
+  {
+    "gageName": "W BRANCH LITTLE R ABV BINGHAM FALLS NEAR STOWE, VT ",
+    "siteId": "04288225"
+  },
+  {
+    "gageName": "WELLS RIVER AT WELLS RIVER, VT ",
+    "siteId": "01139000"
+  },
+  {
+    "gageName": "WEST BR DEAD CREEK NEAR ADDISON, VT ",
+    "siteId": "04282586"
+  },
+  {
+    "gageName": "WEST RIVER AT JAMAICA, VT ",
+    "siteId": "01155500"
+  },
+  {
+    "gageName": "WHITE RIVER AT WEST HARTFORD, VT ",
+    "siteId": "01144000"
+  },
+  {
+    "gageName": "WILLIAMS RIVER NEAR ROCKINGHAM VT ",
+    "siteId": "01153550"
+  },
+  {
+    "gageName": "WINOOSKI RIVER AT MONTPELIER, VT ",
+    "siteId": "04286000"
+  },
+  {
+    "gageName": "WINOOSKI RIVER NEAR ESSEX JUNCTION, VT ",
+    "siteId": "04290500"
+  }
+]
