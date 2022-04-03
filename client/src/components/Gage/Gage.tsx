@@ -3,8 +3,7 @@ import GageTable from './GageTable';
 import { AutoComplete, Button, Form, Modal, notification, Select } from 'antd';
 import { CreateGageDto, GageEntry, GageMetric } from '../../types';
 import { useGagesContext } from '../Provider/GageProvider';
-import { usStates } from '../../lib';
-import { createGage } from '../../controllers';
+import {createGage, getUsStates} from '../../controllers';
 
 const defaultForm: CreateGageDto = {
   Name: '',
@@ -13,6 +12,7 @@ const defaultForm: CreateGageDto = {
 };
 
 export const Gage = (): JSX.Element => {
+  const [usStates, setUsStates] = useState<{name:string, abbreviation: string}[]>([])
   const [selectedState, setSelectedState] = useState('AL');
   const [createModalVisible, setCreateModalVisible] = useState(false);
   const [createForm, setCreateForm] = useState<CreateGageDto>(defaultForm);
@@ -20,6 +20,13 @@ export const Gage = (): JSX.Element => {
   const [options, setOptions] = useState<{ value: string; label: string }[]>(
     [],
   );
+
+  useEffect(() => {
+    (async () => {
+      const result = await getUsStates()
+      setUsStates(result)
+    })()
+  }, [])
 
   useEffect(() => {
     (async function () {

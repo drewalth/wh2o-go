@@ -9,6 +9,7 @@ import (
 	cron "wh2o-next/core/cron"
 	"wh2o-next/core/exporter"
 	gages "wh2o-next/core/gages"
+	"wh2o-next/core/lib"
 	"wh2o-next/core/user"
 	database "wh2o-next/database"
 
@@ -83,6 +84,9 @@ func main() {
 
 		api.GET("/export", exporter.ExportAllData)
 		api.POST("/import", exporter.ImportData)
+
+		api.GET("/lib/states", lib.GetUsStates)
+		api.GET("/lib/tz", lib.GetTimezones)
 	}
 
 	router.Run(":3000")

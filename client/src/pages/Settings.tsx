@@ -4,9 +4,8 @@ import { MailOutlined, PhoneOutlined } from '@ant-design/icons'
 import { useEffect, useState } from 'react'
 import AppProvider from '../components/App/AppProvider'
 import { AlertChannel, RequestStatus, UserConfigDto } from '../types'
-import { getSettings, updateSettings } from '../controllers'
+import {getSettings, getTimezones, updateSettings} from '../controllers'
 import debounce from 'lodash.debounce'
-import timezones from '../lib/timezones'
 import { TabPane } from 'rc-tabs'
 
 const { Content } = Layout
@@ -14,6 +13,7 @@ const { Content } = Layout
 type TabKey = '1' | '2'
 
 const Settings = () => {
+  const [timezones, setTimezones] = useState<string[]>([])
   const [selectedTab, setSelectedTab] = useState<TabKey>('1')
   const [userConfig, setUserConfig] = useState<UserConfigDto>({
     MailgunKey: '',
@@ -39,6 +39,8 @@ const Settings = () => {
 
   useEffect(() => {
     ;(async () => {
+      const tz = await getTimezones()
+      setTimezones(tz)
       try {
         setRequestStatus('loading')
         const settings = await getSettings()

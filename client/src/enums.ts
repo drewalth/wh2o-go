@@ -4,5 +4,6 @@ export enum Endpoints {
   GAGE_SOURCES = '/gage-sources',
   SETTINGS = '/user',
   EXPORT = '/export',
-  IMPORT = "/import"
+  IMPORT = "/import",
+  LIB = "/lib"
 }

@@ -83,3 +83,12 @@ export const importData = async (data: ExportData) => {
     }
   }).then(({ data }) => data)
 }
+
+
+export const getTimezones = () => {
+  return http.get(Endpoints.LIB + "/tz").then(({ data }) => data)
+}
+
+export const getUsStates = () => {
+  return http.get(Endpoints.LIB + "/states").then(({ data }) => data)
+}
