@@ -10,19 +10,18 @@ import (
 )
 
 type User struct {
-	ID                        int `gorm:"primaryKey"`
-	MailgunKey                string
-	MailgunDomain             string
-	Email                     string
-	Timezone                  string
-	TwilioAccountSID          string
-	TwilioAuthToken           string
-	TwilioMessagingServiceSID string
-	TwilioPhoneNumberTo       string
-	TwilioPhoneNumberFrom     string
-	Alerts                    []alerts.Alert
-	CreatedAt                 time.Time `gorm:"autoCreateTime"`
-	UpdatedAt                 time.Time `gorm:"autoUpdateTime"`
+	ID                    int `gorm:"primaryKey"`
+	MailgunKey            string
+	MailgunDomain         string
+	Email                 string
+	Timezone              string
+	TwilioAccountSID      string
+	TwilioAuthToken       string
+	TwilioPhoneNumberTo   string
+	TwilioPhoneNumberFrom string
+	Alerts                []alerts.Alert
+	CreatedAt             time.Time `gorm:"autoCreateTime"`
+	UpdatedAt             time.Time `gorm:"autoUpdateTime"`
 }
 
 type GetUserUri struct {
@@ -45,20 +44,41 @@ func HandleGetSettings(c *gin.Context) {
 
 }
 
+type Body struct {
+	MailgunKey            string `form:"MailgunKey"`
+	MailgunDomain         string `form:"MailgunDomain"`
+	Email                 string `form:"Email"`
+	Timezone              string `form:"Timezone"`
+	TwilioAccountSID      string `form:"TwilioAccountSID"`
+	TwilioAuthToken       string `form:"TwilioAuthToken"`
+	TwilioPhoneNumberTo   string `form:"TwilioPhoneNumberTo"`
+	TwilioPhoneNumberFrom string `form:"TwilioPhoneNumberFrom"`
+}
+
 func HandleUpdateUserSettings(c *gin.Context) {
 	db := c.MustGet("db").(*gorm.DB)
 
 	var user User
 
-	if c.ShouldBind(&user) == nil {
-		db.Model(&user).Updates(user)
+	var body Body
 
-		var editedUser User
-
-		db.First(&editedUser, user.ID)
-
-		c.JSON(http.StatusOK, editedUser)
-
+	if err := c.Bind(&body); err != nil {
+		c.AbortWithError(http.StatusBadRequest, err)
+		return
 	}
 
+	db.First(&user)
+
+	user.Email = body.Email
+	user.MailgunDomain = body.MailgunDomain
+	user.MailgunKey = body.MailgunKey
+	user.Timezone = body.Timezone
+	user.TwilioAccountSID = body.TwilioAccountSID
+	user.TwilioAuthToken = body.TwilioAuthToken
+	user.TwilioPhoneNumberFrom = body.TwilioPhoneNumberFrom
+	user.TwilioPhoneNumberTo = body.TwilioPhoneNumberTo
+
+	db.Save(&user)
+
+	c.JSON(http.StatusAccepted, &user)
 }

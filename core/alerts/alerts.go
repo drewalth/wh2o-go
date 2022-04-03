@@ -12,6 +12,7 @@ import (
 type Alert struct {
 	ID         uint   `gorm:"primaryKey"`
 	Name       string `gorm:"unique"`
+	Active     bool   `gorm:"default:true"`
 	Minimum    int
 	Maximum    int
 	Criteria   string // above, below, or between
@@ -19,12 +20,27 @@ type Alert struct {
 	Interval   string // daily or immediate
 	Metric     string // cfs, ft, temp or immediate
 	Value      int
-	GageID     uint
+	GageID     int
 	UserID     int
 	LastSent   time.Time
 	NotifyTime string
 	CreatedAt  time.Time `gorm:"autoCreateTime"`
 	UpdatedAt  time.Time `gorm:"autoUpdateTime"`
+}
+
+type UpdateAlertDto struct {
+	ID         uint   `form:"ID"`
+	Name       string `form:"Name"`
+	Active     bool   `form:"Active"`
+	Minimum    int    `form:"Minimum"`
+	Maximum    int    `form:"Maximum"`
+	Criteria   string `form:"Criteria"`
+	Channel    string `form:"Channel"`
+	Interval   string `form:"Interval"`
+	Metric     string `form:"Metric"`
+	Value      int    `form:"Value"`
+	GageID     int    `form:"GageID"`
+	NotifyTime string `form:"NotifyTime"`
 }
 
 type CreateAlertDto struct {
@@ -85,13 +101,27 @@ func HandleDeleteAlert(c *gin.Context) {
 		db.Delete(&Alert{}, alertURI.ID)
 
 		c.JSON(http.StatusOK, alertURI.ID)
-
 	}
-
 }
 
+// @TODO add missing fields
+// https://gorm.io/docs/update.html#Updates-multiple-columns
 func HandleUpdateAlert(c *gin.Context) {
-	fmt.Println("update alert!")
+	var updateAlertDto UpdateAlertDto
+	var alert Alert
+
+	alert.ID = updateAlertDto.ID
+
+	if c.ShouldBind(&updateAlertDto) == nil {
+
+		db := c.MustGet("db").(*gorm.DB)
+
+		db.Model(&alert).Where("id = ?", updateAlertDto.ID).Update(
+			"Active", updateAlertDto.Active,
+		)
+
+		c.JSON(http.StatusOK, alert)
+	}
 }
 
 func LoadImmediateAlerts(db *gorm.DB) []Alert {
@@ -104,7 +134,7 @@ func LoadImmediateAlerts(db *gorm.DB) []Alert {
 // can refactor. merge this with above. make interval arg.
 func LoadDailyAlerts(db *gorm.DB) []Alert {
 	var alerts []Alert
-	db.Where("interval = ?", "daily").Find(&alerts)
+	db.Where("interval = ? AND active = ?", "daily", true).Find(&alerts)
 
 	return alerts
 }

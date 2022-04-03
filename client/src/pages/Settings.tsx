@@ -11,19 +11,18 @@ import { TabPane } from 'rc-tabs'
 
 const { Content } = Layout
 
-type Tabs = '1' | '2'
+type TabKey = '1' | '2'
 
 const Settings = () => {
-  const [selectedTab, setSelectedTab] = useState<Tabs>('1')
+  const [selectedTab, setSelectedTab] = useState<TabKey>('1')
   const [userConfig, setUserConfig] = useState<UserConfigDto>({
     MailgunKey: '',
     MailgunDomain: '',
     Email: '',
     TwilioAccountSID: '',
     TwilioAuthToken: '',
-    TwilioMessagingServiceSID: '',
-    TwilioTelephoneNumberFrom: '',
-    TwilioTelephoneNumberTo: '',
+    TwilioPhoneNumberFrom: '',
+    TwilioPhoneNumberTo: '',
     Timezone: 'America/Denver'
   })
   const [requestStatus, setRequestStatus] = useState<RequestStatus>('loading')
@@ -99,105 +98,98 @@ const Settings = () => {
                   title={'Settings'}
                   actions={getCardActions()}
                 >
-                  {requestStatus === 'success' && (
-                    <Row>
-                      <Col span={24} md={4} lg={4} xl={8}>
-                        <Tabs
-                          tabPosition={'left'}
-                          defaultActiveKey='1'
-                          style={{ height: 220 }}
-                          onChange={val => {
-                            {
-                              /* @ts-ignore */
-                            }
-                            setSelectedTab(val as Tabs)
-                          }}
+                  <Row>
+                    <Col span={24} md={4} lg={4} xl={8}>
+                      <Tabs
+                        tabPosition={'left'}
+                        defaultActiveKey='1'
+                        style={{ height: 220 }}
+                        onChange={val => setSelectedTab(val as TabKey)}
+                      >
+                        <TabPane tab={'Email'} key={`1`} />
+                        <TabPane tab={'SMS'} key={`2`} />
+                      </Tabs>
+                    </Col>
+                    <Col span={24} md={20} lg={20} xl={14}>
+                      <Form
+                        initialValues={userConfig}
+                        onValuesChange={handleValueChange}
+                        layout={'vertical'}
+                        autoComplete='off'
+                      >
+                        <Form.Item
+                          name={'Email'}
+                          label={'Email'}
+                          hidden={selectedTab !== '1'}
                         >
-                          <TabPane tab={'Email'} key={`1`} />
-                          <TabPane tab={'SMS'} key={`2`} />
-                        </Tabs>
-                      </Col>
-                      <Col span={24} md={20} lg={20} xl={14}>
-                        <Form
-                          initialValues={userConfig}
-                          onValuesChange={handleValueChange}
-                          layout={'vertical'}
-                          autoComplete="off"
+                          <Input autoComplete='off' />
+                        </Form.Item>
+                        <Form.Item
+                          name={'Timezone'}
+                          label={'Timezone'}
+                          hidden={selectedTab !== '1'}
                         >
-                          <Form.Item
-                            name={'Email'}
-                            label={'Email'}
-                            hidden={selectedTab !== '1'}
-                          >
-                            <Input />
-                          </Form.Item>
-                          <Form.Item
-                            name={'Timezone'}
-                            label={'Timezone'}
-                            hidden={selectedTab !== '1'}
-                          >
-                            <Select>
-                              {timezones.map(tz => (
-                                <Select.Option value={tz} key={tz}>
-                                  {tz}
-                                </Select.Option>
-                              ))}
-                            </Select>
-                          </Form.Item>
-                          <Form.Item
-                            name={'MailgunKey'}
-                            label={'Mailgun API Key'}
-                            hidden={selectedTab !== '1'}
-                          >
-                            <Input.Password />
-                          </Form.Item>
-                          <Form.Item
-                            name={'TwilioAccountSID'}
-                            label={'Twilio Account SID'}
-                            hidden={selectedTab !== '2'}
-                          >
-                            <Input.Password />
-                          </Form.Item>
-                          <Form.Item
-                            name={'TwilioAuthToken'}
-                            label={'Twilio Auth Token'}
-                            hidden={selectedTab !== '2'}
-                          >
-                            <Input.Password />
-                          </Form.Item>
-                          <Form.Item
-                            name={'TwilioMessagingServiceSID'}
-                            label={'Twilio Messaging Service SID'}
-                            hidden={selectedTab !== '2'}
-                          >
-                            <Input.Password />
-                          </Form.Item>
-                          <Form.Item
-                            name={'TwilioPhoneNumberTo'}
-                            label={'Twilio SMS Telephone No. To'}
-                            hidden={selectedTab !== '2'}
-                          >
-                            <Input.Password />
-                          </Form.Item>
-                          <Form.Item
-                            name={'TwilioPhoneNumberFrom'}
-                            label={'Twilio SMS Telephone No. From'}
-                            hidden={selectedTab !== '2'}
-                          >
-                            <Input.Password />
-                          </Form.Item>
+                          <Select>
+                            {timezones.map(tz => (
+                              <Select.Option value={tz} key={tz}>
+                                {tz}
+                              </Select.Option>
+                            ))}
+                          </Select>
+                        </Form.Item>
+                        <Form.Item
+                          name={'MailgunKey'}
+                          label={'Mailgun API Key'}
+                          hidden={selectedTab !== '1'}
+                        >
+                          <Input.Password autoComplete='off' />
+                        </Form.Item>
+                        <Form.Item
+                          name={'TwilioAccountSID'}
+                          label={'Twilio Account SID'}
+                          hidden={selectedTab !== '2'}
+                        >
+                          <Input.Password autoComplete='off' />
+                        </Form.Item>
+                        <Form.Item
+                          name={'TwilioAuthToken'}
+                          label={'Twilio Auth Token'}
+                          hidden={selectedTab !== '2'}
+                        >
+                          <Input.Password autoComplete='off' />
+                        </Form.Item>
+                        {/* <Form.Item
+                          name={'TwilioMessagingServiceSID'}
+                          label={'Twilio Messaging Service SID'}
+                          hidden={selectedTab !== '2'}
+                        >
+                          <Input.Password />
+                        </Form.Item> */}
+                        <Form.Item
+                          name={'TwilioPhoneNumberTo'}
+                          label={'Twilio SMS Telephone No. To'}
+                          hidden={selectedTab !== '2'}
+                        >
+                          <Input.Password autoComplete='off' />
+                        </Form.Item>
+                        <Form.Item
+                          name={'TwilioPhoneNumberFrom'}
+                          label={'Twilio SMS Telephone No. From'}
+                          hidden={selectedTab !== '2'}
+                        >
+                          <Input.Password autoComplete='off' />
+                        </Form.Item>
 
-                          <Form.Item
-                            name={'MailgunDomain'}
-                            label={'Mailgun Domain'}
-                            hidden={selectedTab !== '1'}
-                          >
-                            <Input.Password />
-                          </Form.Item>
-                        </Form>
-                      </Col>
-                    </Row>
-                  )}
+                        <Form.Item
+                          name={'MailgunDomain'}
+                          label={'Mailgun Domain'}
+                          hidden={selectedTab !== '1'}
+                        >
+                          <Input.Password autoComplete='off' />
+                        </Form.Item>
+                      </Form>
+                    </Col>
+                  </Row>
                 </Card>
               </Col>
             </Row>

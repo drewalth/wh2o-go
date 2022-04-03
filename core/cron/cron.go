@@ -1,7 +1,6 @@
 package cron
 
 import (
-	"fmt"
 	"time"
 	"wh2o-next/core/alerts"
 	"wh2o-next/core/gages"
@@ -19,40 +18,29 @@ func InitializeCronJobs(db *gorm.DB) {
 		// do gage reading work
 		userGages := gages.GetUserGages(db)
 
-		if len(userGages) == 0 {
-			fmt.Println("No Gages :/ ")
-			return
+		if len(userGages) > 0 {
+			gageData := gages.FetchGageReadings(db, userGages)
+			formattedReadings := gages.FormatUSGSData(gageData, userGages)
+
+			gages.DeleteStaleReadings(db)
+			gages.SaveGageReadings(db, formattedReadings, userGages)
+			gages.UpdateGageLatestReading(db, formattedReadings, userGages)
+
+			immediateAlerts := alerts.LoadImmediateAlerts(db)
+
+			if len(immediateAlerts) > 0 {
+				notify.CheckLatestReadings(formattedReadings, immediateAlerts, db)
+			}
 		}
-
-		gageData := gages.FetchGageReadings(db, userGages)
-		formattedReadings := gages.FormatUSGSData(gageData, userGages)
-
-		gages.DeleteStaleReadings(db)
-		gages.SaveGageReadings(db, formattedReadings, userGages)
-		gages.UpdateGageLatestReading(db, formattedReadings, userGages)
-
-		userAlerts := alerts.LoadImmediateAlerts(db)
-
-		if len(userAlerts) == 0 {
-			fmt.Println("No Immediate Alerts")
-			return
-		}
-
-		notify.CheckLatestReadings(formattedReadings, userAlerts, db)
-
 	})
 
 	s.Every(30).Seconds().Do(func() {
 
 		dailyReports := alerts.LoadDailyAlerts(db)
 
-		if len(dailyReports) == 0 {
-
-			fmt.Println("No Daily Reports")
-			return
+		if len(dailyReports) > 0 {
+			notify.CheckDailyReports(dailyReports, db)
 		}
-
-		notify.CheckDailyReports(dailyReports, db)
 
 	})
 

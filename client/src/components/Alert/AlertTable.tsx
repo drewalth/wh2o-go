@@ -1,63 +1,71 @@
-import React from 'react';
-import { useAlertsContext } from '../Provider/AlertProvider';
-import { Button, notification, Table, Tag, Tooltip, Typography } from 'antd';
-import { Alert, AlertInterval } from '../../types';
-import { DeleteOutlined } from '@ant-design/icons';
-import { deleteAlert } from '../../controllers';
-import moment from 'moment';
+import React from 'react'
+import { useAlertsContext } from '../Provider/AlertProvider'
+import {
+  Button,
+  notification,
+  Table,
+  Tag,
+  Tooltip,
+  Typography,
+  Switch
+} from 'antd'
+import { Alert, AlertInterval } from '../../types'
+import { DeleteOutlined } from '@ant-design/icons'
+import { deleteAlert, updateAlert } from '../../controllers'
+import moment from 'moment'
 
 export const AlertTable = (): JSX.Element => {
-  const { alerts, loadAlerts } = useAlertsContext();
+  const { alerts, loadAlerts } = useAlertsContext()
 
   const getIntervalTag = (alert: Alert): JSX.Element => {
     return (
       <Tag color={alert.Interval === 'daily' ? 'blue' : 'red'}>
         {alert.Interval}
       </Tag>
-    );
-  };
+    )
+  }
 
   const getChannelTag = (alert: Alert): JSX.Element => {
     return (
       <Tag color={alert.Channel === 'email' ? 'green' : 'orange'}>
         {alert.Channel}
       </Tag>
-    );
-  };
+    )
+  }
 
   const getAlertDescription = (alert: Alert) => {
-    let msg = `${alert.Criteria}`;
+    let msg = `${alert.Criteria}`
 
     if (alert.Criteria === 'between') {
-      msg += ` ${alert.Minimum}-${alert.Minimum}`;
+      msg += ` ${alert.Minimum}-${alert.Minimum}`
     } else {
-      msg += ` ${alert.Value}`;
+      msg += ` ${alert.Value}`
     }
-    msg += ` ${alert.Metric}`;
-    return msg;
-  };
+    msg += ` ${alert.Metric}`
+    return msg
+  }
 
   const handleDelete = async (val: number) => {
     try {
-      await deleteAlert(val);
-      await loadAlerts();
+      await deleteAlert(val)
+      await loadAlerts()
       notification.success({
         message: 'Alert deleted',
-        placement: 'bottomRight',
-      });
+        placement: 'bottomRight'
+      })
     } catch (e) {
       notification.error({
         message: 'Failed to Delete Alert',
-        placement: 'bottomRight',
-      });
+        placement: 'bottomRight'
+      })
     }
-  };
+  }
 
   const columns = [
     {
       title: 'Name',
       dataIndex: 'Name',
-      key: 'Name',
+      key: 'Name'
     },
     {
       title: 'Description',
@@ -80,7 +88,9 @@ export const AlertTable = (): JSX.Element => {
                 <Typography.Text type={'secondary'}>when</Typography.Text>
                 <span>&nbsp;</span>
                 <Tooltip title={alert?.Gage?.Name || 'Gage Name'}>
-                  <Typography.Text ellipsis>{alert?.Gage?.Name || 'Gage Name'}</Typography.Text>
+                  <Typography.Text ellipsis>
+                    {alert?.Gage?.Name || 'Gage Name'}
+                  </Typography.Text>
                 </Tooltip>
                 <span>&nbsp;</span>
                 <Typography.Text ellipsis>
@@ -89,18 +99,38 @@ export const AlertTable = (): JSX.Element => {
               </>
             )}
           </div>
-        );
-      },
+        )
+      }
     },
     {
       title: 'Last Sent',
-      dataIndex: 'UpdatedAt',
-      key: 'UpdatedAt',
+      dataIndex: 'LastSent',
+      key: 'LastSent',
       render: (val: Date) => {
-        if (!val) return '-';
+        if (!val) return '-'
 
-        return moment(val).format('llll');
-      },
+        const result = moment(val).format('llll')
+
+        if (result === 'Sun, Dec 31, 0000 5:00 PM') return '-'
+
+        return result
+      }
+    },
+    {
+      dataIndex: 'Active',
+      key: 'Active',
+      render: (active: boolean, alert: Alert) => (
+        <Switch
+          checked={active}
+          onChange={async Active => {
+            await updateAlert({
+              ...alert,
+              Active
+            })
+            await loadAlerts()
+          }}
+        />
+      )
     },
     {
       dataIndex: 'ID',
@@ -113,9 +143,9 @@ export const AlertTable = (): JSX.Element => {
             danger
           />
         </div>
-      ),
-    },
-  ];
+      )
+    }
+  ]
 
-  return <Table columns={columns} dataSource={alerts} />;
-};
+  return <Table columns={columns} dataSource={alerts} />
+}

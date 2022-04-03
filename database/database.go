@@ -49,22 +49,16 @@ func InitializeDatabase() *gorm.DB {
 	db.AutoMigrate(&alerts.Alert{})
 	db.AutoMigrate(&user.User{})
 
-	// temp
-	db.Create(&gages.Gage{SiteId: "09361500", Name: "ANIMAS RIVER AT DURANGO, CO", State: "CO", Metric: "CFS"})
-	db.Create(&gages.Gage{SiteId: "09359500", Name: "ANIMAS RIVER AT TALL TIMBER RESORT ABOVE TACOMA,CO", State: "CO", Metric: "CFS"})
-	db.Create(&gages.Gage{SiteId: "01646500", Name: "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA", State: "MD", Metric: "FT"})
-
 	db.Create(&user.User{
-		ID:                        1,
-		Email:                     "",
-		MailgunKey:                "",
-		Timezone:                  "America/Denver",
-		MailgunDomain:             "",
-		TwilioAccountSID:          "",
-		TwilioAuthToken:           "",
-		TwilioMessagingServiceSID: "",
-		TwilioPhoneNumberTo:       "",
-		TwilioPhoneNumberFrom:     "",
+		ID:                    1,
+		Email:                 "",
+		MailgunKey:            "",
+		Timezone:              "America/Denver",
+		MailgunDomain:         "",
+		TwilioAccountSID:      "",
+		TwilioAuthToken:       "",
+		TwilioPhoneNumberTo:   "",
+		TwilioPhoneNumberFrom: "",
 	})
 
 	return db

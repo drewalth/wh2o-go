@@ -84,11 +84,11 @@ type Gage struct {
 
 type GageReading struct {
 	// gorm.Model
-	ID        uint    `gorm:"primaryKey"`
-	SiteId    string  `gorm:"required"`
-	Value     float64 `gorm:"required"`
-	Metric    string  `gorm:"required"`
-	GageID    int
+	ID        uint      `gorm:"primaryKey"`
+	SiteId    string    `gorm:"required"`
+	Value     float64   `gorm:"required"`
+	Metric    string    `gorm:"required"`
+	GageID    int       `gorm:"required"`
 	CreatedAt time.Time `gorm:"autoCreateTime"`
 	UpdatedAt time.Time `gorm:"autoUpdateTime"`
 }
@@ -176,6 +176,11 @@ type GageSourceUri struct {
 	State string `uri:"state" binding:"required"`
 }
 
+type UpdateGageDto struct {
+	ID     int    `form:"ID"`
+	Metric string `form:"Metric"`
+}
+
 func HandleDeleteGage(c *gin.Context) {
 
 	var gage DeleteGageUri
@@ -195,14 +200,18 @@ func HandleUpdateGage(c *gin.Context) {
 
 	db := c.MustGet("db").(*gorm.DB)
 
+	var updateGageDto UpdateGageDto
+
 	var gage Gage
 
-	if c.ShouldBind(&gage) == nil {
+	if c.ShouldBind(&updateGageDto) == nil {
 
-		db.Model(&gage).Updates(gage)
+		db.Model(&gage).Where("id = ?", updateGageDto.ID).Updates(Gage{
+			Metric: updateGageDto.Metric,
+		})
 
 		var editedGage Gage
-		db.First(&editedGage, gage.ID)
+		db.First(&editedGage, updateGageDto.ID)
 
 		c.JSON(http.StatusOK, editedGage)
 
@@ -289,7 +298,6 @@ func FormatUSGSData(gageData USGSGageData, gages []Gage) []GageReading {
 	return readingData
 }
 
-// idk if this really needs to be abstracted
 func SaveGageReadings(db *gorm.DB, readings []GageReading, gages []Gage) {
 
 	for _, r := range readings {
@@ -317,18 +325,18 @@ func SaveGageReadings(db *gorm.DB, readings []GageReading, gages []Gage) {
 }
 
 func DeleteStaleReadings(db *gorm.DB) {
-	// doesnt work
-	db.Exec("DELETE FROM gage_readings WHERE created_at < UNIX_TIMESTAMP(DATE_SUB(NOW(), INTERVAL 1 DAY));")
+
+	db.Exec("DELETE FROM gage_readings WHERE created_at <= date('now', '-1 day')")
 
 }
 
-func FilterReadings(readings []GageReading, gageId int) []GageReading {
+func FilterReadings(readings []GageReading, gageSiteId string) []GageReading {
 
-	bucket := make([]GageReading, 0)
+	bucket := make([]GageReading, 0, 3)
 
 	for _, r := range readings {
 
-		if int(r.GageID) == gageId {
+		if r.SiteId == gageSiteId {
 			bucket = append(bucket, r)
 		}
 
@@ -341,7 +349,11 @@ func UpdateGageLatestReading(db *gorm.DB, readings []GageReading, gages []Gage) 
 
 	for _, gage := range gages {
 
-		filteredReadings := FilterReadings(readings, int(gage.ID))
+		filteredReadings := FilterReadings(readings, gage.SiteId)
+
+		if len(filteredReadings) == 0 {
+			log.Fatal("Unable to associate readings and gage")
+		}
 
 		for _, r := range filteredReadings {
 

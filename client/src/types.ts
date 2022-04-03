@@ -51,9 +51,8 @@ export type UserConfig = {
   Timezone: string;
   TwilioAccountSID: string;
   TwilioAuthToken: string;
-  TwilioMessagingServiceSID: string;
-  TwilioTelephoneNumberTo: string;
-  TwilioTelephoneNumberFrom: string;
+  TwilioPhoneNumberTo: string;
+  TwilioPhoneNumberFrom: string;
 };
 
 export type UserConfigDto = Omit<UserConfig, 'ID'>;
@@ -77,6 +76,7 @@ export enum AlertChannel {
 export type Alert = {
   ID: number;
   Name: string;
+  Active: boolean
   Criteria: AlertCriteria;
   Interval: AlertInterval;
   Channel: AlertChannel;
@@ -93,11 +93,18 @@ export type Alert = {
   Gage: Gage;
 };
 
-export type CreateAlertDTO = Omit<Alert , 
+export type CreateAlertDto = Omit<Alert,
   'CreatedAt' |
   'UpdatedAt' |
-  'ID' | 
+  'ID' |
   'GageID' | 'Gage'
+>
+
+export type UpdateAlertDto = Omit<Alert,
+  'CreatedAt' |
+  'NextSend' |
+  'ID' |
+  'Gage'
 >
 
 export enum GageSource {
@@ -135,6 +142,8 @@ export type Gage = {
   UpdatedAt: Date;
   Alerts?: Alert[];
 };
+
+export type UpdateGageDto = Omit<Gage, 'ID' | 'Alerts' | 'UpdatedAt' | 'LastFetch' | 'CreatedAt'>
 
 export interface CreateGageDto {
   Name: string;
@@ -293,77 +302,7 @@ export type USGSGageData = {
   typeSubstituted: boolean;
 };
 
-type ClimbingAreaCountry = 'USA';
-
-export type ClimbingArea = {
-  id: number;
-  areaId: number;
-  country: ClimbingAreaCountry;
-  adminArea: string;
-  name: string;
-  latitude: string;
-  longitude: string;
-  forecast: null;
-};
-
-export type ClimbingAreaForecast = {
-  id: number;
-  areaId: number;
-  value: ClimbingAreaForecastValue;
-  createdAt: Date;
-  updatedAt: Date;
-};
-
-export type ClimbingAreaForecastValue = {
-  latitude: string;
-  longitude: string;
-  timezone: string;
-  name: string;
-  hourly: {
-    summary: string;
-    icon: string;
-    data: {
-      time: number;
-      temperature: number;
-      precipProbability: string;
-      cloudCover: string;
-      humidity: string;
-      icon: string;
-      precipType: string;
-      windSpeed: number;
-      windGust: number;
-      summary: string;
-      additional: {
-        rain_amount: null | string;
-        snow_amount: null | string;
-      };
-    }[];
-  };
-  daily: {
-    summary: string;
-    icon: string;
-    data: {
-      time: number;
-      temperatureHigh: number;
-      temperatureLow: number;
-      precipProbability: string;
-      precipProbabilityNight: string;
-      humidity: string;
-      icon: string;
-      precipAccumulation: string;
-      precipType: string;
-      windSpeed: number;
-      windGust: number;
-      summary: string;
-      additional: {
-        precip_day: string | null;
-        precip_night: string | null;
-        rain_amount: string | null;
-        snow_amount: string | null;
-      };
-    }[];
-  };
-  flags: {
-    units: string;
-  };
-};
+export type ExportData = {
+  gages: Gage[]
+  alerts: Alert[]
+}

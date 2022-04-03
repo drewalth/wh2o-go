@@ -1,78 +1,70 @@
-import React, { ReactNode } from 'react';
-import Logo from './wh2o-logo';
-import { Layout, Menu, Typography } from 'antd';
-import 'antd/dist/antd.css';
-import { DashboardOutlined, SettingOutlined } from '@ant-design/icons';
-import {useLocation, useNavigate} from "react-router-dom";
+import React, { ReactNode } from 'react'
+import Logo from './wh2o-logo'
+import { Layout, Menu, Typography } from 'antd'
+import 'antd/dist/antd.css'
+import {
+  DashboardOutlined,
+  SettingOutlined,
+  ExportOutlined
+} from '@ant-design/icons'
+import { useLocation, useNavigate } from 'react-router-dom'
 
 type NavigationProps = {
-  children: ReactNode;
-};
+  children: ReactNode
+}
 
-const { Content, Sider } = Layout;
+const { Content, Sider } = Layout
 
-const navItems = [
+export const navItems = [
   {
     path: '/',
     text: 'Dashboard',
-    icon: <DashboardOutlined />,
+    icon: <DashboardOutlined />
   },
-  // {
-  //   path: '/export',
-  //   text: 'Export',
-  //   icon:  <ExportOutlined />,
-  // },
+  {
+    path: '/exporter',
+    text: 'Export',
+    icon: <ExportOutlined />
+  },
   {
     path: '/settings',
     text: 'Settings',
-    icon: <SettingOutlined />,
-  },
-  // {
-  //   path: '/climb',
-  //   text: 'Climb',
-  //   icon: <StockOutlined />,
-  // },
-  // {
-  //   path: '/snow',
-  //   text: 'Ski',
-  //   icon: <RadarChartOutlined />,
-  // },
-];
+    icon: <SettingOutlined />
+  }
+]
 
 export const Navigation = ({ children }: NavigationProps) => {
-  const navigate = useNavigate();
+  const navigate = useNavigate()
   const location = useLocation()
 
   const getSelectedItems = (): string[] => {
-    return [
-      navItems.find((item) => location.pathname === item.path)?.path || '/',
-    ];
-  };
+    return [navItems.find(item => location.pathname === item.path)?.path || '/']
+  }
 
   return (
     <Layout style={{ minHeight: '100vh' }}>
-      <Sider breakpoint="lg" collapsedWidth="0">
+      <Sider breakpoint='lg' collapsedWidth='0'>
         <div
           style={{
             display: 'flex',
             flexFlow: 'row nowrap',
             alignItems: 'center',
-            padding: '24px 16px',
+            padding: '24px 16px'
           }}
         >
-          <Logo onClick={() => navigate('/', {replace:false})} />
+          <Logo onClick={() => navigate('/', { replace: false })} />
           <Typography.Title level={5} style={{ color: '#fff', lineHeight: 1 }}>
             wh2o
           </Typography.Title>
         </div>
         <Menu
-          theme="dark"
-          mode="inline"
+          theme='dark'
+          mode='inline'
           defaultSelectedKeys={['dashboard']}
           selectedKeys={getSelectedItems()}
-          onSelect={({ key }) => navigate(key, {replace: false})}
+          onSelect={({ key }) => navigate(key, { replace: false })}
         >
-          {navItems.map((item) => (
+          {navItems.map(item => (
             <Menu.Item key={item.path} icon={item.icon}>
               {item.text}
             </Menu.Item>
@@ -82,7 +74,7 @@ export const Navigation = ({ children }: NavigationProps) => {
       <Layout>
         <Content style={{ margin: '24px 16px 0' }}>
           <div
-            className="site-layout-background"
+            className='site-layout-background'
             style={{ padding: 24, minHeight: 360 }}
           >
             {children}
@@ -90,5 +82,5 @@ export const Navigation = ({ children }: NavigationProps) => {
         </Content>
       </Layout>
     </Layout>
-  );
-};
+  )
+}

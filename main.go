@@ -7,6 +7,7 @@ import (
 
 	"wh2o-next/core/alerts"
 	cron "wh2o-next/core/cron"
+	"wh2o-next/core/exporter"
 	gages "wh2o-next/core/gages"
 	"wh2o-next/core/user"
 	database "wh2o-next/database"
@@ -42,7 +43,7 @@ func main() {
 
 	router.Use(cors.New(cors.Config{
 		AllowOrigins: []string{"http://localhost:8080", "https://wh2o-api.com"},
-		AllowMethods: []string{"PUT", "POST", "GET", "DELETE", "OPTIONS"},
+		AllowMethods: []string{"PUT", "POST", "GET", "DELETE"},
 		AllowHeaders: []string{"Origin"},
 		// ExposeHeaders:    []string{"Content-Length"},
 		AllowCredentials: true,
@@ -80,6 +81,8 @@ func main() {
 		api.GET("/user/:id", user.HandleGetSettings)
 		api.PUT("/user", user.HandleUpdateUserSettings)
 
+		api.GET("/export", exporter.ExportAllData)
+		api.POST("/import", exporter.ImportData)
 	}
 
 	router.Run(":3000")

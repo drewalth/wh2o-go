@@ -1,4 +1,4 @@
-export default [
+const timezones = [
   'Europe/Andorra',
   'Asia/Dubai',
   'Asia/Kabul',
@@ -348,3 +348,5 @@ export default [
   'Pacific/Apia',
   'Africa/Johannesburg',
 ];
+
+export default timezones

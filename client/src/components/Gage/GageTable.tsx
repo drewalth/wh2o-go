@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react'
 import {
   Button,
   Modal,
@@ -6,70 +6,19 @@ import {
   Select,
   Table,
   Tooltip,
-  Typography,
-} from 'antd';
-import { DeleteOutlined } from '@ant-design/icons';
-import { useGagesContext } from '../Provider/GageProvider';
-import { deleteGage } from '../../controllers';
-import moment from 'moment';
-import { Gage, GageMetric, GageReading } from '../../types';
-
-type ReadingSelectProps = {
-  readings: GageReading[];
-};
-
-const ReadingSelect = ({ readings }: ReadingSelectProps): JSX.Element => {
-  const [activeMetric, setAcitveMetric] = useState<GageMetric>(GageMetric.CFS);
-  const [reading, setReading] = useState<number>();
-  const metrics = Array.from(new Set(readings?.map((r) => r.Metric)));
-  useEffect(() => {
-    const val = readings?.filter((r) => r.Metric === activeMetric)[0]?.Value;
-
-    setReading(val);
-  }, [activeMetric, readings]);
-
-  const renderReading = () => {
-    if (activeMetric === GageMetric.TEMP) {
-      return (
-        <span>
-          {reading}
-          &nbsp;&deg;C
-        </span>
-      );
-    }
-
-    if (reading === -999999) {
-      return 'Disabled';
-    }
-
-    return reading;
-  };
-
-  return (
-    <div>
-      {renderReading()}
-      {(metrics.length > 0 && reading !== -999999) && (
-        <Select
-          defaultValue={'CFS'}
-          bordered={false}
-          size={'small'}
-          onSelect={(val:string) => setAcitveMetric(val as GageMetric)}
-        >
-          {metrics.map((m, index) => (
-            <Select.Option key={m + index} value={m}>
-              {m}
-            </Select.Option>
-          ))}
-        </Select>
-      )}
-    </div>
-  );
-};
+  Typography
+} from 'antd'
+import { DeleteOutlined } from '@ant-design/icons'
+import { useGagesContext } from '../Provider/GageProvider'
+import { deleteGage, updateGage } from '../../controllers'
+import moment from 'moment'
+import { Gage, GageMetric, GageReading } from '../../types'
+import { ReadingSelect } from './ReadingSelect'
 
 const GageTable = (): JSX.Element => {
-  const { gages, loadGages } = useGagesContext();
-  const [pendingDelete, setPendingDelete] = useState(0);
-  const [deleteModalVisible, setDeleteModalVisible] = useState(false);
+  const { gages, loadGages } = useGagesContext()
+  const [pendingDelete, setPendingDelete] = useState(0)
+  const [deleteModalVisible, setDeleteModalVisible] = useState(false)
 
   const columns = [
     {
@@ -80,7 +29,32 @@ const GageTable = (): JSX.Element => {
         <Tooltip title={name} placement={'top'}>
           <Typography.Text ellipsis>{name}</Typography.Text>
         </Tooltip>
-      ),
+      )
+    },
+    {
+      title: 'Primary Metric',
+      dataIndex: 'Metric',
+      key: 'Metric',
+      render: (metric: GageMetric, gage: Gage) => (
+        <Select
+          value={metric}
+          bordered={false}
+          size={'small'}
+          onChange={async (Metric: GageMetric) => {
+            await updateGage({
+              ...gage,
+              Metric
+            })
+            await loadGages()
+          }}
+        >
+          {Object.values(GageMetric).map(m => (
+            <Select.Option value={m} key={m}>
+              {m}
+            </Select.Option>
+          ))}
+        </Select>
+      )
     },
     {
       title: 'Readings',
@@ -90,7 +64,7 @@ const GageTable = (): JSX.Element => {
         <div style={{ minWidth: 150 }}>
           <ReadingSelect readings={readings} />
         </div>
-      ),
+      )
     },
     // {
     //   title: 'Delta',
@@ -109,10 +83,10 @@ const GageTable = (): JSX.Element => {
                 {moment(val).format('llll')}
               </Typography.Text>
             </div>
-          );
+          )
         }
-        return '-';
-      },
+        return '-'
+      }
     },
     {
       dataIndex: 'ID',
@@ -125,33 +99,33 @@ const GageTable = (): JSX.Element => {
             danger
           />
         </div>
-      ),
-    },
-  ];
+      )
+    }
+  ]
 
   const intiateDelete = async (id: number) => {
-    setPendingDelete(id);
-    setDeleteModalVisible(true);
-  };
+    setPendingDelete(id)
+    setDeleteModalVisible(true)
+  }
 
   const handleClose = () => {
-    setDeleteModalVisible(false);
-    setPendingDelete(0);
-  };
+    setDeleteModalVisible(false)
+    setPendingDelete(0)
+  }
 
   const handleOk = async () => {
     try {
-      await deleteGage(pendingDelete);
-      handleClose();
-      await loadGages();
+      await deleteGage(pendingDelete)
+      handleClose()
+      await loadGages()
       notification.success({
         message: 'Gage Deleted',
-        placement: 'bottomRight',
-      });
+        placement: 'bottomRight'
+      })
     } catch (e) {
-      console.log(e);
+      console.log(e)
     }
-  };
+  }
 
   return (
     <>
@@ -159,7 +133,7 @@ const GageTable = (): JSX.Element => {
         <Table dataSource={gages || []} columns={columns} />
       </div>
       <Modal
-        title="Are you sure?"
+        title='Are you sure?'
         visible={deleteModalVisible}
         onOk={handleOk}
         onCancel={handleClose}
@@ -169,7 +143,7 @@ const GageTable = (): JSX.Element => {
         </p>
       </Modal>
     </>
-  );
-};
+  )
+}
 
-export default GageTable;
+export default GageTable
