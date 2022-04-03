@@ -5,9 +5,11 @@ import 'antd/dist/antd.css'
 import {
   DashboardOutlined,
   SettingOutlined,
-  ExportOutlined
+  ExportOutlined,
+  GithubOutlined
 } from '@ant-design/icons'
 import { useLocation, useNavigate } from 'react-router-dom'
+import { Footer } from 'antd/lib/layout/layout'
 
 type NavigationProps = {
   children: ReactNode
@@ -80,6 +82,18 @@ export const Navigation = ({ children }: NavigationProps) => {
             {children}
           </div>
         </Content>
+        <Footer
+          style={{ display: 'flex', justifyContent: 'center', fontSize: 24 }}
+        >
+          <a
+            style={{ color: '#000' }}
+            href='https://github.com/drewalth/wh2o-next'
+            target={'_blank'}
+            rel={'noreferrer'}
+          >
+            <GithubOutlined />
+          </a>
+        </Footer>
       </Layout>
     </Layout>
   )
