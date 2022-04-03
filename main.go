@@ -1,8 +1,6 @@
 package main
 
 import (
-	"log"
-	"net/http"
 	"time"
 
 	"wh2o-next/core/alerts"
@@ -16,7 +14,6 @@ import (
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/contrib/static"
 	"github.com/gin-gonic/gin"
-	"github.com/joho/godotenv"
 	"gorm.io/gorm"
 )
 
@@ -29,12 +26,6 @@ func Database(db *gorm.DB) gin.HandlerFunc {
 
 func main() {
 
-	err := godotenv.Load(".env")
-
-	if err != nil {
-		log.Fatalf("Error loading .env file")
-	}
-
 	router := gin.Default()
 	db := database.InitializeDatabase()
 
@@ -43,30 +34,21 @@ func main() {
 	router.Use(Database(db))
 
 	router.Use(cors.New(cors.Config{
-		AllowOrigins: []string{"http://localhost:8080", "https://wh2o-api.com"},
-		AllowMethods: []string{"PUT", "POST", "GET", "DELETE"},
-		AllowHeaders: []string{"Origin"},
-		// ExposeHeaders:    []string{"Content-Length"},
+		AllowOrigins:     []string{"http://localhost:8080", "*"},
+		AllowMethods:     []string{"PUT", "POST", "GET", "DELETE"},
+		AllowHeaders:     []string{"Origin"},
 		AllowCredentials: true,
-		// AllowOriginFunc: func(origin string) bool {
-		// 	return origin == "https://github.com"
-		// },
-		MaxAge: 12 * time.Hour,
+		MaxAge:           12 * time.Hour,
 	}))
 
 	router.Use(static.Serve("/", static.LocalFile("./client/build", true)))
 	// must be a better way to handle direct navigation to react router routes
 	// wildcard?
 	router.Use(static.Serve("/settings", static.LocalFile("./client/build", true)))
+	router.Use(static.Serve("/exporter", static.LocalFile("./client/build", true)))
 
 	api := router.Group("/api")
 	{
-
-		api.GET("/", func(c *gin.Context) {
-			c.JSON(http.StatusOK, gin.H{
-				"result": "yo",
-			})
-		})
 
 		api.GET("/gages", gages.HandleGetGages)
 		api.GET("/gage-sources/:state", gages.HandleGetGageSources)

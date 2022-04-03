@@ -1,13 +1,12 @@
 module wh2o-next
 
-go 1.17
+go 1.18
 
 require (
 	github.com/gin-contrib/cors v1.3.1
 	github.com/gin-gonic/contrib v0.0.0-20201101042839-6a891bf89f19
 	github.com/gin-gonic/gin v1.7.7
 	github.com/go-co-op/gocron v1.13.0
-	github.com/joho/godotenv v1.4.0
 	github.com/mailgun/mailgun-go/v4 v4.6.0
 	github.com/twilio/twilio-go v0.23.0
 	gorm.io/driver/sqlite v1.3.1

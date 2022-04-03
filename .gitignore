@@ -16,9 +16,12 @@
 /out/
 
 # production
-/build
-client/
+client/build/
+client/build/
+.idea/
 wh2o-next
+main
+*.zip
 # misc
 .DS_Store
 *.pem
