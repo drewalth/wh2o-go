@@ -1,19 +1,8 @@
 import { Navigation } from '../components/Common/Navigation'
-import {
-  Button,
-  Card,
-  Checkbox,
-  Col,
-  Form,
-  Input,
-  Layout,
-  Row,
-  Select,
-  Tabs
-} from 'antd'
+import { Button, Card, Checkbox, Col, Input, Layout, Row, Tabs } from 'antd'
 import { useState } from 'react'
 import AppProvider from '../components/App/AppProvider'
-import { RequestStatus, UserConfigDto, ExportData } from '../types'
+import { ExportData } from '../types'
 import { exportData, importData } from '../controllers'
 import { TabPane } from 'rc-tabs'
 
@@ -25,7 +14,6 @@ const Exporter = () => {
   const [selectedTab, setSelectedTab] = useState<TabKey>('1')
   const [userImportData, setUserImportData] = useState<ExportData>()
   const [jsonValid, setJsonValid] = useState(true)
-  const [downloadPath, setDownloadPath] = useState('')
 
   const handleSubmit = async () => {
     if (selectedTab === '1') {

@@ -1,6 +1,5 @@
 import { Alert, RequestStatus } from '../../../types'
 import { createContext, useEffect, useState, useContext } from 'react'
-import { notification } from 'antd'
 import { getAlerts } from '../../../controllers'
 
 type AlertContextData = {
@@ -35,7 +34,7 @@ export const useAlert = (): AlertContextData => {
   return {
     alerts,
     loadAlerts,
-    requestStatus,
+    requestStatus
   }
 }
 

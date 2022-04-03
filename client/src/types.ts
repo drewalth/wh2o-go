@@ -1,47 +1,5 @@
-/**
- * TODO clear old unused types leftover from Next.js version of app
- */
-
-import { DateTime } from 'luxon';
-
-
-export type EmailQueueJobData = {
-  name: 'gageNotify' | 'dailyNotify';
-  data: {
-    alert: Alert;
-    gages: Gage[] | Gage;
-  };
-};
-
-export type GageQueueJobData = {
-  data: {
-    ready: boolean;
-  };
-};
-
-export type SMSQueueJobData = {
-  data: {
-    alert: Alert;
-    gage: Gage;
-  };
-};
-
-export enum Queues {
-  GAGE = 'Gage',
-  ALERT = 'Alert',
-  EMAIL = 'Email',
-  SMS = 'SMS',
-}
-
-export type GageFetchSchedule = {
-  nextFetch: DateTime;
-};
-
-export enum FetchInterval {
-  ONE_MINUTE = '*/1 * * * *',
-  FIVE_MINUTES = '*/5 * * * *',
-  ONE_HOUR = '*/60 * * * *',
-}
+/* eslint-disable no-unused-vars */
+import { AlertCriteria, AlertInterval, AlertChannel } from "./enums"
 
 export type UserConfig = {
   ID: number;
@@ -56,22 +14,6 @@ export type UserConfig = {
 };
 
 export type UserConfigDto = Omit<UserConfig, 'ID'>;
-
-export enum AlertInterval {
-  DAILY = 'daily',
-  IMMEDIATE = 'immediate',
-}
-
-export enum AlertCriteria {
-  ABOVE = 'above',
-  BELOW = 'below',
-  BETWEEN = 'between',
-}
-
-export enum AlertChannel {
-  EMAIL = 'email',
-  SMS = 'sms',
-}
 
 export type Alert = {
   ID: number;

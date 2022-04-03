@@ -9,13 +9,8 @@ import {
   Select,
   TimePicker
 } from 'antd'
-import {
-  AlertChannel,
-  AlertCriteria,
-  AlertInterval,
-  CreateAlertDto,
-  GageMetric
-} from '../../types'
+import { CreateAlertDto, GageMetric } from '../../types'
+import { AlertChannel, AlertCriteria, AlertInterval } from '../../enums'
 import { useGagesContext } from '../Provider/GageProvider'
 import { createAlert } from '../../controllers'
 import { useAlertsContext } from '../Provider/AlertProvider'
