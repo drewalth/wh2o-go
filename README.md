@@ -4,7 +4,7 @@ Dashboard and custom notifications via Email or SMS for USGS river gages built w
 
 #### Nextjs
 
-If you'd prefer not to work with Go, checkout the [NextJs Branch](https://github.com/drewalth/wh2o-next/tree/nextjs).
+If you'd prefer not to work with Go and just JavaScript/Nodejs, checkout the [NextJs Branch](https://github.com/drewalth/wh2o-next/tree/nextjs).
 
 ## Requirements
 
@@ -13,7 +13,7 @@ If you'd prefer not to work with Go, checkout the [NextJs Branch](https://github
 - [Mailgun Account (Optional - Free)](https://www.mailgun.com/)
 - [Twilio Account (Optional - Almost Free)](https://www.twilio.com/docs/sms)
 
-You do not _need_ either a Mailgun or a Twilio account to use the app. You can still view aggregate gage readings from your bookmarked apps without creating new accounts. Similarly, if you'd like to use different email or sms client, just swap out the Mailgun and Twilio usages + config with your preferred library.
+You do not _need_ either a Mailgun or a Twilio account to use the app. You can still view aggregate gage readings from your bookmarked gages without going through the hassle of creating new accounts. Similarly, if you'd like to use different email or sms client, just swap out the Mailgun and Twilio usages + config with your preferred library.
 
 ## Development
 
