@@ -50,8 +50,8 @@ You do not _need_ either a Mailgun or a Twilio account to use the app. You can s
 3. Make scripts executable.
 
 ```sh
-chmod +x ./script/bootstrap.sh
-chmod +x ./script/server.sh
+$ chmod +x ./script/bootstrap.sh
+$ chmod +x ./script/server.sh
 ```
 
 4. Install dependencies then build server and frontend.
@@ -88,6 +88,20 @@ const config: AxiosRequestConfig = {
 
 ```sh
 $ ./script/bootstrap.sh
+```
+
+## Updating
+
+1. Make update script executable:
+
+```sh
+$ chmod +x ./script/update.sh
+```
+
+2. Run update script:
+
+```sh
+$ ./script/update.sh
 ```
 
 ## Backup Data
