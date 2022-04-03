@@ -45,9 +45,9 @@ export const Alert = (): JSX.Element => {
       const NotifyTime = moment(createForm.NotifyTime).format(
         'YYYY-MM-DDTHH:mm:ss'
       )
-
       await createAlert({
         ...createForm,
+        Value: Number(createForm.Value),
         NotifyTime
       })
       await loadAlerts()

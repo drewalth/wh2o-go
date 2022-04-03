@@ -19,7 +19,7 @@ type Alert struct {
 	Channel    string // email or sms
 	Interval   string // daily or immediate
 	Metric     string // cfs, ft, temp or immediate
-	Value      int
+	Value      float64
 	GageID     int
 	UserID     int
 	LastSent   time.Time
@@ -29,18 +29,18 @@ type Alert struct {
 }
 
 type UpdateAlertDto struct {
-	ID         uint   `form:"ID"`
-	Name       string `form:"Name"`
-	Active     bool   `form:"Active"`
-	Minimum    int    `form:"Minimum"`
-	Maximum    int    `form:"Maximum"`
-	Criteria   string `form:"Criteria"`
-	Channel    string `form:"Channel"`
-	Interval   string `form:"Interval"`
-	Metric     string `form:"Metric"`
-	Value      int    `form:"Value"`
-	GageID     int    `form:"GageID"`
-	NotifyTime string `form:"NotifyTime"`
+	ID         uint    `form:"ID"`
+	Name       string  `form:"Name"`
+	Active     bool    `form:"Active"`
+	Minimum    int     `form:"Minimum"`
+	Maximum    int     `form:"Maximum"`
+	Criteria   string  `form:"Criteria"`
+	Channel    string  `form:"Channel"`
+	Interval   string  `form:"Interval"`
+	Metric     string  `form:"Metric"`
+	Value      float64 `form:"Value"`
+	GageID     int     `form:"GageID"`
+	NotifyTime string  `form:"NotifyTime"`
 }
 
 type CreateAlertDto struct {
@@ -50,10 +50,10 @@ type CreateAlertDto struct {
 	Minimum    int    `json:"Minimum"`
 	Maximum    int    `json:"Maximum"`
 	NotifyTime string
-	Criteria   string `json:"Criteria"` // above, below, or between
-	Channel    string `json:"Channel"`  // email or sms
-	Interval   string `json:"Interval"` // daily or immediate
-	Value      int    `json:"Value"`
+	Criteria   string  `json:"Criteria"` // above, below, or between
+	Channel    string  `json:"Channel"`  // email or sms
+	Interval   string  `json:"Interval"` // daily or immediate
+	Value      float64 `json:"Value"`
 }
 
 func AlertFindOne(alertId int) {
