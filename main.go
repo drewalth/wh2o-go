@@ -1,6 +1,10 @@
 package main
 
 import (
+	"embed"
+	"io/fs"
+	"net/http"
+	"os"
 	"time"
 
 	"wh2o-next/core/alerts"
@@ -24,9 +28,61 @@ func Database(db *gorm.DB) gin.HandlerFunc {
 	}
 }
 
+//go:embed client/build
+var reactStatic embed.FS
+
+type embedFileSystem struct {
+	http.FileSystem
+	indexes bool
+}
+
+func (e embedFileSystem) Exists(prefix string, path string) bool {
+	f, err := e.Open(path)
+	if err != nil {
+		return false
+	}
+
+	// check if indexing is allowed
+	s, _ := f.Stat()
+	if s.IsDir() && !e.indexes {
+		return false
+	}
+
+	return true
+}
+
+func EmbedFolder(fsEmbed embed.FS, targetPath string, index bool) static.ServeFileSystem {
+	subFS, err := fs.Sub(fsEmbed, targetPath)
+	if err != nil {
+		panic(err)
+	}
+	return embedFileSystem{
+		FileSystem: http.FS(subFS),
+		indexes:    index,
+	}
+}
+
 func main() {
 
+	port := os.Getenv("PORT")
+
+	if port == "" {
+		port = "3000"
+	}
+
 	router := gin.Default()
+
+	fs := EmbedFolder(reactStatic, "client/build", true)
+
+	router.Use(static.Serve("/", fs))
+
+	// Temp solution for 404 when trying to navigate
+	// directly to /settings or /exporter
+	// @see https://stackoverflow.com/questions/69462376/serving-react-static-files-in-golang-gin-gonic-using-goembed-giving-404-error-o
+	router.NoRoute(func(c *gin.Context) {
+		c.Redirect(http.StatusFound, "/")
+	})
+
 	db := database.InitializeDatabase()
 
 	cron.InitializeCronJobs(db)
@@ -40,12 +96,6 @@ func main() {
 		AllowCredentials: true,
 		MaxAge:           12 * time.Hour,
 	}))
-
-	router.Use(static.Serve("/", static.LocalFile("./client/build", true)))
-	// must be a better way to handle direct navigation to react router routes
-	// wildcard?
-	router.Use(static.Serve("/settings", static.LocalFile("./client/build", true)))
-	router.Use(static.Serve("/exporter", static.LocalFile("./client/build", true)))
 
 	api := router.Group("/api")
 	{
@@ -71,6 +121,6 @@ func main() {
 		api.GET("/lib/tz", lib.GetTimezones)
 	}
 
-	router.Run(":3000")
+	router.Run(":" + port)
 
 }

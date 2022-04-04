@@ -1,10 +1,9 @@
 package lib
 
 import (
+	_ "embed"
 	"encoding/json"
-	"io/ioutil"
 	"net/http"
-	"os"
 
 	"github.com/gin-gonic/gin"
 )
@@ -24,50 +23,35 @@ type AllGages struct {
 	Gages []GageEntry `json:"gages"`
 }
 
+//go:embed sources/timezones.json
+var timezones []byte
+
+//go:embed sources/us-states.json
+var usStates []byte
+
 func GetUsStates(c *gin.Context) {
-
-	jsonFile, err := os.Open("./core/lib/sources/us-states.json")
-
-	if err != nil {
-		panic(err)
-	}
 
 	var states []UsState
 
-	byteValue, _ := ioutil.ReadAll(jsonFile)
-
-	marshalErr := json.Unmarshal(byteValue, &states)
+	marshalErr := json.Unmarshal(usStates, &states)
 
 	if marshalErr != nil {
 		panic(marshalErr)
 	}
 
-	defer jsonFile.Close()
-
 	c.JSON(http.StatusOK, states)
-
 }
 
 func GetTimezones(c *gin.Context) {
 
-	jsonFile, err := os.Open("./core/lib/sources/timezones.json")
+	var parsedTimezones []string
 
-	if err != nil {
-		panic(err)
-	}
-
-	var timezones []string
-
-	byteValue, _ := ioutil.ReadAll(jsonFile)
-
-	marshalErr := json.Unmarshal(byteValue, &timezones)
+	marshalErr := json.Unmarshal(timezones, &parsedTimezones)
 
 	if marshalErr != nil {
 		panic(marshalErr)
 	}
 
-	defer jsonFile.Close()
-
-	c.JSON(http.StatusOK, timezones)
+	c.JSON(http.StatusOK, parsedTimezones)
 
 }

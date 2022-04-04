@@ -1,6 +1,7 @@
 package gages
 
 import (
+	"embed"
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
@@ -83,7 +84,6 @@ type Gage struct {
 }
 
 type GageReading struct {
-	// gorm.Model
 	ID        uint      `gorm:"primaryKey"`
 	SiteId    string    `gorm:"required"`
 	Value     float64   `gorm:"required"`
@@ -92,6 +92,22 @@ type GageReading struct {
 	CreatedAt time.Time `gorm:"autoCreateTime"`
 	UpdatedAt time.Time `gorm:"autoUpdateTime"`
 }
+
+type DeleteGageUri struct {
+	ID string `uri:"id" binding:"required"`
+}
+
+type GageSourceUri struct {
+	State string `uri:"state" binding:"required"`
+}
+
+type UpdateGageDto struct {
+	ID     int    `form:"ID"`
+	Metric string `form:"Metric"`
+}
+
+//go:embed sources/*.json
+var gageSourcesDir embed.FS
 
 func FetchGageReadings(db *gorm.DB, gages []Gage) USGSGageData {
 
@@ -168,19 +184,6 @@ func HandleCreateGage(c *gin.Context) {
 
 }
 
-type DeleteGageUri struct {
-	ID string `uri:"id" binding:"required"`
-}
-
-type GageSourceUri struct {
-	State string `uri:"state" binding:"required"`
-}
-
-type UpdateGageDto struct {
-	ID     int    `form:"ID"`
-	Metric string `form:"Metric"`
-}
-
 func HandleDeleteGage(c *gin.Context) {
 
 	var gage DeleteGageUri
@@ -222,11 +225,34 @@ func HandleUpdateGage(c *gin.Context) {
 func HandleGetGageSources(c *gin.Context) {
 	var state GageSourceUri
 
+	files, err := gageSourcesDir.ReadDir("sources")
+
+	if err != nil {
+		panic(err)
+	}
+
 	if c.ShouldBindUri(&state) == nil {
 
-		stateGages := GetUSStateGages(state.State)
+		for _, file := range files {
+			if strings.Contains(file.Name(), state.State) {
+				val, err := gageSourcesDir.ReadFile("sources/" + file.Name())
 
-		c.JSON(http.StatusOK, stateGages)
+				if err != nil {
+					fmt.Println(err)
+					continue
+				}
+
+				var gageSource []GageSource
+
+				if err := json.Unmarshal(val, &gageSource); err != nil {
+					fmt.Println(err)
+					continue
+				}
+				c.JSON(http.StatusOK, gageSource)
+				break
+			}
+
+		}
 
 	}
 
@@ -289,8 +315,6 @@ func FormatUSGSData(gageData USGSGageData, gages []Gage) []GageReading {
 			Value:  latestReading,
 			Metric: metric,
 			SiteId: siteId,
-			// CreatedAt: time.Now(), // value should come from USGS
-			// UpdatedAt: time.Now(), // value should come from USGS
 		})
 
 	}

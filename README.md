@@ -12,7 +12,8 @@ Dashboard and custom notifications via Email or SMS for USGS river gages built w
 
 ## To-Do
 
-- [ ] embed json assets into dist binary
+- [x] embed json assets into dist binary. See [`gages.HandleGetGageSources`](/core/gages/gages.go) and [`lib`](/core/lib/).
+- [x] embed static frontend files into dist binary.
 - [ ] setup goreleaser or some other auto semver service
 
 ## FAQ
