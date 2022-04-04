@@ -95,10 +95,10 @@ func FilterGageReadings(readings []gages.GageReading, gageSiteId string) []gages
 }
 
 func ReadingMeetsCriteria(reading gages.GageReading, alert alerts.Alert) bool {
-	return (alert.Criteria == "above" && reading.Value > float64(alert.Value)) ||
-		(alert.Criteria == "below" && reading.Value < float64(alert.Value)) ||
-		(alert.Criteria == "between" && (reading.Value > float64(alert.Minimum) &&
-			reading.Value < float64(alert.Maximum)))
+	return (reading.Metric == alert.Metric) && (alert.Criteria == "above" && reading.Value > alert.Value) ||
+		(alert.Criteria == "below" && reading.Value < alert.Value) ||
+		(alert.Criteria == "between" && (reading.Value > alert.Minimum &&
+			reading.Value < alert.Maximum))
 }
 
 func CheckLatestReadings(readings []gages.GageReading, alerts []alerts.Alert, db *gorm.DB) {

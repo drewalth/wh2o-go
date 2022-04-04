@@ -1,7 +1,6 @@
 package alerts
 
 import (
-	"fmt"
 	"net/http"
 	"time"
 
@@ -13,8 +12,8 @@ type Alert struct {
 	ID         uint   `gorm:"primaryKey"`
 	Name       string `gorm:"unique"`
 	Active     bool   `gorm:"default:true"`
-	Minimum    int
-	Maximum    int
+	Minimum    float64
+	Maximum    float64
 	Criteria   string // above, below, or between
 	Channel    string // email or sms
 	Interval   string // daily or immediate
@@ -32,8 +31,8 @@ type UpdateAlertDto struct {
 	ID         uint    `form:"ID"`
 	Name       string  `form:"Name"`
 	Active     bool    `form:"Active"`
-	Minimum    int     `form:"Minimum"`
-	Maximum    int     `form:"Maximum"`
+	Minimum    float64 `form:"Minimum"`
+	Maximum    float64 `form:"Maximum"`
 	Criteria   string  `form:"Criteria"`
 	Channel    string  `form:"Channel"`
 	Interval   string  `form:"Interval"`
@@ -44,11 +43,12 @@ type UpdateAlertDto struct {
 }
 
 type CreateAlertDto struct {
-	GageID     uint   `json:"GageID"`
-	Metric     string `json:"Metric"`
-	Name       string `json:"Name"`
-	Minimum    int    `json:"Minimum"`
-	Maximum    int    `json:"Maximum"`
+	UserID     int     `json:"UserID"`
+	GageID     int     `json:"GageID"`
+	Metric     string  `json:"Metric"`
+	Name       string  `json:"Name"`
+	Minimum    float64 `json:"Minimum"`
+	Maximum    float64 `json:"Maximum"`
 	NotifyTime string
 	Criteria   string  `json:"Criteria"` // above, below, or between
 	Channel    string  `json:"Channel"`  // email or sms
@@ -56,13 +56,8 @@ type CreateAlertDto struct {
 	Value      float64 `json:"Value"`
 }
 
-func AlertFindOne(alertId int) {
-
-	fmt.Println("Alert get handler")
-
-	// result := database.FindGages()
-
-	// return result
+type DeleteAlertUri struct {
+	ID string `uri:"id" binding:"required"`
 }
 
 func HandleGetAlerts(c *gin.Context) {
@@ -84,10 +79,6 @@ func HandleCreateAlert(c *gin.Context) {
 		db.Table("alerts").Create(createDto)
 	}
 
-}
-
-type DeleteAlertUri struct {
-	ID string `uri:"id" binding:"required"`
 }
 
 func HandleDeleteAlert(c *gin.Context) {
