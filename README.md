@@ -10,11 +10,10 @@ Dashboard and custom notifications via Email or SMS for USGS river gages built w
 - Immediate Alerts. Setup a notification to send you an SMS message when your favorite local creek is at prime flow.
 - Dashboard. View all your bookmarked gages and their latest readings in one spot.
 
-## Intro
+## To-Do
 
-This project started as an [@sovrn](https://github.com/sovrn) Innovation Week project to learn Go (Many dubious design decisions were made. PRs and feedback are very welcome). The app is geared toward river enthusiasts who would like a place to quickly view USGS river gage readings and create Email or SMS notifications. The goal is to create something that is as non-developer friendly as possible. Unfortunately, this project has a fairly high barrier of entry. I'm considering simply dockerizing the app and publishing an image to Docker Hub. This approach would make setup much easier but would also be more taxing on less powerful machines like Raspberry Pis.
-
-I've started on an [Electron version](https://github.com/drewalth/wh2o-desktop) of the app a while back, thinking it would make distribution much easier but was not super keen on jumping through all the hoops required by the Apple App and Google Play stores. Feel free to check that out.
+- [ ] embed json assets into dist binary
+- [ ] setup goreleaser or some other auto semver service
 
 ## FAQ
 
