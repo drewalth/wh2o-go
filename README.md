@@ -35,15 +35,21 @@ If you'd prefer not to work with Go and just JavaScript/Nodejs, check out the [N
 
 ## Requirements
 
-- [Git](https://git-scm.com/)
-- [Golang](https://go.dev/)
-- [Nodejs](https://nodejs.org/en/)
 - [Mailgun Account (Optional - Free)](https://www.mailgun.com/)
 - [Twilio Account (Optional - Almost Free)](https://www.twilio.com/docs/sms)
 
 You do not _need_ either a Mailgun or a Twilio account to use the app. You can still view aggregate gage readings from your bookmarked gages without going through the hassle of creating new accounts. Similarly, if you'd like to use a different email or SMS client, just swap out the Mailgun and Twilio usages + config with your preferred library.
 
-## Getting Started
+## Development
+
+### System Requirements
+
+- [Golang](https://go.dev/)
+- [Nodejs](https://nodejs.org/en/)
+- [Docker (Optional)](https://www.docker.com/). For cross-platform compilation with [goreleaser-cross](https://github.com/goreleaser/goreleaser-cross).
+- [Semantic Version Util (Optional)](https://github.com/caarlos0/svu). For generating version/release tags.
+
+### Getting Started
 
 1. `git clone https://github.com/drewalth/wh2o-next.git`
 2. `cd wh2o-next/`
@@ -66,71 +72,9 @@ $ ./script/bootstrap.sh
 $ ./script/server.sh
 ```
 
-### Config
-
-Depending on where you're running the application, on your main computer or somewhere else, you may need to change the Axios config for the frontend. For example, if you're running this on a Raspberry Pi, then you'll need to change the `baseUrl` to the Pi's IP Address.
-
-1. Get your Pi's local IP address:
-
-```sh
-$ ifconfig
-```
-
-2. Edit [Axios config](/client/src/lib/http.ts):
-
-```ts
-const config: AxiosRequestConfig = {
-  baseURL: 'http://<machine_ip_address>:3000/api'
-}
-```
-
-3. Rebuild.
-
-```sh
-$ ./script/bootstrap.sh
-```
-
-## Updating
-
-1. Make update script executable:
-
-```sh
-$ chmod +x ./script/update.sh
-```
-
-2. Run update script:
-
-```sh
-$ ./script/update.sh
-```
-
 ## Backup Data
 
 If you'd like to backup data to Dropbox or something else, change the file path for the sqlite database in [`database.go`](/database/database.go).
-
-### Cross-Platform Compilation
-
-If compiling the server for `arm64` you will want to run the `bootstrap` script on the machine. I know [it is possible](https://mansfield-devine.com/speculatrix/2019/02/go-on-raspberry-pi-simple-cross-compiling/) to compile specifically for `arm64` on another machine, but so far I have not had much success.
-
-## Development
-
-- Clone repo
-- `cd client`
-- Install React dependencies: `npm ci`
-- Build frontend for development + start dev server: `npm start`
-- `cd ..`
-- Install Go dependencies: `go get ./...`
-- Start server: `go run main.go`
-
-## Production
-
-- `cd client`
-- Install React dependencies: `npm ci`
-- Build frontend: `npm run build`
-- `cd ..`
-- Compile: `go build`
-
-The Go API will server static React files from the `client/build/` directory.
 
 ## Screenshots
 
