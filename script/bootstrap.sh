@@ -1,8 +1,10 @@
-#!/bin/zsh
-echo bootstrapping application...
+#!/bin/bash
+
+echo Bootstrapping Application...
 cd client
-npm ci
-npm run build
-rm -rf node_modules
+echo Installing Frontend Dependencies...
+npm ci --silent
+echo Compiling Frontend files...
+npm run --silent build
 cd ..
-go build main.go
+go mod tidy
