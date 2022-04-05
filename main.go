@@ -1,10 +1,14 @@
 package main
 
 import (
+	"context"
 	"embed"
 	"io/fs"
+	"log"
 	"net/http"
 	"os"
+	"os/signal"
+	"syscall"
 	"time"
 
 	"wh2o-next/core/alerts"
@@ -64,6 +68,10 @@ func EmbedFolder(fsEmbed embed.FS, targetPath string, index bool) static.ServeFi
 
 func main() {
 
+	// Create context that listens for the interrupt signal from the OS.
+	ctx, stop := signal.NotifyContext(context.Background(), syscall.SIGINT, syscall.SIGTERM)
+	defer stop()
+
 	port := os.Getenv("PORT")
 
 	if port == "" {
@@ -121,6 +129,28 @@ func main() {
 		api.GET("/lib/tz", lib.GetTimezones)
 	}
 
-	router.Run(":" + port)
+	srv := &http.Server{
+		Addr:    ":3000",
+		Handler: router,
+	}
+
+	go func() {
+		if err := srv.ListenAndServe(); err != nil && err != http.ErrServerClosed {
+			log.Fatalf("listen: %s\n", err)
+		}
+	}()
+
+	<-ctx.Done()
+
+	stop()
+	log.Println("shutting down gracefully, press Ctrl+C again to force")
+
+	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
+	defer cancel()
+	if err := srv.Shutdown(ctx); err != nil {
+		log.Fatal("Server forced to shutdown: ", err)
+	}
+
+	log.Println("Server exiting")
 
 }
