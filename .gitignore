@@ -49,3 +49,4 @@ wh2o-next
 /tmp/
 
 wh2o-data-*.json
+dist/
