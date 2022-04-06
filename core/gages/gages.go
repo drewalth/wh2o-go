@@ -248,7 +248,7 @@ func HandleGetGageSources(c *gin.Context) {
 					fmt.Println(err)
 					continue
 				}
-				c.JSON(http.StatusOK, gageSource)
+				c.JSON(http.StatusOK, &gageSource)
 				break
 			}
 

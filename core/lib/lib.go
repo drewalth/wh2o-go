@@ -39,7 +39,7 @@ func GetUsStates(c *gin.Context) {
 		panic(marshalErr)
 	}
 
-	c.JSON(http.StatusOK, states)
+	c.JSON(http.StatusOK, &states)
 }
 
 func GetTimezones(c *gin.Context) {
@@ -52,6 +52,6 @@ func GetTimezones(c *gin.Context) {
 		panic(marshalErr)
 	}
 
-	c.JSON(http.StatusOK, parsedTimezones)
+	c.JSON(http.StatusOK, &parsedTimezones)
 
 }
