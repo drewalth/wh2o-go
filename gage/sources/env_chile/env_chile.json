@@ -1,0 +1,6470 @@
+[
+  {
+    "gageName": "Visviri   ",
+    "siteId": "01000005-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Chungara Ajata",
+    "siteId": "01010010-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Chucuyo Reten ",
+    "siteId": "01020016-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Parinacota Ex Endesa  ",
+    "siteId": "01020017-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Lauca Sector las Rejas Km 26 (Doh)  ",
+    "siteId": "01020019-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Lauca en Chucuyo Km 0 (Doh) ",
+    "siteId": "01020020-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Lauca en Japu (O en el Limite)",
+    "siteId": "01021001-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Guallatire en Guallatire  ",
+    "siteId": "01021002-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Chilcaya  ",
+    "siteId": "01030003-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Colchane (T. Isluga)  ",
+    "siteId": "01041003-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Enquelca (Ex Caraguano)   ",
+    "siteId": "01041004-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Huaytani  ",
+    "siteId": "01042002-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Piga en Collacagua",
+    "siteId": "01050002-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Vertiente el Ermitaño en Lag.huasco   ",
+    "siteId": "01051001-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Villa Industrial (Tacora) ",
+    "siteId": "01200002-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Volcan Tacora ",
+    "siteId": "01200004-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Colpitas en Alcerreca ",
+    "siteId": "01201001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Lluta en Alcerreca",
+    "siteId": "01201003-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Caracarani en Humapalca   ",
+    "siteId": "01201005-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Alcerreca ",
+    "siteId": "01201010-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Putre (Dcp)   ",
+    "siteId": "01202012-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quebrada Socoroma ",
+    "siteId": "01202013-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Lluta en Tocontasi",
+    "siteId": "01210001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Lluta en Panamericana ",
+    "siteId": "01211001-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Laco en Cosapilla ",
+    "siteId": "01300002-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Central Chapiquiña",
+    "siteId": "01300006-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Belen ",
+    "siteId": "01300007-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Tignamar  ",
+    "siteId": "01300008-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Ticnamar en Angostura ",
+    "siteId": "01300009-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Copaquilla",
+    "siteId": "01300010-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río San Jose en Ausipar   ",
+    "siteId": "01310002-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Acueducto Azapa en Bocatoma   ",
+    "siteId": "01310004-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Arica Oficina ",
+    "siteId": "01310018-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Azapa ",
+    "siteId": "01310019-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Codpa en Cala-cala",
+    "siteId": "01410004-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Umirpa",
+    "siteId": "01410013-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Camarones en Conanoxa ",
+    "siteId": "01502002-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Esquiña   ",
+    "siteId": "01502007-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Camarones en Chilpe   ",
+    "siteId": "01502008-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Q. Camiña 3 Km. A. Arriba de Tarcavire",
+    "siteId": "01610004-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Camiña",
+    "siteId": "01611001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Huara en Fuerte Baquedano ",
+    "siteId": "01700010-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Chiapa",
+    "siteId": "01720006-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Coscaya en Saitoco",
+    "siteId": "01730003-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Q. Tarapaca en Sibaya ",
+    "siteId": "01730007-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Poroma",
+    "siteId": "01730017-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Mocha ",
+    "siteId": "01730019-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Chuzmiza  ",
+    "siteId": "01730020-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quebrada de Tarapaca en Tarapaca  ",
+    "siteId": "01730021-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Punto Control Fluviometrico Angostura ",
+    "siteId": "01730022-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Punto Control Fluviometrico Poroma",
+    "siteId": "01730023-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Volcan Quimsachata",
+    "siteId": "01730024-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Parca ",
+    "siteId": "01740001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Mamiña",
+    "siteId": "01750003-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quebrada Caya ",
+    "siteId": "01770002-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Iquique   ",
+    "siteId": "01820001-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Ollague   ",
+    "siteId": "02000001-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Volcan Aucanquincha   ",
+    "siteId": "02000002-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Loa antes Represa Lequena ",
+    "siteId": "02101001-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Captacion de Aguas Antofagasta en Lequena ",
+    "siteId": "02101004-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Captacion de Aguas Antofagasta en Quinchamale ",
+    "siteId": "02102007-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Siloli antes B.t. Fcab",
+    "siteId": "02103014-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Captacion de Fcab en Siloli   ",
+    "siteId": "02103015-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Captacion de Codelco en Colana",
+    "siteId": "02103016-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Captacion de Codelco en Inacaliri ",
+    "siteId": "02103017-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río San Pedro en Parshall 2 (Codelco) ",
+    "siteId": "02103018-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Loa en Salida Embalse Conchi  ",
+    "siteId": "02104002-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Salado A. J. Curti",
+    "siteId": "02105001-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Salado en Sifon Ayquina   ",
+    "siteId": "02105002-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Cupo  ",
+    "siteId": "02105014-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Linzor",
+    "siteId": "02105016-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Salado Embalse",
+    "siteId": "02105020-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "El Tatio  ",
+    "siteId": "02105022-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Captacion de Aguas Antofagasta en Toconce ",
+    "siteId": "02105033-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Captaciones Codelco en Salado-hojalar ",
+    "siteId": "02105034-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Captacion de Codelco en Linzor (Toconce)  ",
+    "siteId": "02105035-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Loa en Escorial   ",
+    "siteId": "02110001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Calama",
+    "siteId": "02110013-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Captacion de Aguas Antofagasta en Puente Negro",
+    "siteId": "02110020-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Captacion de Sqm Pedro de Valdivia (Vergara)  ",
+    "siteId": "02110021-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Captacion Sqm Maria Elena ",
+    "siteId": "02112012-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Captacion de Sqm Coya Sur ",
+    "siteId": "02112013-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Huatacondo en Copaquire   ",
+    "siteId": "02113001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Guatacondo DGA",
+    "siteId": "02113005-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Tocopilla ",
+    "siteId": "02210002-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Liceo Científico Humanista la Chimba  ",
+    "siteId": "02240000-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quebrada Bonilla  ",
+    "siteId": "02240003-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quebrada Farellones   ",
+    "siteId": "02240004-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quebrada la Cadena",
+    "siteId": "02240005-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Paso Jama ",
+    "siteId": "02300000-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Chajnantor Bajo   ",
+    "siteId": "02400001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Chajnantor Cumbre ",
+    "siteId": "02400002-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Paso Sico ",
+    "siteId": "02450000-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Toconao Quebrada 1",
+    "siteId": "02500025-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Toconao Quebrada 4",
+    "siteId": "02500026-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Toconao Pueblo",
+    "siteId": "02500027-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Guatin",
+    "siteId": "02500028-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Salar de Atacama N 1  ",
+    "siteId": "02500029-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Salar de Atacama N 2  ",
+    "siteId": "02500030-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río San Pedro en Cuchabrachi  ",
+    "siteId": "02510001-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Salar de Punta Negra  ",
+    "siteId": "02650001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quebrada Guanaqueros  ",
+    "siteId": "02650002-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Sierra Gorda  ",
+    "siteId": "02700001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Baquedano ",
+    "siteId": "02710002-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Antofagasta   ",
+    "siteId": "02710003-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quebrada el Toro  ",
+    "siteId": "02760000-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quebrada Jardines Del Sur ",
+    "siteId": "02900001-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Tal-tal (Dcp) ",
+    "siteId": "02943002-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río la Ola en Vertedero   ",
+    "siteId": "03022001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Salar de Pedernales   ",
+    "siteId": "03023000-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Lamas en el Salto ",
+    "siteId": "03041005-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quebrada Potrerillos  ",
+    "siteId": "03201001-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Las Vegas ",
+    "siteId": "03210001-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Caldera   ",
+    "siteId": "03340001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Jorquera en Vertedero ",
+    "siteId": "03404001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quebrada Carrizalillo ",
+    "siteId": "03404004-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Glaciar Maranceles",
+    "siteId": "03413001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Pulido en Vertedero   ",
+    "siteId": "03414001-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Iglesia Colorada  ",
+    "siteId": "03414002-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Manflas en Vertedero  ",
+    "siteId": "03421001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Copiapo en Lautaro",
+    "siteId": "03430001-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Copiapo en Pastillo   ",
+    "siteId": "03430003-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lautaro Embalse   ",
+    "siteId": "03430006-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Los Loros ",
+    "siteId": "03430007-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Embalse Copiapo Lautaro (Lm)  ",
+    "siteId": "03430016-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Copiapo en la Puerta  ",
+    "siteId": "03431001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Mal Paso después de Bocatoma",
+    "siteId": "03434002-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quebrada San Andres   ",
+    "siteId": "03440002-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Pastos Grandes",
+    "siteId": "03441001-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quebrada Paipote Ante Junta Quebrada San Andres   ",
+    "siteId": "03441002-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Copiapo   ",
+    "siteId": "03450004-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Copiapo en Angostura  ",
+    "siteId": "03453001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "El Totoral",
+    "siteId": "03604001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Conay en las Lozas",
+    "siteId": "03802001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Transito en Angostura Pinte   ",
+    "siteId": "03804002-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Junta Del Carmen  ",
+    "siteId": "03804007-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "El Transito   ",
+    "siteId": "03806002-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Carmen en el Corral   ",
+    "siteId": "03814003-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Carmen en Ramadillas  ",
+    "siteId": "03815001-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Carmen en Pte. la Majada  ",
+    "siteId": "03815002-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "San Felix ",
+    "siteId": "03815004-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Huasco en Algodones   ",
+    "siteId": "03820001-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Huasco en Santa Juana ",
+    "siteId": "03820003-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Santa Juana   ",
+    "siteId": "03820004-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Huasco en el Maiten   ",
+    "siteId": "03820009-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Vallenar DGA  ",
+    "siteId": "03823003-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "La Compañia (Vallenar)",
+    "siteId": "03823004-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Pozo A.p. Vallenar",
+    "siteId": "03823005-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Huasco en Puente Nicolasa ",
+    "siteId": "03825001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Freirina  ",
+    "siteId": "03825004-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Domeiko   ",
+    "siteId": "03940001-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "El Trapiche   ",
+    "siteId": "04120001-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Cerro Olivares",
+    "siteId": "04300001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Embalse la Laguna (Lm)",
+    "siteId": "04300002-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Glaciar Tapado en los Corrales",
+    "siteId": "04300004-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río la Laguna antes Junta Río Del Toro",
+    "siteId": "04301001-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "La Laguna Embalse ",
+    "siteId": "04301005-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Toro antes Junta Río la Laguna",
+    "siteId": "04302001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Incaguaz antes Junta Río Turbio   ",
+    "siteId": "04304002-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Turbio en Varillar",
+    "siteId": "04308001-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Rivadavia ",
+    "siteId": "04308003-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Los Nichos",
+    "siteId": "04311004-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "La Ortiga ",
+    "siteId": "04311005-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cochiguaz en el Peñon ",
+    "siteId": "04313001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Claro en Rivadavia",
+    "siteId": "04314002-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Paihuano  ",
+    "siteId": "04314008-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Elqui en Algarrobal   ",
+    "siteId": "04320001-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Vicuña (Inia) ",
+    "siteId": "04320003-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Elqui Entrada Embalse Puclaro ",
+    "siteId": "04321010-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Elqui en Almendral",
+    "siteId": "04323001-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Embalse Puclaro Intendente Fuentealba  (Lm)   ",
+    "siteId": "04323014-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "La Serena (Escuela Agricola)  ",
+    "siteId": "04335002-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Pan de Azucar Inia",
+    "siteId": "04400050-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Hurtado en San Agustin",
+    "siteId": "04501001-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Hurtado   ",
+    "siteId": "04502005-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Hurtado en Angostura de Pangue",
+    "siteId": "04503001-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Recoleta Embalse  ",
+    "siteId": "04506007-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Embalse Recoleta (Lm) ",
+    "siteId": "04506010-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Grande en las Ramadas ",
+    "siteId": "04511002-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Las Ramadas   ",
+    "siteId": "04511003-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Cerro Vega Negra  ",
+    "siteId": "04511004-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Grande en Cuyano  ",
+    "siteId": "04513001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quebrada Larga Cota 3500  ",
+    "siteId": "04520006-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Grande en Puntilla San Juan   ",
+    "siteId": "04523002-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Embalse la Paloma  (Lm)   ",
+    "siteId": "04524007-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cogoti en Fraguita",
+    "siteId": "04530001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cogoti Entrada Embalse Cogoti ",
+    "siteId": "04531002-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Cogoti 18 ",
+    "siteId": "04531003-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Combarbala",
+    "siteId": "04532006-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Embalse Cogoti (Lm)   ",
+    "siteId": "04534002-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Cogoti Embalse",
+    "siteId": "04535001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Paloma Embalse",
+    "siteId": "04540006-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "El Soldado",
+    "siteId": "04700002-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Choapa en Cuncumen",
+    "siteId": "04703002-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cuncumen antes Junta Choapa (Chacay)  ",
+    "siteId": "04704001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "La Tranquilla ",
+    "siteId": "04710001-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Choapa en Salamanca   ",
+    "siteId": "04711001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Coiron",
+    "siteId": "04711003-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Salamanca ",
+    "siteId": "04711004-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Chalinga en la Palmilla   ",
+    "siteId": "04712001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Embalse Corrales (Lm) ",
+    "siteId": "04714004-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Choapa en Puente Negro",
+    "siteId": "04716004-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Illapel en las Burras ",
+    "siteId": "04721001-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Embalse el Bato   ",
+    "siteId": "04722002-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Illapel en Huintil",
+    "siteId": "04723001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Huintil   ",
+    "siteId": "04723002-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Illapel en el Peral   ",
+    "siteId": "04726001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Illapel DGA   ",
+    "siteId": "04726003-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Choapa Aguas Arriba Estero la Canela  ",
+    "siteId": "04730001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "La Canela Dmc ",
+    "siteId": "04732001-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Pupio en el Romero ",
+    "siteId": "04810001-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Pupio antes Quebrada Llau-llau ",
+    "siteId": "04810005-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Los Vilos Dmc ",
+    "siteId": "04820001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Los Condores  ",
+    "siteId": "04902002-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Sobrante en Piñadero  ",
+    "siteId": "05100001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Nacimiento Del Sobrante   ",
+    "siteId": "05100003-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "El Trapiche   ",
+    "siteId": "05100005-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Pedernal en Tejada",
+    "siteId": "05101001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Petorca en Peñon o Hierro Viejo   ",
+    "siteId": "05110002-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Hierro Viejo  ",
+    "siteId": "05110003-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Frutillar Alto",
+    "siteId": "05111002-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Artificio ",
+    "siteId": "05120003-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Longotoma ",
+    "siteId": "05120006-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Alicahue en Colliguay ",
+    "siteId": "05200001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Alicahue  ",
+    "siteId": "05200006-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "La Mostaza",
+    "siteId": "05200007-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Mina Cerro Negro  ",
+    "siteId": "05211003-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Chacrilla ",
+    "siteId": "05220006-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Valle Hermoso ",
+    "siteId": "05221005-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Laguna de Zapallar",
+    "siteId": "05310001-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Glaciar Monos de Agua ",
+    "siteId": "05400005-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Juncal en Juncal  ",
+    "siteId": "05401003-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Portillo  ",
+    "siteId": "05401007-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Blanco en Río Blanco  ",
+    "siteId": "05402001-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Blanco antes Junta Río de los Leones  ",
+    "siteId": "05402015-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Aconcagua en Río Blanco   ",
+    "siteId": "05403002-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Riecillos ",
+    "siteId": "05403006-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Colorado en Bocatoma",
+    "siteId": "05404001-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Aconcagua en Chacabuquito ",
+    "siteId": "05410002-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Vilcuya   ",
+    "siteId": "05410006-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Los Andes ",
+    "siteId": "05410007-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "San Felipe",
+    "siteId": "05410008-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Aconcagua en San Felipe 2 ",
+    "siteId": "05410024-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Pocuro en el Sifon ",
+    "siteId": "05411001-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Embalse Chacrillas (Lm)   ",
+    "siteId": "05413002-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Putaendo en Resguardo los Patos   ",
+    "siteId": "05414001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Jahuel",
+    "siteId": "05415004-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero lo Campo en lo Campo (Ca)  ",
+    "siteId": "05420005-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Aconcagua en Panquehue",
+    "siteId": "05420011-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Catemu en Puente Santa Rosa",
+    "siteId": "05421002-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Catemu",
+    "siteId": "05421005-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Las Chilcas   ",
+    "siteId": "05422002-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal las Vegas en Bocatoma   ",
+    "siteId": "05423001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Aconcagua en Romeral  ",
+    "siteId": "05423003-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Rabuco (1)",
+    "siteId": "05423015-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "El Cobre  ",
+    "siteId": "05424005-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Aconcagua en Puente lo Rojas  ",
+    "siteId": "05425002-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lo Rojas  ",
+    "siteId": "05425003-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Aconcagua en Puente Colmo ",
+    "siteId": "05426003-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quillota  ",
+    "siteId": "05426004-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Pozo los Militares",
+    "siteId": "05426029-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Aconcagua en Puente Ferroviario   ",
+    "siteId": "05426030-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Embalse los Aromos (Lm)   ",
+    "siteId": "05427005-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lliu-lliu Embalse ",
+    "siteId": "05427006-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Los Aromos",
+    "siteId": "05427007-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quebrada Alvarado ",
+    "siteId": "05427008-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Aconcagua en Desembocadura con con",
+    "siteId": "05428013-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Las Piedras   ",
+    "siteId": "05500001-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Las Salinas   ",
+    "siteId": "05500003-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Rodelillo ",
+    "siteId": "05510001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago Peñuelas ",
+    "siteId": "05510002-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago Peñuelas (Lm)",
+    "siteId": "05510003-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Cerro Colorado Armada de Chile",
+    "siteId": "05510005-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Valparaíso",
+    "siteId": "05510007-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Casablanca",
+    "siteId": "05520001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "San Antonio (Pta. Panul)  ",
+    "siteId": "05530002-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lagunillas",
+    "siteId": "05530003-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Algarrobo ",
+    "siteId": "05530005-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Maipo en las Hualtatas",
+    "siteId": "05701001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Maipo en Queltehues   ",
+    "siteId": "05701009-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Las Melosas Ruta de Nieve Fpp ",
+    "siteId": "05701010-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Las Hualtatas ",
+    "siteId": "05701011-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Volcan en Queltehues  ",
+    "siteId": "05702001-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Glaciar San Franciscoen Aguas Panimavida  ",
+    "siteId": "05702011-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero la Engorda ",
+    "siteId": "05702013-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Embalse el Yeso (Lm)  ",
+    "siteId": "05703005-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "El Yeso Embalse   ",
+    "siteId": "05703008-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Laguna Negra  ",
+    "siteId": "05703009-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Valle Echaurren   ",
+    "siteId": "05703012-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Portezuelo Echaurren  ",
+    "siteId": "05703013-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Termas Del Plomo  ",
+    "siteId": "05703014-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Yeso  ",
+    "siteId": "05703015-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Glaciar Piramide (Emam)   ",
+    "siteId": "05703018-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "San Gabriel   ",
+    "siteId": "05704004-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "San Jose de Maipo Reten   ",
+    "siteId": "05704006-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Maipo Aguas Arriba Descarga las Lajas ",
+    "siteId": "05704014-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Colorado antes Junta Río Olivares ",
+    "siteId": "05705001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Queltehue   ",
+    "siteId": "05705002-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Glaciar Tupungatito Alto  ",
+    "siteId": "05705003-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Glaciar Tupungatito Bajo  ",
+    "siteId": "05705004-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Volcan Tupungato  ",
+    "siteId": "05705005-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Meteorologica Río Colorado",
+    "siteId": "05705006-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Olivares antes Junta Río Colorado ",
+    "siteId": "05706001-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Glaciar Olivares Gamma",
+    "siteId": "05706002-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Valle Olivares",
+    "siteId": "05706003-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Glaciar Juncal Sur",
+    "siteId": "05706004-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Glaciar Olivares Alfa ",
+    "siteId": "05706005-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Colorado antes Junta Río Maipo",
+    "siteId": "05707002-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Maitenes  ",
+    "siteId": "05707003-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Colorado  ",
+    "siteId": "05707005-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Maipo en el Manzano   ",
+    "siteId": "05710001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "La Obra Recinto Emos  ",
+    "siteId": "05710007-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Maipo Aguas Abajo Descarga las Lajas  ",
+    "siteId": "05710012-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Pirque",
+    "siteId": "05711003-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Pozo Fundo la Catolica",
+    "siteId": "05711004-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Codegua   ",
+    "siteId": "05713018-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Angostura en Valdivia de Paine",
+    "siteId": "05716001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Laguna Aculeo ",
+    "siteId": "05716005-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "El Vergel ",
+    "siteId": "05717008-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Molina antes Junta San Francisco  ",
+    "siteId": "05720001-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Yerba Loca antes Junta San Francisco   ",
+    "siteId": "05721001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río San Francisco antes Junta Estero Yerba Loca   ",
+    "siteId": "05721016-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Yerba Loca en Piedra Carvajal  ",
+    "siteId": "05721017-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "La Parva  ",
+    "siteId": "05721019-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Arrayan en la Montosa  ",
+    "siteId": "05722001-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Mapocho en los Almendros  ",
+    "siteId": "05722002-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Mapocho en los Almendros Gprs ",
+    "siteId": "05722007-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quebrada Ramon en Recinto Emos",
+    "siteId": "05730008-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Cerro Calan   ",
+    "siteId": "05730012-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Antupiren ",
+    "siteId": "05730013-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Terraza Oficinas Centrales DGA",
+    "siteId": "05730016-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quebrada de Macul ",
+    "siteId": "05730039-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Huechun Embalse   ",
+    "siteId": "05732001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Rungue Embalse (Nivel Emb.)   ",
+    "siteId": "05733001-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Caleu ",
+    "siteId": "05733007-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Fundo Marruecos   ",
+    "siteId": "05737008-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Pozo Mision Corazon de Maria  ",
+    "siteId": "05737016-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Mapocho en el Trebal  ",
+    "siteId": "05737019-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal las Mercedes",
+    "siteId": "05737028-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Carmen de las Rosas   ",
+    "siteId": "05740004-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Melipilla ",
+    "siteId": "05740005-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Puangue en Boqueron",
+    "siteId": "05741001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Los Panguiles ",
+    "siteId": "05744002-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Ibacache Alto ",
+    "siteId": "05744003-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Mallarauco",
+    "siteId": "05745001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Puangue en Ruta 78 ",
+    "siteId": "05746001-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Los Guindos   ",
+    "siteId": "05747001-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Maipo en Cabimbao ",
+    "siteId": "05748001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Cerrillos de Leyda",
+    "siteId": "05748003-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río las Leñas Ante Junta Río Cachapoal",
+    "siteId": "06000003-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Laguna el Yeso",
+    "siteId": "06000004-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Glaciar Cortaderal",
+    "siteId": "06001000-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cortaderal Ante Junta Río Cachapoal   ",
+    "siteId": "06002001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cachapoal 5 Km. Aguas Abajo Junta Cortaderal  ",
+    "siteId": "06003001-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Glaciar Cipreses  ",
+    "siteId": "06003004-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quebrada la Negra ",
+    "siteId": "06005004-k",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Pangal en Pangal  ",
+    "siteId": "06006001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cachapoal en Pte Termas de Cauquenes  ",
+    "siteId": "06008005-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Sauzal en Puente Termas ",
+    "siteId": "06008009-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Rancagua (Cachapoal - Dcp)",
+    "siteId": "06010015-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero de la Cadena antes Junta Río Cachapoal ",
+    "siteId": "06011001-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Pozo Doñihue  ",
+    "siteId": "06012011-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cachapoal Ante Junta Río Claro",
+    "siteId": "06012031-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Claro en Hacienda las Nieves  ",
+    "siteId": "06013001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Popeta",
+    "siteId": "06013005-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Laguna los Cristales  ",
+    "siteId": "06013008-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Claro en Tunca",
+    "siteId": "06015001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "San Fernando  ",
+    "siteId": "06016004-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Millahue  ",
+    "siteId": "06018010-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cachapoal en Puente Arqueado (Ca) ",
+    "siteId": "06019003-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Pichidegua",
+    "siteId": "06019005-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Pozo Estadio Peumo",
+    "siteId": "06019007-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Termas Del Flaco  ",
+    "siteId": "06020001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Glaciar Universidad en Río San Andres ",
+    "siteId": "06023000-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Claro en el Valle ",
+    "siteId": "06027001-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "La Rufina ",
+    "siteId": "06027003-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Tinguiririca Bajo los Briones ",
+    "siteId": "06028001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Pozo Pueblo Tres Puentes  ",
+    "siteId": "06030002-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Tinguiririca en Puente Ruta 90",
+    "siteId": "06030014-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Teno en Km. 13.465  ",
+    "siteId": "06033009-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Chimbarongo en Ruta 5  ",
+    "siteId": "06033011-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Convento Viejo",
+    "siteId": "06034003-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Pozo Asentamiento la Puerta   ",
+    "siteId": "06034017-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Chimbarongo Bajo Embalse Convento Viejo",
+    "siteId": "06034022-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Chimbarongo en Puente el Huape ",
+    "siteId": "06034023-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Tinguiririca en los Olmos (Ca)",
+    "siteId": "06035001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Alhue en Quilamuta ",
+    "siteId": "06043001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Alhue Quilamuta   ",
+    "siteId": "06043006-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago Rapel en Llallauquen ",
+    "siteId": "06053001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Embalse Rapel en el Muro (Ca) ",
+    "siteId": "06054001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Litueche  ",
+    "siteId": "06055003-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Rapel ",
+    "siteId": "06056003-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Pichilemu ",
+    "siteId": "06120001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Ranguili  ",
+    "siteId": "06130002-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "La Palma  ",
+    "siteId": "06130003-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Nilahue Barahona  ",
+    "siteId": "06132002-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Cahuil",
+    "siteId": "06132006-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Paso Vergara  ",
+    "siteId": "07100006-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Claro en los Queñes   ",
+    "siteId": "07103001-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Los Queñes",
+    "siteId": "07103003-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Teno después de Junta con Claro   ",
+    "siteId": "07104002-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "El Manzano",
+    "siteId": "07104005-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Santa Susana  ",
+    "siteId": "07106007-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Volcan Azufre ",
+    "siteId": "07111001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Colorado en Junta con Palos   ",
+    "siteId": "07112001-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Palos en Junta con Colorado   ",
+    "siteId": "07115001-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Potrero Grande",
+    "siteId": "07116005-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Lontue en Puente el Yacal ",
+    "siteId": "07117008-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Curico",
+    "siteId": "07118003-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lontue",
+    "siteId": "07119007-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Laguna de Torca   ",
+    "siteId": "07120002-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Mataquito en Puente la Huerta ",
+    "siteId": "07121006-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Culenar en Villa Prat  ",
+    "siteId": "07121011-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Mataquito en Licanten ",
+    "siteId": "07123001-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Mataquito A. Abajo Planta Celulosa Licancel   ",
+    "siteId": "07123008-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Licanten  ",
+    "siteId": "07123012-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Gualleco  ",
+    "siteId": "07200001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Huenchullami en Coipue",
+    "siteId": "07200002-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Putu  ",
+    "siteId": "07210001-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Laguna Del Maule  ",
+    "siteId": "07300000-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Maule en Desague Laguna Del Maule ",
+    "siteId": "07300001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lo Aguirre",
+    "siteId": "07301000-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Los Condores  ",
+    "siteId": "07301001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Nueva lo Aguirre  ",
+    "siteId": "07301002-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Maule Bajo Campanario ",
+    "siteId": "07301003-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Maule en los Baños",
+    "siteId": "07303000-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Laguna de la Invernada",
+    "siteId": "07306000-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cipreses en Desague Laguna la Invernada   ",
+    "siteId": "07306001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Ad. Maule C. Pehuenche  ",
+    "siteId": "07308000-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero las Garzas ",
+    "siteId": "07308001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Maule Bajo Boca Toma Maule Central Pehuenche  ",
+    "siteId": "07308002-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Melado en los Hierros   ",
+    "siteId": "07317002-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Melado en Zona de Presa   ",
+    "siteId": "07317003-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Embalse Melado",
+    "siteId": "07317004-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Melado en el Salto",
+    "siteId": "07317005-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Melado en C. Hidroelectrica los Hierros I   ",
+    "siteId": "07317006-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Armerillo ",
+    "siteId": "07320002-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Claro en San Carlos   ",
+    "siteId": "07320003-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Armerillo DGA ",
+    "siteId": "07320004-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Maule en Armerillo",
+    "siteId": "07321002-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Maule Norte en Aforador ",
+    "siteId": "07321003-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal de Evacuacion C. Pehuenche  ",
+    "siteId": "07321005-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Embalse Colbun",
+    "siteId": "07321006-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Maule Norte Alto en Paso Nevado ",
+    "siteId": "07321007-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Vertedero Embalse Colbun  ",
+    "siteId": "07321008-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Maule en Longitudinal ",
+    "siteId": "07322001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Maule Sur en Aforador   ",
+    "siteId": "07322002-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal de Restitucion Sur 2",
+    "siteId": "07322005-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal de Restitucion Sur 3",
+    "siteId": "07322006-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal San Clemente",
+    "siteId": "07322007-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Duao Zapata ",
+    "siteId": "07322008-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Perquilauquen en San Manuel   ",
+    "siteId": "07330001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cato en Digua ",
+    "siteId": "07331001-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Digua Embalse ",
+    "siteId": "07331002-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Embalse Digua ",
+    "siteId": "07331003-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Alimentador Digua   ",
+    "siteId": "07331004-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Perquilauquen en Quella   ",
+    "siteId": "07335001-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Curipeumo en lo Hernandez  ",
+    "siteId": "07335002-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quella",
+    "siteId": "07335004-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cauquenes en el Arrayan   ",
+    "siteId": "07336001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "El Alamo  ",
+    "siteId": "07336003-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Tutuven Embalse   ",
+    "siteId": "07337002-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Embalse Tutuven   ",
+    "siteId": "07337003-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cauquenes en Desembocadura",
+    "siteId": "07339001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "La Estrella   ",
+    "siteId": "07340002-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Los Huinganes en Curipeumo",
+    "siteId": "07340003-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Purapel en Nirivilo   ",
+    "siteId": "07341001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Nirivilo  ",
+    "siteId": "07341002-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Purapel en Sauzal ",
+    "siteId": "07343001-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Parral",
+    "siteId": "07345001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Longavi en la Quiriquina  ",
+    "siteId": "07350001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Bullileo en Santa Filomena",
+    "siteId": "07350002-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Bullileo Embalse (Lago)   ",
+    "siteId": "07350007-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Nevado Longavi",
+    "siteId": "07350008-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Achibueno en Punta Tricahue   ",
+    "siteId": "07350009-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Primera Abajo   ",
+    "siteId": "07351002-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "La Sexta de Longavi   ",
+    "siteId": "07352002-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Liguay",
+    "siteId": "07352003-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Maitenes en Bocatoma",
+    "siteId": "07352004-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Juan Amigo",
+    "siteId": "07353001-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Achibueno en la Recova",
+    "siteId": "07354002-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Ancoa en el Llepo ",
+    "siteId": "07355001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Ancoa en el Morro ",
+    "siteId": "07355002-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Ancoa antes Tunel Canal Melado",
+    "siteId": "07355003-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Ancoa Embalse ",
+    "siteId": "07355007-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Melozal   ",
+    "siteId": "07357003-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Putagan en Yerbas Buenas  ",
+    "siteId": "07358001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Linares   ",
+    "siteId": "07358007-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal de Restitucion Sur 1",
+    "siteId": "07358010-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Loncomilla en las Brisas  ",
+    "siteId": "07359001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "San Javier",
+    "siteId": "07359005-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Agua Fria ",
+    "siteId": "07371002-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Claro en Camarico ",
+    "siteId": "07372001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "San Rafael",
+    "siteId": "07373004-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Lircay en Puente las Rastras  ",
+    "siteId": "07374001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Maule Norte Bajo Seccion 1  ",
+    "siteId": "07374002-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Maule Norte Bajo Seccion 2  ",
+    "siteId": "07374003-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Vilches Alto  ",
+    "siteId": "07374004-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Huapi ",
+    "siteId": "07374005-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Picazo en Huapi",
+    "siteId": "07375000-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Pencahue en Bocatoma Río Lircay ",
+    "siteId": "07376003-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Talca U.c.",
+    "siteId": "07378002-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Colorado  ",
+    "siteId": "07378003-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Maule Norte Bajo en Puente Centinela",
+    "siteId": "07378011-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quebrada Colorado en Desagüe Laguna los Temos ",
+    "siteId": "07378012-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quebrada Colorado Bajo Sistema Maitenes   ",
+    "siteId": "07378013-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Claro en Rauquen  ",
+    "siteId": "07379002-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero los Puercos en Puente los Puercos  ",
+    "siteId": "07381001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Pencahue  ",
+    "siteId": "07381003-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Maule en Forel",
+    "siteId": "07383001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Constitucion  ",
+    "siteId": "07384002-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quirihue  ",
+    "siteId": "08000000-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Cobquecura",
+    "siteId": "08000002-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Caracol   ",
+    "siteId": "08105004-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Ñuble en la Punilla 2 ",
+    "siteId": "08105006-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Ñuble en San Fabian N 2   ",
+    "siteId": "08106002-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "San Fabian",
+    "siteId": "08106003-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Coihueco Embalse  ",
+    "siteId": "08113001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Embalse Coihueco (Lm) ",
+    "siteId": "08113003-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Cato en Inia Santa Rosa   ",
+    "siteId": "08114010-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Chillan Viejo ",
+    "siteId": "08117002-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Chillan en Esperanza N 2  ",
+    "siteId": "08117006-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal de la Luz en Chillan",
+    "siteId": "08117009-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Chillan en Universidad de Concepcion  ",
+    "siteId": "08117020-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "San Carlos",
+    "siteId": "08118007-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Ñuble en Confluencia  ",
+    "siteId": "08119002-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Zañartu Salida Laguna Trupan",
+    "siteId": "08122001-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Laja Diguillin en B.t. Río Huepil (Doh) ",
+    "siteId": "08122005-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Itata en General Cruz ",
+    "siteId": "08124001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Las Cruces",
+    "siteId": "08124004-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Renegado en Invernada ",
+    "siteId": "08130001-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Diguillin en San Lorenzo (Atacalco)   ",
+    "siteId": "08130002-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Las Trancas   ",
+    "siteId": "08130004-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Diguillin ",
+    "siteId": "08130006-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Nevado Chillan",
+    "siteId": "08130009-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Chillancito   ",
+    "siteId": "08133003-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Laguna Avendaño   ",
+    "siteId": "08133008-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Laguna Santa Elena",
+    "siteId": "08133009-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Desague Laguna Avendaño   ",
+    "siteId": "08133013-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Bulnes",
+    "siteId": "08134006-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Itata en Balsa Nueva Aldea",
+    "siteId": "08135002-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Cancha los Litres ",
+    "siteId": "08135004-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Rafael",
+    "siteId": "08140001-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Itata en Paso Hondo   ",
+    "siteId": "08140002-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Portezuelo",
+    "siteId": "08140005-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Itata en Coelemu  ",
+    "siteId": "08141001-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Coelemu   ",
+    "siteId": "08141002-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Mangarral ",
+    "siteId": "08142001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Lonquen en Trehuaco   ",
+    "siteId": "08144001-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Pingueral en Dichato  ",
+    "siteId": "08210001-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Dichato   ",
+    "siteId": "08210002-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Bellavista en Tomé ",
+    "siteId": "08210003-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Andalien Camino a Penco   ",
+    "siteId": "08220001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Nonguen Frente U. Del Bio Bio  ",
+    "siteId": "08220008-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Andalien antes Ex Peaje Chaimavida",
+    "siteId": "08220010-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Liucura   ",
+    "siteId": "08301001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Lonquimay antes Junta Río Bio Bio ",
+    "siteId": "08304001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lonquimay ",
+    "siteId": "08304004-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Bio-bio en Llanquen   ",
+    "siteId": "08307002-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Lomin en Copahue  ",
+    "siteId": "08308002-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Bio Bio en Angostura Ralco 1  ",
+    "siteId": "08312000-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Bio Bio Ante Junta Huiri Huiri",
+    "siteId": "08312001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Embalse Ralco ",
+    "siteId": "08312002-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Pangue en Captacion   ",
+    "siteId": "08313000-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Bio Bio Ante Junta Pangue ",
+    "siteId": "08313001-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Embalse Pangue",
+    "siteId": "08313002-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Queuco en Puente Nitrao   ",
+    "siteId": "08314000-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quillaileo",
+    "siteId": "08316001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Huequecura Aguas Arriba de Embalse Angostura  ",
+    "siteId": "08316002-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Biobio en Rucalhue",
+    "siteId": "08317001-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Biobio en la Culebra  ",
+    "siteId": "08317004-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Biobio en Puente Piulo",
+    "siteId": "08317005-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Central Angostura Embalse ",
+    "siteId": "08317006-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quilaco   ",
+    "siteId": "08318002-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Biobio en Longitudinal",
+    "siteId": "08319001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "San Lorenzo en Bio-bio",
+    "siteId": "08320001-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Sierra Velluda",
+    "siteId": "08320002-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Duqueco en Cerrillos  ",
+    "siteId": "08323001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Paillihue en Ex Longitudinal Sur   ",
+    "siteId": "08324002-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Mulchen en Mulchen",
+    "siteId": "08330001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Bureo en Mulchen  ",
+    "siteId": "08332001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Mulchen   ",
+    "siteId": "08332002-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Bureo Aguas Arriba Conf Río Biobío",
+    "siteId": "08333004-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Biobio en Coihue  ",
+    "siteId": "08334001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Los Angeles   ",
+    "siteId": "08334002-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Renaico en Longitudinal   ",
+    "siteId": "08342001-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Mininco en Longitudinal   ",
+    "siteId": "08343001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Malleco en Collipulli ",
+    "siteId": "08351001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Vergara en Tijeral",
+    "siteId": "08358001-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Angol (La Mona)   ",
+    "siteId": "08358002-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Parque Nahuelbuta ",
+    "siteId": "08358005-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Quilque en los Angeles ",
+    "siteId": "08366002-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Quilque en la Vega ",
+    "siteId": "08366004-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Alto Polcura",
+    "siteId": "08370006-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Laguna de la Laja (Lm)",
+    "siteId": "08370007-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río de los Pinos en Paso Fronterizo Pichachen ",
+    "siteId": "08370009-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal de Descarga Central Antuco  ",
+    "siteId": "08371001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Alto Mallines ",
+    "siteId": "08372001-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Polcura en Cuatro Junta   ",
+    "siteId": "08372002-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Volcan Chillan",
+    "siteId": "08374001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal de Descarga Central el Toro ",
+    "siteId": "08374002-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Polcura Aguas Abajo Descarga Central el Toro  ",
+    "siteId": "08374003-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Polcura  A. Desc. Central el Toro ",
+    "siteId": "08375001-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Abanico en Km 049   ",
+    "siteId": "08375002-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Zañartu después Bocatoma Río Laja   ",
+    "siteId": "08375004-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Collao  ",
+    "siteId": "08375005-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Mirrihue",
+    "siteId": "08375006-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Unificado Mirrihue Ortiz Pinochet   ",
+    "siteId": "08375011-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Rucue Aguas Arriba Bocatoma Central Rucue ",
+    "siteId": "08376002-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Laja Camino a Tucapel   ",
+    "siteId": "08380002-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Laja-diguillín  ",
+    "siteId": "08380005-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Laja en Tucapel 2 ",
+    "siteId": "08380006-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Litre en Bocatoma Río Laja  ",
+    "siteId": "08380008-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Laja Ag.arr. Del Salto (Rec.r.laja)   ",
+    "siteId": "08381003-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Batuco en Bocatoma  ",
+    "siteId": "08381004-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Río Claro los Leones en Bocatoma (Rec.laja) ",
+    "siteId": "08381005-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal la Mancha en Bocatoma (Rec.laja)",
+    "siteId": "08381006-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Dueñas en Bocatoma (Rec.laja)   ",
+    "siteId": "08381008-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Saltos la Aguada en Bocatoma (Rec.r.laja)   ",
+    "siteId": "08381009-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Misque en Bocatoma Río Laja ",
+    "siteId": "08381019-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal de Descarga Central Quilleco",
+    "siteId": "08381020-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Quilales en Bocatoma (Rec.r.laja)   ",
+    "siteId": "08382002-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal Morales en Bocatoma (Rec.r.laja)",
+    "siteId": "08382003-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Monte Aguila  ",
+    "siteId": "08385010-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Hualqui en Desembocadura   ",
+    "siteId": "08393002-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Biobio en Desembocadura   ",
+    "siteId": "08394001-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Concepcion Dga.   ",
+    "siteId": "08410001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Laraquete en el Cajon ",
+    "siteId": "08430001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Carampangue en Ramadilla (Ca) ",
+    "siteId": "08510001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Carampangue A. Abajo B.t. Planta Arauc0   ",
+    "siteId": "08530005-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Punta Lavapie ",
+    "siteId": "08600004-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Curanilahue en Curanilahue",
+    "siteId": "08700002-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Plegarias antes de Jta Río Curanilahue ",
+    "siteId": "08700003-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Lebu en las Corrientes (En los Alamos)",
+    "siteId": "08720001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Caramavida en Caramavida  ",
+    "siteId": "08820001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cayucupil en Cayucupil",
+    "siteId": "08821001-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Butamalal en Butamalal",
+    "siteId": "08821002-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Reputo en Reputo  ",
+    "siteId": "08821003-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Cañete",
+    "siteId": "08821005-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Leiva en Puente Camino a Contulmo ",
+    "siteId": "08821006-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Elicura en Puente Elicura ",
+    "siteId": "08822002-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Lleu-lleu en Desague Lago Lleu-lleu   ",
+    "siteId": "08910001-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Puren en Tranaman ",
+    "siteId": "09101001-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Lumaco en Lumaco  ",
+    "siteId": "09102001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Repocura en Chacaico  ",
+    "siteId": "09115000-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cholchol en Cholchol  ",
+    "siteId": "09116001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Malalcahuello ",
+    "siteId": "09120003-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cautin en Rari-ruca   ",
+    "siteId": "09123001-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Muco en Puente Muco   ",
+    "siteId": "09127001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cautin en Cajon   ",
+    "siteId": "09129002-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Pueblo Nuevo (Temuco) ",
+    "siteId": "09129005-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Temuco Centro ",
+    "siteId": "09129006-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Botrolhue en Temuco",
+    "siteId": "09129008-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Vilcun",
+    "siteId": "09131002-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Huichahue en Faja 24000   ",
+    "siteId": "09134001-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cautin en Almagro ",
+    "siteId": "09140001-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Imperial en Carahue   ",
+    "siteId": "09150001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Carahue   ",
+    "siteId": "09151001-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Puerto Saavedra   ",
+    "siteId": "09153001-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Truful en Camino Internacional",
+    "siteId": "09400000-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Tricauco  ",
+    "siteId": "09401001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Allipen en Melipeuco  ",
+    "siteId": "09402001-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Allipen en los Laureles   ",
+    "siteId": "09404001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Trafampulli en Rinconada  ",
+    "siteId": "09405007-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Curaco en Puente Pitrunco ",
+    "siteId": "09405008-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Trafampulli en Puente Nº 5",
+    "siteId": "09405009-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Maichin en Puente Quiñenahuin ",
+    "siteId": "09411001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quiñenahuin   ",
+    "siteId": "09411002-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Trancura en Curarrehue",
+    "siteId": "09412001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Curarrehue",
+    "siteId": "09412002-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Trancura antes Río Llafenco   ",
+    "siteId": "09414001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Llafenco  ",
+    "siteId": "09414002-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Turbio en Puente Turbio   ",
+    "siteId": "09414003-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Liucura en Liucura",
+    "siteId": "09416001-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Ojos Del Caburgua ",
+    "siteId": "09417002-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago Caburga (Lm) ",
+    "siteId": "09417007-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Carhuello en Puente Pucon ",
+    "siteId": "09417008-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero la Cascada en Puente Caburgua  ",
+    "siteId": "09417009-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Pucon en Balseadero Quelhue (Ca)  ",
+    "siteId": "09418001-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Tolten en Villarica   ",
+    "siteId": "09420001-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Pucon ",
+    "siteId": "09420002-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Chanlelfu ",
+    "siteId": "09420004-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago Villarrica en Sector la Poza ",
+    "siteId": "09420007-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago Villarrica (Lm)  ",
+    "siteId": "09420009-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago Villarrica en Litoral Pucon  ",
+    "siteId": "09420013-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Voipir en Puente Voipir   ",
+    "siteId": "09421002-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Tolten en Coipue  ",
+    "siteId": "09423001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Freire",
+    "siteId": "09430003-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Tolten en Teodoro Schmidt ",
+    "siteId": "09437002-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Tolten",
+    "siteId": "09439001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Fui en Desagüe Lago Pirihueico",
+    "siteId": "10100002-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Huahum en la Frontera ",
+    "siteId": "10100006-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Liquiñe en Liquiñe",
+    "siteId": "10102001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Villarrica Pichullancahue ",
+    "siteId": "10105003-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago Calafquen",
+    "siteId": "10106002-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Tralco ",
+    "siteId": "10106013-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Collico en Pucura  ",
+    "siteId": "10106014-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Enco en Desagüe Lago Panguipulli  ",
+    "siteId": "10110002-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Complejo Volcanico Mocho Choshuenco   ",
+    "siteId": "10110003-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río San Pedro en Desague Lago Rinihue ",
+    "siteId": "10111001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Quinchilca en Ruta T-39   ",
+    "siteId": "10117000-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Calle Calle en Pupunahue  ",
+    "siteId": "10122003-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Llancahue ",
+    "siteId": "10123004-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Valdivia (U. Austral) ",
+    "siteId": "10123006-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Loncoche  ",
+    "siteId": "10130001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cruces Ante Loncoche  ",
+    "siteId": "10130002-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Leufucade en Purulon  ",
+    "siteId": "10133000-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cruces en Rucaco  ",
+    "siteId": "10134001-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "San Jose Mariquina",
+    "siteId": "10134002-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cruces Ante Bocatoma Celco",
+    "siteId": "10134004-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cruces en San Luis de Alba",
+    "siteId": "10135002-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Catamutun ",
+    "siteId": "10141001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Calcurrupe en Desembocadura   ",
+    "siteId": "10304001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago Maihue (Lm)  ",
+    "siteId": "10304007-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Nilahue en Mayay  ",
+    "siteId": "10306001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago Ranco",
+    "siteId": "10307001-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago Ranco (Lm)   ",
+    "siteId": "10307005-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Bueno en Bueno",
+    "siteId": "10311001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "El Llolly ",
+    "siteId": "10312001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Llollelhue en la Union",
+    "siteId": "10313001-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Gol Gol en Puente Nº 2",
+    "siteId": "10322003-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Pilmaiquen en San Pablo   ",
+    "siteId": "10328001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Rahue en Desague Lago Rupanco ",
+    "siteId": "10340001-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Rahue antes Junta Río Negro   ",
+    "siteId": "10344003-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Fresia",
+    "siteId": "10350001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Forrahue en Río Negro ",
+    "siteId": "10355003-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Negro en Chahuilco",
+    "siteId": "10356001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Adolfo Matthei",
+    "siteId": "10360002-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Damas en Tacamo   ",
+    "siteId": "10362001-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Trinidad  ",
+    "siteId": "10371001-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Venecia   ",
+    "siteId": "10372001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Bahia Mansa   ",
+    "siteId": "10401002-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Frutillar ",
+    "siteId": "10410004-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago Llanquihue (Lm)  ",
+    "siteId": "10410010-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Cascada   ",
+    "siteId": "10410015-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Maullin   ",
+    "siteId": "10417001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Calbuco   ",
+    "siteId": "10423000-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Puerto Montt  ",
+    "siteId": "10425001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago Chapo (Lm)   ",
+    "siteId": "10430005-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Chamiza Ante Junta Río Chico  ",
+    "siteId": "10432002-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Chico Ante Río Chamiza",
+    "siteId": "10432003-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Monte Tronador en Casa Pangue ",
+    "siteId": "10451000-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Llanada Grande",
+    "siteId": "10512000-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Puelo ",
+    "siteId": "10523001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Puelo en Carrera Basilio  ",
+    "siteId": "10523002-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Hornopiren",
+    "siteId": "10610001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Chaitén Meteorológica ",
+    "siteId": "10683003-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Futaleufu en la Frontera  ",
+    "siteId": "10702002-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Futaleufu Ante Junta Río Malito   ",
+    "siteId": "10704002-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quemchi   ",
+    "siteId": "10900001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Ancud 2 (Doh) ",
+    "siteId": "10900002-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Castro 2  (Doh)   ",
+    "siteId": "10901004-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Quellon   ",
+    "siteId": "10902002-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Villa Santa Lucia ",
+    "siteId": "11023002-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago Verde",
+    "siteId": "11031001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Rosselot en Nacimiento",
+    "siteId": "11034005-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Palena Bajo Junta Rosselot",
+    "siteId": "11040001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "La Junta  ",
+    "siteId": "11041001-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Marin Balmaceda   ",
+    "siteId": "11043001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Puerto Puyuhuapi  ",
+    "siteId": "11120001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Puerto Gala   ",
+    "siteId": "11120002-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cisnes",
+    "siteId": "11140001-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cisnes en Estancia Río Cisnes ",
+    "siteId": "11141001-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cisnes antes Junta Río Moro   ",
+    "siteId": "11143001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Moro antes Junta Río Cisnes   ",
+    "siteId": "11143002-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "La Tapera ",
+    "siteId": "11143003-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Cisnes Medio  ",
+    "siteId": "11144002-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cisnes en Puerto Cisnes   ",
+    "siteId": "11147001-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Grande en Carretera Austral   ",
+    "siteId": "11147002-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Puerto Cisnes ",
+    "siteId": "11147003-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Islas Huichas ",
+    "siteId": "11180000-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Melinka   ",
+    "siteId": "11201001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estancia Baño Nuevo   ",
+    "siteId": "11300001-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Ñireguao en Villa Mañiguales  ",
+    "siteId": "11302001-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Ñirehuao  ",
+    "siteId": "11302002-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Villa Mañihuales  ",
+    "siteId": "11304001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Emperador Guillermo antes Junta Mañiguales",
+    "siteId": "11307001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Villa Ortega  ",
+    "siteId": "11307002-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Magniguales antes Junta Río Simpson   ",
+    "siteId": "11308001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Huemules Frente Cerro Galera  ",
+    "siteId": "11310001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Oscuro en Camino Cerro Portezuelo ",
+    "siteId": "11310002-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Blanco Chico antes Junta Oscuro   ",
+    "siteId": "11310003-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Blanco antes Junta Huemules   ",
+    "siteId": "11312001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Cerro Divisadero  ",
+    "siteId": "11314002-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Pollux en Desague Lago Frio   ",
+    "siteId": "11314003-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Claro en Pisicultura  ",
+    "siteId": "11315001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estacion de Prueba Teniente Vidal ",
+    "siteId": "11315006-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Coyhaique en Tejas Verdes ",
+    "siteId": "11316001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Coyhaique (Escuela Agricola)  ",
+    "siteId": "11316003-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Coyhaique Alto",
+    "siteId": "11316004-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Simpson Bajo Junta Coyhaique  ",
+    "siteId": "11317001-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Coyhaique Conaf   ",
+    "siteId": "11317005-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Simpson antes Junta Río Magniguales   ",
+    "siteId": "11318001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "El Balseo ",
+    "siteId": "11318002-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Desague Bajo Junta Río Paloma ",
+    "siteId": "11333001-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Blanco en Desague Lago Caro   ",
+    "siteId": "11335002-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Blanco antes Junta Río Aysen  ",
+    "siteId": "11337001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Aysen en Puerto Aysen ",
+    "siteId": "11342001-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Puerto Chacabuco  ",
+    "siteId": "11400001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Exploradores en Nacimiento",
+    "siteId": "11420000-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Glaciar Exploradores  ",
+    "siteId": "11421000-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Laguna San Rafael ",
+    "siteId": "11440000-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Hielo Norte en Glaciar San Rafael ",
+    "siteId": "11440001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Huemules en Glaciar Steffen   ",
+    "siteId": "11480000-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Laguna Steffens 1 ",
+    "siteId": "11480001-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Laguna Tempanos   ",
+    "siteId": "11480002-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Laguna Hpn4   ",
+    "siteId": "11480003-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Ibanez antes Junta Cajon  ",
+    "siteId": "11500002-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Villa Cerro Castillo  ",
+    "siteId": "11503001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Ibañez en Desembocadura   ",
+    "siteId": "11505001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Bahia Murta   ",
+    "siteId": "11513001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Murta en Desembocadura",
+    "siteId": "11514001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago General Carrera en Desagüe   ",
+    "siteId": "11517002-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Jeinimeni en Nacimiento   ",
+    "siteId": "11520005-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Chile Chico   ",
+    "siteId": "11521002-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago General Carrera Fachinal ",
+    "siteId": "11521005-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago General Carrera en Puerto Guadal ",
+    "siteId": "11523002-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Baker en Desague Lago Bertrand",
+    "siteId": "11530000-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Nef antes Junta Estero el Rebalse ",
+    "siteId": "11532000-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Nef antes Junta Estero el Rebalse (M) ",
+    "siteId": "11532001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estancia Valle Chacabuco  ",
+    "siteId": "11533001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cochrane en Cochrane  ",
+    "siteId": "11536001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Baker en Angostura Chacabuco  ",
+    "siteId": "11536004-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago Cachet 2 en Glaciar Colonia  ",
+    "siteId": "11540000-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Colonia en Nacimiento ",
+    "siteId": "11541000-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Baker en Colonia  ",
+    "siteId": "11542001-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Baker Bajo Ñadis  ",
+    "siteId": "11545000-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Caleta Tortel ",
+    "siteId": "11546001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Bravo ",
+    "siteId": "11614001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Mayer en Desembocadura",
+    "siteId": "11701001-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago O´higgins en Villa O´higgins ",
+    "siteId": "11702000-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Candelario Mancilla   ",
+    "siteId": "11704001-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Glaciar Chico en Campo de Hielo Sur   ",
+    "siteId": "11705001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Glaciar O'higgins en Punta Nahuelcar  ",
+    "siteId": "11706000-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Hielo Sur en Glaciar O´higgins",
+    "siteId": "11706001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Pascua en Desague Lago O'higgins  ",
+    "siteId": "11710000-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Pascua Ante Junta Río Quetru  ",
+    "siteId": "11711000-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Fiordo Jorge Montt",
+    "siteId": "11800000-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Fiordos Tempanos  ",
+    "siteId": "12000000-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Hielo Sur en Glaciar Greve Nunatak Occidental ",
+    "siteId": "12020001-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Fiordo Andrew ",
+    "siteId": "12080001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Fiordo Amalia ",
+    "siteId": "12210000-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Glaciar Bernal",
+    "siteId": "12250001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Talcahuano en Peninsula Antonio Varas ",
+    "siteId": "12271000-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Glaciar Balmaceda ",
+    "siteId": "12273000-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Paine en Parque Nacional 2",
+    "siteId": "12280002-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago Dickson  ",
+    "siteId": "12280004-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago Paine",
+    "siteId": "12280006-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago Nordenskjoltd",
+    "siteId": "12282000-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Cerro Guido   ",
+    "siteId": "12283001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago Pehoe",
+    "siteId": "12283003-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estancia la Porfiada  ",
+    "siteId": "12283005-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río las Chinas en Cerro Guido ",
+    "siteId": "12284006-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río las Chinas antes Desague Del Toro ",
+    "siteId": "12284007-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago Sarmiento",
+    "siteId": "12284009-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Cerro Castillo",
+    "siteId": "12284010-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Chorrillos Tres Pasos Ruta N 9",
+    "siteId": "12285001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago el Toro en Estancia Paine",
+    "siteId": "12285002-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Tres Pasos en Desague Lago Toro   ",
+    "siteId": "12285003-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Torres Del Paine  ",
+    "siteId": "12286001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Rincon en Ruta Y-290  ",
+    "siteId": "12286002-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Grey antes Junta Serrano  ",
+    "siteId": "12287001-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago Grey ",
+    "siteId": "12287002-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Glaciar Tyndall en Campamento Zapata  ",
+    "siteId": "12288000-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Glaciar Tyndall   ",
+    "siteId": "12288006-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Serrano en Desembocadura  ",
+    "siteId": "12289001-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Serrano en Desague Lago Del Toro  ",
+    "siteId": "12289002-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Prat en Desembocadura ",
+    "siteId": "12291001-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Natales",
+    "siteId": "12292000-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Puerto Natales",
+    "siteId": "12293001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estero Dumestre en Bocatoma   ",
+    "siteId": "12293002-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Casas Viejas  ",
+    "siteId": "12400001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Hollemberg en Desembocadura   ",
+    "siteId": "12400004-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Estacion Dorotea  ",
+    "siteId": "12400006-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago Anibal Pinto ",
+    "siteId": "12402000-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Seno Obstrucción  ",
+    "siteId": "12403000-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Primero en Seno Obstruccion   ",
+    "siteId": "12403001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Blanco en Seno Obstruccion",
+    "siteId": "12404001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Grande en Isla Riesco ",
+    "siteId": "12448001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Cordillera Riesco ",
+    "siteId": "12449002-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Perez en Desembocadura",
+    "siteId": "12452001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Verde ",
+    "siteId": "12454001-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "San Gregorio  ",
+    "siteId": "12530001-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Grande en Seno Otway  ",
+    "siteId": "12561001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río San Juan en Desembocadura ",
+    "siteId": "12582001-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago Parrillar",
+    "siteId": "12582003-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Tres Brazos antes Bt. Sendos  ",
+    "siteId": "12585001-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río las Minas en Bt. Sendos   ",
+    "siteId": "12586001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Punta Arenas  ",
+    "siteId": "12586004-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Cerro Mirador ",
+    "siteId": "12586006-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Canal de Trasvase Estero Llau-llau",
+    "siteId": "12586009-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Magdalena Giglio 2",
+    "siteId": "12586010-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río las Minas en Punta Arenas ",
+    "siteId": "12586011-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Bitsch Alto   ",
+    "siteId": "12587000-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Rubens en Ruta N 9",
+    "siteId": "12600001-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Penitente Alto",
+    "siteId": "12620000-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Penitente en Morro Chico  ",
+    "siteId": "12622001-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Villa Tehuelche   ",
+    "siteId": "12622002-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Monte Aymond  ",
+    "siteId": "12680001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Side en Cerro Sombrero",
+    "siteId": "12802001-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Oro en Bahia San Felipe   ",
+    "siteId": "12806001-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Bahia San Felipe  ",
+    "siteId": "12806004-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Porvenir  ",
+    "siteId": "12809001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Onaisin en Maria Cristina ",
+    "siteId": "12815001-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Cameron   ",
+    "siteId": "12816001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Caleta en Tierra Del Fuego",
+    "siteId": "12820001-0",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Condor",
+    "siteId": "12821000-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago Fagnano  ",
+    "siteId": "12825001-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Azopardo en Desembocadura ",
+    "siteId": "12825002-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Betbeder en Desembocadura ",
+    "siteId": "12825003-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Paraguaya en Estancia Maria Emilia",
+    "siteId": "12860001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Cullen en Frontera",
+    "siteId": "12861001-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "San Sebastian ",
+    "siteId": "12863001-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Russfin   ",
+    "siteId": "12873001-K",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Grande en Tierra Del Fuego",
+    "siteId": "12876001-6",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Pampa Huanaco ",
+    "siteId": "12876003-2",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Rasmussen en Frontera (Estancia Vicuña)   ",
+    "siteId": "12878001-7",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Bahia Yendegaia   ",
+    "siteId": "12878002-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Lago Deseado  ",
+    "siteId": "12879000-4",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Robalo en Puerto Williams ",
+    "siteId": "12930001-9",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Robalo Alto   ",
+    "siteId": "12930003-5",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Puerto Navarino   ",
+    "siteId": "12930004-3",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Puerto Toro   ",
+    "siteId": "12930005-1",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  },
+  {
+    "gageName": "Río Guerrico en Puerto Williams   ",
+    "siteId": "12930007-8",
+    "country": "CL",
+    "state": "--",
+    "source": "ENVIRONMENT_CHILE"
+  }
+]

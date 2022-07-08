@@ -10,14 +10,13 @@ import (
 	"os/signal"
 	"syscall"
 	"time"
+	"wh2o-go/alert"
+	"wh2o-go/lib"
 
-	"wh2o-next/core/alerts"
-	cron "wh2o-next/core/cron"
-	"wh2o-next/core/exporter"
-	gages "wh2o-next/core/gages"
-	"wh2o-next/core/lib"
-	"wh2o-next/core/user"
-	database "wh2o-next/database"
+	"wh2o-go/cron"
+	"wh2o-go/database"
+	"wh2o-go/gage"
+	"wh2o-go/user"
 
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/contrib/static"
@@ -80,9 +79,9 @@ func main() {
 
 	router := gin.Default()
 
-	fs := EmbedFolder(reactStatic, "client/build", true)
+	embeddedClient := EmbedFolder(reactStatic, "client/build", true)
 
-	router.Use(static.Serve("/", fs))
+	router.Use(static.Serve("/", embeddedClient))
 
 	// Temp solution for 404 when trying to navigate
 	// directly to /settings or /exporter
@@ -91,9 +90,10 @@ func main() {
 		c.Redirect(http.StatusFound, "/")
 	})
 
-	db := database.InitializeDatabase()
+	db := database.Connect()
 
-	cron.InitializeCronJobs(db)
+	cron.RunCronJobs(db)
+
 	// add db to gin context
 	router.Use(Database(db))
 
@@ -108,22 +108,22 @@ func main() {
 	api := router.Group("/api")
 	{
 
-		api.GET("/gages", gages.HandleGetGages)
-		api.GET("/gage-sources/:state", gages.HandleGetGageSources)
-		api.POST("/gages", gages.HandleCreateGage)
-		api.PUT("/gages", gages.HandleUpdateGage)
-		api.DELETE("/gages/:id", gages.HandleDeleteGage)
+		api.GET("/gages", gage.GetAll)
+		api.GET("/gage-sources/:state", gage.GetSources)
+		api.POST("/gages", gage.Create)
+		api.PUT("/gages", gage.Update)
+		api.DELETE("/gages/:id", gage.Delete)
 
-		api.GET("/alerts", alerts.HandleGetAlerts)
-		api.POST("/alerts", alerts.HandleCreateAlert)
-		api.PUT("/alerts", alerts.HandleUpdateAlert)
-		api.DELETE("/alerts/:id", alerts.HandleDeleteAlert)
+		api.GET("/alerts", alert.GetAll)
+		api.POST("/alerts", alert.Create)
+		api.PUT("/alerts", alert.Update)
+		api.DELETE("/alerts/:id", alert.Delete)
 
-		api.GET("/user/:id", user.HandleGetSettings)
-		api.PUT("/user", user.HandleUpdateUserSettings)
+		api.GET("/user/:id", user.GetUser)
+		api.PUT("/user", user.Update)
 
-		api.GET("/export", exporter.ExportAllData)
-		api.POST("/import", exporter.ImportData)
+		//api.GET("/export", exporter.ExportAllData)
+		//api.POST("/import", exporter.ImportData)
 
 		api.GET("/lib/states", lib.GetUsStates)
 		api.GET("/lib/tz", lib.GetTimezones)

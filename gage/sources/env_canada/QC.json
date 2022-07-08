@@ -1,0 +1,2027 @@
+[
+  {
+    "country": "CA",
+    "name": "ABITIBI (LAC) À MANCEBOURG",
+    "state": "QC",
+    "siteId": "04MA004",
+    "longitude": -79.2278,
+    "latitude": 48.75,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "ACHIGAN (RIVIERE DE L') A L'EPIPHANIE",
+    "state": "QC",
+    "siteId": "02OB037",
+    "longitude": -73.4931,
+    "latitude": 45.8464,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "ANGLAIS (RIVIERE DES) À 1,1 KM EN AVAL DU PONT-ROUTE À TRÈS-SAINT-SACREMENT",
+    "state": "QC",
+    "siteId": "02OA057",
+    "longitude": -73.845,
+    "latitude": 45.175,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "ASHUAPMUSHUAN (RIVIERE) À LA TÊTE DE LA CHUTE AUX SAUMONS",
+    "state": "QC",
+    "siteId": "02RF001",
+    "longitude": -72.4881,
+    "latitude": 48.6864,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "AULNAIES (RUISSEAU DES) PRES DU RUISSEAU DES EAUX VOLEES",
+    "state": "QC",
+    "siteId": "02PD015",
+    "longitude": -71.1608,
+    "latitude": 47.2725,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "AULNAIES OUEST (RUISSEAU DES) EN AMONT DU CHEMIN DU BELVÉDÈRE",
+    "state": "QC",
+    "siteId": "02PD014",
+    "longitude": -71.1617,
+    "latitude": 47.2894,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "AUX BROCHETS (RIVIÈRE) À NOTRE-DAME-DE-STANBRIDGE",
+    "state": "QC",
+    "siteId": "02OH013",
+    "longitude": -73.0507,
+    "latitude": 45.1587,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "AUX POMMES  (RIVIERE) A 1.6KM EN AVAL DE LA NOIRE",
+    "state": "QC",
+    "siteId": "02PC019",
+    "longitude": -71.6889,
+    "latitude": 46.6958,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "AYLMER (LAC ) AU QUAI DE LA MUNICAPALITÉ DE STRATFORD",
+    "state": "QC",
+    "siteId": "02OE072",
+    "longitude": -71.326,
+    "latitude": 45.8063,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "BALEINE (GRANDE RIVIERE DE LA) EN AMONT DE LA RIVIERE DENYS-1",
+    "state": "QC",
+    "siteId": "03ED001",
+    "longitude": -76.9839,
+    "latitude": 55.2375,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "BALEINE (RIVIERE A LA) À 40,2 KM DE L'EMBOUCHURE",
+    "state": "QC",
+    "siteId": "03MB002",
+    "longitude": -67.5833,
+    "latitude": 57.8833,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "BATISCAN (RIVIERE) À 3,4 KM EN AVAL DE LA RIVIÈRE DES ENVIES",
+    "state": "QC",
+    "siteId": "02PA007",
+    "longitude": -72.4047,
+    "latitude": 46.5836,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "BAYONNE (RIVIÈRE) À ST-FÉLIX-DE-VALOIS",
+    "state": "QC",
+    "siteId": "02OB046",
+    "longitude": -73.3908,
+    "latitude": 46.1517,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "BEAUDET (RÉSERVOIR) À VICTORIAVILLE",
+    "state": "QC",
+    "siteId": "02OD009",
+    "longitude": -71.9769,
+    "latitude": 46.07,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "BEAURIVAGE (RIVIERE) A SAINTE-ETIENNE",
+    "state": "QC",
+    "siteId": "02PJ007",
+    "longitude": -71.2886,
+    "latitude": 46.6592,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "BECANCOUR (RIVIERE) À 2,1 KM EN AMONT DE LA RIVIÈRE PALMER",
+    "state": "QC",
+    "siteId": "02PL005",
+    "longitude": -71.4514,
+    "latitude": 46.3061,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "BELL (RIVIERE) EN AMONT DU LAC MATAGAMI",
+    "state": "QC",
+    "siteId": "03AC004",
+    "longitude": -77.6144,
+    "latitude": 49.7531,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "BELLE RIVIERE (RIVIERE) EN AMONT DU RUISSEAU DES AULNAIES",
+    "state": "QC",
+    "siteId": "02RH065",
+    "longitude": -71.7075,
+    "latitude": 48.4142,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "BLANCHE (RIVIERE) À 3,5 KM EN AMONT DU PONT-ROUTE 132",
+    "state": "QC",
+    "siteId": "02QB005",
+    "longitude": -67.6661,
+    "latitude": 48.7667,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "BONAVENTURE (RIVIERE) EN AMONT DU RUISSEAU CREUX",
+    "state": "QC",
+    "siteId": "01BG009",
+    "longitude": -65.5586,
+    "latitude": 48.1861,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "BOURBON (RIVIÈRE) SUR LE 11IE RANG À PLESSISVILLE",
+    "state": "QC",
+    "siteId": "02PL015",
+    "longitude": -71.7542,
+    "latitude": 46.184,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "BOURLAMAQUE (RIVIÈRE) À 1.1 KM EN AMONT DE LA ROUTE 117",
+    "state": "QC",
+    "siteId": "04NA005",
+    "longitude": -77.6704,
+    "latitude": 48.0894,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "BOYER (RIVIÈRE) À 0,1 KM EN AVAL DU PONT DE TRAIN À SAINT-CHARLES DE BELLECHASSE",
+    "state": "QC",
+    "siteId": "02PH014",
+    "longitude": -70.9006,
+    "latitude": 46.8158,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "BOYER SUD (RIVIERE) AU PONT-ROUTE DU RANG GRANDE GRILLADE",
+    "state": "QC",
+    "siteId": "02PH012",
+    "longitude": -70.9605,
+    "latitude": 46.7075,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "BRAS D'HENRI (RIVIÈRE) À 2,3 KM DE LA BEAURIVAGE",
+    "state": "QC",
+    "siteId": "02PJ034",
+    "longitude": -71.3389,
+    "latitude": 46.5403,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "BROADBACK (RIVIERE) A LA SORTIE DU LAC QUENONISCA",
+    "state": "QC",
+    "siteId": "03BD002",
+    "longitude": -76.3878,
+    "latitude": 50.7458,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "BROMPTON (LAC)  À SAINT-DENIS-DE-BROMPTON",
+    "state": "QC",
+    "siteId": "02OF015",
+    "longitude": -72.1333,
+    "latitude": 45.4625,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "BULSTRODE (RIVIERE) A SAINT-VALERE-1",
+    "state": "QC",
+    "siteId": "02OD010",
+    "longitude": -71.9789,
+    "latitude": 46.07,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "BÉCANCOUR (RIVIÈRE) À 6 KM  EN AVAL DU PONT DE L'AUTOROUTE 20",
+    "state": "QC",
+    "siteId": "02PL016",
+    "longitude": -72.0982,
+    "latitude": 46.199,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "CANIAPISCAU (RIVIERE) À 1,0 KM EN AMONT DE LA CHUTE DE LA PYRITE",
+    "state": "QC",
+    "siteId": "03LF002",
+    "longitude": -69.2083,
+    "latitude": 57.4292,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "CAPITACHOUANE (RIVIÈRE) DANS LA ZEC CAPITACHOUANE",
+    "state": "QC",
+    "siteId": "02JA006",
+    "longitude": -76.7146,
+    "latitude": 47.7288,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "CASCAPEDIA (PETITE RIVIERE) A SAINT-EDGAR",
+    "state": "QC",
+    "siteId": "01BG008",
+    "longitude": -65.735,
+    "latitude": 48.2308,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "CASCAPEDIA (RIVIERE) EN AVAL DU RUISSEAU BERRY",
+    "state": "QC",
+    "siteId": "01BG005",
+    "longitude": -66.1681,
+    "latitude": 48.6283,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "CHAMPLAIN (LAC) A PHILIPSBURG",
+    "state": "QC",
+    "siteId": "02OH001",
+    "longitude": -73.0797,
+    "latitude": 45.0398,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "CHAPLEAU (LAC) AU BARRAGE CHAPLEAU À LA MINERVE",
+    "state": "QC",
+    "siteId": "02LD012",
+    "longitude": -74.9468,
+    "latitude": 46.2108,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "CHATEAUGUAY (RIVIERE) À 2 KM EN AMONT DU PONT-ROUTE 132",
+    "state": "QC",
+    "siteId": "02OA054",
+    "longitude": -73.7619,
+    "latitude": 45.3319,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "CHAUDIERE (RIVIERE) AU PONT-ROUTE 218 À SAINT-LAMBERT-DE-LAUZON",
+    "state": "QC",
+    "siteId": "02PJ005",
+    "longitude": -71.2164,
+    "latitude": 46.5878,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "CHAUDIERE (RIVIERE) EN AVAL DU BARRAGE A MEGANTIC",
+    "state": "QC",
+    "siteId": "02PJ012",
+    "longitude": -70.8806,
+    "latitude": 45.5739,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "CHAUDIERE (RIVIERE) EN AVAL DU BARRAGE SARTIGAN",
+    "state": "QC",
+    "siteId": "02PJ014",
+    "longitude": -70.6561,
+    "latitude": 46.0978,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "CHICOUTIMI (RIVIERE) AU RESERVOIR KENOGAMI",
+    "state": "QC",
+    "siteId": "02RH002",
+    "longitude": -71.2122,
+    "latitude": 48.3097,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "CHICOUTIMI (RIVIERE) EN AVAL DU BARRAGE PORTAGE DES ROCHES",
+    "state": "QC",
+    "siteId": "02RH015",
+    "longitude": -71.1944,
+    "latitude": 48.3042,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "CHÂTEAUGUAY (RIVIÈRE) À HUNTINGDON",
+    "state": "QC",
+    "siteId": "02OA108",
+    "longitude": -74.1719,
+    "latitude": 45.0871,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "COATICOOK (RIVIERE) EN AMONT DU PONT A WATERVILLE",
+    "state": "QC",
+    "siteId": "02OE040",
+    "longitude": -71.8903,
+    "latitude": 45.2783,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "COATICOOK (RIVIERE) À 1,3 KM EN AVAL DU PONT-ROUTE 143 À WATERVILLE",
+    "state": "QC",
+    "siteId": "02OE022",
+    "longitude": -71.8994,
+    "latitude": 45.285,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "CORNU (LAC) AU BARRAGE-CORNU",
+    "state": "QC",
+    "siteId": "02LC012",
+    "longitude": -74.4264,
+    "latitude": 46.0903,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "CROCHE (RIVIERE) À 2,6 KM EN AVAL DU RUISSEAU CHANGY",
+    "state": "QC",
+    "siteId": "02NE011",
+    "longitude": -72.7367,
+    "latitude": 47.7672,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "CYRIAC (RIVIERE) A 9KM EN AMONT DE SON EMBOUCHURE",
+    "state": "QC",
+    "siteId": "02RH066",
+    "longitude": -71.2897,
+    "latitude": 48.2353,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "DARTMOUTH (RIVIERE) EN AMONT DU RUISSEAU DU PAS DE DAME",
+    "state": "QC",
+    "siteId": "01BH005",
+    "longitude": -64.6986,
+    "latitude": 48.9797,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "DAUPHINE (RIVIERE) À L' ÎLE D'ORLÉANS",
+    "state": "QC",
+    "siteId": "02PE014",
+    "longitude": -70.8564,
+    "latitude": 46.9667,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "DAVID (RIVIERE) AU PONT-ROUTE À SAINT-DAVID",
+    "state": "QC",
+    "siteId": "02OG026",
+    "longitude": -72.8594,
+    "latitude": 45.9536,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "DE LA ROCHE (RIVIÈRE) À SAINT-ARMAND",
+    "state": "QC",
+    "siteId": "02OH014",
+    "longitude": -73.0162,
+    "latitude": 45.0219,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "DECHARGE DU LAC CLAIR",
+    "state": "QC",
+    "siteId": "02PC018",
+    "longitude": -71.6681,
+    "latitude": 46.9644,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "DECHARGE DU LAC LUDGER (RUISSEAU) EN AVAL DU BARRAGE LUDGER",
+    "state": "QC",
+    "siteId": "02LC070",
+    "longitude": -74.2764,
+    "latitude": 46.1181,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "DES ANGLAIS (RIVIÈRE) À SAINT-CHRYSOSTOME",
+    "state": "QC",
+    "siteId": "02OA111",
+    "longitude": -73.7624,
+    "latitude": 45.1003,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "DES MILLES-ILES (RIVIERE) A L'USINE DE POMPAGE A DEUX-MONTAGNES",
+    "state": "QC",
+    "siteId": "02OA102",
+    "longitude": -73.8867,
+    "latitude": 45.5406,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "DEUX MONTAGNES (LAC DES) A POINTE-CALUMET",
+    "state": "QC",
+    "siteId": "02OA105",
+    "longitude": -73.9786,
+    "latitude": 45.4892,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "DONCASTER (RIVIERE) AU LAC ELEVE",
+    "state": "QC",
+    "siteId": "02LC027",
+    "longitude": -74.1219,
+    "latitude": 46.0958,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "DU CHENE (PETITE RIVIÈRE) À 250 M DU PONT-ROUTE 265 A DESCHAILLONS",
+    "state": "QC",
+    "siteId": "02PK009",
+    "longitude": -72.0934,
+    "latitude": 46.5406,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "DU CHÊNE (RIVIERE) À LA PASSERELLE LAUZON SUR LA MONTÉE LAUZON",
+    "state": "QC",
+    "siteId": "02OA109",
+    "longitude": -73.9764,
+    "latitude": 45.5599,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "DU DIABLE (RIVIÈRE) À 0.1KM EN AMONT DE LA ROUTE 117",
+    "state": "QC",
+    "siteId": "02LC073",
+    "longitude": -74.6014,
+    "latitude": 46.1141,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "DU MOULIN (RIVIÈRE) EN AMONT DU SEUIL À L'ENTRÉ DU PARC DU MOULIN",
+    "state": "QC",
+    "siteId": "02RH070",
+    "longitude": -71.0424,
+    "latitude": 48.3944,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "DU SUD (RIVIÈRE) À 1,0 KM EN AMONT DU PONT-ROUTE À ARTHURVILLE",
+    "state": "QC",
+    "siteId": "02PH010",
+    "longitude": -70.7569,
+    "latitude": 46.8206,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "DUMOINE (RIVIERE) A LA SORTIE DU LAC ROBINSON",
+    "state": "QC",
+    "siteId": "02KJ004",
+    "longitude": -77.8156,
+    "latitude": 46.3458,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "DÉSERT (RIVIÈRE) SUR LE CHEMIN LYTTON EN AMONT DE LA CHUTE ROUGE",
+    "state": "QC",
+    "siteId": "02LH033",
+    "longitude": -76.0414,
+    "latitude": 46.5899,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "EATON (RIVIERE) PRES DE LA RIVIERE SAINT-FRANCOIS-3",
+    "state": "QC",
+    "siteId": "02OE027",
+    "longitude": -71.6553,
+    "latitude": 45.4672,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "EAUX VOLEES (RUISSEAU DES) EN AMONT DU CHEMIN DU BELVÉDÈRE",
+    "state": "QC",
+    "siteId": "02PD012",
+    "longitude": -71.1614,
+    "latitude": 47.2717,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "EAUX VOLEES (RUISSEAU DES) PRES DE LA RIVIERE MONTMORENCY",
+    "state": "QC",
+    "siteId": "02PD013",
+    "longitude": -71.1378,
+    "latitude": 47.2708,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "ECORCES (LAC DES) À MONT-LAURIER",
+    "state": "QC",
+    "siteId": "02LE019",
+    "longitude": -75.395,
+    "latitude": 46.5086,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "ESCOUMINS (RIVIERE DES) À 9,0 KM DE SON EMBOUCHURE",
+    "state": "QC",
+    "siteId": "02SC005",
+    "longitude": -69.4722,
+    "latitude": 48.3708,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "ETCHEMIN (RIVIERE) AU PONT-ROUTE 173 À SAINT-HENRI-DE-LÉVIS",
+    "state": "QC",
+    "siteId": "02PH011",
+    "longitude": -71.0689,
+    "latitude": 46.6911,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "EWING (RIVIÈRE) À SAINT-PIERRE-DE-VÉRONNE-À PIKE-RIVER",
+    "state": "QC",
+    "siteId": "02OH015",
+    "longitude": -73.0773,
+    "latitude": 45.1253,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "FAMINE (RIVIERE) A SAINT-GEORGES",
+    "state": "QC",
+    "siteId": "02PJ030",
+    "longitude": -70.6397,
+    "latitude": 46.1642,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "FEUILLES (RIVIERE AUX) EN AMONT DU RUISSEAU DUFREBOY",
+    "state": "QC",
+    "siteId": "03JB004",
+    "longitude": -71.2825,
+    "latitude": 58.2842,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "FOURCHUE (RIVIERE) AU RESERVOIR MORIN",
+    "state": "QC",
+    "siteId": "02PG009",
+    "longitude": -69.5117,
+    "latitude": 47.6494,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "FOURCHUE (RIVIERE) À 0,2 KM EN AVAL DU BARRAGE MORIN",
+    "state": "QC",
+    "siteId": "02PG003",
+    "longitude": -69.5128,
+    "latitude": 47.6508,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "GATINEAU (RIVIERE) AUX RAPIDES CEIZUR",
+    "state": "QC",
+    "siteId": "02LG005",
+    "longitude": -75.7536,
+    "latitude": 47.0836,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "GEORGE (RIVIERE) À LA SORTIE DU LAC DE LA HUTTE SAUVAGE",
+    "state": "QC",
+    "siteId": "03MD001",
+    "longitude": -64.8681,
+    "latitude": 56.7831,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "GODBOUT (RIVIERE) À 1,6 KM EN AMONT DU PONT-ROUTE 138",
+    "state": "QC",
+    "siteId": "02UA003",
+    "longitude": -67.6558,
+    "latitude": 49.3306,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "GORDON (RUISSEAU) A LA DÉCHARGE DU LAC TEE À KIPAWA",
+    "state": "QC",
+    "siteId": "02JE031",
+    "longitude": -79.0279,
+    "latitude": 46.767,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "HARRICANA (RIVIERE) 3,1 KM EN AVAL DU PONT-ROUTE 111 A AMOS",
+    "state": "QC",
+    "siteId": "04NA001",
+    "longitude": -78.1094,
+    "latitude": 48.6006,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "HURONS (RIVIERE DES) EN AVAL DU RUISSEAU SAINT-LOUIS-2",
+    "state": "QC",
+    "siteId": "02OJ024",
+    "longitude": -73.1869,
+    "latitude": 45.4903,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "HURONS (RIVIÈRE DES) À STONEHAM",
+    "state": "QC",
+    "siteId": "02PD024",
+    "longitude": -71.3616,
+    "latitude": 47.027,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "JACQUES-CARTIER (RIVIERE) EN AVAL DU PONT DU CHEMIN GOSFORD",
+    "state": "QC",
+    "siteId": "02PC002",
+    "longitude": -71.5272,
+    "latitude": 46.8897,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "KAMOURASKA (RIVIÈRE) AU PONT DU RANG DE L'EMBARRAS",
+    "state": "QC",
+    "siteId": "02PG023",
+    "longitude": -69.8493,
+    "latitude": 47.5327,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "KIAMIKA (RIVIERE) A CHUTE-SAINT-PHILIPPE",
+    "state": "QC",
+    "siteId": "02LE025",
+    "longitude": -75.2422,
+    "latitude": 46.6511,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "KIAMIKA (RIVIERE) AU BARRAGE KIAMIKA",
+    "state": "QC",
+    "siteId": "02LE017",
+    "longitude": -75.1333,
+    "latitude": 46.6333,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "KINOJEVIS (RIVIERE) A 0,3 KM EN AMONT DU PONT-ROUTE A CLÉRICY",
+    "state": "QC",
+    "siteId": "02JB013",
+    "longitude": -78.8533,
+    "latitude": 48.3667,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "KIPAWA (LAC) A LANIEL",
+    "state": "QC",
+    "siteId": "02JE017",
+    "longitude": -79.2698,
+    "latitude": 47.0419,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "KIPAWA (LAC) À KIPAWA",
+    "state": "QC",
+    "siteId": "02JE030",
+    "longitude": -78.9832,
+    "latitude": 46.7799,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "KIPAWA (RIVIÈRE) À 0.2 KM EN AVAL DU BARRAGE LANIEL",
+    "state": "QC",
+    "siteId": "02JE029",
+    "longitude": -79.2731,
+    "latitude": 47.0424,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "L'ACADIE (RIVIERE) PRES DE L'AUTOROUTE NO. 10",
+    "state": "QC",
+    "siteId": "02OJ026",
+    "longitude": -73.3708,
+    "latitude": 45.3897,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "L'ASSOMPTION (RIVIERE) AU PONT-ROUTE 158 À JOLIETTE",
+    "state": "QC",
+    "siteId": "02OB008",
+    "longitude": -73.4275,
+    "latitude": 46.0103,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "LA CHEVROTIÈRE (RIVIÈRE) SUR LA ROUTE DU MOULIN",
+    "state": "QC",
+    "siteId": "02PC020",
+    "longitude": -72.0013,
+    "latitude": 46.7375,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "LIEVRE (RIVIERE DU) AU LAC DU POISSON BLANC",
+    "state": "QC",
+    "siteId": "02LF002",
+    "longitude": -75.6486,
+    "latitude": 46.1014,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "LIEVRE (RIVIERE DU) À 2,2 KM EN AMONT DU PONT-ROUTE 311 À LAC-SAINT-PAUL",
+    "state": "QC",
+    "siteId": "02LE024",
+    "longitude": -75.3139,
+    "latitude": 46.7842,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "LOUISE (LAC) À WEEDON",
+    "state": "QC",
+    "siteId": "02OE066",
+    "longitude": -71.4217,
+    "latitude": 45.7375,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "LOUP (RIVIERE DU) A SAINT-JOSEPH-DE-KAMOURASKA",
+    "state": "QC",
+    "siteId": "02PG006",
+    "longitude": -69.6458,
+    "latitude": 47.6125,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "LOUP (RIVIERE DU) À 0,3 KM EN AVAL DU RUISSEAU CARUFEL",
+    "state": "QC",
+    "siteId": "02OC004",
+    "longitude": -73.1864,
+    "latitude": 46.6006,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "LOUP (RIVIERE DU) À 0,6 KM EN AMONT DU PONT-ROUTE 185",
+    "state": "QC",
+    "siteId": "02PG001",
+    "longitude": -69.5206,
+    "latitude": 47.8225,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "LOUPS MARINS (LAC DES) DANS LE BASSIN VERSANT DE LA RIVIÈRE NASTAPOCA",
+    "state": "QC",
+    "siteId": "03FA003",
+    "longitude": -74.2314,
+    "latitude": 56.4544,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "LUDGER (LAC) AU BARRAGE LUDGER",
+    "state": "QC",
+    "siteId": "02LC010",
+    "longitude": -74.2764,
+    "latitude": 46.1186,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "LYSTER (LAC) AU BARRAGE À COATICOOK",
+    "state": "QC",
+    "siteId": "02OE073",
+    "longitude": -71.9118,
+    "latitude": 45.0364,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MACAMIC (LAC) A MACAMIC",
+    "state": "QC",
+    "siteId": "04MA001",
+    "longitude": -79.0125,
+    "latitude": 48.7778,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MADAWASKA (RIVIÈRE) À 6 KM EN AVAL DU BARRAGE TÉMISCOUATA",
+    "state": "QC",
+    "siteId": "01AD015",
+    "longitude": -68.5918,
+    "latitude": 47.5385,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MAGPIE (RIVIERE) A LA SORTIE DU LAC MAGPIE",
+    "state": "QC",
+    "siteId": "02VB004",
+    "longitude": -64.5808,
+    "latitude": 50.6858,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MALBAIE (RIVIERE) A CLERMONT",
+    "state": "QC",
+    "siteId": "02PF001",
+    "longitude": -70.2169,
+    "latitude": 47.6942,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MANITOU (LAC) AU BARRAGE MANITOU",
+    "state": "QC",
+    "siteId": "02LC013",
+    "longitude": -74.3372,
+    "latitude": 46.075,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MASKINONGE (LAC) A SAINT GABRIEL DE BRANDON",
+    "state": "QC",
+    "siteId": "02OC007",
+    "longitude": -73.3917,
+    "latitude": 46.325,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MASKINONGE (RIVIERE) AU BARRAGE DE SAINT-DIDACE",
+    "state": "QC",
+    "siteId": "02OC006",
+    "longitude": -73.2778,
+    "latitude": 46.3292,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MASKINONGE (RIVIERE) AU PONT DU C.N. PRÈS DE SAINTE-URSULE",
+    "state": "QC",
+    "siteId": "02OC002",
+    "longitude": -73.0967,
+    "latitude": 46.3011,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MASSAWAPPI (RIVIERE) À 1,6 KM EN AVAL DU LAC MASSAWIPPI",
+    "state": "QC",
+    "siteId": "02OE019",
+    "longitude": -71.9625,
+    "latitude": 45.2842,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MASSAWIPPI (LAC) A NORTH HATLEY",
+    "state": "QC",
+    "siteId": "02OE045",
+    "longitude": -71.9742,
+    "latitude": 45.2758,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MASSON (LAC) AU BARRAGE MASSON",
+    "state": "QC",
+    "siteId": "02LC009",
+    "longitude": -74.0564,
+    "latitude": 46.0306,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MASTIGOUCHE (RIVIERE) EN AVAL DU LAC SAINTE-ROSE",
+    "state": "QC",
+    "siteId": "02OC021",
+    "longitude": -73.4617,
+    "latitude": 46.44,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MATANE (RIVIERE) AU BARRAGE MATHIEU-D'AMOURS",
+    "state": "QC",
+    "siteId": "02QB008",
+    "longitude": -67.5311,
+    "latitude": 48.8458,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MATANE (RIVIERE) À 8,5 KM EN AMONT DU PONT-ROUTE 132 À MATANE",
+    "state": "QC",
+    "siteId": "02QB001",
+    "longitude": -67.5419,
+    "latitude": 48.7747,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MATAPEDIA (RIVIERE) A 4 KM EN AMONT DE L'ASSEMETQUAGAN",
+    "state": "QC",
+    "siteId": "01BD009",
+    "longitude": -67.1302,
+    "latitude": 48.1079,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MATAPEDIA (RIVIERE) PRES DE AMQUI",
+    "state": "QC",
+    "siteId": "01BD008",
+    "longitude": -67.45,
+    "latitude": 48.4917,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MATAWIN (RIVIERE) A SAINT-MICHEL-DES-SAINTS",
+    "state": "QC",
+    "siteId": "02NF003",
+    "longitude": -73.9142,
+    "latitude": 46.6858,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MEGANTIC (LAC) A MEGANTIC",
+    "state": "QC",
+    "siteId": "02PJ001",
+    "longitude": -70.885,
+    "latitude": 45.5736,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MELEZES (RIVIERE AUX) À 7,6 KM EN AMONT DE LA CONFLUENCE AVEC LA KOKSOAK",
+    "state": "QC",
+    "siteId": "03KC004",
+    "longitude": -69.5908,
+    "latitude": 57.6869,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MEMPHREMAGOG (LAC) A MAGOG",
+    "state": "QC",
+    "siteId": "02OE012",
+    "longitude": -72.1615,
+    "latitude": 45.2675,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "METABETCHOUANE (RIVIERE) EN AMONT DE LA CENTRALE S.R.P.C.",
+    "state": "QC",
+    "siteId": "02RG005",
+    "longitude": -71.9936,
+    "latitude": 48.375,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MILLE ILES (RIVIERE DES) A BOIS-DES-FILION",
+    "state": "QC",
+    "siteId": "02OA003",
+    "longitude": -73.7522,
+    "latitude": 45.6629,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MILLE ÎLES (RIVIÈRE DES) À BARRAGE DU GRAND-MOULIN ",
+    "state": "QC",
+    "siteId": "02OA094",
+    "longitude": -73.8824,
+    "latitude": 45.5332,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MILLE-ILES (RIVIERE DES) AU BARRAGE DE TERREBONNE",
+    "state": "QC",
+    "siteId": "02OA088",
+    "longitude": -73.6494,
+    "latitude": 45.6931,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MILLE-ÎLES (RIVIÈRE DES)  EN AVAL DU BARRAGE GRAND-MOULIN À DEUX-MONTAGNES",
+    "state": "QC",
+    "siteId": "02OA095",
+    "longitude": -73.8824,
+    "latitude": 45.5332,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MISTASSIBI (RIVIÈRE) EN AMONT DE LA CHUTE BOUCHARD",
+    "state": "QC",
+    "siteId": "02RD007",
+    "longitude": -72.1726,
+    "latitude": 48.9425,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MISTASSINI (RIVIERE) EN AMONT DE LA RIVIERE MISTASSIBI",
+    "state": "QC",
+    "siteId": "02RD003",
+    "longitude": -72.2636,
+    "latitude": 48.8878,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MITCHINAMECUS (RIVIERE) AU RESERVOIR MITCHINAMECUS",
+    "state": "QC",
+    "siteId": "02LE014",
+    "longitude": -75.1772,
+    "latitude": 47.2142,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MITCHINAMECUS (RIVIERE) À LA TÊTE DE LA CHUTE RASCAS",
+    "state": "QC",
+    "siteId": "02LE013",
+    "longitude": -75.1436,
+    "latitude": 47.1844,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MOISIE (RIVIERE) À 5,1 KM EN AMONT DU PONT DU Q.N.S.L.R.",
+    "state": "QC",
+    "siteId": "02UC002",
+    "longitude": -66.1903,
+    "latitude": 50.3503,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MONTMORENCY (RIVIERE) EN AMONT DE LA RIVIERE BLANCHE",
+    "state": "QC",
+    "siteId": "02PD004",
+    "longitude": -71.1369,
+    "latitude": 47.2592,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MONTMORENCY (RIVIERE) À 0,6 KM EN AVAL DU BARRAGE DES MARCHES NATURELLES",
+    "state": "QC",
+    "siteId": "02PD002",
+    "longitude": -71.1514,
+    "latitude": 46.8942,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MORPIONS (RIVIÈRE) À 3,1 KM EN AMONT DE LA RIVIÈRE AUX BROCHETS",
+    "state": "QC",
+    "siteId": "02OH012",
+    "longitude": -73.0328,
+    "latitude": 45.1984,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "MULETS (RIVIERE AUX) AU BARRAGE THEODORE",
+    "state": "QC",
+    "siteId": "02LC017",
+    "longitude": -74.2472,
+    "latitude": 45.9625,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "NATASHQUAN (RIVIERE) À 0,6 KM EN AVAL DE LA DÉCHARGE DU LAC ALIESTE",
+    "state": "QC",
+    "siteId": "02WB003",
+    "longitude": -61.7136,
+    "latitude": 50.4272,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "NEIGETTE (PETITE RIVIÈRE) À 0,5 KM EN AVAL  DU LAC À LA PEINTURE",
+    "state": "QC",
+    "siteId": "02QA036",
+    "longitude": -68.3561,
+    "latitude": 48.4197,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "NELSON (RIVIÈRE) A VAL-BÉLAIR À QUÉBEC",
+    "state": "QC",
+    "siteId": "02PD023",
+    "longitude": -71.425,
+    "latitude": 46.8683,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "NICOLET (RIVIERE) À 5,8 KM EN AVAL DE LA RIVIERE BULSTRODE",
+    "state": "QC",
+    "siteId": "02OD003",
+    "longitude": -72.3064,
+    "latitude": 46.0564,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "NICOLET SUD-OUEST (RIVIERE) PRES D'ASBESTOS",
+    "state": "QC",
+    "siteId": "02OD001",
+    "longitude": -71.9692,
+    "latitude": 45.7917,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "NOIRE (RIVIERE) A SAINTE EMELIE DE L'ENERGIE",
+    "state": "QC",
+    "siteId": "02OB032",
+    "longitude": -73.6519,
+    "latitude": 46.3394,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "NOIRE (RIVIERE) À 7,6 KM DE LA YAMASKA",
+    "state": "QC",
+    "siteId": "02OG019",
+    "longitude": -72.9064,
+    "latitude": 45.4997,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "NOIRE (RIVIÈRE) À L'ARTIFICE",
+    "state": "QC",
+    "siteId": "02OA110",
+    "longitude": -73.85,
+    "latitude": 45.0766,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "NORD (RIVIER DU) AU BARRAGE BRULE",
+    "state": "QC",
+    "siteId": "02LC015",
+    "longitude": -74.2819,
+    "latitude": 46.0778,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "NORD (RIVIERE DU) A 4,8 KM EN AMONT DU PONT DU C.N. A SAINT-JEROME",
+    "state": "QC",
+    "siteId": "02LC008",
+    "longitude": -74.0128,
+    "latitude": 45.7931,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "NORD (RIVIERE DU) AU BARRAGE DE LA MONTAGNE NOIRE  À LANTIER",
+    "state": "QC",
+    "siteId": "02LC011",
+    "longitude": -74.2772,
+    "latitude": 46.1819,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "NORD (RIVIERE DU) PRES DE SAINT-AGATHE",
+    "state": "QC",
+    "siteId": "02LC021",
+    "longitude": -74.2528,
+    "latitude": 46.0458,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "NOUVELLE (RIVIÈRE) A 0,2 KM EN AMONT DU PONT-ROUTE 132 A NOUVELLE",
+    "state": "QC",
+    "siteId": "01BF004",
+    "longitude": -66.3488,
+    "latitude": 48.1588,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "ONTARITZI (RIVIÈRE) À 0,2 KM EN AVAL DU BARRAGE DU LAC SAINT-JOSEPH",
+    "state": "QC",
+    "siteId": "02PC010",
+    "longitude": -71.6394,
+    "latitude": 46.8675,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "OUAREAU (RIVIERE) AUX CHUTES DORWIN",
+    "state": "QC",
+    "siteId": "02OB017",
+    "longitude": -73.7053,
+    "latitude": 46.03,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "OUELLE (RIVIERE) PRES DE SAINT-GABRIEL-DE-KAMOURASKA",
+    "state": "QC",
+    "siteId": "02PG022",
+    "longitude": -69.9581,
+    "latitude": 47.3811,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "OUIATCHOUANE (RIVIERE) AU RESERVOIR DES COMMISSAIRES",
+    "state": "QC",
+    "siteId": "02RG007",
+    "longitude": -72.2431,
+    "latitude": 48.2017,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "OUIATCHOUANE (RIVIERE) EN AVAL DU BARRAGE DE LAC DES COMMISSAIRES",
+    "state": "QC",
+    "siteId": "02RG008",
+    "longitude": -72.2389,
+    "latitude": 48.2061,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "OUTAOUAIS (RIVIERE DES) A HULL",
+    "state": "QC",
+    "siteId": "02LA015",
+    "longitude": -75.7062,
+    "latitude": 45.4314,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "OUTAOUAIS (RIVIERE DES) A LA MARINA DE SAINTE-ANNE-DE-BELLEVUE",
+    "state": "QC",
+    "siteId": "02OA033",
+    "longitude": -73.9488,
+    "latitude": 45.4025,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "OUTAOUAIS (RIVIERE DES) A LA SORTIE DU LAC GRANET",
+    "state": "QC",
+    "siteId": "02JB009",
+    "longitude": -77.5489,
+    "latitude": 47.8425,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "OUTAOUAIS (RIVIERE DES) A SAINTE-ANNE-DE-BELLEVUE",
+    "state": "QC",
+    "siteId": "02OA013",
+    "longitude": -73.9566,
+    "latitude": 45.4047,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "OUTAOUAIS (RIVIERE DES) A TERRASSE-VAUDREUIL",
+    "state": "QC",
+    "siteId": "02OA107",
+    "longitude": -73.9981,
+    "latitude": 45.3891,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "PAPINEAU (LAC) AU BARRAGE PAPINEAU À SAINTE-AGATHE-DES-MONTS",
+    "state": "QC",
+    "siteId": "02LC014",
+    "longitude": -74.2942,
+    "latitude": 46.1225,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "PERIBONCA (PETITE RIVIERE)",
+    "state": "QC",
+    "siteId": "02RC011",
+    "longitude": -72.0478,
+    "latitude": 48.8142,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "PETIT MECATINA (RIVIERE DU) À 1,0 KM EN AMONT DE LA NÉTAGAMIOU",
+    "state": "QC",
+    "siteId": "02XA008",
+    "longitude": -59.5889,
+    "latitude": 50.6806,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "PETIT SAGUENAY (RIVIERE) A 1 KM DU RUISSEAU DECHARGE DU LAC DAVID",
+    "state": "QC",
+    "siteId": "02RH067",
+    "longitude": -70.0292,
+    "latitude": 48.0931,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "PETITE NATION (RIVIERE DE LA) AU PONT À 1,6 KM EN AMONT DE RIPON",
+    "state": "QC",
+    "siteId": "02LD005",
+    "longitude": -75.0914,
+    "latitude": 45.7917,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "PICANOC (RIVIÈRE) SUR LE CHEMIN DU CAYAMAN À GRACEFIELD",
+    "state": "QC",
+    "siteId": "02LH032",
+    "longitude": -76.0694,
+    "latitude": 46.0779,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "PIKAUBA (RIVIERE) EN AMONT DE LA RIVIERE APICA",
+    "state": "QC",
+    "siteId": "02RH027",
+    "longitude": -71.3819,
+    "latitude": 47.9411,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "PIKAUBA (RIVIÈRE) À 3,6 KM DE L'EMBOUCHURE",
+    "state": "QC",
+    "siteId": "02RH071",
+    "longitude": -71.4406,
+    "latitude": 48.3059,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "PILES (LAC DES) À 50 MÈTRES EN AMONT DU BARRAGE",
+    "state": "QC",
+    "siteId": "02NG019",
+    "longitude": -72.7741,
+    "latitude": 46.6594,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "PINS (RIVIERE AUX) AU LAC SAINT-JOSEPH",
+    "state": "QC",
+    "siteId": "02PC011",
+    "longitude": -71.6408,
+    "latitude": 46.8678,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "PONTAX (RIVIERE) À 60,4 KM DE L'EMBOUCHURE",
+    "state": "QC",
+    "siteId": "03BF001",
+    "longitude": -78.0967,
+    "latitude": 51.5336,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "PORTNEUF (RIVIÈRE) À 7,5 KM DE SON EMBOUCHURE",
+    "state": "QC",
+    "siteId": "02PC017",
+    "longitude": -71.841,
+    "latitude": 46.7277,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "PRAIRIES (RIVIERE DES) AU RAPIDE DU CHEVAL BLANC",
+    "state": "QC",
+    "siteId": "02OA004",
+    "longitude": -73.8425,
+    "latitude": 45.5183,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "QUINZE (LAC DES) A ANGLIERS",
+    "state": "QC",
+    "siteId": "02JB017",
+    "longitude": -79.2355,
+    "latitude": 47.5526,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "QUINZE (LAC DES) A LA POINTE DU PIN ROUGE",
+    "state": "QC",
+    "siteId": "02JB011",
+    "longitude": -79.1745,
+    "latitude": 47.5702,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "RICHELIEU (RIVIERE) A LA MARINA DE SAINT-JEAN",
+    "state": "QC",
+    "siteId": "02OJ016",
+    "longitude": -73.2501,
+    "latitude": 45.3023,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "RICHELIEU (RIVIERE) AUX RAPIDES FRYERS",
+    "state": "QC",
+    "siteId": "02OJ007",
+    "longitude": -73.2584,
+    "latitude": 45.3985,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "RIMOUSKI (RIVIERE) À 3,7 KM EN AMONT DU PONT-ROUTE 132",
+    "state": "QC",
+    "siteId": "02QA002",
+    "longitude": -68.5561,
+    "latitude": 48.4133,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "ROUGE (RIVIERE) EN AMONT DE LA CHUTE MCNEIL",
+    "state": "QC",
+    "siteId": "02LC029",
+    "longitude": -74.6897,
+    "latitude": 45.7364,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "ROUGE (RIVIÈRE) EN AMONT DU PONCEAU SUR LA ROUTE 373",
+    "state": "QC",
+    "siteId": "02RF010",
+    "longitude": -72.492,
+    "latitude": 48.8039,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SABLES (LAC DES) AU BARRAGE DES SABLES",
+    "state": "QC",
+    "siteId": "02LC016",
+    "longitude": -74.3092,
+    "latitude": 46.0525,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SABLES (RIVIERE AUX) AU RESERVOIR KENOGAMI",
+    "state": "QC",
+    "siteId": "02RH014",
+    "longitude": -71.2769,
+    "latitude": 48.3603,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SABLES (RIVIÈRE AUX) À SAGUENAY",
+    "state": "QC",
+    "siteId": "02RH072",
+    "longitude": -71.2844,
+    "latitude": 48.3719,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SAINT-CHARLES (RIVIERE) À 0,8 KM  EN AMONT DE LA RIVIERE LORETTE",
+    "state": "QC",
+    "siteId": "02PD010",
+    "longitude": -71.3175,
+    "latitude": 46.8142,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SAINT-FRANCOIS (RIVIERE) A SHERBROOKE",
+    "state": "QC",
+    "siteId": "02OE005",
+    "longitude": -71.8872,
+    "latitude": 45.4031,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SAINT-FRANCOIS (RIVIERE) AU RESERVOIR AYLMER A WEEDON",
+    "state": "QC",
+    "siteId": "02OE025",
+    "longitude": -71.4064,
+    "latitude": 45.7603,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SAINT-FRANCOIS (RIVIERE) AU RESERVOIR SAINT-FRANCOIS",
+    "state": "QC",
+    "siteId": "02OE024",
+    "longitude": -71.2783,
+    "latitude": 45.945,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SAINT-FRANCOIS (RIVIERE) À 0,1 KM EN AVAL DU BARRAGE AYLMER",
+    "state": "QC",
+    "siteId": "02OE070",
+    "longitude": -71.4069,
+    "latitude": 45.7597,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SAINT-FRANCOIS (RIVIERE) À 0,5 KM EN AVAL DE LA CENTRALE WEEDON",
+    "state": "QC",
+    "siteId": "02OE062",
+    "longitude": -71.4686,
+    "latitude": 45.6586,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SAINT-FRANCOIS (RIVIERE) À 0,6 KM EN AVAL DU BARRAGE JULES-ALLARD",
+    "state": "QC",
+    "siteId": "02OE001",
+    "longitude": -71.2811,
+    "latitude": 45.9408,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SAINT-JEAN (LAC) À ROBERVAL (PRÈS DU CENTRE AQUATIQUE)",
+    "state": "QC",
+    "siteId": "02RG020",
+    "longitude": -72.2231,
+    "latitude": 48.5278,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SAINT-LAURENT (FLEUVE) A LA PRAIRIE",
+    "state": "QC",
+    "siteId": "02OA041",
+    "longitude": -73.5059,
+    "latitude": 45.4649,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SAINT-LAURENT (FLEUVE) A LANORAIE",
+    "state": "QC",
+    "siteId": "02OB011",
+    "longitude": -73.2146,
+    "latitude": 45.9594,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SAINT-LAURENT (FLEUVE) A LASALLE",
+    "state": "QC",
+    "siteId": "02OA016",
+    "longitude": -73.6232,
+    "latitude": 45.415,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SAINT-LAURENT (FLEUVE) A POINTE-DES-CASCADES",
+    "state": "QC",
+    "siteId": "02MC005",
+    "longitude": -73.9621,
+    "latitude": 45.3344,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SAINT-LOUIS (LAC) A POINTE-CLAIRE",
+    "state": "QC",
+    "siteId": "02OA039",
+    "longitude": -73.8207,
+    "latitude": 45.4277,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SAINT-LOUIS (RUISSEAU) À 0,3 KM DE LA RIVIÈRE DU DIABLE",
+    "state": "QC",
+    "siteId": "02LC043",
+    "longitude": -74.5033,
+    "latitude": 46.3747,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SAINT-PAUL (RIVIERE) À 0,5 KM DU RUISSEAU CHANION",
+    "state": "QC",
+    "siteId": "02XC001",
+    "longitude": -57.6,
+    "latitude": 51.7725,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SAINTE-ANNE (RIVIERE) (BRAS DU NORD DE LA) EN AMONT",
+    "state": "QC",
+    "siteId": "02PB006",
+    "longitude": -71.8544,
+    "latitude": 46.9717,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SAINTE-ANNE (RIVIERE) À 1,3 KM EN AVAL DU BARRAGE À CHUTE-PANET",
+    "state": "QC",
+    "siteId": "02PB019",
+    "longitude": -71.8775,
+    "latitude": 46.8528,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SAINTE-ANNE (RIVIERE) À 9,7 KM EN AMONT DU PONT-ROUTE 132",
+    "state": "QC",
+    "siteId": "02QC009",
+    "longitude": -66.4867,
+    "latitude": 49.0589,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SAINTE-MARGUERITE NORD-EST (RIVIÈRE) À 1,7 KM DE LA RIVIÈRE SAINTE-MARGUERITE",
+    "state": "QC",
+    "siteId": "02RH073",
+    "longitude": -69.9086,
+    "latitude": 48.2692,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SAUMON (RIVIERE AU) À 1,9 KM EN AMONT DE LA MOFFAT",
+    "state": "QC",
+    "siteId": "02OE032",
+    "longitude": -71.3867,
+    "latitude": 45.5806,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SAUMONS (RIVIERE AUX) PRES DE L'EMBOUCHURE",
+    "state": "QC",
+    "siteId": "02RF009",
+    "longitude": -72.5139,
+    "latitude": 48.6836,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SIMARD (LAC) A LAFORCE",
+    "state": "QC",
+    "siteId": "02JB012",
+    "longitude": -78.7294,
+    "latitude": 47.5362,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "STUKELY (LAC) À ORFORD",
+    "state": "QC",
+    "siteId": "02OF023",
+    "longitude": -72.2306,
+    "latitude": 45.3944,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "SUFFOLK (RUISSEAU) À 0,2 KM EN AMONT DU PONT-ROUTE À CHÉNÉVILLE",
+    "state": "QC",
+    "siteId": "02LD006",
+    "longitude": -75.0228,
+    "latitude": 45.8833,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "TEMISCAMINGUE (LAC) A TEMISCAMING",
+    "state": "QC",
+    "siteId": "02JE025",
+    "longitude": -79.105,
+    "latitude": 46.7184,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "TEMISCAMINGUE (LAC) A VILLE-MARIE",
+    "state": "QC",
+    "siteId": "02JE026",
+    "longitude": -79.4446,
+    "latitude": 47.3293,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "TRENTE ET UN MILLES (LAC DES) AU BARRAGE",
+    "state": "QC",
+    "siteId": "02LH029",
+    "longitude": -75.8039,
+    "latitude": 46.2761,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "TROIS PISTOLES (RIVIERE DES) À 2,1 KM EN AMONT DU PONT-ROUTE 132",
+    "state": "QC",
+    "siteId": "02QA001",
+    "longitude": -69.1964,
+    "latitude": 48.0892,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "VALIN (RIVIERE) À 3,5 KM DE L'EMBOUCHURE",
+    "state": "QC",
+    "siteId": "02RH045",
+    "longitude": -70.9742,
+    "latitude": 48.4889,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "VERMILLON (RIVIERE) EN AVAL DE LA RIVIERE DES PRAIRIES",
+    "state": "QC",
+    "siteId": "02ND003",
+    "longitude": -73.0428,
+    "latitude": 47.6764,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "WASWANIPI (RIVIERE) A LA CHUTE ROUGE",
+    "state": "QC",
+    "siteId": "03AB002",
+    "longitude": -77.1872,
+    "latitude": 49.8575,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "WATERLOO (LAC) A WATERLOO",
+    "state": "QC",
+    "siteId": "02OG038",
+    "longitude": -72.5167,
+    "latitude": 45.3375,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "WATERLOO (LAC) EN AMONT DU BARRAGE",
+    "state": "QC",
+    "siteId": "02OG044",
+    "longitude": -72.5167,
+    "latitude": 45.3506,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "YAMASKA (RIVIERE) À 1,8 KM EN AVAL DU BARRAGE À SAINT-HYACINTHE",
+    "state": "QC",
+    "siteId": "02OG047",
+    "longitude": -72.9361,
+    "latitude": 45.6219,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "YAMASKA (RIVIERE) À FARNHAM",
+    "state": "QC",
+    "siteId": "02OG002",
+    "longitude": -72.9658,
+    "latitude": 45.2825,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "YAMASKA NORD (RIVIERE) A VAL-SHEFFORD",
+    "state": "QC",
+    "siteId": "02OG007",
+    "longitude": -72.6222,
+    "latitude": 45.4158,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "YAMASKA NORD (RIVIERE) AU RESERVOIR CHOINIERE",
+    "state": "QC",
+    "siteId": "02OG009",
+    "longitude": -72.625,
+    "latitude": 45.4192,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "YAMASKA NORD (RIVIERE) À 0,1 KM EN AVAL DU BARRAGE DU LAC WATERLOO",
+    "state": "QC",
+    "siteId": "02OG045",
+    "longitude": -72.5156,
+    "latitude": 45.3494,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "YAMASKA NORD (RIVIERE) À 2,4 KM EN AMONT DE L'AUTOROUTE 10",
+    "state": "QC",
+    "siteId": "02OG042",
+    "longitude": -72.7844,
+    "latitude": 45.3644,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "YAMASKA SUD-EST (RIVIERE) AU PONT-ROUTE 202 À COWANSVILLE",
+    "state": "QC",
+    "siteId": "02OG014",
+    "longitude": -72.7481,
+    "latitude": 45.2067,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "YORK (RIVIERE) À 1,4 KM EN AVAL DU RUISSEAU DINNER ISLAND",
+    "state": "QC",
+    "siteId": "01BH010",
+    "longitude": -64.9211,
+    "latitude": 48.8067,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "À MARS (RIVIÈRE) À LA FOSSE 80 DANS LA ZEC DE LA RIVIÈRE À MARS",
+    "state": "QC",
+    "siteId": "02RH069",
+    "longitude": -70.9979,
+    "latitude": 48.205,
+    "source": "ENVIRONMENT_CANADA"
+  },
+  {
+    "country": "CA",
+    "name": "ÉCORCES (RIVIERE AUX) EN AMONT DU PONT-ROUTE 169",
+    "state": "QC",
+    "siteId": "02RH035",
+    "longitude": -71.6453,
+    "latitude": 48.1822,
+    "source": "ENVIRONMENT_CANADA"
+  }
+]

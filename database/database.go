@@ -1,20 +1,15 @@
 package database
 
 import (
-	"log"
-	"time"
-	"wh2o-next/core/alerts"
-	gages "wh2o-next/core/gages"
-	user "wh2o-next/core/user"
-
-	"github.com/gin-gonic/gin"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
+	"wh2o-go/common"
+	"wh2o-go/model"
 )
 
 const databaseFile = "db.sqlite"
 
-func Database() gin.HandlerFunc {
+func Connect() *gorm.DB {
 
 	db, err := gorm.Open(sqlite.Open(databaseFile), &gorm.Config{})
 
@@ -22,34 +17,19 @@ func Database() gin.HandlerFunc {
 		panic("failed to connect database")
 	}
 
-	return func(c *gin.Context) {
-
-		t := time.Now()
-
-		c.Set("Database", db)
-
-		c.Next()
-
-		latency := time.Since(t)
-		log.Print(latency)
-
-	}
-}
-
-func InitializeDatabase() *gorm.DB {
-
-	db, err := gorm.Open(sqlite.Open(databaseFile), &gorm.Config{})
-
-	if err != nil {
-		panic("failed to connect database")
+	models := []interface{}{
+		&model.Gage{},
+		&model.Reading{},
+		&model.Alert{},
+		&model.User{},
 	}
 
-	db.AutoMigrate(&gages.Gage{})
-	db.AutoMigrate(&gages.GageReading{})
-	db.AutoMigrate(&alerts.Alert{})
-	db.AutoMigrate(&user.User{})
+	for _, m := range models {
+		migrateErr := db.AutoMigrate(m)
+		common.CheckError(migrateErr)
+	}
 
-	db.Create(&user.User{
+	db.Create(&model.User{
 		ID:                    1,
 		Email:                 "",
 		MailgunKey:            "",

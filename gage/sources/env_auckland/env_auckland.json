@@ -1,0 +1,398 @@
+[
+ {
+  "gageName": "Vaughn Stream @ Lower Weir",
+  "siteId": "7506",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.68437,
+  "longitude": 174.73955
+ },
+ {
+  "gageName": "Taiorahi Stream at Westbourne ave",
+  "siteId": "7519",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.73149,
+  "longitude": 174.75127
+ },
+ {
+  "gageName": "Mairangi Bay Stream at Tennis Club",
+  "siteId": "7514",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.74004,
+  "longitude": 174.75103
+ },
+ {
+  "gageName": "Awaruku stream at Glenvar Road",
+  "siteId": "7516",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.69454,
+  "longitude": 174.74258
+ },
+ {
+  "gageName": "Newmarket Stream @ AYR Street crump weir",
+  "siteId": "8176",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.86508,
+  "longitude": 174.78565
+ },
+ {
+  "gageName": "Kaipatiki Stream at Kaipatiki road",
+  "siteId": "7719",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.78198,
+  "longitude": 174.71087
+ },
+ {
+  "gageName": "Taiaotea stream at Freyberg Park",
+  "siteId": "7515",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.71647,
+  "longitude": 174.7396
+ },
+ {
+  "gageName": "Wairau Creek @ Chartwell Road",
+  "siteId": "7607",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.78431,
+  "longitude": 174.73405
+ },
+ {
+  "gageName": "Alexandra @ Rosedale Rd.",
+  "siteId": "7834",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.74159,
+  "longitude": 174.70673
+ },
+ {
+  "gageName": "Eskdale Stream at Lauderdale Reserve",
+  "siteId": "7706",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.79165,
+  "longitude": 174.70773
+ },
+ {
+  "gageName": "Tamaki Trib at Bowden Road Crump Weir",
+  "siteId": "8222",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.9166,
+  "longitude": 174.85042
+ },
+ {
+  "gageName": "Whau Stream at Blockhouse Bay Road Crump Wier",
+  "siteId": "8006",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.9115,
+  "longitude": 174.70266
+ },
+ {
+  "gageName": "Lucas @ Gills Road",
+  "siteId": "7830",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.72308,
+  "longitude": 174.6962
+ },
+ {
+  "gageName": "Meola Creek at Motions Road Weir",
+  "siteId": "8106",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.86676,
+  "longitude": 174.71872
+ },
+ {
+  "gageName": "Paremuka Stream @ Universal Drive",
+  "siteId": "7928",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.8589,
+  "longitude": 174.61508
+ },
+ {
+  "gageName": "Wairau Creek @ Motorway",
+  "siteId": "7604",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.78017,
+  "longitude": 174.74891
+ },
+ {
+  "gageName": "Puhinui @ Drop Structure",
+  "siteId": "43807",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.99258,
+  "longitude": 174.87012
+ },
+ {
+  "gageName": "Tamahunga River @ Quintals Falls",
+  "siteId": "6501",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.32696,
+  "longitude": 174.73389
+ },
+ {
+  "gageName": "Mangawheau Stream @ Weir",
+  "siteId": "8529",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -37.1056,
+  "longitude": 175.06825
+ },
+ {
+  "gageName": "Ngakoroa Stream @ Mill Rd",
+  "siteId": "43829",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -37.19547,
+  "longitude": 174.97351
+ },
+ {
+  "gageName": "Opanuku Stream @ Candia Road Bridge",
+  "siteId": "7904",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.89519,
+  "longitude": 174.59551
+ },
+ {
+  "gageName": "Te Muri",
+  "siteId": "6995",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.51219,
+  "longitude": 174.70741
+ },
+ {
+  "gageName": "Mangemangeroa",
+  "siteId": "8304",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.93568,
+  "longitude": 174.93431
+ },
+ {
+  "gageName": "West Hoe @ Halls",
+  "siteId": "7206",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.57872,
+  "longitude": 174.6576
+ },
+ {
+  "gageName": "Waitangi @ S H Bridge",
+  "siteId": "43602",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -37.22881,
+  "longitude": 174.74941
+ },
+ {
+  "gageName": "Papakura @ Great South Road Bridge",
+  "siteId": "43803",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -37.03334,
+  "longitude": 174.90663
+ },
+ {
+  "gageName": "Swanson Stream @ Woodside Reserve",
+  "siteId": "7907",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.85592,
+  "longitude": 174.61287
+ },
+ {
+  "gageName": "Waiteitei River @ Sandersons",
+  "siteId": "45705",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.26509,
+  "longitude": 174.58592
+ },
+ {
+  "gageName": "Kourawhero @ Farm Bridge",
+  "siteId": "45731",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.39349,
+  "longitude": 174.52996
+ },
+ {
+  "gageName": "Omaha Stormwater monitoring",
+  "siteId": "6437131",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.34194,
+  "longitude": 174.77764
+ },
+ {
+  "gageName": "Otara @ Hills Road Bridge",
+  "siteId": "8208",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.9584,
+  "longitude": 174.88262
+ },
+ {
+  "gageName": "Motions Stream @ Western Springs.",
+  "siteId": "8104",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.8648,
+  "longitude": 174.72471
+ },
+ {
+  "gageName": "Wairoa River @ Tourist Road",
+  "siteId": "8516",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -37.01335,
+  "longitude": 175.05319
+ },
+ {
+  "gageName": "Rangitopuni River @ Walkers",
+  "siteId": "7805",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.73702,
+  "longitude": 174.61939
+ },
+ {
+  "gageName": "Ararimu River @ Old North Rd Bridge",
+  "siteId": "45326",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.74246,
+  "longitude": 174.51212
+ },
+ {
+  "gageName": "Hoteo River @ Gubbs",
+  "siteId": "45703",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.38438,
+  "longitude": 174.50989
+ },
+ {
+  "gageName": "Oratia @ Millbrook Road",
+  "siteId": "7911",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.88918,
+  "longitude": 174.63316
+ },
+ {
+  "gageName": "Opanuku @ Vintage Reserve",
+  "siteId": "7912",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.88006,
+  "longitude": 174.62242
+ },
+ {
+  "gageName": "Oteha River @ Days Bridge",
+  "siteId": "7811",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.73191,
+  "longitude": 174.69479
+ },
+ {
+  "gageName": "Kaukapakapa @ Taylors",
+  "siteId": "45415",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.6306,
+  "longitude": 174.51899
+ },
+ {
+  "gageName": "Orewa @ Kowhai Ave",
+  "siteId": "7202",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.59746,
+  "longitude": 174.65792
+ },
+ {
+  "gageName": "Mahurangi Argonaut @ College",
+  "siteId": "6863",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.4029,
+  "longitude": 174.65705
+ },
+ {
+  "gageName": "Kaipara River @ Waimauku",
+  "siteId": "45311",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.76327,
+  "longitude": 174.49399
+ },
+ {
+  "gageName": "Opanuku at Border Road",
+  "siteId": "7908",
+  "country": "NZ",
+  "state": "--",
+  "source": "ENVIRONMENT_AUCKLAND",
+  "latitude": -36.88977,
+  "longitude": 174.61557
+ }
+]

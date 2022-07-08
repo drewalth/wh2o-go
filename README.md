@@ -1,6 +1,6 @@
-# wh2o-next
+# wh2o-go
 
-Dashboard and custom notifications via Email or SMS for USGS river gages built with Go and JavaScript.
+Self-hosted USGS river gage dashboard and custom notifications via Email or SMS built with Go and JavaScript.
 
 ![Alert Dashboard](/client/public/wh2o-next-alert-01.png)
 
@@ -125,7 +125,7 @@ If you'd like to backup data to Dropbox or something else, change the file path 
 I cannot find the gage I am looking for. How can I add one?
 </summary>
 
-If you cannot find a USGS gage in the set, you can manually insert the gage's site number in the input when adding a bookmark. Alternatively, you can add the gage to the source JSON file. See all [gage sources](/core/lib/sources).
+If you cannot find a USGS gage in the set, you can manually insert the gage's site number in the input when adding a bookmark. Alternatively, you can add the gage to the source JSON file. See all [gage sources](/lib/sources).
 
 ![USGS Page](/client/public/wh2o-next-gage-site-01.png)
 
@@ -137,7 +137,7 @@ If you'd prefer not to work with Go and just JavaScript/Nodejs, check out the [N
 
 ## To-Do
 
-- [x] embed json assets into dist binary. See [`gages.HandleGetGageSources`](/core/gages/gages.go) and [`lib`](/core/lib/).
+- [x] embed json assets into dist binary. See [`gages.HandleGetGageSources`](/core/gages/gages.go) and [`lib`](/lib/).
 - [x] embed static frontend files into dist binary.
 - [ ] setup goreleaser or some other auto semver service
 
