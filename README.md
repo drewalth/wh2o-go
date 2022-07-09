@@ -9,6 +9,8 @@
 Self-hosted dashboard and custom notifications via Email and SMS for rivers in the United States, Canada, New Zealand
 and Chile.
 
+> If you do not want to self-host this app see [wh2o.io](https://wh2o.io/)
+
 ## Features
 
 - Daily Reports. Schedule daily emails summarizing your bookmarked gages sent with [Mailgun](https://www.mailgun.com/).
