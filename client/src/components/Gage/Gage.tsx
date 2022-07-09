@@ -212,7 +212,7 @@ export const Gage = (): JSX.Element => {
           </Form.Item>
           <Form.Item label={'State'} name={'state'}>
             <Select>
-              {usStates.map((val, index) => (
+              {properties[createForm.country].states.map((val, index) => (
                 <Select.Option value={val.abbreviation} key={index}>
                   {val.name}
                 </Select.Option>

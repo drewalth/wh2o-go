@@ -25,7 +25,7 @@ func RunCronJobs(db *gorm.DB) {
 
 		common.CheckError(res1.Error)
 
-		userGages := u.GetGages(db)
+		userGages := u.GetUSGSGages(db)
 
 		if len(userGages) == 0 {
 			log.Println("No bookmarked gages")

@@ -1,1 +1,2648 @@
-[{"country":"CA","name":"ABITAU RIVER ABOVE CUMING LAKE","state":"SK","siteId":"07QC005","longitude":-108.7741,"latitude":59.9994,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ADAMS LAKE","state":"SK","siteId":"11AB095","longitude":-109.8372,"latitude":49.6426,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ALCOTT CREEK ABOVE MEADOW LAKE","state":"SK","siteId":"06AD011","longitude":-107.975,"latitude":53.9528,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ALTAWAN RESERVOIR NEAR GOVENLOCK","state":"SK","siteId":"11AB089","longitude":-109.9167,"latitude":49.1669,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ANGLIN LAKE RESERVOIR","state":"SK","siteId":"05GG005","longitude":-106.0083,"latitude":53.6639,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ANTELOPE CREEK NEAR CABRI","state":"SK","siteId":"05HC005","longitude":-108.3815,"latitude":50.662,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ANTLER RIVER NEAR WAUCHOPE","state":"SK","siteId":"05NF010","longitude":-101.8482,"latitude":49.5839,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ARM RIVER NEAR BETHUNE","state":"SK","siteId":"05JH001","longitude":-105.1937,"latitude":50.7377,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ASSINIBOINE RIVER AT KAMSACK","state":"SK","siteId":"05MD004","longitude":-101.9166,"latitude":51.5649,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ASSINIBOINE RIVER AT STURGIS","state":"SK","siteId":"05MC001","longitude":-102.5469,"latitude":51.9397,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"AVONLEA CREEK NEAR ROULEAU","state":"SK","siteId":"05JE005","longitude":-104.9908,"latitude":50.0472,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"AVONLEA RESERVOIR NEAR AVONLEA","state":"SK","siteId":"05JE007","longitude":-105.0064,"latitude":49.9869,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BALLANTYNE RIVER ABOVE BALLANTYNE BAY","state":"SK","siteId":"05KF001","longitude":-103.9417,"latitude":54.5611,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BATTLE CREEK AT INTERNATIONAL BOUNDARY","state":"SK","siteId":"11AB027","longitude":-109.423,"latitude":49.0024,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BATTLE CREEK BELOW NASHLYN PROJECT","state":"SK","siteId":"11AB101","longitude":-109.4649,"latitude":49.1637,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BATTLE CREEK BELOW WILSON'S WEIR","state":"SK","siteId":"11AB118","longitude":-109.6448,"latitude":49.4501,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BATTLE CREEK NEAR CONSUL","state":"SK","siteId":"11AB096","longitude":-109.5242,"latitude":49.2867,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BEAR CREEK NEAR PIAPOT","state":"SK","siteId":"05HA003","longitude":-109.1062,"latitude":49.8994,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BEAVER RIVER BELOW WATERHEN RIVER","state":"SK","siteId":"06AG001","longitude":-107.8106,"latitude":54.8192,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BEAVER RIVER NEAR DORINTOSH","state":"SK","siteId":"06AD001","longitude":-108.6044,"latitude":54.2964,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BELANGER CREEK DIVERSION TO CYPRESS LAKE","state":"SK","siteId":"11AC064","longitude":-109.365,"latitude":49.4944,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BIG GULLY CREEK NEAR MAIDSTONE","state":"SK","siteId":"05EF005","longitude":-109.2958,"latitude":53.2442,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BIG QUILL LAKE NEAR KANDAHAR","state":"SK","siteId":"05MA010","longitude":-104.3245,"latitude":51.7814,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BIG SANDY LAKE ON THE HANSON LAKE ROAD","state":"SK","siteId":"05KF004","longitude":-104.1772,"latitude":54.4622,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BIRCH CREEK NEAR ELFROS","state":"SK","siteId":"05MA011","longitude":-103.8745,"latitude":51.7465,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BOGGY CREEK NEAR LUMSDEN","state":"SK","siteId":"05JF006","longitude":-104.818,"latitude":50.5847,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BOUNDARY RESERVOIR DIVERSION CANAL NEAR ESTEVAN","state":"SK","siteId":"05NB038","longitude":-103.1121,"latitude":49.1482,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BOUNDARY RESERVOIR NEAR ESTEVAN","state":"SK","siteId":"05NB012","longitude":-103.0244,"latitude":49.0969,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BOXELDER CREEK AT HARGRAVE'S RANCH","state":"SK","siteId":"05AH050","longitude":-109.987,"latitude":50.012,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BOXELDER CREEK NEAR WALSH","state":"SK","siteId":"05AH001","longitude":-109.9894,"latitude":49.9618,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BRIDGE CREEK AT GULL LAKE","state":"SK","siteId":"05HA015","longitude":-108.4939,"latitude":50.0933,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BRIGHTSAND LAKE NEAR ST. WALBURG","state":"SK","siteId":"05EG010","longitude":-108.8461,"latitude":53.6433,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BRIGHTWATER CREEK NEAR KENASTON","state":"SK","siteId":"05HG002","longitude":-106.5008,"latitude":51.5623,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BRIGHTWATER RESERVOIR AT RIPARIAN OUTLET","state":"SK","siteId":"05HG006","longitude":-106.5378,"latitude":51.6128,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BRODERICK RESERVOIR AT WEST EMBANKMENT","state":"SK","siteId":"05HF017","longitude":-106.9217,"latitude":51.4653,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BUFFALO POUND LAKE AT PUMPING STATION","state":"SK","siteId":"05JG009","longitude":-105.3861,"latitude":50.5833,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BURNTOUT BROOK NEAR ARBORFIELD","state":"SK","siteId":"05KB005","longitude":-103.6792,"latitude":53.1044,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BUTALA  COULEE NEAR WILLOW CREEK","state":"SK","siteId":"11AB103","longitude":-109.8067,"latitude":49.0361,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CANDLE LAKE AT CANDLE LAKE","state":"SK","siteId":"05KE008","longitude":-105.3039,"latitude":53.7694,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CANOE RIVER NEAR BEAUVAL","state":"SK","siteId":"06BB005","longitude":-108.0188,"latitude":55.3968,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CARROT RIVER NEAR ARMLEY","state":"SK","siteId":"05KB003","longitude":-104.0208,"latitude":53.1364,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CARROT RIVER NEAR KINISTINO","state":"SK","siteId":"05KA001","longitude":-105.005,"latitude":52.9486,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CARROT RIVER NEAR SMOKY BURN","state":"SK","siteId":"05KC001","longitude":-103.1417,"latitude":53.4167,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CARROT RIVER NEAR TURNBERRY","state":"SK","siteId":"05KH007","longitude":-102.1038,"latitude":53.6137,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHARLOT RIVER AT OUTLET OF WEBB LAKE","state":"SK","siteId":"07QC008","longitude":-108.8709,"latitude":59.6412,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHITEK LAKE AT CHITEK VILLAGE","state":"SK","siteId":"06AD012","longitude":-107.7369,"latitude":53.7522,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHRISTOPHER LAKE NEAR CHRISTOPHER LAKE","state":"SK","siteId":"05GG009","longitude":-105.8117,"latitude":53.5475,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHURCHILL RIVER ABOVE OTTER RAPIDS","state":"SK","siteId":"06CD002","longitude":-104.736,"latitude":55.6477,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHURCHILL RIVER ABOVE WINTEGO RAPIDS","state":"SK","siteId":"06EA011","longitude":-102.83,"latitude":55.5753,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHURCHILL RIVER AT SANDY BAY","state":"SK","siteId":"06EA002","longitude":-102.316,"latitude":55.5249,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHURCHILL RIVER NEAR PATUANAK","state":"SK","siteId":"06BB003","longitude":-107.7257,"latitude":55.9232,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CODETTE RESERVOIR ABOVE THE SPILLWAY","state":"SK","siteId":"05KD006","longitude":-104.0419,"latitude":53.3197,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"COLD RIVER AT OUTLET OF COLD LAKE","state":"SK","siteId":"06AF001","longitude":-109.8424,"latitude":54.566,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"COOKE CREEK NEAR GOODWATER","state":"SK","siteId":"05NB035","longitude":-103.614,"latitude":49.3526,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"COOKSON RESERVOIR NEAR CORONACH","state":"SK","siteId":"11AE013","longitude":-105.4747,"latitude":49.0575,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"COTTONWOOD CREEK NEAR LUMSDEN","state":"SK","siteId":"05JF011","longitude":-104.9086,"latitude":50.5906,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"COWAN LAKE NEAR HONEYMOON POINT","state":"SK","siteId":"06AE002","longitude":-107.2067,"latitude":53.9644,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CREAN LAKE AT THE WARDEN STATION","state":"SK","siteId":"06CA008","longitude":-106.247,"latitude":54.0312,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CROMARTY CREEK NEAR BIRCH HILLS","state":"SK","siteId":"05HH002","longitude":-105.4711,"latitude":52.9589,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CROOKED HILL CREEK NEAR CANORA","state":"SK","siteId":"05MB006","longitude":-102.4281,"latitude":51.6633,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CROOKED LAKE NEAR GRAYSON","state":"SK","siteId":"05JM006","longitude":-102.6678,"latitude":50.6078,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CRYSTAL CREEK NEAR IFFLEY","state":"SK","siteId":"05EG004","longitude":-108.1564,"latitude":52.9797,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CUMBERLAND LAKE NEAR CUMBERLAND HOUSE","state":"SK","siteId":"05KH002","longitude":-102.2961,"latitude":53.9583,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CUT KNIFE CREEK NEAR CUT KNIFE","state":"SK","siteId":"05FF003","longitude":-108.7811,"latitude":52.755,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CUTARM CREEK NEAR SPY HILL","state":"SK","siteId":"05JM015","longitude":-101.7429,"latitude":50.5904,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CYPRESS LAKE","state":"SK","siteId":"11AC037","longitude":-109.5063,"latitude":49.4587,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CYPRESS LAKE EAST OUTFLOW CANAL","state":"SK","siteId":"11AC060","longitude":-109.3531,"latitude":49.4867,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CYPRESS LAKE WEST INFLOW CANAL","state":"SK","siteId":"11AB078","longitude":-109.6194,"latitude":49.4717,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CYPRESS LAKE WEST INFLOW CANAL DRAIN","state":"SK","siteId":"11AB085","longitude":-109.6123,"latitude":49.4743,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CYPRESS LAKE WEST OUTFLOW CANAL","state":"SK","siteId":"11AB077","longitude":-109.5893,"latitude":49.4707,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DELARONDE LAKE NEAR BIG RIVER","state":"SK","siteId":"06AE004","longitude":-106.9447,"latitude":53.8864,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DENNIEL CREEK NEAR VAL MARIE","state":"SK","siteId":"11AC025","longitude":-107.7037,"latitude":49.3073,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DESCHAMBAULT LAKE ON THE HANSON LAKE ROAD","state":"SK","siteId":"05KF003","longitude":-103.4056,"latitude":54.6667,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DILLON RIVER BELOW DILLON LAKE","state":"SK","siteId":"06BA002","longitude":-109.3968,"latitude":55.7144,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DOGHIDE RIVER NEAR RUNCIMAN","state":"SK","siteId":"05KB011","longitude":-104.0819,"latitude":52.9708,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DORE RIVER NEAR THE MOUTH","state":"SK","siteId":"06AG002","longitude":-107.7441,"latitude":54.9307,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DOUGLAS RIVER NEAR CLUFF LAKE","state":"SK","siteId":"07MA003","longitude":-109.7895,"latitude":58.319,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DUCK CREEK NEAR KELVINGTON","state":"SK","siteId":"05LA003","longitude":-103.6261,"latitude":52.1444,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"EAGLE CREEK NEAR ENVIRON","state":"SK","siteId":"05GC006","longitude":-107.3778,"latitude":52.2306,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"EAST POPLAR RIVER ABOVE COOKSON RESERVOIR","state":"SK","siteId":"11AE014","longitude":-105.5433,"latitude":49.2308,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"EAST POPLAR RIVER AT INTERNATIONAL BOUNDARY","state":"SK","siteId":"11AE003","longitude":-105.409,"latitude":48.9996,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"EASTEND CANAL NEAR EASTEND","state":"SK","siteId":"11AC052","longitude":-108.8503,"latitude":49.5056,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"EASTEND RESERVOIR","state":"SK","siteId":"11AC055","longitude":-108.8531,"latitude":49.5067,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ECHO CREEK AT FORT QU'APPELLE","state":"SK","siteId":"05JK008","longitude":-103.7972,"latitude":50.7606,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ECHO LAKE AT FISH HATCHERY","state":"SK","siteId":"05JK005","longitude":-103.8642,"latitude":50.7928,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"EKAPO CREEK NEAR MARIEVAL","state":"SK","siteId":"05JM010","longitude":-102.7101,"latitude":50.5314,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ELBOW DIVERSION CANAL AT DROP STRUCTURE","state":"SK","siteId":"05JG006","longitude":-106.3985,"latitude":50.9786,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"EMMA LAKE NEAR TWEEDSMUIR","state":"SK","siteId":"05GG008","longitude":-105.8892,"latitude":53.5689,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ENGLISHMAN RIVER NEAR SPRUCE LAKE","state":"SK","siteId":"05EF006","longitude":-109.1569,"latitude":53.5756,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FAHLMAN CREEK NEAR DAVIN","state":"SK","siteId":"05JF008","longitude":-104.1923,"latitude":50.3688,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FIFE LAKE NEAR LISIEUX","state":"SK","siteId":"11AE016","longitude":-105.8486,"latitude":49.2394,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FIR RIVER NEAR HUDSON BAY","state":"SK","siteId":"05LB007","longitude":-102.3956,"latitude":52.8331,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FISHING LAKE NEAR WADENA","state":"SK","siteId":"05MB013","longitude":-103.5156,"latitude":51.8475,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FLOWING WELL WEST INFLOW NEAR FLOWING WELL","state":"SK","siteId":"05JC007","longitude":-106.9461,"latitude":50.2511,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FOND DU LAC RIVER AT OUTLET OF BLACK LAKE","state":"SK","siteId":"07LE002","longitude":-105.5431,"latitude":59.15,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FRENCHMAN RIVER AT INTERNATIONAL BOUNDARY","state":"SK","siteId":"11AC041","longitude":-107.3022,"latitude":49.0001,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FRENCHMAN RIVER AT RAVENSCRAG","state":"SK","siteId":"11AC017","longitude":-109.0888,"latitude":49.4918,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GAFF DITCH NEAR MERRYFLAT","state":"SK","siteId":"11AB102","longitude":-109.8358,"latitude":49.4328,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GARDEN RIVER NEAR HENRIBOURG","state":"SK","siteId":"05GG010","longitude":-105.6108,"latitude":53.3939,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GEIKIE RIVER BELOW WHEELER RIVER","state":"SK","siteId":"06DA004","longitude":-104.1854,"latitude":57.5842,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GIBSON CREEK NEAR RADVILLE","state":"SK","siteId":"05NA005","longitude":-104.3375,"latitude":49.4842,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GIRARD CREEK NEAR CORONACH","state":"SK","siteId":"11AE015","longitude":-105.5644,"latitude":49.1125,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GOOD SPIRIT LAKE NEAR CANORA","state":"SK","siteId":"05MB010","longitude":-102.6536,"latitude":51.5019,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GOOSEHUNTING CREEK NEAR BEATTY","state":"SK","siteId":"05KA009","longitude":-104.8383,"latitude":52.9078,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GRANT DEVINE LAKE NEAR ALAMEDA","state":"SK","siteId":"05ND012","longitude":-102.2308,"latitude":49.259,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GREENWATER LAKE NEAR CHELAN","state":"SK","siteId":"05LB011","longitude":-103.5331,"latitude":52.495,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GREIG LAKE NEAR DORINTOSH","state":"SK","siteId":"06AF010","longitude":-108.6936,"latitude":54.4528,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HAULTAIN RIVER ABOVE NORBERT RIVER","state":"SK","siteId":"06BD001","longitude":-106.5634,"latitude":56.2452,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HAY MEADOW CREEK NEAR LISIEUX","state":"SK","siteId":"11AE010","longitude":-105.9728,"latitude":49.2703,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HUFF LAKE","state":"SK","siteId":"11AC063","longitude":-107.8853,"latitude":49.3711,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HUFF LAKE GRAVITY CANAL","state":"SK","siteId":"11AC065","longitude":-107.8765,"latitude":49.3669,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HUFF LAKE PUMPING CANAL","state":"SK","siteId":"11AC066","longitude":-107.8853,"latitude":49.3721,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HUNTER CREEK NEAR RICHARDSON","state":"SK","siteId":"05JF014","longitude":-104.4608,"latitude":50.3878,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ILLERBRUN CREEK NEAR SIMMIE","state":"SK","siteId":"05HD042","longitude":-108.259,"latitude":49.9319,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"INVERNESS CREEK NEAR BRODERICK","state":"SK","siteId":"05HG021","longitude":-106.8209,"latitude":51.5041,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"IRONSPRING CREEK NEAR WATSON","state":"SK","siteId":"05MA012","longitude":-104.4998,"latitude":52.0568,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ISKWAO CREEK NEAR CRAIK","state":"SK","siteId":"05JG014","longitude":-105.9594,"latitude":50.9789,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"JACKFISH LAKE NEAR COCHIN","state":"SK","siteId":"05EG003","longitude":-108.3958,"latitude":53.1244,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"JAN LAKE NEAR THE HANSON LAKE ROAD","state":"SK","siteId":"05KG010","longitude":-102.8269,"latitude":54.8933,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"JEWEL CREEK NEAR GOODWATER","state":"SK","siteId":"05NB014","longitude":-103.7119,"latitude":49.3858,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"JUMPING DEER CREEK NEAR LIPTON","state":"SK","siteId":"05JK004","longitude":-103.9016,"latitude":50.916,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KATEPWA LAKE AT KATEPWA BEACH","state":"SK","siteId":"05JL004","longitude":-103.6208,"latitude":50.6928,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KELSEY CREEK NEAR GARRICK","state":"SK","siteId":"05KE007","longitude":-104.3258,"latitude":53.4814,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KENOSEE LAKE NEAR CARLYLE","state":"SK","siteId":"05ND009","longitude":-102.2925,"latitude":49.8311,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KINGSMERE LAKE AT THE WARDEN STATION","state":"SK","siteId":"06CA010","longitude":-106.4391,"latitude":54.0453,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KIPABISKAU LAKE NEAR MCKAGUE","state":"SK","siteId":"05LA007","longitude":-104.1844,"latitude":52.5711,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KOHLESCHMIDT CREEK NEAR ROSTHERN","state":"SK","siteId":"05HH003","longitude":-106.3681,"latitude":52.7472,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LAC DES ILES NEAR GOODSOIL","state":"SK","siteId":"06AF009","longitude":-109.3139,"latitude":54.4406,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LAC LA RONGE AT LA RONGE","state":"SK","siteId":"06CB001","longitude":-105.2724,"latitude":55.1033,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LAC PELLETIER NEAR VESPER","state":"SK","siteId":"05HD028","longitude":-107.9333,"latitude":50.0097,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LAKE ATHABASCA NEAR CRACKINGSTONE POINT","state":"SK","siteId":"07MC003","longitude":-108.8929,"latitude":59.3844,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LAKE DIEFENBAKER AT GARDINER DAM","state":"SK","siteId":"05HF003","longitude":-106.8392,"latitude":51.2803,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LANIGAN CREEK ABOVE BOULDER LAKE","state":"SK","siteId":"05JJ003","longitude":-105.2381,"latitude":51.6499,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LARSEN RESERVOIR NEAR RADVILLE","state":"SK","siteId":"05NA006","longitude":-104.2817,"latitude":49.4752,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LAST MOUNTAIN LAKE AT ROWAN'S RAVINE","state":"SK","siteId":"05JH004","longitude":-105.1839,"latitude":50.9956,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LEATHER RIVER NEAR STAR CITY","state":"SK","siteId":"05KB006","longitude":-104.24,"latitude":52.8422,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LENORE LAKE NEAR MIDDLE LAKE","state":"SK","siteId":"05KA011","longitude":-105.0144,"latitude":52.4925,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LEWIS CREEK NEAR IMPERIAL","state":"SK","siteId":"05JH005","longitude":-105.3811,"latitude":51.3006,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LIGHTNING CREEK NEAR CARNDUFF","state":"SK","siteId":"05NF006","longitude":-101.719,"latitude":49.2211,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LILIAN RIVER NEAR LADY LAKE","state":"SK","siteId":"05MC003","longitude":-102.625,"latitude":52.0228,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LITTLE BEAR LAKE ON THE HANSON LAKE ROAD","state":"SK","siteId":"05KF002","longitude":-104.6758,"latitude":54.2942,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LITTLE QUILL LAKE NEAR WYNYARD","state":"SK","siteId":"05MA002","longitude":-104.1327,"latitude":51.8743,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LODGE CREEK BELOW MCRAE CREEK AT INTERNATIONAL BOUNDARY","state":"SK","siteId":"11AB083","longitude":-109.7185,"latitude":49.0056,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LODGE CREEK NEAR ALBERTA BOUNDARY","state":"SK","siteId":"11AB082","longitude":-109.9849,"latitude":49.2026,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LOISELLE CREEK NEAR HUDSON BAY","state":"SK","siteId":"05LB004","longitude":-102.3706,"latitude":52.7975,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LONG CREEK AT WESTERN CROSSING OF INTERNATIONAL BOUNDARY","state":"SK","siteId":"05NA003","longitude":-103.3526,"latitude":49.0001,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LONG CREEK NEAR ESTEVAN","state":"SK","siteId":"05NB001","longitude":-103.017,"latitude":49.1021,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LONG CREEK NEAR MAXIM","state":"SK","siteId":"05NA004","longitude":-103.9561,"latitude":49.2589,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LOWER FISHING LAKE ON THE HANSON LAKE ROAD","state":"SK","siteId":"05KE009","longitude":-104.6142,"latitude":54.0364,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LYONS CREEK AT INTERNATIONAL BOUNDARY","state":"SK","siteId":"11AB075","longitude":-109.2319,"latitude":49.0053,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MACFARLANE RIVER AT OUTLET OF DAVY LAKE","state":"SK","siteId":"07MB001","longitude":-108.1734,"latitude":58.9675,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MACNAB CREEK NEAR SOMME","state":"SK","siteId":"05LB008","longitude":-102.9658,"latitude":52.6081,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MADGE LAKE NEAR KAMSACK","state":"SK","siteId":"05LE012","longitude":-101.6631,"latitude":51.6408,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MAGNUSSON CREEK NEAR WYNYARD","state":"SK","siteId":"05MA021","longitude":-104.2053,"latitude":51.8142,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MAKWA LAKE NEAR LOON LAKE","state":"SK","siteId":"06AD014","longitude":-109.2206,"latitude":54.0928,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MAKWA RIVER AT OUTLET OF MAKWA LAKE","state":"SK","siteId":"06AD009","longitude":-109.2,"latitude":54.0778,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MAKWA RIVER AT RAPID VIEW","state":"SK","siteId":"06AD007","longitude":-108.8056,"latitude":54.1472,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MALONECK CREEK NEAR PELLY","state":"SK","siteId":"05LE011","longitude":-101.9139,"latitude":51.9689,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MANITO LAKE NEAR MARSDEN","state":"SK","siteId":"05GA006","longitude":-109.7872,"latitude":52.7925,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MAREAN LAKE NEAR CHELAN","state":"SK","siteId":"05LB012","longitude":-103.5944,"latitude":52.5144,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MCDONALD CREEK NEAR MCCORD","state":"SK","siteId":"05JA003","longitude":-106.8358,"latitude":49.4378,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MCDONALD TRIBUTARY NEAR TOTNES","state":"SK","siteId":"05HF015","longitude":-108.4489,"latitude":51.3344,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MCKINNON DITCH NEAR CONSUL","state":"SK","siteId":"11AB044","longitude":-109.4942,"latitude":49.3339,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MEADOW RIVER BELOW MEADOW LAKE","state":"SK","siteId":"06AD010","longitude":-108.3944,"latitude":54.1361,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MIDDLE CREEK ABOVE LODGE CREEK","state":"SK","siteId":"11AB008","longitude":-109.8176,"latitude":49.1004,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MIDDLE CREEK BELOW MIDDLE CREEK RESERVOIR","state":"SK","siteId":"11AB001","longitude":-109.9215,"latitude":49.4145,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MIDDLE CREEK NEAR GOVENLOCK","state":"SK","siteId":"11AB108","longitude":-109.8168,"latitude":49.2281,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MIDDLE CREEK RESERVOIR BEDFORD OUTLET","state":"SK","siteId":"11AB114","longitude":-109.9911,"latitude":49.3844,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MIDDLE CREEK RESERVOIR FLOOD SPILLWAY","state":"SK","siteId":"11AB115","longitude":-109.9986,"latitude":49.3839,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MONNERY RIVER NEAR PARADISE HILL","state":"SK","siteId":"05EF004","longitude":-109.5272,"latitude":53.5411,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MONTREAL LAKE NEAR WEYAKWIN","state":"SK","siteId":"06CA006","longitude":-105.7236,"latitude":54.4097,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MONTREAL RIVER AT OUTLET OF BIGSTONE LAKE","state":"SK","siteId":"06CA001","longitude":-105.3628,"latitude":55.0944,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MOOSE JAW RIVER ABOVE THUNDER CREEK","state":"SK","siteId":"05JE001","longitude":-105.5303,"latitude":50.3461,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MOOSE JAW RIVER NEAR BURDICK","state":"SK","siteId":"05JE006","longitude":-105.3979,"latitude":50.4003,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MOOSE JAW RIVER NEAR ROULEAU","state":"SK","siteId":"05JE004","longitude":-104.9856,"latitude":50.1914,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MOOSE MOUNTAIN CREEK ABOVE GRANT DEVINE LAKE","state":"SK","siteId":"05ND010","longitude":-102.1719,"latitude":49.5228,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MOOSE MOUNTAIN CREEK BELOW GRANT DEVINE LAKE","state":"SK","siteId":"05ND013","longitude":-102.2293,"latitude":49.248,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MOOSE MOUNTAIN CREEK BELOW MOOSE MOUNTAIN LAKE","state":"SK","siteId":"05NC001","longitude":-103.015,"latitude":49.8731,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MOOSE MOUNTAIN LAKE (RESERVOIR) NEAR CORNING","state":"SK","siteId":"05NC002","longitude":-103.0304,"latitude":49.8925,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MOOSOMIN LAKE NEAR MOOSOMIN","state":"SK","siteId":"05NE002","longitude":-101.69,"latitude":50.0501,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MORIN CREEK NEAR MEADOW LAKE","state":"SK","siteId":"06AD008","longitude":-108.5772,"latitude":54.1653,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MORIN LAKE NEAR VICTOIRE","state":"SK","siteId":"06AE003","longitude":-107.0589,"latitude":53.4978,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MOSELEY CREEK NEAR HALBRITE","state":"SK","siteId":"05NB033","longitude":-103.6296,"latitude":49.4948,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MOSQUITO CREEK NEAR PAMBRUN","state":"SK","siteId":"05JB007","longitude":-107.4366,"latitude":49.9771,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MUDDY LAKE INFLOW NEAR REVENUE","state":"SK","siteId":"05GB004","longitude":-109.0361,"latitude":52.2306,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NASHLYN CANAL NEAR CONSUL","state":"SK","siteId":"11AB018","longitude":-109.5575,"latitude":49.2325,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NEWTON LAKE","state":"SK","siteId":"11AC056","longitude":-107.807,"latitude":49.3033,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NEWTON LAKE MAIN CANAL","state":"SK","siteId":"11AC054","longitude":-107.8014,"latitude":49.305,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NICKLE LAKE NEAR WEYBURN","state":"SK","siteId":"05NB020","longitude":-103.7693,"latitude":49.5754,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NORTH SASKATCHEWAN RIVER AT PRINCE ALBERT","state":"SK","siteId":"05GG001","longitude":-105.7721,"latitude":53.2034,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NORTH SASKATCHEWAN RIVER NEAR BORDEN","state":"SK","siteId":"05GD001","longitude":-107.1516,"latitude":52.3735,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NORTH SASKATCHEWAN RIVER NEAR DEER CREEK","state":"SK","siteId":"05EF001","longitude":-109.6179,"latitude":53.5232,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NOTUKEU CREEK ABOVE ADMIRAL RESERVOIR","state":"SK","siteId":"05JB004","longitude":-108.1266,"latitude":49.7091,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NOTUKEU CREEK NEAR VANGUARD","state":"SK","siteId":"05JB001","longitude":-107.1863,"latitude":49.9175,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"OPUNTIA LAKE WEST INFLOW","state":"SK","siteId":"05GC007","longitude":-108.625,"latitude":51.7875,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"OSCAR CREEK NEAR KRYDOR","state":"SK","siteId":"05GD002","longitude":-107.1281,"latitude":52.7742,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"OVERFLOWING RIVER NEAR HUDSON BAY","state":"SK","siteId":"05LD003","longitude":-102.3161,"latitude":53.0308,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PASQUIA RIVER AT HIGHWAY NO. 9","state":"SK","siteId":"05KJ014","longitude":-102.1119,"latitude":53.2567,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PELICAN LAKE AT PELICAN NARROWS","state":"SK","siteId":"05KG009","longitude":-102.9411,"latitude":55.1658,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PHEASANT CREEK NEAR ABERNETHY","state":"SK","siteId":"05JL005","longitude":-103.328,"latitude":50.7342,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PIKE LAKE NEAR SASKATOON","state":"SK","siteId":"05HG003","longitude":-106.8056,"latitude":51.8889,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PIPESTONE CREEK ABOVE MOOSOMIN LAKE","state":"SK","siteId":"05NE003","longitude":-101.837,"latitude":50.1522,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PIPESTONE CREEK NEAR ROSE VALLEY","state":"SK","siteId":"05LA004","longitude":-103.6722,"latitude":52.2892,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PRAIRIE RIVER NEAR PRAIRIE RIVER","state":"SK","siteId":"05LB010","longitude":-102.9969,"latitude":52.8169,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"QU'APPELLE RIVER ABOVE BUFFALO POUND LAKE","state":"SK","siteId":"05JG004","longitude":-105.8401,"latitude":50.7833,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"QU'APPELLE RIVER ABOVE EYEBROW LAKE","state":"SK","siteId":"05JG010","longitude":-106.2907,"latitude":50.98,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"QU'APPELLE RIVER AT HYDE","state":"SK","siteId":"05JM013","longitude":-102.9175,"latitude":50.6414,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"QU'APPELLE RIVER BELOW CRAVEN DAM","state":"SK","siteId":"05JK002","longitude":-104.7979,"latitude":50.7065,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"QU'APPELLE RIVER BELOW LOON CREEK","state":"SK","siteId":"05JK007","longitude":-104.2827,"latitude":50.7878,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"QU'APPELLE RIVER NEAR LUMSDEN","state":"SK","siteId":"05JF001","longitude":-104.8668,"latitude":50.6505,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"QU'APPELLE RIVER NEAR WELBY","state":"SK","siteId":"05JM001","longitude":-101.5586,"latitude":50.4913,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"QUILL CREEK NEAR QUILL LAKE","state":"SK","siteId":"05MA020","longitude":-104.2504,"latitude":52.0137,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"RAFFERTY RESERVOIR NEAR ESTEVAN","state":"SK","siteId":"05NB032","longitude":-103.0946,"latitude":49.1456,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"RANCH CREEK ABOVE RANCH LAKE","state":"SK","siteId":"05MA025","longitude":-104.7893,"latitude":52.4055,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"RAPID RIVER AT OUTLET OF LAC LA RONGE","state":"SK","siteId":"06CB002","longitude":-104.5018,"latitude":55.3523,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"RED DEER RIVER NEAR ARCHERWILL","state":"SK","siteId":"05LA005","longitude":-103.6969,"latitude":52.435,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"RED DEER RIVER NEAR ERWOOD","state":"SK","siteId":"05LC001","longitude":-102.1951,"latitude":52.8595,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"RED DEER RIVER NEAR STEEN","state":"SK","siteId":"05LB005","longitude":-103.5156,"latitude":52.6544,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"REDBERRY LAKE NEAR KRYDOR","state":"SK","siteId":"05GD003","longitude":-107.2164,"latitude":52.7117,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"REID LAKE NEAR DUNCAIRN","state":"SK","siteId":"05HD033","longitude":-108.0464,"latitude":50.0736,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"REINDEER LAKE AT SOUTHEND","state":"SK","siteId":"06DB004","longitude":-103.284,"latitude":56.3344,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"REINDEER RIVER ABOVE DEVIL RAPIDS","state":"SK","siteId":"06DD002","longitude":-103.1595,"latitude":56.1933,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"RICHARDSON DITCH NEAR CONSUL","state":"SK","siteId":"11AB058","longitude":-109.5364,"latitude":49.3594,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"RIDGE CREEK NEAR BRIDGEFORD","state":"SK","siteId":"05JG013","longitude":-106.3295,"latitude":50.9513,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ROMANCE CREEK NEAR WATSON","state":"SK","siteId":"05MA016","longitude":-104.5539,"latitude":51.994,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ROUGHBARK CREEK ABOVE RAFFERTY RESERVOIR","state":"SK","siteId":"05NB041","longitude":-103.6844,"latitude":49.4642,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ROUGHBARK RESERVOIR NEAR WEYBURN","state":"SK","siteId":"05NB016","longitude":-103.7197,"latitude":49.5013,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ROUND LAKE NEAR WHITEWOOD","state":"SK","siteId":"05JM007","longitude":-102.3594,"latitude":50.5486,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"RUSHLAKE CREEK ABOVE HIGHFIELD RESERVOIR","state":"SK","siteId":"05JC004","longitude":-107.4698,"latitude":50.253,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SALINE CREEK NEAR NOKOMIS","state":"SK","siteId":"05JJ009","longitude":-105.1031,"latitude":51.4161,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SANDY CREEK NEAR CARON","state":"SK","siteId":"05JG001","longitude":-106.0292,"latitude":50.4525,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SASKATCHEWAN RIVER BELOW THE FORKS","state":"SK","siteId":"05KD007","longitude":-105.0683,"latitude":53.2461,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SASKATCHEWAN RIVER BELOW TOBIN LAKE","state":"SK","siteId":"05KD003","longitude":-103.2987,"latitude":53.7071,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SASKATCHEWAN RIVER OLD CHANNEL","state":"SK","siteId":"05KH009","longitude":-102.9722,"latitude":53.8139,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SHAND CREEK NEAR DILLABOUGH","state":"SK","siteId":"05LB006","longitude":-102.7514,"latitude":52.6183,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SHELL BROOK NEAR SHELLBROOK","state":"SK","siteId":"05GF001","longitude":-106.3858,"latitude":53.2528,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SHELL LAKE NEAR SHELL LAKE","state":"SK","siteId":"05GF004","longitude":-107.1714,"latitude":53.2236,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SHEPHERD CREEK NEAR ALAMEDA","state":"SK","siteId":"05ND011","longitude":-102.2558,"latitude":49.347,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SHORT CREEK NEAR ROCHE PERCEE","state":"SK","siteId":"05NB021","longitude":-102.8496,"latitude":49.0313,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SIX MILE CREEK NEAR GLENTWORTH","state":"SK","siteId":"05JA006","longitude":-106.7549,"latitude":49.496,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SMITH CREEK NEAR MARCHWELL","state":"SK","siteId":"05ME007","longitude":-101.5788,"latitude":50.8328,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SMOOTHSTONE RIVER BELOW EMMELINE LAKE","state":"SK","siteId":"06CC001","longitude":-106.2069,"latitude":55.1633,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SNAKEBITE CREEK NEAR BEECHY","state":"SK","siteId":"05HE001","longitude":-107.2753,"latitude":50.8017,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SNIPE LAKE NORTH INFLOW","state":"SK","siteId":"05HC003","longitude":-108.8628,"latitude":51.355,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SOURIS RIVER BELOW RAFFERTY RESERVOIR","state":"SK","siteId":"05NB036","longitude":-103.0831,"latitude":49.1434,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SOURIS RIVER NEAR BECHARD","state":"SK","siteId":"05NB031","longitude":-104.19,"latitude":49.9889,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SOURIS RIVER NEAR RALPH","state":"SK","siteId":"05NB040","longitude":-103.6775,"latitude":49.5312,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SOUTH SASKATCHEWAN RIVER AT SASKATOON","state":"SK","siteId":"05HG001","longitude":-106.6443,"latitude":52.1407,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SPANGLER DITCH NEAR GOVENLOCK","state":"SK","siteId":"11AB060","longitude":-109.9173,"latitude":49.1539,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SPIRIT CREEK NEAR BUCHANAN","state":"SK","siteId":"05MB007","longitude":-102.8058,"latitude":51.71,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"STONY CREEK NEAR KAMSACK","state":"SK","siteId":"05MD010","longitude":-101.839,"latitude":51.389,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"STONY CREEK NEAR STENEN","state":"SK","siteId":"05MC002","longitude":-102.33,"latitude":51.8828,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"STURGEON LAKE NEAR PRINCE ALBERT","state":"SK","siteId":"05GF003","longitude":-106.1575,"latitude":53.4217,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"STURGEON RIVER NEAR PRINCE ALBERT","state":"SK","siteId":"05GF002","longitude":-105.885,"latitude":53.2131,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"STURGEON-WEIR RIVER AT LEAF RAPIDS","state":"SK","siteId":"05KG007","longitude":-102.6356,"latitude":54.8278,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SWAN RIVER NEAR NORQUAY","state":"SK","siteId":"05LE008","longitude":-102.0739,"latitude":51.9978,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SWIFT CURRENT CREEK BELOW ROCK CREEK","state":"SK","siteId":"05HD036","longitude":-108.4794,"latitude":49.8444,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SWIFT CURRENT CREEK NEAR LEINAN","state":"SK","siteId":"05HD039","longitude":-107.6586,"latitude":50.4939,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TATAGWA LAKE DRAIN NEAR WEYBURN","state":"SK","siteId":"05NB018","longitude":-103.948,"latitude":49.5999,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TAZIN LAKE NEAR OUTLET","state":"SK","siteId":"07QC002","longitude":-109.4086,"latitude":59.8185,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TAZIN RIVER ABOVE TAZIN LAKE","state":"SK","siteId":"07QC006","longitude":-108.318,"latitude":59.7942,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TOBIN LAKE AT THE SPILLWAY","state":"SK","siteId":"05KD004","longitude":-103.3956,"latitude":53.6572,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TORCH RIVER NEAR LOVE","state":"SK","siteId":"05KE002","longitude":-104.1669,"latitude":53.5203,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TRIBUTARY NEAR OUTRAM","state":"SK","siteId":"05NB039","longitude":-103.3013,"latitude":49.1741,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TURTLE LAKE NEAR GLASLYN","state":"SK","siteId":"05EG009","longitude":-108.5867,"latitude":53.6133,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TURTLELAKE RIVER NEAR TURTLEFORD","state":"SK","siteId":"05EG005","longitude":-108.9678,"latitude":53.3881,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"VAL MARIE PUMP NO. 1","state":"SK","siteId":"11AC068","longitude":-107.8493,"latitude":49.3624,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"VAL MARIE PUMP NO. 2","state":"SK","siteId":"11AC069","longitude":-107.8302,"latitude":49.3504,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"VIDORA DITCH NEAR CONSUL","state":"SK","siteId":"11AB084","longitude":-109.5917,"latitude":49.4575,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WAKAW LAKE NEAR WAKAW","state":"SK","siteId":"05KA012","longitude":-105.6269,"latitude":52.6447,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WALDSEA LAKE NEAR HUMBOLDT","state":"SK","siteId":"05KA010","longitude":-105.1892,"latitude":52.2697,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WAPISKAU RIVER ABOVE WHITE LAKE","state":"SK","siteId":"06DD003","longitude":-103.3265,"latitude":56.0067,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WASCANA CREEK BELOW KRONAU MARSH","state":"SK","siteId":"05JF012","longitude":-104.4342,"latitude":50.3519,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WASCANA CREEK NEAR LUMSDEN","state":"SK","siteId":"05JF005","longitude":-104.9098,"latitude":50.6356,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WASCANA LAKE AT THE MARINA","state":"SK","siteId":"05JF015","longitude":-104.6047,"latitude":50.4306,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WASKESIU LAKE AT WASKESIU LAKE","state":"SK","siteId":"06CA002","longitude":-106.0938,"latitude":53.9506,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WATERFOUND RIVER BELOW THERIAU LAKE","state":"SK","siteId":"07LB002","longitude":-104.6064,"latitude":58.388,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WATERHEN LAKE NEAR DORINTOSH","state":"SK","siteId":"06AF007","longitude":-108.5183,"latitude":54.4594,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WATERHEN RIVER NEAR GOODSOIL","state":"SK","siteId":"06AF005","longitude":-109.2225,"latitude":54.4458,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WATHAMAN RIVER BELOW WATHAMAN LAKE","state":"SK","siteId":"06DC001","longitude":-103.7095,"latitude":57.0893,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WHEELER RIVER BELOW RUSSELL LAKE","state":"SK","siteId":"06DA005","longitude":-104.9877,"latitude":57.4786,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WHITE BEAR (CARLYLE) LAKE NEAR CARLYLE","state":"SK","siteId":"05ND008","longitude":-102.2794,"latitude":49.76,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WHITE FOX RIVER NEAR GARRICK","state":"SK","siteId":"05KE005","longitude":-104.3417,"latitude":53.4222,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WHITE GULL CREEK AT HIGHWAY NO. 106","state":"SK","siteId":"05KE010","longitude":-104.6196,"latitude":53.865,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WHITESAND RIVER NEAR CANORA","state":"SK","siteId":"05MB003","longitude":-102.3698,"latitude":51.6362,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WILLOW BROOK AT WILLOWBROOK","state":"SK","siteId":"05MB005","longitude":-102.8014,"latitude":51.2056,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WIWA CREEK NEAR ST. BOSWELLS","state":"SK","siteId":"05JC006","longitude":-106.755,"latitude":50.0681,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WOLLASTON LAKE AT ROSS CHANNEL","state":"SK","siteId":"06DA001","longitude":-103.2853,"latitude":58.4835,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WOOD RIVER DIVERSION TO CHAPLIN LAKE","state":"SK","siteId":"05JC005","longitude":-106.3586,"latitude":50.1628,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WOOD RIVER NEAR LAFLECHE","state":"SK","siteId":"05JA002","longitude":-106.6942,"latitude":49.6686,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WOOD RIVER NEAR MCCORD","state":"SK","siteId":"05JA005","longitude":-106.7868,"latitude":49.4948,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"YELLOW GRASS DITCH NEAR YELLOW GRASS","state":"SK","siteId":"05NB011","longitude":-104.0397,"latitude":49.7864,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"YORK LAKE NEAR YORKTON","state":"SK","siteId":"05MB014","longitude":-102.4969,"latitude":51.1664,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"YORKTON CREEK NEAR EBENEZER","state":"SK","siteId":"05MB001","longitude":-102.5047,"latitude":51.3805,"source":"ENVIRONMENT_CANADA"}]
+[
+    {
+        "country": "CA",
+        "gageName": "ABITAU RIVER ABOVE CUMING LAKE",
+        "state": "SK",
+        "siteId": "07QC005",
+        "longitude": -108.7741,
+        "latitude": 59.9994,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ADAMS LAKE",
+        "state": "SK",
+        "siteId": "11AB095",
+        "longitude": -109.8372,
+        "latitude": 49.6426,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ALCOTT CREEK ABOVE MEADOW LAKE",
+        "state": "SK",
+        "siteId": "06AD011",
+        "longitude": -107.975,
+        "latitude": 53.9528,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ALTAWAN RESERVOIR NEAR GOVENLOCK",
+        "state": "SK",
+        "siteId": "11AB089",
+        "longitude": -109.9167,
+        "latitude": 49.1669,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ANGLIN LAKE RESERVOIR",
+        "state": "SK",
+        "siteId": "05GG005",
+        "longitude": -106.0083,
+        "latitude": 53.6639,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ANTELOPE CREEK NEAR CABRI",
+        "state": "SK",
+        "siteId": "05HC005",
+        "longitude": -108.3815,
+        "latitude": 50.662,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ANTLER RIVER NEAR WAUCHOPE",
+        "state": "SK",
+        "siteId": "05NF010",
+        "longitude": -101.8482,
+        "latitude": 49.5839,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ARM RIVER NEAR BETHUNE",
+        "state": "SK",
+        "siteId": "05JH001",
+        "longitude": -105.1937,
+        "latitude": 50.7377,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ASSINIBOINE RIVER AT KAMSACK",
+        "state": "SK",
+        "siteId": "05MD004",
+        "longitude": -101.9166,
+        "latitude": 51.5649,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ASSINIBOINE RIVER AT STURGIS",
+        "state": "SK",
+        "siteId": "05MC001",
+        "longitude": -102.5469,
+        "latitude": 51.9397,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "AVONLEA CREEK NEAR ROULEAU",
+        "state": "SK",
+        "siteId": "05JE005",
+        "longitude": -104.9908,
+        "latitude": 50.0472,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "AVONLEA RESERVOIR NEAR AVONLEA",
+        "state": "SK",
+        "siteId": "05JE007",
+        "longitude": -105.0064,
+        "latitude": 49.9869,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BALLANTYNE RIVER ABOVE BALLANTYNE BAY",
+        "state": "SK",
+        "siteId": "05KF001",
+        "longitude": -103.9417,
+        "latitude": 54.5611,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BATTLE CREEK AT INTERNATIONAL BOUNDARY",
+        "state": "SK",
+        "siteId": "11AB027",
+        "longitude": -109.423,
+        "latitude": 49.0024,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BATTLE CREEK BELOW NASHLYN PROJECT",
+        "state": "SK",
+        "siteId": "11AB101",
+        "longitude": -109.4649,
+        "latitude": 49.1637,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BATTLE CREEK BELOW WILSON'S WEIR",
+        "state": "SK",
+        "siteId": "11AB118",
+        "longitude": -109.6448,
+        "latitude": 49.4501,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BATTLE CREEK NEAR CONSUL",
+        "state": "SK",
+        "siteId": "11AB096",
+        "longitude": -109.5242,
+        "latitude": 49.2867,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BEAR CREEK NEAR PIAPOT",
+        "state": "SK",
+        "siteId": "05HA003",
+        "longitude": -109.1062,
+        "latitude": 49.8994,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BEAVER RIVER BELOW WATERHEN RIVER",
+        "state": "SK",
+        "siteId": "06AG001",
+        "longitude": -107.8106,
+        "latitude": 54.8192,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BEAVER RIVER NEAR DORINTOSH",
+        "state": "SK",
+        "siteId": "06AD001",
+        "longitude": -108.6044,
+        "latitude": 54.2964,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BELANGER CREEK DIVERSION TO CYPRESS LAKE",
+        "state": "SK",
+        "siteId": "11AC064",
+        "longitude": -109.365,
+        "latitude": 49.4944,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BIG GULLY CREEK NEAR MAIDSTONE",
+        "state": "SK",
+        "siteId": "05EF005",
+        "longitude": -109.2958,
+        "latitude": 53.2442,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BIG QUILL LAKE NEAR KANDAHAR",
+        "state": "SK",
+        "siteId": "05MA010",
+        "longitude": -104.3245,
+        "latitude": 51.7814,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BIG SANDY LAKE ON THE HANSON LAKE ROAD",
+        "state": "SK",
+        "siteId": "05KF004",
+        "longitude": -104.1772,
+        "latitude": 54.4622,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BIRCH CREEK NEAR ELFROS",
+        "state": "SK",
+        "siteId": "05MA011",
+        "longitude": -103.8745,
+        "latitude": 51.7465,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BOGGY CREEK NEAR LUMSDEN",
+        "state": "SK",
+        "siteId": "05JF006",
+        "longitude": -104.818,
+        "latitude": 50.5847,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BOUNDARY RESERVOIR DIVERSION CANAL NEAR ESTEVAN",
+        "state": "SK",
+        "siteId": "05NB038",
+        "longitude": -103.1121,
+        "latitude": 49.1482,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BOUNDARY RESERVOIR NEAR ESTEVAN",
+        "state": "SK",
+        "siteId": "05NB012",
+        "longitude": -103.0244,
+        "latitude": 49.0969,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BOXELDER CREEK AT HARGRAVE'S RANCH",
+        "state": "SK",
+        "siteId": "05AH050",
+        "longitude": -109.987,
+        "latitude": 50.012,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BOXELDER CREEK NEAR WALSH",
+        "state": "SK",
+        "siteId": "05AH001",
+        "longitude": -109.9894,
+        "latitude": 49.9618,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BRIDGE CREEK AT GULL LAKE",
+        "state": "SK",
+        "siteId": "05HA015",
+        "longitude": -108.4939,
+        "latitude": 50.0933,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BRIGHTSAND LAKE NEAR ST. WALBURG",
+        "state": "SK",
+        "siteId": "05EG010",
+        "longitude": -108.8461,
+        "latitude": 53.6433,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BRIGHTWATER CREEK NEAR KENASTON",
+        "state": "SK",
+        "siteId": "05HG002",
+        "longitude": -106.5008,
+        "latitude": 51.5623,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BRIGHTWATER RESERVOIR AT RIPARIAN OUTLET",
+        "state": "SK",
+        "siteId": "05HG006",
+        "longitude": -106.5378,
+        "latitude": 51.6128,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BRODERICK RESERVOIR AT WEST EMBANKMENT",
+        "state": "SK",
+        "siteId": "05HF017",
+        "longitude": -106.9217,
+        "latitude": 51.4653,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BUFFALO POUND LAKE AT PUMPING STATION",
+        "state": "SK",
+        "siteId": "05JG009",
+        "longitude": -105.3861,
+        "latitude": 50.5833,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BURNTOUT BROOK NEAR ARBORFIELD",
+        "state": "SK",
+        "siteId": "05KB005",
+        "longitude": -103.6792,
+        "latitude": 53.1044,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BUTALA  COULEE NEAR WILLOW CREEK",
+        "state": "SK",
+        "siteId": "11AB103",
+        "longitude": -109.8067,
+        "latitude": 49.0361,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CANDLE LAKE AT CANDLE LAKE",
+        "state": "SK",
+        "siteId": "05KE008",
+        "longitude": -105.3039,
+        "latitude": 53.7694,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CANOE RIVER NEAR BEAUVAL",
+        "state": "SK",
+        "siteId": "06BB005",
+        "longitude": -108.0188,
+        "latitude": 55.3968,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CARROT RIVER NEAR ARMLEY",
+        "state": "SK",
+        "siteId": "05KB003",
+        "longitude": -104.0208,
+        "latitude": 53.1364,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CARROT RIVER NEAR KINISTINO",
+        "state": "SK",
+        "siteId": "05KA001",
+        "longitude": -105.005,
+        "latitude": 52.9486,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CARROT RIVER NEAR SMOKY BURN",
+        "state": "SK",
+        "siteId": "05KC001",
+        "longitude": -103.1417,
+        "latitude": 53.4167,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CARROT RIVER NEAR TURNBERRY",
+        "state": "SK",
+        "siteId": "05KH007",
+        "longitude": -102.1038,
+        "latitude": 53.6137,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHARLOT RIVER AT OUTLET OF WEBB LAKE",
+        "state": "SK",
+        "siteId": "07QC008",
+        "longitude": -108.8709,
+        "latitude": 59.6412,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHITEK LAKE AT CHITEK VILLAGE",
+        "state": "SK",
+        "siteId": "06AD012",
+        "longitude": -107.7369,
+        "latitude": 53.7522,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHRISTOPHER LAKE NEAR CHRISTOPHER LAKE",
+        "state": "SK",
+        "siteId": "05GG009",
+        "longitude": -105.8117,
+        "latitude": 53.5475,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHURCHILL RIVER ABOVE OTTER RAPIDS",
+        "state": "SK",
+        "siteId": "06CD002",
+        "longitude": -104.736,
+        "latitude": 55.6477,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHURCHILL RIVER ABOVE WINTEGO RAPIDS",
+        "state": "SK",
+        "siteId": "06EA011",
+        "longitude": -102.83,
+        "latitude": 55.5753,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHURCHILL RIVER AT SANDY BAY",
+        "state": "SK",
+        "siteId": "06EA002",
+        "longitude": -102.316,
+        "latitude": 55.5249,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHURCHILL RIVER NEAR PATUANAK",
+        "state": "SK",
+        "siteId": "06BB003",
+        "longitude": -107.7257,
+        "latitude": 55.9232,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CODETTE RESERVOIR ABOVE THE SPILLWAY",
+        "state": "SK",
+        "siteId": "05KD006",
+        "longitude": -104.0419,
+        "latitude": 53.3197,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "COLD RIVER AT OUTLET OF COLD LAKE",
+        "state": "SK",
+        "siteId": "06AF001",
+        "longitude": -109.8424,
+        "latitude": 54.566,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "COOKE CREEK NEAR GOODWATER",
+        "state": "SK",
+        "siteId": "05NB035",
+        "longitude": -103.614,
+        "latitude": 49.3526,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "COOKSON RESERVOIR NEAR CORONACH",
+        "state": "SK",
+        "siteId": "11AE013",
+        "longitude": -105.4747,
+        "latitude": 49.0575,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "COTTONWOOD CREEK NEAR LUMSDEN",
+        "state": "SK",
+        "siteId": "05JF011",
+        "longitude": -104.9086,
+        "latitude": 50.5906,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "COWAN LAKE NEAR HONEYMOON POINT",
+        "state": "SK",
+        "siteId": "06AE002",
+        "longitude": -107.2067,
+        "latitude": 53.9644,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CREAN LAKE AT THE WARDEN STATION",
+        "state": "SK",
+        "siteId": "06CA008",
+        "longitude": -106.247,
+        "latitude": 54.0312,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CROMARTY CREEK NEAR BIRCH HILLS",
+        "state": "SK",
+        "siteId": "05HH002",
+        "longitude": -105.4711,
+        "latitude": 52.9589,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CROOKED HILL CREEK NEAR CANORA",
+        "state": "SK",
+        "siteId": "05MB006",
+        "longitude": -102.4281,
+        "latitude": 51.6633,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CROOKED LAKE NEAR GRAYSON",
+        "state": "SK",
+        "siteId": "05JM006",
+        "longitude": -102.6678,
+        "latitude": 50.6078,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CRYSTAL CREEK NEAR IFFLEY",
+        "state": "SK",
+        "siteId": "05EG004",
+        "longitude": -108.1564,
+        "latitude": 52.9797,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CUMBERLAND LAKE NEAR CUMBERLAND HOUSE",
+        "state": "SK",
+        "siteId": "05KH002",
+        "longitude": -102.2961,
+        "latitude": 53.9583,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CUT KNIFE CREEK NEAR CUT KNIFE",
+        "state": "SK",
+        "siteId": "05FF003",
+        "longitude": -108.7811,
+        "latitude": 52.755,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CUTARM CREEK NEAR SPY HILL",
+        "state": "SK",
+        "siteId": "05JM015",
+        "longitude": -101.7429,
+        "latitude": 50.5904,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CYPRESS LAKE",
+        "state": "SK",
+        "siteId": "11AC037",
+        "longitude": -109.5063,
+        "latitude": 49.4587,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CYPRESS LAKE EAST OUTFLOW CANAL",
+        "state": "SK",
+        "siteId": "11AC060",
+        "longitude": -109.3531,
+        "latitude": 49.4867,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CYPRESS LAKE WEST INFLOW CANAL",
+        "state": "SK",
+        "siteId": "11AB078",
+        "longitude": -109.6194,
+        "latitude": 49.4717,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CYPRESS LAKE WEST INFLOW CANAL DRAIN",
+        "state": "SK",
+        "siteId": "11AB085",
+        "longitude": -109.6123,
+        "latitude": 49.4743,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CYPRESS LAKE WEST OUTFLOW CANAL",
+        "state": "SK",
+        "siteId": "11AB077",
+        "longitude": -109.5893,
+        "latitude": 49.4707,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DELARONDE LAKE NEAR BIG RIVER",
+        "state": "SK",
+        "siteId": "06AE004",
+        "longitude": -106.9447,
+        "latitude": 53.8864,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DENNIEL CREEK NEAR VAL MARIE",
+        "state": "SK",
+        "siteId": "11AC025",
+        "longitude": -107.7037,
+        "latitude": 49.3073,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DESCHAMBAULT LAKE ON THE HANSON LAKE ROAD",
+        "state": "SK",
+        "siteId": "05KF003",
+        "longitude": -103.4056,
+        "latitude": 54.6667,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DILLON RIVER BELOW DILLON LAKE",
+        "state": "SK",
+        "siteId": "06BA002",
+        "longitude": -109.3968,
+        "latitude": 55.7144,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DOGHIDE RIVER NEAR RUNCIMAN",
+        "state": "SK",
+        "siteId": "05KB011",
+        "longitude": -104.0819,
+        "latitude": 52.9708,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DORE RIVER NEAR THE MOUTH",
+        "state": "SK",
+        "siteId": "06AG002",
+        "longitude": -107.7441,
+        "latitude": 54.9307,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DOUGLAS RIVER NEAR CLUFF LAKE",
+        "state": "SK",
+        "siteId": "07MA003",
+        "longitude": -109.7895,
+        "latitude": 58.319,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DUCK CREEK NEAR KELVINGTON",
+        "state": "SK",
+        "siteId": "05LA003",
+        "longitude": -103.6261,
+        "latitude": 52.1444,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "EAGLE CREEK NEAR ENVIRON",
+        "state": "SK",
+        "siteId": "05GC006",
+        "longitude": -107.3778,
+        "latitude": 52.2306,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "EAST POPLAR RIVER ABOVE COOKSON RESERVOIR",
+        "state": "SK",
+        "siteId": "11AE014",
+        "longitude": -105.5433,
+        "latitude": 49.2308,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "EAST POPLAR RIVER AT INTERNATIONAL BOUNDARY",
+        "state": "SK",
+        "siteId": "11AE003",
+        "longitude": -105.409,
+        "latitude": 48.9996,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "EASTEND CANAL NEAR EASTEND",
+        "state": "SK",
+        "siteId": "11AC052",
+        "longitude": -108.8503,
+        "latitude": 49.5056,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "EASTEND RESERVOIR",
+        "state": "SK",
+        "siteId": "11AC055",
+        "longitude": -108.8531,
+        "latitude": 49.5067,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ECHO CREEK AT FORT QU'APPELLE",
+        "state": "SK",
+        "siteId": "05JK008",
+        "longitude": -103.7972,
+        "latitude": 50.7606,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ECHO LAKE AT FISH HATCHERY",
+        "state": "SK",
+        "siteId": "05JK005",
+        "longitude": -103.8642,
+        "latitude": 50.7928,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "EKAPO CREEK NEAR MARIEVAL",
+        "state": "SK",
+        "siteId": "05JM010",
+        "longitude": -102.7101,
+        "latitude": 50.5314,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ELBOW DIVERSION CANAL AT DROP STRUCTURE",
+        "state": "SK",
+        "siteId": "05JG006",
+        "longitude": -106.3985,
+        "latitude": 50.9786,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "EMMA LAKE NEAR TWEEDSMUIR",
+        "state": "SK",
+        "siteId": "05GG008",
+        "longitude": -105.8892,
+        "latitude": 53.5689,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ENGLISHMAN RIVER NEAR SPRUCE LAKE",
+        "state": "SK",
+        "siteId": "05EF006",
+        "longitude": -109.1569,
+        "latitude": 53.5756,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FAHLMAN CREEK NEAR DAVIN",
+        "state": "SK",
+        "siteId": "05JF008",
+        "longitude": -104.1923,
+        "latitude": 50.3688,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FIFE LAKE NEAR LISIEUX",
+        "state": "SK",
+        "siteId": "11AE016",
+        "longitude": -105.8486,
+        "latitude": 49.2394,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FIR RIVER NEAR HUDSON BAY",
+        "state": "SK",
+        "siteId": "05LB007",
+        "longitude": -102.3956,
+        "latitude": 52.8331,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FISHING LAKE NEAR WADENA",
+        "state": "SK",
+        "siteId": "05MB013",
+        "longitude": -103.5156,
+        "latitude": 51.8475,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FLOWING WELL WEST INFLOW NEAR FLOWING WELL",
+        "state": "SK",
+        "siteId": "05JC007",
+        "longitude": -106.9461,
+        "latitude": 50.2511,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FOND DU LAC RIVER AT OUTLET OF BLACK LAKE",
+        "state": "SK",
+        "siteId": "07LE002",
+        "longitude": -105.5431,
+        "latitude": 59.15,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FRENCHMAN RIVER AT INTERNATIONAL BOUNDARY",
+        "state": "SK",
+        "siteId": "11AC041",
+        "longitude": -107.3022,
+        "latitude": 49.0001,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FRENCHMAN RIVER AT RAVENSCRAG",
+        "state": "SK",
+        "siteId": "11AC017",
+        "longitude": -109.0888,
+        "latitude": 49.4918,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GAFF DITCH NEAR MERRYFLAT",
+        "state": "SK",
+        "siteId": "11AB102",
+        "longitude": -109.8358,
+        "latitude": 49.4328,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GARDEN RIVER NEAR HENRIBOURG",
+        "state": "SK",
+        "siteId": "05GG010",
+        "longitude": -105.6108,
+        "latitude": 53.3939,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GEIKIE RIVER BELOW WHEELER RIVER",
+        "state": "SK",
+        "siteId": "06DA004",
+        "longitude": -104.1854,
+        "latitude": 57.5842,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GIBSON CREEK NEAR RADVILLE",
+        "state": "SK",
+        "siteId": "05NA005",
+        "longitude": -104.3375,
+        "latitude": 49.4842,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GIRARD CREEK NEAR CORONACH",
+        "state": "SK",
+        "siteId": "11AE015",
+        "longitude": -105.5644,
+        "latitude": 49.1125,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GOOD SPIRIT LAKE NEAR CANORA",
+        "state": "SK",
+        "siteId": "05MB010",
+        "longitude": -102.6536,
+        "latitude": 51.5019,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GOOSEHUNTING CREEK NEAR BEATTY",
+        "state": "SK",
+        "siteId": "05KA009",
+        "longitude": -104.8383,
+        "latitude": 52.9078,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GRANT DEVINE LAKE NEAR ALAMEDA",
+        "state": "SK",
+        "siteId": "05ND012",
+        "longitude": -102.2308,
+        "latitude": 49.259,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GREENWATER LAKE NEAR CHELAN",
+        "state": "SK",
+        "siteId": "05LB011",
+        "longitude": -103.5331,
+        "latitude": 52.495,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GREIG LAKE NEAR DORINTOSH",
+        "state": "SK",
+        "siteId": "06AF010",
+        "longitude": -108.6936,
+        "latitude": 54.4528,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HAULTAIN RIVER ABOVE NORBERT RIVER",
+        "state": "SK",
+        "siteId": "06BD001",
+        "longitude": -106.5634,
+        "latitude": 56.2452,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HAY MEADOW CREEK NEAR LISIEUX",
+        "state": "SK",
+        "siteId": "11AE010",
+        "longitude": -105.9728,
+        "latitude": 49.2703,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HUFF LAKE",
+        "state": "SK",
+        "siteId": "11AC063",
+        "longitude": -107.8853,
+        "latitude": 49.3711,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HUFF LAKE GRAVITY CANAL",
+        "state": "SK",
+        "siteId": "11AC065",
+        "longitude": -107.8765,
+        "latitude": 49.3669,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HUFF LAKE PUMPING CANAL",
+        "state": "SK",
+        "siteId": "11AC066",
+        "longitude": -107.8853,
+        "latitude": 49.3721,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HUNTER CREEK NEAR RICHARDSON",
+        "state": "SK",
+        "siteId": "05JF014",
+        "longitude": -104.4608,
+        "latitude": 50.3878,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ILLERBRUN CREEK NEAR SIMMIE",
+        "state": "SK",
+        "siteId": "05HD042",
+        "longitude": -108.259,
+        "latitude": 49.9319,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "INVERNESS CREEK NEAR BRODERICK",
+        "state": "SK",
+        "siteId": "05HG021",
+        "longitude": -106.8209,
+        "latitude": 51.5041,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "IRONSPRING CREEK NEAR WATSON",
+        "state": "SK",
+        "siteId": "05MA012",
+        "longitude": -104.4998,
+        "latitude": 52.0568,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ISKWAO CREEK NEAR CRAIK",
+        "state": "SK",
+        "siteId": "05JG014",
+        "longitude": -105.9594,
+        "latitude": 50.9789,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "JACKFISH LAKE NEAR COCHIN",
+        "state": "SK",
+        "siteId": "05EG003",
+        "longitude": -108.3958,
+        "latitude": 53.1244,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "JAN LAKE NEAR THE HANSON LAKE ROAD",
+        "state": "SK",
+        "siteId": "05KG010",
+        "longitude": -102.8269,
+        "latitude": 54.8933,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "JEWEL CREEK NEAR GOODWATER",
+        "state": "SK",
+        "siteId": "05NB014",
+        "longitude": -103.7119,
+        "latitude": 49.3858,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "JUMPING DEER CREEK NEAR LIPTON",
+        "state": "SK",
+        "siteId": "05JK004",
+        "longitude": -103.9016,
+        "latitude": 50.916,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KATEPWA LAKE AT KATEPWA BEACH",
+        "state": "SK",
+        "siteId": "05JL004",
+        "longitude": -103.6208,
+        "latitude": 50.6928,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KELSEY CREEK NEAR GARRICK",
+        "state": "SK",
+        "siteId": "05KE007",
+        "longitude": -104.3258,
+        "latitude": 53.4814,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KENOSEE LAKE NEAR CARLYLE",
+        "state": "SK",
+        "siteId": "05ND009",
+        "longitude": -102.2925,
+        "latitude": 49.8311,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KINGSMERE LAKE AT THE WARDEN STATION",
+        "state": "SK",
+        "siteId": "06CA010",
+        "longitude": -106.4391,
+        "latitude": 54.0453,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KIPABISKAU LAKE NEAR MCKAGUE",
+        "state": "SK",
+        "siteId": "05LA007",
+        "longitude": -104.1844,
+        "latitude": 52.5711,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KOHLESCHMIDT CREEK NEAR ROSTHERN",
+        "state": "SK",
+        "siteId": "05HH003",
+        "longitude": -106.3681,
+        "latitude": 52.7472,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LAC DES ILES NEAR GOODSOIL",
+        "state": "SK",
+        "siteId": "06AF009",
+        "longitude": -109.3139,
+        "latitude": 54.4406,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LAC LA RONGE AT LA RONGE",
+        "state": "SK",
+        "siteId": "06CB001",
+        "longitude": -105.2724,
+        "latitude": 55.1033,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LAC PELLETIER NEAR VESPER",
+        "state": "SK",
+        "siteId": "05HD028",
+        "longitude": -107.9333,
+        "latitude": 50.0097,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LAKE ATHABASCA NEAR CRACKINGSTONE POINT",
+        "state": "SK",
+        "siteId": "07MC003",
+        "longitude": -108.8929,
+        "latitude": 59.3844,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LAKE DIEFENBAKER AT GARDINER DAM",
+        "state": "SK",
+        "siteId": "05HF003",
+        "longitude": -106.8392,
+        "latitude": 51.2803,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LANIGAN CREEK ABOVE BOULDER LAKE",
+        "state": "SK",
+        "siteId": "05JJ003",
+        "longitude": -105.2381,
+        "latitude": 51.6499,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LARSEN RESERVOIR NEAR RADVILLE",
+        "state": "SK",
+        "siteId": "05NA006",
+        "longitude": -104.2817,
+        "latitude": 49.4752,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LAST MOUNTAIN LAKE AT ROWAN'S RAVINE",
+        "state": "SK",
+        "siteId": "05JH004",
+        "longitude": -105.1839,
+        "latitude": 50.9956,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LEATHER RIVER NEAR STAR CITY",
+        "state": "SK",
+        "siteId": "05KB006",
+        "longitude": -104.24,
+        "latitude": 52.8422,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LENORE LAKE NEAR MIDDLE LAKE",
+        "state": "SK",
+        "siteId": "05KA011",
+        "longitude": -105.0144,
+        "latitude": 52.4925,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LEWIS CREEK NEAR IMPERIAL",
+        "state": "SK",
+        "siteId": "05JH005",
+        "longitude": -105.3811,
+        "latitude": 51.3006,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LIGHTNING CREEK NEAR CARNDUFF",
+        "state": "SK",
+        "siteId": "05NF006",
+        "longitude": -101.719,
+        "latitude": 49.2211,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LILIAN RIVER NEAR LADY LAKE",
+        "state": "SK",
+        "siteId": "05MC003",
+        "longitude": -102.625,
+        "latitude": 52.0228,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LITTLE BEAR LAKE ON THE HANSON LAKE ROAD",
+        "state": "SK",
+        "siteId": "05KF002",
+        "longitude": -104.6758,
+        "latitude": 54.2942,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LITTLE QUILL LAKE NEAR WYNYARD",
+        "state": "SK",
+        "siteId": "05MA002",
+        "longitude": -104.1327,
+        "latitude": 51.8743,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LODGE CREEK BELOW MCRAE CREEK AT INTERNATIONAL BOUNDARY",
+        "state": "SK",
+        "siteId": "11AB083",
+        "longitude": -109.7185,
+        "latitude": 49.0056,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LODGE CREEK NEAR ALBERTA BOUNDARY",
+        "state": "SK",
+        "siteId": "11AB082",
+        "longitude": -109.9849,
+        "latitude": 49.2026,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LOISELLE CREEK NEAR HUDSON BAY",
+        "state": "SK",
+        "siteId": "05LB004",
+        "longitude": -102.3706,
+        "latitude": 52.7975,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LONG CREEK AT WESTERN CROSSING OF INTERNATIONAL BOUNDARY",
+        "state": "SK",
+        "siteId": "05NA003",
+        "longitude": -103.3526,
+        "latitude": 49.0001,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LONG CREEK NEAR ESTEVAN",
+        "state": "SK",
+        "siteId": "05NB001",
+        "longitude": -103.017,
+        "latitude": 49.1021,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LONG CREEK NEAR MAXIM",
+        "state": "SK",
+        "siteId": "05NA004",
+        "longitude": -103.9561,
+        "latitude": 49.2589,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LOWER FISHING LAKE ON THE HANSON LAKE ROAD",
+        "state": "SK",
+        "siteId": "05KE009",
+        "longitude": -104.6142,
+        "latitude": 54.0364,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LYONS CREEK AT INTERNATIONAL BOUNDARY",
+        "state": "SK",
+        "siteId": "11AB075",
+        "longitude": -109.2319,
+        "latitude": 49.0053,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MACFARLANE RIVER AT OUTLET OF DAVY LAKE",
+        "state": "SK",
+        "siteId": "07MB001",
+        "longitude": -108.1734,
+        "latitude": 58.9675,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MACNAB CREEK NEAR SOMME",
+        "state": "SK",
+        "siteId": "05LB008",
+        "longitude": -102.9658,
+        "latitude": 52.6081,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MADGE LAKE NEAR KAMSACK",
+        "state": "SK",
+        "siteId": "05LE012",
+        "longitude": -101.6631,
+        "latitude": 51.6408,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MAGNUSSON CREEK NEAR WYNYARD",
+        "state": "SK",
+        "siteId": "05MA021",
+        "longitude": -104.2053,
+        "latitude": 51.8142,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MAKWA LAKE NEAR LOON LAKE",
+        "state": "SK",
+        "siteId": "06AD014",
+        "longitude": -109.2206,
+        "latitude": 54.0928,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MAKWA RIVER AT OUTLET OF MAKWA LAKE",
+        "state": "SK",
+        "siteId": "06AD009",
+        "longitude": -109.2,
+        "latitude": 54.0778,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MAKWA RIVER AT RAPID VIEW",
+        "state": "SK",
+        "siteId": "06AD007",
+        "longitude": -108.8056,
+        "latitude": 54.1472,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MALONECK CREEK NEAR PELLY",
+        "state": "SK",
+        "siteId": "05LE011",
+        "longitude": -101.9139,
+        "latitude": 51.9689,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MANITO LAKE NEAR MARSDEN",
+        "state": "SK",
+        "siteId": "05GA006",
+        "longitude": -109.7872,
+        "latitude": 52.7925,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MAREAN LAKE NEAR CHELAN",
+        "state": "SK",
+        "siteId": "05LB012",
+        "longitude": -103.5944,
+        "latitude": 52.5144,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MCDONALD CREEK NEAR MCCORD",
+        "state": "SK",
+        "siteId": "05JA003",
+        "longitude": -106.8358,
+        "latitude": 49.4378,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MCDONALD TRIBUTARY NEAR TOTNES",
+        "state": "SK",
+        "siteId": "05HF015",
+        "longitude": -108.4489,
+        "latitude": 51.3344,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MCKINNON DITCH NEAR CONSUL",
+        "state": "SK",
+        "siteId": "11AB044",
+        "longitude": -109.4942,
+        "latitude": 49.3339,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MEADOW RIVER BELOW MEADOW LAKE",
+        "state": "SK",
+        "siteId": "06AD010",
+        "longitude": -108.3944,
+        "latitude": 54.1361,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MIDDLE CREEK ABOVE LODGE CREEK",
+        "state": "SK",
+        "siteId": "11AB008",
+        "longitude": -109.8176,
+        "latitude": 49.1004,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MIDDLE CREEK BELOW MIDDLE CREEK RESERVOIR",
+        "state": "SK",
+        "siteId": "11AB001",
+        "longitude": -109.9215,
+        "latitude": 49.4145,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MIDDLE CREEK NEAR GOVENLOCK",
+        "state": "SK",
+        "siteId": "11AB108",
+        "longitude": -109.8168,
+        "latitude": 49.2281,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MIDDLE CREEK RESERVOIR BEDFORD OUTLET",
+        "state": "SK",
+        "siteId": "11AB114",
+        "longitude": -109.9911,
+        "latitude": 49.3844,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MIDDLE CREEK RESERVOIR FLOOD SPILLWAY",
+        "state": "SK",
+        "siteId": "11AB115",
+        "longitude": -109.9986,
+        "latitude": 49.3839,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MONNERY RIVER NEAR PARADISE HILL",
+        "state": "SK",
+        "siteId": "05EF004",
+        "longitude": -109.5272,
+        "latitude": 53.5411,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MONTREAL LAKE NEAR WEYAKWIN",
+        "state": "SK",
+        "siteId": "06CA006",
+        "longitude": -105.7236,
+        "latitude": 54.4097,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MONTREAL RIVER AT OUTLET OF BIGSTONE LAKE",
+        "state": "SK",
+        "siteId": "06CA001",
+        "longitude": -105.3628,
+        "latitude": 55.0944,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MOOSE JAW RIVER ABOVE THUNDER CREEK",
+        "state": "SK",
+        "siteId": "05JE001",
+        "longitude": -105.5303,
+        "latitude": 50.3461,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MOOSE JAW RIVER NEAR BURDICK",
+        "state": "SK",
+        "siteId": "05JE006",
+        "longitude": -105.3979,
+        "latitude": 50.4003,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MOOSE JAW RIVER NEAR ROULEAU",
+        "state": "SK",
+        "siteId": "05JE004",
+        "longitude": -104.9856,
+        "latitude": 50.1914,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MOOSE MOUNTAIN CREEK ABOVE GRANT DEVINE LAKE",
+        "state": "SK",
+        "siteId": "05ND010",
+        "longitude": -102.1719,
+        "latitude": 49.5228,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MOOSE MOUNTAIN CREEK BELOW GRANT DEVINE LAKE",
+        "state": "SK",
+        "siteId": "05ND013",
+        "longitude": -102.2293,
+        "latitude": 49.248,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MOOSE MOUNTAIN CREEK BELOW MOOSE MOUNTAIN LAKE",
+        "state": "SK",
+        "siteId": "05NC001",
+        "longitude": -103.015,
+        "latitude": 49.8731,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MOOSE MOUNTAIN LAKE (RESERVOIR) NEAR CORNING",
+        "state": "SK",
+        "siteId": "05NC002",
+        "longitude": -103.0304,
+        "latitude": 49.8925,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MOOSOMIN LAKE NEAR MOOSOMIN",
+        "state": "SK",
+        "siteId": "05NE002",
+        "longitude": -101.69,
+        "latitude": 50.0501,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MORIN CREEK NEAR MEADOW LAKE",
+        "state": "SK",
+        "siteId": "06AD008",
+        "longitude": -108.5772,
+        "latitude": 54.1653,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MORIN LAKE NEAR VICTOIRE",
+        "state": "SK",
+        "siteId": "06AE003",
+        "longitude": -107.0589,
+        "latitude": 53.4978,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MOSELEY CREEK NEAR HALBRITE",
+        "state": "SK",
+        "siteId": "05NB033",
+        "longitude": -103.6296,
+        "latitude": 49.4948,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MOSQUITO CREEK NEAR PAMBRUN",
+        "state": "SK",
+        "siteId": "05JB007",
+        "longitude": -107.4366,
+        "latitude": 49.9771,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MUDDY LAKE INFLOW NEAR REVENUE",
+        "state": "SK",
+        "siteId": "05GB004",
+        "longitude": -109.0361,
+        "latitude": 52.2306,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NASHLYN CANAL NEAR CONSUL",
+        "state": "SK",
+        "siteId": "11AB018",
+        "longitude": -109.5575,
+        "latitude": 49.2325,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NEWTON LAKE",
+        "state": "SK",
+        "siteId": "11AC056",
+        "longitude": -107.807,
+        "latitude": 49.3033,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NEWTON LAKE MAIN CANAL",
+        "state": "SK",
+        "siteId": "11AC054",
+        "longitude": -107.8014,
+        "latitude": 49.305,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NICKLE LAKE NEAR WEYBURN",
+        "state": "SK",
+        "siteId": "05NB020",
+        "longitude": -103.7693,
+        "latitude": 49.5754,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NORTH SASKATCHEWAN RIVER AT PRINCE ALBERT",
+        "state": "SK",
+        "siteId": "05GG001",
+        "longitude": -105.7721,
+        "latitude": 53.2034,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NORTH SASKATCHEWAN RIVER NEAR BORDEN",
+        "state": "SK",
+        "siteId": "05GD001",
+        "longitude": -107.1516,
+        "latitude": 52.3735,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NORTH SASKATCHEWAN RIVER NEAR DEER CREEK",
+        "state": "SK",
+        "siteId": "05EF001",
+        "longitude": -109.6179,
+        "latitude": 53.5232,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NOTUKEU CREEK ABOVE ADMIRAL RESERVOIR",
+        "state": "SK",
+        "siteId": "05JB004",
+        "longitude": -108.1266,
+        "latitude": 49.7091,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NOTUKEU CREEK NEAR VANGUARD",
+        "state": "SK",
+        "siteId": "05JB001",
+        "longitude": -107.1863,
+        "latitude": 49.9175,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "OPUNTIA LAKE WEST INFLOW",
+        "state": "SK",
+        "siteId": "05GC007",
+        "longitude": -108.625,
+        "latitude": 51.7875,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "OSCAR CREEK NEAR KRYDOR",
+        "state": "SK",
+        "siteId": "05GD002",
+        "longitude": -107.1281,
+        "latitude": 52.7742,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "OVERFLOWING RIVER NEAR HUDSON BAY",
+        "state": "SK",
+        "siteId": "05LD003",
+        "longitude": -102.3161,
+        "latitude": 53.0308,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PASQUIA RIVER AT HIGHWAY NO. 9",
+        "state": "SK",
+        "siteId": "05KJ014",
+        "longitude": -102.1119,
+        "latitude": 53.2567,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PELICAN LAKE AT PELICAN NARROWS",
+        "state": "SK",
+        "siteId": "05KG009",
+        "longitude": -102.9411,
+        "latitude": 55.1658,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PHEASANT CREEK NEAR ABERNETHY",
+        "state": "SK",
+        "siteId": "05JL005",
+        "longitude": -103.328,
+        "latitude": 50.7342,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PIKE LAKE NEAR SASKATOON",
+        "state": "SK",
+        "siteId": "05HG003",
+        "longitude": -106.8056,
+        "latitude": 51.8889,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PIPESTONE CREEK ABOVE MOOSOMIN LAKE",
+        "state": "SK",
+        "siteId": "05NE003",
+        "longitude": -101.837,
+        "latitude": 50.1522,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PIPESTONE CREEK NEAR ROSE VALLEY",
+        "state": "SK",
+        "siteId": "05LA004",
+        "longitude": -103.6722,
+        "latitude": 52.2892,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PRAIRIE RIVER NEAR PRAIRIE RIVER",
+        "state": "SK",
+        "siteId": "05LB010",
+        "longitude": -102.9969,
+        "latitude": 52.8169,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "QU'APPELLE RIVER ABOVE BUFFALO POUND LAKE",
+        "state": "SK",
+        "siteId": "05JG004",
+        "longitude": -105.8401,
+        "latitude": 50.7833,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "QU'APPELLE RIVER ABOVE EYEBROW LAKE",
+        "state": "SK",
+        "siteId": "05JG010",
+        "longitude": -106.2907,
+        "latitude": 50.98,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "QU'APPELLE RIVER AT HYDE",
+        "state": "SK",
+        "siteId": "05JM013",
+        "longitude": -102.9175,
+        "latitude": 50.6414,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "QU'APPELLE RIVER BELOW CRAVEN DAM",
+        "state": "SK",
+        "siteId": "05JK002",
+        "longitude": -104.7979,
+        "latitude": 50.7065,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "QU'APPELLE RIVER BELOW LOON CREEK",
+        "state": "SK",
+        "siteId": "05JK007",
+        "longitude": -104.2827,
+        "latitude": 50.7878,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "QU'APPELLE RIVER NEAR LUMSDEN",
+        "state": "SK",
+        "siteId": "05JF001",
+        "longitude": -104.8668,
+        "latitude": 50.6505,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "QU'APPELLE RIVER NEAR WELBY",
+        "state": "SK",
+        "siteId": "05JM001",
+        "longitude": -101.5586,
+        "latitude": 50.4913,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "QUILL CREEK NEAR QUILL LAKE",
+        "state": "SK",
+        "siteId": "05MA020",
+        "longitude": -104.2504,
+        "latitude": 52.0137,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "RAFFERTY RESERVOIR NEAR ESTEVAN",
+        "state": "SK",
+        "siteId": "05NB032",
+        "longitude": -103.0946,
+        "latitude": 49.1456,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "RANCH CREEK ABOVE RANCH LAKE",
+        "state": "SK",
+        "siteId": "05MA025",
+        "longitude": -104.7893,
+        "latitude": 52.4055,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "RAPID RIVER AT OUTLET OF LAC LA RONGE",
+        "state": "SK",
+        "siteId": "06CB002",
+        "longitude": -104.5018,
+        "latitude": 55.3523,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "RED DEER RIVER NEAR ARCHERWILL",
+        "state": "SK",
+        "siteId": "05LA005",
+        "longitude": -103.6969,
+        "latitude": 52.435,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "RED DEER RIVER NEAR ERWOOD",
+        "state": "SK",
+        "siteId": "05LC001",
+        "longitude": -102.1951,
+        "latitude": 52.8595,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "RED DEER RIVER NEAR STEEN",
+        "state": "SK",
+        "siteId": "05LB005",
+        "longitude": -103.5156,
+        "latitude": 52.6544,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "REDBERRY LAKE NEAR KRYDOR",
+        "state": "SK",
+        "siteId": "05GD003",
+        "longitude": -107.2164,
+        "latitude": 52.7117,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "REID LAKE NEAR DUNCAIRN",
+        "state": "SK",
+        "siteId": "05HD033",
+        "longitude": -108.0464,
+        "latitude": 50.0736,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "REINDEER LAKE AT SOUTHEND",
+        "state": "SK",
+        "siteId": "06DB004",
+        "longitude": -103.284,
+        "latitude": 56.3344,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "REINDEER RIVER ABOVE DEVIL RAPIDS",
+        "state": "SK",
+        "siteId": "06DD002",
+        "longitude": -103.1595,
+        "latitude": 56.1933,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "RICHARDSON DITCH NEAR CONSUL",
+        "state": "SK",
+        "siteId": "11AB058",
+        "longitude": -109.5364,
+        "latitude": 49.3594,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "RIDGE CREEK NEAR BRIDGEFORD",
+        "state": "SK",
+        "siteId": "05JG013",
+        "longitude": -106.3295,
+        "latitude": 50.9513,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ROMANCE CREEK NEAR WATSON",
+        "state": "SK",
+        "siteId": "05MA016",
+        "longitude": -104.5539,
+        "latitude": 51.994,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ROUGHBARK CREEK ABOVE RAFFERTY RESERVOIR",
+        "state": "SK",
+        "siteId": "05NB041",
+        "longitude": -103.6844,
+        "latitude": 49.4642,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ROUGHBARK RESERVOIR NEAR WEYBURN",
+        "state": "SK",
+        "siteId": "05NB016",
+        "longitude": -103.7197,
+        "latitude": 49.5013,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ROUND LAKE NEAR WHITEWOOD",
+        "state": "SK",
+        "siteId": "05JM007",
+        "longitude": -102.3594,
+        "latitude": 50.5486,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "RUSHLAKE CREEK ABOVE HIGHFIELD RESERVOIR",
+        "state": "SK",
+        "siteId": "05JC004",
+        "longitude": -107.4698,
+        "latitude": 50.253,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SALINE CREEK NEAR NOKOMIS",
+        "state": "SK",
+        "siteId": "05JJ009",
+        "longitude": -105.1031,
+        "latitude": 51.4161,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SANDY CREEK NEAR CARON",
+        "state": "SK",
+        "siteId": "05JG001",
+        "longitude": -106.0292,
+        "latitude": 50.4525,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SASKATCHEWAN RIVER BELOW THE FORKS",
+        "state": "SK",
+        "siteId": "05KD007",
+        "longitude": -105.0683,
+        "latitude": 53.2461,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SASKATCHEWAN RIVER BELOW TOBIN LAKE",
+        "state": "SK",
+        "siteId": "05KD003",
+        "longitude": -103.2987,
+        "latitude": 53.7071,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SASKATCHEWAN RIVER OLD CHANNEL",
+        "state": "SK",
+        "siteId": "05KH009",
+        "longitude": -102.9722,
+        "latitude": 53.8139,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SHAND CREEK NEAR DILLABOUGH",
+        "state": "SK",
+        "siteId": "05LB006",
+        "longitude": -102.7514,
+        "latitude": 52.6183,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SHELL BROOK NEAR SHELLBROOK",
+        "state": "SK",
+        "siteId": "05GF001",
+        "longitude": -106.3858,
+        "latitude": 53.2528,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SHELL LAKE NEAR SHELL LAKE",
+        "state": "SK",
+        "siteId": "05GF004",
+        "longitude": -107.1714,
+        "latitude": 53.2236,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SHEPHERD CREEK NEAR ALAMEDA",
+        "state": "SK",
+        "siteId": "05ND011",
+        "longitude": -102.2558,
+        "latitude": 49.347,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SHORT CREEK NEAR ROCHE PERCEE",
+        "state": "SK",
+        "siteId": "05NB021",
+        "longitude": -102.8496,
+        "latitude": 49.0313,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SIX MILE CREEK NEAR GLENTWORTH",
+        "state": "SK",
+        "siteId": "05JA006",
+        "longitude": -106.7549,
+        "latitude": 49.496,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SMITH CREEK NEAR MARCHWELL",
+        "state": "SK",
+        "siteId": "05ME007",
+        "longitude": -101.5788,
+        "latitude": 50.8328,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SMOOTHSTONE RIVER BELOW EMMELINE LAKE",
+        "state": "SK",
+        "siteId": "06CC001",
+        "longitude": -106.2069,
+        "latitude": 55.1633,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SNAKEBITE CREEK NEAR BEECHY",
+        "state": "SK",
+        "siteId": "05HE001",
+        "longitude": -107.2753,
+        "latitude": 50.8017,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SNIPE LAKE NORTH INFLOW",
+        "state": "SK",
+        "siteId": "05HC003",
+        "longitude": -108.8628,
+        "latitude": 51.355,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SOURIS RIVER BELOW RAFFERTY RESERVOIR",
+        "state": "SK",
+        "siteId": "05NB036",
+        "longitude": -103.0831,
+        "latitude": 49.1434,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SOURIS RIVER NEAR BECHARD",
+        "state": "SK",
+        "siteId": "05NB031",
+        "longitude": -104.19,
+        "latitude": 49.9889,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SOURIS RIVER NEAR RALPH",
+        "state": "SK",
+        "siteId": "05NB040",
+        "longitude": -103.6775,
+        "latitude": 49.5312,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SOUTH SASKATCHEWAN RIVER AT SASKATOON",
+        "state": "SK",
+        "siteId": "05HG001",
+        "longitude": -106.6443,
+        "latitude": 52.1407,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SPANGLER DITCH NEAR GOVENLOCK",
+        "state": "SK",
+        "siteId": "11AB060",
+        "longitude": -109.9173,
+        "latitude": 49.1539,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SPIRIT CREEK NEAR BUCHANAN",
+        "state": "SK",
+        "siteId": "05MB007",
+        "longitude": -102.8058,
+        "latitude": 51.71,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "STONY CREEK NEAR KAMSACK",
+        "state": "SK",
+        "siteId": "05MD010",
+        "longitude": -101.839,
+        "latitude": 51.389,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "STONY CREEK NEAR STENEN",
+        "state": "SK",
+        "siteId": "05MC002",
+        "longitude": -102.33,
+        "latitude": 51.8828,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "STURGEON LAKE NEAR PRINCE ALBERT",
+        "state": "SK",
+        "siteId": "05GF003",
+        "longitude": -106.1575,
+        "latitude": 53.4217,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "STURGEON RIVER NEAR PRINCE ALBERT",
+        "state": "SK",
+        "siteId": "05GF002",
+        "longitude": -105.885,
+        "latitude": 53.2131,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "STURGEON-WEIR RIVER AT LEAF RAPIDS",
+        "state": "SK",
+        "siteId": "05KG007",
+        "longitude": -102.6356,
+        "latitude": 54.8278,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SWAN RIVER NEAR NORQUAY",
+        "state": "SK",
+        "siteId": "05LE008",
+        "longitude": -102.0739,
+        "latitude": 51.9978,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SWIFT CURRENT CREEK BELOW ROCK CREEK",
+        "state": "SK",
+        "siteId": "05HD036",
+        "longitude": -108.4794,
+        "latitude": 49.8444,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SWIFT CURRENT CREEK NEAR LEINAN",
+        "state": "SK",
+        "siteId": "05HD039",
+        "longitude": -107.6586,
+        "latitude": 50.4939,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TATAGWA LAKE DRAIN NEAR WEYBURN",
+        "state": "SK",
+        "siteId": "05NB018",
+        "longitude": -103.948,
+        "latitude": 49.5999,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TAZIN LAKE NEAR OUTLET",
+        "state": "SK",
+        "siteId": "07QC002",
+        "longitude": -109.4086,
+        "latitude": 59.8185,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TAZIN RIVER ABOVE TAZIN LAKE",
+        "state": "SK",
+        "siteId": "07QC006",
+        "longitude": -108.318,
+        "latitude": 59.7942,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TOBIN LAKE AT THE SPILLWAY",
+        "state": "SK",
+        "siteId": "05KD004",
+        "longitude": -103.3956,
+        "latitude": 53.6572,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TORCH RIVER NEAR LOVE",
+        "state": "SK",
+        "siteId": "05KE002",
+        "longitude": -104.1669,
+        "latitude": 53.5203,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TRIBUTARY NEAR OUTRAM",
+        "state": "SK",
+        "siteId": "05NB039",
+        "longitude": -103.3013,
+        "latitude": 49.1741,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TURTLE LAKE NEAR GLASLYN",
+        "state": "SK",
+        "siteId": "05EG009",
+        "longitude": -108.5867,
+        "latitude": 53.6133,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TURTLELAKE RIVER NEAR TURTLEFORD",
+        "state": "SK",
+        "siteId": "05EG005",
+        "longitude": -108.9678,
+        "latitude": 53.3881,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "VAL MARIE PUMP NO. 1",
+        "state": "SK",
+        "siteId": "11AC068",
+        "longitude": -107.8493,
+        "latitude": 49.3624,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "VAL MARIE PUMP NO. 2",
+        "state": "SK",
+        "siteId": "11AC069",
+        "longitude": -107.8302,
+        "latitude": 49.3504,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "VIDORA DITCH NEAR CONSUL",
+        "state": "SK",
+        "siteId": "11AB084",
+        "longitude": -109.5917,
+        "latitude": 49.4575,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WAKAW LAKE NEAR WAKAW",
+        "state": "SK",
+        "siteId": "05KA012",
+        "longitude": -105.6269,
+        "latitude": 52.6447,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WALDSEA LAKE NEAR HUMBOLDT",
+        "state": "SK",
+        "siteId": "05KA010",
+        "longitude": -105.1892,
+        "latitude": 52.2697,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WAPISKAU RIVER ABOVE WHITE LAKE",
+        "state": "SK",
+        "siteId": "06DD003",
+        "longitude": -103.3265,
+        "latitude": 56.0067,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WASCANA CREEK BELOW KRONAU MARSH",
+        "state": "SK",
+        "siteId": "05JF012",
+        "longitude": -104.4342,
+        "latitude": 50.3519,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WASCANA CREEK NEAR LUMSDEN",
+        "state": "SK",
+        "siteId": "05JF005",
+        "longitude": -104.9098,
+        "latitude": 50.6356,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WASCANA LAKE AT THE MARINA",
+        "state": "SK",
+        "siteId": "05JF015",
+        "longitude": -104.6047,
+        "latitude": 50.4306,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WASKESIU LAKE AT WASKESIU LAKE",
+        "state": "SK",
+        "siteId": "06CA002",
+        "longitude": -106.0938,
+        "latitude": 53.9506,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WATERFOUND RIVER BELOW THERIAU LAKE",
+        "state": "SK",
+        "siteId": "07LB002",
+        "longitude": -104.6064,
+        "latitude": 58.388,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WATERHEN LAKE NEAR DORINTOSH",
+        "state": "SK",
+        "siteId": "06AF007",
+        "longitude": -108.5183,
+        "latitude": 54.4594,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WATERHEN RIVER NEAR GOODSOIL",
+        "state": "SK",
+        "siteId": "06AF005",
+        "longitude": -109.2225,
+        "latitude": 54.4458,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WATHAMAN RIVER BELOW WATHAMAN LAKE",
+        "state": "SK",
+        "siteId": "06DC001",
+        "longitude": -103.7095,
+        "latitude": 57.0893,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WHEELER RIVER BELOW RUSSELL LAKE",
+        "state": "SK",
+        "siteId": "06DA005",
+        "longitude": -104.9877,
+        "latitude": 57.4786,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WHITE BEAR (CARLYLE) LAKE NEAR CARLYLE",
+        "state": "SK",
+        "siteId": "05ND008",
+        "longitude": -102.2794,
+        "latitude": 49.76,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WHITE FOX RIVER NEAR GARRICK",
+        "state": "SK",
+        "siteId": "05KE005",
+        "longitude": -104.3417,
+        "latitude": 53.4222,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WHITE GULL CREEK AT HIGHWAY NO. 106",
+        "state": "SK",
+        "siteId": "05KE010",
+        "longitude": -104.6196,
+        "latitude": 53.865,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WHITESAND RIVER NEAR CANORA",
+        "state": "SK",
+        "siteId": "05MB003",
+        "longitude": -102.3698,
+        "latitude": 51.6362,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WILLOW BROOK AT WILLOWBROOK",
+        "state": "SK",
+        "siteId": "05MB005",
+        "longitude": -102.8014,
+        "latitude": 51.2056,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WIWA CREEK NEAR ST. BOSWELLS",
+        "state": "SK",
+        "siteId": "05JC006",
+        "longitude": -106.755,
+        "latitude": 50.0681,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WOLLASTON LAKE AT ROSS CHANNEL",
+        "state": "SK",
+        "siteId": "06DA001",
+        "longitude": -103.2853,
+        "latitude": 58.4835,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WOOD RIVER DIVERSION TO CHAPLIN LAKE",
+        "state": "SK",
+        "siteId": "05JC005",
+        "longitude": -106.3586,
+        "latitude": 50.1628,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WOOD RIVER NEAR LAFLECHE",
+        "state": "SK",
+        "siteId": "05JA002",
+        "longitude": -106.6942,
+        "latitude": 49.6686,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WOOD RIVER NEAR MCCORD",
+        "state": "SK",
+        "siteId": "05JA005",
+        "longitude": -106.7868,
+        "latitude": 49.4948,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "YELLOW GRASS DITCH NEAR YELLOW GRASS",
+        "state": "SK",
+        "siteId": "05NB011",
+        "longitude": -104.0397,
+        "latitude": 49.7864,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "YORK LAKE NEAR YORKTON",
+        "state": "SK",
+        "siteId": "05MB014",
+        "longitude": -102.4969,
+        "latitude": 51.1664,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "YORKTON CREEK NEAR EBENEZER",
+        "state": "SK",
+        "siteId": "05MB001",
+        "longitude": -102.5047,
+        "latitude": 51.3805,
+        "source": "ENVIRONMENT_CANADA"
+    }
+]

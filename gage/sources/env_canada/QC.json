@@ -1,7 +1,7 @@
 [
   {
     "country": "CA",
-    "name": "ABITIBI (LAC) À MANCEBOURG",
+    "gageName": "ABITIBI (LAC) À MANCEBOURG",
     "state": "QC",
     "siteId": "04MA004",
     "longitude": -79.2278,
@@ -10,7 +10,7 @@
   },
   {
     "country": "CA",
-    "name": "ACHIGAN (RIVIERE DE L') A L'EPIPHANIE",
+    "gageName": "ACHIGAN (RIVIERE DE L') A L'EPIPHANIE",
     "state": "QC",
     "siteId": "02OB037",
     "longitude": -73.4931,
@@ -19,7 +19,7 @@
   },
   {
     "country": "CA",
-    "name": "ANGLAIS (RIVIERE DES) À 1,1 KM EN AVAL DU PONT-ROUTE À TRÈS-SAINT-SACREMENT",
+    "gageName": "ANGLAIS (RIVIERE DES) À 1,1 KM EN AVAL DU PONT-ROUTE À TRÈS-SAINT-SACREMENT",
     "state": "QC",
     "siteId": "02OA057",
     "longitude": -73.845,
@@ -28,7 +28,7 @@
   },
   {
     "country": "CA",
-    "name": "ASHUAPMUSHUAN (RIVIERE) À LA TÊTE DE LA CHUTE AUX SAUMONS",
+    "gageName": "ASHUAPMUSHUAN (RIVIERE) À LA TÊTE DE LA CHUTE AUX SAUMONS",
     "state": "QC",
     "siteId": "02RF001",
     "longitude": -72.4881,
@@ -37,7 +37,7 @@
   },
   {
     "country": "CA",
-    "name": "AULNAIES (RUISSEAU DES) PRES DU RUISSEAU DES EAUX VOLEES",
+    "gageName": "AULNAIES (RUISSEAU DES) PRES DU RUISSEAU DES EAUX VOLEES",
     "state": "QC",
     "siteId": "02PD015",
     "longitude": -71.1608,
@@ -46,7 +46,7 @@
   },
   {
     "country": "CA",
-    "name": "AULNAIES OUEST (RUISSEAU DES) EN AMONT DU CHEMIN DU BELVÉDÈRE",
+    "gageName": "AULNAIES OUEST (RUISSEAU DES) EN AMONT DU CHEMIN DU BELVÉDÈRE",
     "state": "QC",
     "siteId": "02PD014",
     "longitude": -71.1617,
@@ -55,7 +55,7 @@
   },
   {
     "country": "CA",
-    "name": "AUX BROCHETS (RIVIÈRE) À NOTRE-DAME-DE-STANBRIDGE",
+    "gageName": "AUX BROCHETS (RIVIÈRE) À NOTRE-DAME-DE-STANBRIDGE",
     "state": "QC",
     "siteId": "02OH013",
     "longitude": -73.0507,
@@ -64,7 +64,7 @@
   },
   {
     "country": "CA",
-    "name": "AUX POMMES  (RIVIERE) A 1.6KM EN AVAL DE LA NOIRE",
+    "gageName": "AUX POMMES  (RIVIERE) A 1.6KM EN AVAL DE LA NOIRE",
     "state": "QC",
     "siteId": "02PC019",
     "longitude": -71.6889,
@@ -73,7 +73,7 @@
   },
   {
     "country": "CA",
-    "name": "AYLMER (LAC ) AU QUAI DE LA MUNICAPALITÉ DE STRATFORD",
+    "gageName": "AYLMER (LAC ) AU QUAI DE LA MUNICAPALITÉ DE STRATFORD",
     "state": "QC",
     "siteId": "02OE072",
     "longitude": -71.326,
@@ -82,7 +82,7 @@
   },
   {
     "country": "CA",
-    "name": "BALEINE (GRANDE RIVIERE DE LA) EN AMONT DE LA RIVIERE DENYS-1",
+    "gageName": "BALEINE (GRANDE RIVIERE DE LA) EN AMONT DE LA RIVIERE DENYS-1",
     "state": "QC",
     "siteId": "03ED001",
     "longitude": -76.9839,
@@ -91,7 +91,7 @@
   },
   {
     "country": "CA",
-    "name": "BALEINE (RIVIERE A LA) À 40,2 KM DE L'EMBOUCHURE",
+    "gageName": "BALEINE (RIVIERE A LA) À 40,2 KM DE L'EMBOUCHURE",
     "state": "QC",
     "siteId": "03MB002",
     "longitude": -67.5833,
@@ -100,7 +100,7 @@
   },
   {
     "country": "CA",
-    "name": "BATISCAN (RIVIERE) À 3,4 KM EN AVAL DE LA RIVIÈRE DES ENVIES",
+    "gageName": "BATISCAN (RIVIERE) À 3,4 KM EN AVAL DE LA RIVIÈRE DES ENVIES",
     "state": "QC",
     "siteId": "02PA007",
     "longitude": -72.4047,
@@ -109,7 +109,7 @@
   },
   {
     "country": "CA",
-    "name": "BAYONNE (RIVIÈRE) À ST-FÉLIX-DE-VALOIS",
+    "gageName": "BAYONNE (RIVIÈRE) À ST-FÉLIX-DE-VALOIS",
     "state": "QC",
     "siteId": "02OB046",
     "longitude": -73.3908,
@@ -118,7 +118,7 @@
   },
   {
     "country": "CA",
-    "name": "BEAUDET (RÉSERVOIR) À VICTORIAVILLE",
+    "gageName": "BEAUDET (RÉSERVOIR) À VICTORIAVILLE",
     "state": "QC",
     "siteId": "02OD009",
     "longitude": -71.9769,
@@ -127,7 +127,7 @@
   },
   {
     "country": "CA",
-    "name": "BEAURIVAGE (RIVIERE) A SAINTE-ETIENNE",
+    "gageName": "BEAURIVAGE (RIVIERE) A SAINTE-ETIENNE",
     "state": "QC",
     "siteId": "02PJ007",
     "longitude": -71.2886,
@@ -136,7 +136,7 @@
   },
   {
     "country": "CA",
-    "name": "BECANCOUR (RIVIERE) À 2,1 KM EN AMONT DE LA RIVIÈRE PALMER",
+    "gageName": "BECANCOUR (RIVIERE) À 2,1 KM EN AMONT DE LA RIVIÈRE PALMER",
     "state": "QC",
     "siteId": "02PL005",
     "longitude": -71.4514,
@@ -145,7 +145,7 @@
   },
   {
     "country": "CA",
-    "name": "BELL (RIVIERE) EN AMONT DU LAC MATAGAMI",
+    "gageName": "BELL (RIVIERE) EN AMONT DU LAC MATAGAMI",
     "state": "QC",
     "siteId": "03AC004",
     "longitude": -77.6144,
@@ -154,7 +154,7 @@
   },
   {
     "country": "CA",
-    "name": "BELLE RIVIERE (RIVIERE) EN AMONT DU RUISSEAU DES AULNAIES",
+    "gageName": "BELLE RIVIERE (RIVIERE) EN AMONT DU RUISSEAU DES AULNAIES",
     "state": "QC",
     "siteId": "02RH065",
     "longitude": -71.7075,
@@ -163,7 +163,7 @@
   },
   {
     "country": "CA",
-    "name": "BLANCHE (RIVIERE) À 3,5 KM EN AMONT DU PONT-ROUTE 132",
+    "gageName": "BLANCHE (RIVIERE) À 3,5 KM EN AMONT DU PONT-ROUTE 132",
     "state": "QC",
     "siteId": "02QB005",
     "longitude": -67.6661,
@@ -172,7 +172,7 @@
   },
   {
     "country": "CA",
-    "name": "BONAVENTURE (RIVIERE) EN AMONT DU RUISSEAU CREUX",
+    "gageName": "BONAVENTURE (RIVIERE) EN AMONT DU RUISSEAU CREUX",
     "state": "QC",
     "siteId": "01BG009",
     "longitude": -65.5586,
@@ -181,7 +181,7 @@
   },
   {
     "country": "CA",
-    "name": "BOURBON (RIVIÈRE) SUR LE 11IE RANG À PLESSISVILLE",
+    "gageName": "BOURBON (RIVIÈRE) SUR LE 11IE RANG À PLESSISVILLE",
     "state": "QC",
     "siteId": "02PL015",
     "longitude": -71.7542,
@@ -190,7 +190,7 @@
   },
   {
     "country": "CA",
-    "name": "BOURLAMAQUE (RIVIÈRE) À 1.1 KM EN AMONT DE LA ROUTE 117",
+    "gageName": "BOURLAMAQUE (RIVIÈRE) À 1.1 KM EN AMONT DE LA ROUTE 117",
     "state": "QC",
     "siteId": "04NA005",
     "longitude": -77.6704,
@@ -199,7 +199,7 @@
   },
   {
     "country": "CA",
-    "name": "BOYER (RIVIÈRE) À 0,1 KM EN AVAL DU PONT DE TRAIN À SAINT-CHARLES DE BELLECHASSE",
+    "gageName": "BOYER (RIVIÈRE) À 0,1 KM EN AVAL DU PONT DE TRAIN À SAINT-CHARLES DE BELLECHASSE",
     "state": "QC",
     "siteId": "02PH014",
     "longitude": -70.9006,
@@ -208,7 +208,7 @@
   },
   {
     "country": "CA",
-    "name": "BOYER SUD (RIVIERE) AU PONT-ROUTE DU RANG GRANDE GRILLADE",
+    "gageName": "BOYER SUD (RIVIERE) AU PONT-ROUTE DU RANG GRANDE GRILLADE",
     "state": "QC",
     "siteId": "02PH012",
     "longitude": -70.9605,
@@ -217,7 +217,7 @@
   },
   {
     "country": "CA",
-    "name": "BRAS D'HENRI (RIVIÈRE) À 2,3 KM DE LA BEAURIVAGE",
+    "gageName": "BRAS D'HENRI (RIVIÈRE) À 2,3 KM DE LA BEAURIVAGE",
     "state": "QC",
     "siteId": "02PJ034",
     "longitude": -71.3389,
@@ -226,7 +226,7 @@
   },
   {
     "country": "CA",
-    "name": "BROADBACK (RIVIERE) A LA SORTIE DU LAC QUENONISCA",
+    "gageName": "BROADBACK (RIVIERE) A LA SORTIE DU LAC QUENONISCA",
     "state": "QC",
     "siteId": "03BD002",
     "longitude": -76.3878,
@@ -235,7 +235,7 @@
   },
   {
     "country": "CA",
-    "name": "BROMPTON (LAC)  À SAINT-DENIS-DE-BROMPTON",
+    "gageName": "BROMPTON (LAC)  À SAINT-DENIS-DE-BROMPTON",
     "state": "QC",
     "siteId": "02OF015",
     "longitude": -72.1333,
@@ -244,7 +244,7 @@
   },
   {
     "country": "CA",
-    "name": "BULSTRODE (RIVIERE) A SAINT-VALERE-1",
+    "gageName": "BULSTRODE (RIVIERE) A SAINT-VALERE-1",
     "state": "QC",
     "siteId": "02OD010",
     "longitude": -71.9789,
@@ -253,7 +253,7 @@
   },
   {
     "country": "CA",
-    "name": "BÉCANCOUR (RIVIÈRE) À 6 KM  EN AVAL DU PONT DE L'AUTOROUTE 20",
+    "gageName": "BÉCANCOUR (RIVIÈRE) À 6 KM  EN AVAL DU PONT DE L'AUTOROUTE 20",
     "state": "QC",
     "siteId": "02PL016",
     "longitude": -72.0982,
@@ -262,7 +262,7 @@
   },
   {
     "country": "CA",
-    "name": "CANIAPISCAU (RIVIERE) À 1,0 KM EN AMONT DE LA CHUTE DE LA PYRITE",
+    "gageName": "CANIAPISCAU (RIVIERE) À 1,0 KM EN AMONT DE LA CHUTE DE LA PYRITE",
     "state": "QC",
     "siteId": "03LF002",
     "longitude": -69.2083,
@@ -271,7 +271,7 @@
   },
   {
     "country": "CA",
-    "name": "CAPITACHOUANE (RIVIÈRE) DANS LA ZEC CAPITACHOUANE",
+    "gageName": "CAPITACHOUANE (RIVIÈRE) DANS LA ZEC CAPITACHOUANE",
     "state": "QC",
     "siteId": "02JA006",
     "longitude": -76.7146,
@@ -280,7 +280,7 @@
   },
   {
     "country": "CA",
-    "name": "CASCAPEDIA (PETITE RIVIERE) A SAINT-EDGAR",
+    "gageName": "CASCAPEDIA (PETITE RIVIERE) A SAINT-EDGAR",
     "state": "QC",
     "siteId": "01BG008",
     "longitude": -65.735,
@@ -289,7 +289,7 @@
   },
   {
     "country": "CA",
-    "name": "CASCAPEDIA (RIVIERE) EN AVAL DU RUISSEAU BERRY",
+    "gageName": "CASCAPEDIA (RIVIERE) EN AVAL DU RUISSEAU BERRY",
     "state": "QC",
     "siteId": "01BG005",
     "longitude": -66.1681,
@@ -298,7 +298,7 @@
   },
   {
     "country": "CA",
-    "name": "CHAMPLAIN (LAC) A PHILIPSBURG",
+    "gageName": "CHAMPLAIN (LAC) A PHILIPSBURG",
     "state": "QC",
     "siteId": "02OH001",
     "longitude": -73.0797,
@@ -307,7 +307,7 @@
   },
   {
     "country": "CA",
-    "name": "CHAPLEAU (LAC) AU BARRAGE CHAPLEAU À LA MINERVE",
+    "gageName": "CHAPLEAU (LAC) AU BARRAGE CHAPLEAU À LA MINERVE",
     "state": "QC",
     "siteId": "02LD012",
     "longitude": -74.9468,
@@ -316,7 +316,7 @@
   },
   {
     "country": "CA",
-    "name": "CHATEAUGUAY (RIVIERE) À 2 KM EN AMONT DU PONT-ROUTE 132",
+    "gageName": "CHATEAUGUAY (RIVIERE) À 2 KM EN AMONT DU PONT-ROUTE 132",
     "state": "QC",
     "siteId": "02OA054",
     "longitude": -73.7619,
@@ -325,7 +325,7 @@
   },
   {
     "country": "CA",
-    "name": "CHAUDIERE (RIVIERE) AU PONT-ROUTE 218 À SAINT-LAMBERT-DE-LAUZON",
+    "gageName": "CHAUDIERE (RIVIERE) AU PONT-ROUTE 218 À SAINT-LAMBERT-DE-LAUZON",
     "state": "QC",
     "siteId": "02PJ005",
     "longitude": -71.2164,
@@ -334,7 +334,7 @@
   },
   {
     "country": "CA",
-    "name": "CHAUDIERE (RIVIERE) EN AVAL DU BARRAGE A MEGANTIC",
+    "gageName": "CHAUDIERE (RIVIERE) EN AVAL DU BARRAGE A MEGANTIC",
     "state": "QC",
     "siteId": "02PJ012",
     "longitude": -70.8806,
@@ -343,7 +343,7 @@
   },
   {
     "country": "CA",
-    "name": "CHAUDIERE (RIVIERE) EN AVAL DU BARRAGE SARTIGAN",
+    "gageName": "CHAUDIERE (RIVIERE) EN AVAL DU BARRAGE SARTIGAN",
     "state": "QC",
     "siteId": "02PJ014",
     "longitude": -70.6561,
@@ -352,7 +352,7 @@
   },
   {
     "country": "CA",
-    "name": "CHICOUTIMI (RIVIERE) AU RESERVOIR KENOGAMI",
+    "gageName": "CHICOUTIMI (RIVIERE) AU RESERVOIR KENOGAMI",
     "state": "QC",
     "siteId": "02RH002",
     "longitude": -71.2122,
@@ -361,7 +361,7 @@
   },
   {
     "country": "CA",
-    "name": "CHICOUTIMI (RIVIERE) EN AVAL DU BARRAGE PORTAGE DES ROCHES",
+    "gageName": "CHICOUTIMI (RIVIERE) EN AVAL DU BARRAGE PORTAGE DES ROCHES",
     "state": "QC",
     "siteId": "02RH015",
     "longitude": -71.1944,
@@ -370,7 +370,7 @@
   },
   {
     "country": "CA",
-    "name": "CHÂTEAUGUAY (RIVIÈRE) À HUNTINGDON",
+    "gageName": "CHÂTEAUGUAY (RIVIÈRE) À HUNTINGDON",
     "state": "QC",
     "siteId": "02OA108",
     "longitude": -74.1719,
@@ -379,7 +379,7 @@
   },
   {
     "country": "CA",
-    "name": "COATICOOK (RIVIERE) EN AMONT DU PONT A WATERVILLE",
+    "gageName": "COATICOOK (RIVIERE) EN AMONT DU PONT A WATERVILLE",
     "state": "QC",
     "siteId": "02OE040",
     "longitude": -71.8903,
@@ -388,7 +388,7 @@
   },
   {
     "country": "CA",
-    "name": "COATICOOK (RIVIERE) À 1,3 KM EN AVAL DU PONT-ROUTE 143 À WATERVILLE",
+    "gageName": "COATICOOK (RIVIERE) À 1,3 KM EN AVAL DU PONT-ROUTE 143 À WATERVILLE",
     "state": "QC",
     "siteId": "02OE022",
     "longitude": -71.8994,
@@ -397,7 +397,7 @@
   },
   {
     "country": "CA",
-    "name": "CORNU (LAC) AU BARRAGE-CORNU",
+    "gageName": "CORNU (LAC) AU BARRAGE-CORNU",
     "state": "QC",
     "siteId": "02LC012",
     "longitude": -74.4264,
@@ -406,7 +406,7 @@
   },
   {
     "country": "CA",
-    "name": "CROCHE (RIVIERE) À 2,6 KM EN AVAL DU RUISSEAU CHANGY",
+    "gageName": "CROCHE (RIVIERE) À 2,6 KM EN AVAL DU RUISSEAU CHANGY",
     "state": "QC",
     "siteId": "02NE011",
     "longitude": -72.7367,
@@ -415,7 +415,7 @@
   },
   {
     "country": "CA",
-    "name": "CYRIAC (RIVIERE) A 9KM EN AMONT DE SON EMBOUCHURE",
+    "gageName": "CYRIAC (RIVIERE) A 9KM EN AMONT DE SON EMBOUCHURE",
     "state": "QC",
     "siteId": "02RH066",
     "longitude": -71.2897,
@@ -424,7 +424,7 @@
   },
   {
     "country": "CA",
-    "name": "DARTMOUTH (RIVIERE) EN AMONT DU RUISSEAU DU PAS DE DAME",
+    "gageName": "DARTMOUTH (RIVIERE) EN AMONT DU RUISSEAU DU PAS DE DAME",
     "state": "QC",
     "siteId": "01BH005",
     "longitude": -64.6986,
@@ -433,7 +433,7 @@
   },
   {
     "country": "CA",
-    "name": "DAUPHINE (RIVIERE) À L' ÎLE D'ORLÉANS",
+    "gageName": "DAUPHINE (RIVIERE) À L' ÎLE D'ORLÉANS",
     "state": "QC",
     "siteId": "02PE014",
     "longitude": -70.8564,
@@ -442,7 +442,7 @@
   },
   {
     "country": "CA",
-    "name": "DAVID (RIVIERE) AU PONT-ROUTE À SAINT-DAVID",
+    "gageName": "DAVID (RIVIERE) AU PONT-ROUTE À SAINT-DAVID",
     "state": "QC",
     "siteId": "02OG026",
     "longitude": -72.8594,
@@ -451,7 +451,7 @@
   },
   {
     "country": "CA",
-    "name": "DE LA ROCHE (RIVIÈRE) À SAINT-ARMAND",
+    "gageName": "DE LA ROCHE (RIVIÈRE) À SAINT-ARMAND",
     "state": "QC",
     "siteId": "02OH014",
     "longitude": -73.0162,
@@ -460,7 +460,7 @@
   },
   {
     "country": "CA",
-    "name": "DECHARGE DU LAC CLAIR",
+    "gageName": "DECHARGE DU LAC CLAIR",
     "state": "QC",
     "siteId": "02PC018",
     "longitude": -71.6681,
@@ -469,7 +469,7 @@
   },
   {
     "country": "CA",
-    "name": "DECHARGE DU LAC LUDGER (RUISSEAU) EN AVAL DU BARRAGE LUDGER",
+    "gageName": "DECHARGE DU LAC LUDGER (RUISSEAU) EN AVAL DU BARRAGE LUDGER",
     "state": "QC",
     "siteId": "02LC070",
     "longitude": -74.2764,
@@ -478,7 +478,7 @@
   },
   {
     "country": "CA",
-    "name": "DES ANGLAIS (RIVIÈRE) À SAINT-CHRYSOSTOME",
+    "gageName": "DES ANGLAIS (RIVIÈRE) À SAINT-CHRYSOSTOME",
     "state": "QC",
     "siteId": "02OA111",
     "longitude": -73.7624,
@@ -487,7 +487,7 @@
   },
   {
     "country": "CA",
-    "name": "DES MILLES-ILES (RIVIERE) A L'USINE DE POMPAGE A DEUX-MONTAGNES",
+    "gageName": "DES MILLES-ILES (RIVIERE) A L'USINE DE POMPAGE A DEUX-MONTAGNES",
     "state": "QC",
     "siteId": "02OA102",
     "longitude": -73.8867,
@@ -496,7 +496,7 @@
   },
   {
     "country": "CA",
-    "name": "DEUX MONTAGNES (LAC DES) A POINTE-CALUMET",
+    "gageName": "DEUX MONTAGNES (LAC DES) A POINTE-CALUMET",
     "state": "QC",
     "siteId": "02OA105",
     "longitude": -73.9786,
@@ -505,7 +505,7 @@
   },
   {
     "country": "CA",
-    "name": "DONCASTER (RIVIERE) AU LAC ELEVE",
+    "gageName": "DONCASTER (RIVIERE) AU LAC ELEVE",
     "state": "QC",
     "siteId": "02LC027",
     "longitude": -74.1219,
@@ -514,7 +514,7 @@
   },
   {
     "country": "CA",
-    "name": "DU CHENE (PETITE RIVIÈRE) À 250 M DU PONT-ROUTE 265 A DESCHAILLONS",
+    "gageName": "DU CHENE (PETITE RIVIÈRE) À 250 M DU PONT-ROUTE 265 A DESCHAILLONS",
     "state": "QC",
     "siteId": "02PK009",
     "longitude": -72.0934,
@@ -523,7 +523,7 @@
   },
   {
     "country": "CA",
-    "name": "DU CHÊNE (RIVIERE) À LA PASSERELLE LAUZON SUR LA MONTÉE LAUZON",
+    "gageName": "DU CHÊNE (RIVIERE) À LA PASSERELLE LAUZON SUR LA MONTÉE LAUZON",
     "state": "QC",
     "siteId": "02OA109",
     "longitude": -73.9764,
@@ -532,7 +532,7 @@
   },
   {
     "country": "CA",
-    "name": "DU DIABLE (RIVIÈRE) À 0.1KM EN AMONT DE LA ROUTE 117",
+    "gageName": "DU DIABLE (RIVIÈRE) À 0.1KM EN AMONT DE LA ROUTE 117",
     "state": "QC",
     "siteId": "02LC073",
     "longitude": -74.6014,
@@ -541,7 +541,7 @@
   },
   {
     "country": "CA",
-    "name": "DU MOULIN (RIVIÈRE) EN AMONT DU SEUIL À L'ENTRÉ DU PARC DU MOULIN",
+    "gageName": "DU MOULIN (RIVIÈRE) EN AMONT DU SEUIL À L'ENTRÉ DU PARC DU MOULIN",
     "state": "QC",
     "siteId": "02RH070",
     "longitude": -71.0424,
@@ -550,7 +550,7 @@
   },
   {
     "country": "CA",
-    "name": "DU SUD (RIVIÈRE) À 1,0 KM EN AMONT DU PONT-ROUTE À ARTHURVILLE",
+    "gageName": "DU SUD (RIVIÈRE) À 1,0 KM EN AMONT DU PONT-ROUTE À ARTHURVILLE",
     "state": "QC",
     "siteId": "02PH010",
     "longitude": -70.7569,
@@ -559,7 +559,7 @@
   },
   {
     "country": "CA",
-    "name": "DUMOINE (RIVIERE) A LA SORTIE DU LAC ROBINSON",
+    "gageName": "DUMOINE (RIVIERE) A LA SORTIE DU LAC ROBINSON",
     "state": "QC",
     "siteId": "02KJ004",
     "longitude": -77.8156,
@@ -568,7 +568,7 @@
   },
   {
     "country": "CA",
-    "name": "DÉSERT (RIVIÈRE) SUR LE CHEMIN LYTTON EN AMONT DE LA CHUTE ROUGE",
+    "gageName": "DÉSERT (RIVIÈRE) SUR LE CHEMIN LYTTON EN AMONT DE LA CHUTE ROUGE",
     "state": "QC",
     "siteId": "02LH033",
     "longitude": -76.0414,
@@ -577,7 +577,7 @@
   },
   {
     "country": "CA",
-    "name": "EATON (RIVIERE) PRES DE LA RIVIERE SAINT-FRANCOIS-3",
+    "gageName": "EATON (RIVIERE) PRES DE LA RIVIERE SAINT-FRANCOIS-3",
     "state": "QC",
     "siteId": "02OE027",
     "longitude": -71.6553,
@@ -586,7 +586,7 @@
   },
   {
     "country": "CA",
-    "name": "EAUX VOLEES (RUISSEAU DES) EN AMONT DU CHEMIN DU BELVÉDÈRE",
+    "gageName": "EAUX VOLEES (RUISSEAU DES) EN AMONT DU CHEMIN DU BELVÉDÈRE",
     "state": "QC",
     "siteId": "02PD012",
     "longitude": -71.1614,
@@ -595,7 +595,7 @@
   },
   {
     "country": "CA",
-    "name": "EAUX VOLEES (RUISSEAU DES) PRES DE LA RIVIERE MONTMORENCY",
+    "gageName": "EAUX VOLEES (RUISSEAU DES) PRES DE LA RIVIERE MONTMORENCY",
     "state": "QC",
     "siteId": "02PD013",
     "longitude": -71.1378,
@@ -604,7 +604,7 @@
   },
   {
     "country": "CA",
-    "name": "ECORCES (LAC DES) À MONT-LAURIER",
+    "gageName": "ECORCES (LAC DES) À MONT-LAURIER",
     "state": "QC",
     "siteId": "02LE019",
     "longitude": -75.395,
@@ -613,7 +613,7 @@
   },
   {
     "country": "CA",
-    "name": "ESCOUMINS (RIVIERE DES) À 9,0 KM DE SON EMBOUCHURE",
+    "gageName": "ESCOUMINS (RIVIERE DES) À 9,0 KM DE SON EMBOUCHURE",
     "state": "QC",
     "siteId": "02SC005",
     "longitude": -69.4722,
@@ -622,7 +622,7 @@
   },
   {
     "country": "CA",
-    "name": "ETCHEMIN (RIVIERE) AU PONT-ROUTE 173 À SAINT-HENRI-DE-LÉVIS",
+    "gageName": "ETCHEMIN (RIVIERE) AU PONT-ROUTE 173 À SAINT-HENRI-DE-LÉVIS",
     "state": "QC",
     "siteId": "02PH011",
     "longitude": -71.0689,
@@ -631,7 +631,7 @@
   },
   {
     "country": "CA",
-    "name": "EWING (RIVIÈRE) À SAINT-PIERRE-DE-VÉRONNE-À PIKE-RIVER",
+    "gageName": "EWING (RIVIÈRE) À SAINT-PIERRE-DE-VÉRONNE-À PIKE-RIVER",
     "state": "QC",
     "siteId": "02OH015",
     "longitude": -73.0773,
@@ -640,7 +640,7 @@
   },
   {
     "country": "CA",
-    "name": "FAMINE (RIVIERE) A SAINT-GEORGES",
+    "gageName": "FAMINE (RIVIERE) A SAINT-GEORGES",
     "state": "QC",
     "siteId": "02PJ030",
     "longitude": -70.6397,
@@ -649,7 +649,7 @@
   },
   {
     "country": "CA",
-    "name": "FEUILLES (RIVIERE AUX) EN AMONT DU RUISSEAU DUFREBOY",
+    "gageName": "FEUILLES (RIVIERE AUX) EN AMONT DU RUISSEAU DUFREBOY",
     "state": "QC",
     "siteId": "03JB004",
     "longitude": -71.2825,
@@ -658,7 +658,7 @@
   },
   {
     "country": "CA",
-    "name": "FOURCHUE (RIVIERE) AU RESERVOIR MORIN",
+    "gageName": "FOURCHUE (RIVIERE) AU RESERVOIR MORIN",
     "state": "QC",
     "siteId": "02PG009",
     "longitude": -69.5117,
@@ -667,7 +667,7 @@
   },
   {
     "country": "CA",
-    "name": "FOURCHUE (RIVIERE) À 0,2 KM EN AVAL DU BARRAGE MORIN",
+    "gageName": "FOURCHUE (RIVIERE) À 0,2 KM EN AVAL DU BARRAGE MORIN",
     "state": "QC",
     "siteId": "02PG003",
     "longitude": -69.5128,
@@ -676,7 +676,7 @@
   },
   {
     "country": "CA",
-    "name": "GATINEAU (RIVIERE) AUX RAPIDES CEIZUR",
+    "gageName": "GATINEAU (RIVIERE) AUX RAPIDES CEIZUR",
     "state": "QC",
     "siteId": "02LG005",
     "longitude": -75.7536,
@@ -685,7 +685,7 @@
   },
   {
     "country": "CA",
-    "name": "GEORGE (RIVIERE) À LA SORTIE DU LAC DE LA HUTTE SAUVAGE",
+    "gageName": "GEORGE (RIVIERE) À LA SORTIE DU LAC DE LA HUTTE SAUVAGE",
     "state": "QC",
     "siteId": "03MD001",
     "longitude": -64.8681,
@@ -694,7 +694,7 @@
   },
   {
     "country": "CA",
-    "name": "GODBOUT (RIVIERE) À 1,6 KM EN AMONT DU PONT-ROUTE 138",
+    "gageName": "GODBOUT (RIVIERE) À 1,6 KM EN AMONT DU PONT-ROUTE 138",
     "state": "QC",
     "siteId": "02UA003",
     "longitude": -67.6558,
@@ -703,7 +703,7 @@
   },
   {
     "country": "CA",
-    "name": "GORDON (RUISSEAU) A LA DÉCHARGE DU LAC TEE À KIPAWA",
+    "gageName": "GORDON (RUISSEAU) A LA DÉCHARGE DU LAC TEE À KIPAWA",
     "state": "QC",
     "siteId": "02JE031",
     "longitude": -79.0279,
@@ -712,7 +712,7 @@
   },
   {
     "country": "CA",
-    "name": "HARRICANA (RIVIERE) 3,1 KM EN AVAL DU PONT-ROUTE 111 A AMOS",
+    "gageName": "HARRICANA (RIVIERE) 3,1 KM EN AVAL DU PONT-ROUTE 111 A AMOS",
     "state": "QC",
     "siteId": "04NA001",
     "longitude": -78.1094,
@@ -721,7 +721,7 @@
   },
   {
     "country": "CA",
-    "name": "HURONS (RIVIERE DES) EN AVAL DU RUISSEAU SAINT-LOUIS-2",
+    "gageName": "HURONS (RIVIERE DES) EN AVAL DU RUISSEAU SAINT-LOUIS-2",
     "state": "QC",
     "siteId": "02OJ024",
     "longitude": -73.1869,
@@ -730,7 +730,7 @@
   },
   {
     "country": "CA",
-    "name": "HURONS (RIVIÈRE DES) À STONEHAM",
+    "gageName": "HURONS (RIVIÈRE DES) À STONEHAM",
     "state": "QC",
     "siteId": "02PD024",
     "longitude": -71.3616,
@@ -739,7 +739,7 @@
   },
   {
     "country": "CA",
-    "name": "JACQUES-CARTIER (RIVIERE) EN AVAL DU PONT DU CHEMIN GOSFORD",
+    "gageName": "JACQUES-CARTIER (RIVIERE) EN AVAL DU PONT DU CHEMIN GOSFORD",
     "state": "QC",
     "siteId": "02PC002",
     "longitude": -71.5272,
@@ -748,7 +748,7 @@
   },
   {
     "country": "CA",
-    "name": "KAMOURASKA (RIVIÈRE) AU PONT DU RANG DE L'EMBARRAS",
+    "gageName": "KAMOURASKA (RIVIÈRE) AU PONT DU RANG DE L'EMBARRAS",
     "state": "QC",
     "siteId": "02PG023",
     "longitude": -69.8493,
@@ -757,7 +757,7 @@
   },
   {
     "country": "CA",
-    "name": "KIAMIKA (RIVIERE) A CHUTE-SAINT-PHILIPPE",
+    "gageName": "KIAMIKA (RIVIERE) A CHUTE-SAINT-PHILIPPE",
     "state": "QC",
     "siteId": "02LE025",
     "longitude": -75.2422,
@@ -766,7 +766,7 @@
   },
   {
     "country": "CA",
-    "name": "KIAMIKA (RIVIERE) AU BARRAGE KIAMIKA",
+    "gageName": "KIAMIKA (RIVIERE) AU BARRAGE KIAMIKA",
     "state": "QC",
     "siteId": "02LE017",
     "longitude": -75.1333,
@@ -775,7 +775,7 @@
   },
   {
     "country": "CA",
-    "name": "KINOJEVIS (RIVIERE) A 0,3 KM EN AMONT DU PONT-ROUTE A CLÉRICY",
+    "gageName": "KINOJEVIS (RIVIERE) A 0,3 KM EN AMONT DU PONT-ROUTE A CLÉRICY",
     "state": "QC",
     "siteId": "02JB013",
     "longitude": -78.8533,
@@ -784,7 +784,7 @@
   },
   {
     "country": "CA",
-    "name": "KIPAWA (LAC) A LANIEL",
+    "gageName": "KIPAWA (LAC) A LANIEL",
     "state": "QC",
     "siteId": "02JE017",
     "longitude": -79.2698,
@@ -793,7 +793,7 @@
   },
   {
     "country": "CA",
-    "name": "KIPAWA (LAC) À KIPAWA",
+    "gageName": "KIPAWA (LAC) À KIPAWA",
     "state": "QC",
     "siteId": "02JE030",
     "longitude": -78.9832,
@@ -802,7 +802,7 @@
   },
   {
     "country": "CA",
-    "name": "KIPAWA (RIVIÈRE) À 0.2 KM EN AVAL DU BARRAGE LANIEL",
+    "gageName": "KIPAWA (RIVIÈRE) À 0.2 KM EN AVAL DU BARRAGE LANIEL",
     "state": "QC",
     "siteId": "02JE029",
     "longitude": -79.2731,
@@ -811,7 +811,7 @@
   },
   {
     "country": "CA",
-    "name": "L'ACADIE (RIVIERE) PRES DE L'AUTOROUTE NO. 10",
+    "gageName": "L'ACADIE (RIVIERE) PRES DE L'AUTOROUTE NO. 10",
     "state": "QC",
     "siteId": "02OJ026",
     "longitude": -73.3708,
@@ -820,7 +820,7 @@
   },
   {
     "country": "CA",
-    "name": "L'ASSOMPTION (RIVIERE) AU PONT-ROUTE 158 À JOLIETTE",
+    "gageName": "L'ASSOMPTION (RIVIERE) AU PONT-ROUTE 158 À JOLIETTE",
     "state": "QC",
     "siteId": "02OB008",
     "longitude": -73.4275,
@@ -829,7 +829,7 @@
   },
   {
     "country": "CA",
-    "name": "LA CHEVROTIÈRE (RIVIÈRE) SUR LA ROUTE DU MOULIN",
+    "gageName": "LA CHEVROTIÈRE (RIVIÈRE) SUR LA ROUTE DU MOULIN",
     "state": "QC",
     "siteId": "02PC020",
     "longitude": -72.0013,
@@ -838,7 +838,7 @@
   },
   {
     "country": "CA",
-    "name": "LIEVRE (RIVIERE DU) AU LAC DU POISSON BLANC",
+    "gageName": "LIEVRE (RIVIERE DU) AU LAC DU POISSON BLANC",
     "state": "QC",
     "siteId": "02LF002",
     "longitude": -75.6486,
@@ -847,7 +847,7 @@
   },
   {
     "country": "CA",
-    "name": "LIEVRE (RIVIERE DU) À 2,2 KM EN AMONT DU PONT-ROUTE 311 À LAC-SAINT-PAUL",
+    "gageName": "LIEVRE (RIVIERE DU) À 2,2 KM EN AMONT DU PONT-ROUTE 311 À LAC-SAINT-PAUL",
     "state": "QC",
     "siteId": "02LE024",
     "longitude": -75.3139,
@@ -856,7 +856,7 @@
   },
   {
     "country": "CA",
-    "name": "LOUISE (LAC) À WEEDON",
+    "gageName": "LOUISE (LAC) À WEEDON",
     "state": "QC",
     "siteId": "02OE066",
     "longitude": -71.4217,
@@ -865,7 +865,7 @@
   },
   {
     "country": "CA",
-    "name": "LOUP (RIVIERE DU) A SAINT-JOSEPH-DE-KAMOURASKA",
+    "gageName": "LOUP (RIVIERE DU) A SAINT-JOSEPH-DE-KAMOURASKA",
     "state": "QC",
     "siteId": "02PG006",
     "longitude": -69.6458,
@@ -874,7 +874,7 @@
   },
   {
     "country": "CA",
-    "name": "LOUP (RIVIERE DU) À 0,3 KM EN AVAL DU RUISSEAU CARUFEL",
+    "gageName": "LOUP (RIVIERE DU) À 0,3 KM EN AVAL DU RUISSEAU CARUFEL",
     "state": "QC",
     "siteId": "02OC004",
     "longitude": -73.1864,
@@ -883,7 +883,7 @@
   },
   {
     "country": "CA",
-    "name": "LOUP (RIVIERE DU) À 0,6 KM EN AMONT DU PONT-ROUTE 185",
+    "gageName": "LOUP (RIVIERE DU) À 0,6 KM EN AMONT DU PONT-ROUTE 185",
     "state": "QC",
     "siteId": "02PG001",
     "longitude": -69.5206,
@@ -892,7 +892,7 @@
   },
   {
     "country": "CA",
-    "name": "LOUPS MARINS (LAC DES) DANS LE BASSIN VERSANT DE LA RIVIÈRE NASTAPOCA",
+    "gageName": "LOUPS MARINS (LAC DES) DANS LE BASSIN VERSANT DE LA RIVIÈRE NASTAPOCA",
     "state": "QC",
     "siteId": "03FA003",
     "longitude": -74.2314,
@@ -901,7 +901,7 @@
   },
   {
     "country": "CA",
-    "name": "LUDGER (LAC) AU BARRAGE LUDGER",
+    "gageName": "LUDGER (LAC) AU BARRAGE LUDGER",
     "state": "QC",
     "siteId": "02LC010",
     "longitude": -74.2764,
@@ -910,7 +910,7 @@
   },
   {
     "country": "CA",
-    "name": "LYSTER (LAC) AU BARRAGE À COATICOOK",
+    "gageName": "LYSTER (LAC) AU BARRAGE À COATICOOK",
     "state": "QC",
     "siteId": "02OE073",
     "longitude": -71.9118,
@@ -919,7 +919,7 @@
   },
   {
     "country": "CA",
-    "name": "MACAMIC (LAC) A MACAMIC",
+    "gageName": "MACAMIC (LAC) A MACAMIC",
     "state": "QC",
     "siteId": "04MA001",
     "longitude": -79.0125,
@@ -928,7 +928,7 @@
   },
   {
     "country": "CA",
-    "name": "MADAWASKA (RIVIÈRE) À 6 KM EN AVAL DU BARRAGE TÉMISCOUATA",
+    "gageName": "MADAWASKA (RIVIÈRE) À 6 KM EN AVAL DU BARRAGE TÉMISCOUATA",
     "state": "QC",
     "siteId": "01AD015",
     "longitude": -68.5918,
@@ -937,7 +937,7 @@
   },
   {
     "country": "CA",
-    "name": "MAGPIE (RIVIERE) A LA SORTIE DU LAC MAGPIE",
+    "gageName": "MAGPIE (RIVIERE) A LA SORTIE DU LAC MAGPIE",
     "state": "QC",
     "siteId": "02VB004",
     "longitude": -64.5808,
@@ -946,7 +946,7 @@
   },
   {
     "country": "CA",
-    "name": "MALBAIE (RIVIERE) A CLERMONT",
+    "gageName": "MALBAIE (RIVIERE) A CLERMONT",
     "state": "QC",
     "siteId": "02PF001",
     "longitude": -70.2169,
@@ -955,7 +955,7 @@
   },
   {
     "country": "CA",
-    "name": "MANITOU (LAC) AU BARRAGE MANITOU",
+    "gageName": "MANITOU (LAC) AU BARRAGE MANITOU",
     "state": "QC",
     "siteId": "02LC013",
     "longitude": -74.3372,
@@ -964,7 +964,7 @@
   },
   {
     "country": "CA",
-    "name": "MASKINONGE (LAC) A SAINT GABRIEL DE BRANDON",
+    "gageName": "MASKINONGE (LAC) A SAINT GABRIEL DE BRANDON",
     "state": "QC",
     "siteId": "02OC007",
     "longitude": -73.3917,
@@ -973,7 +973,7 @@
   },
   {
     "country": "CA",
-    "name": "MASKINONGE (RIVIERE) AU BARRAGE DE SAINT-DIDACE",
+    "gageName": "MASKINONGE (RIVIERE) AU BARRAGE DE SAINT-DIDACE",
     "state": "QC",
     "siteId": "02OC006",
     "longitude": -73.2778,
@@ -982,7 +982,7 @@
   },
   {
     "country": "CA",
-    "name": "MASKINONGE (RIVIERE) AU PONT DU C.N. PRÈS DE SAINTE-URSULE",
+    "gageName": "MASKINONGE (RIVIERE) AU PONT DU C.N. PRÈS DE SAINTE-URSULE",
     "state": "QC",
     "siteId": "02OC002",
     "longitude": -73.0967,
@@ -991,7 +991,7 @@
   },
   {
     "country": "CA",
-    "name": "MASSAWAPPI (RIVIERE) À 1,6 KM EN AVAL DU LAC MASSAWIPPI",
+    "gageName": "MASSAWAPPI (RIVIERE) À 1,6 KM EN AVAL DU LAC MASSAWIPPI",
     "state": "QC",
     "siteId": "02OE019",
     "longitude": -71.9625,
@@ -1000,7 +1000,7 @@
   },
   {
     "country": "CA",
-    "name": "MASSAWIPPI (LAC) A NORTH HATLEY",
+    "gageName": "MASSAWIPPI (LAC) A NORTH HATLEY",
     "state": "QC",
     "siteId": "02OE045",
     "longitude": -71.9742,
@@ -1009,7 +1009,7 @@
   },
   {
     "country": "CA",
-    "name": "MASSON (LAC) AU BARRAGE MASSON",
+    "gageName": "MASSON (LAC) AU BARRAGE MASSON",
     "state": "QC",
     "siteId": "02LC009",
     "longitude": -74.0564,
@@ -1018,7 +1018,7 @@
   },
   {
     "country": "CA",
-    "name": "MASTIGOUCHE (RIVIERE) EN AVAL DU LAC SAINTE-ROSE",
+    "gageName": "MASTIGOUCHE (RIVIERE) EN AVAL DU LAC SAINTE-ROSE",
     "state": "QC",
     "siteId": "02OC021",
     "longitude": -73.4617,
@@ -1027,7 +1027,7 @@
   },
   {
     "country": "CA",
-    "name": "MATANE (RIVIERE) AU BARRAGE MATHIEU-D'AMOURS",
+    "gageName": "MATANE (RIVIERE) AU BARRAGE MATHIEU-D'AMOURS",
     "state": "QC",
     "siteId": "02QB008",
     "longitude": -67.5311,
@@ -1036,7 +1036,7 @@
   },
   {
     "country": "CA",
-    "name": "MATANE (RIVIERE) À 8,5 KM EN AMONT DU PONT-ROUTE 132 À MATANE",
+    "gageName": "MATANE (RIVIERE) À 8,5 KM EN AMONT DU PONT-ROUTE 132 À MATANE",
     "state": "QC",
     "siteId": "02QB001",
     "longitude": -67.5419,
@@ -1045,7 +1045,7 @@
   },
   {
     "country": "CA",
-    "name": "MATAPEDIA (RIVIERE) A 4 KM EN AMONT DE L'ASSEMETQUAGAN",
+    "gageName": "MATAPEDIA (RIVIERE) A 4 KM EN AMONT DE L'ASSEMETQUAGAN",
     "state": "QC",
     "siteId": "01BD009",
     "longitude": -67.1302,
@@ -1054,7 +1054,7 @@
   },
   {
     "country": "CA",
-    "name": "MATAPEDIA (RIVIERE) PRES DE AMQUI",
+    "gageName": "MATAPEDIA (RIVIERE) PRES DE AMQUI",
     "state": "QC",
     "siteId": "01BD008",
     "longitude": -67.45,
@@ -1063,7 +1063,7 @@
   },
   {
     "country": "CA",
-    "name": "MATAWIN (RIVIERE) A SAINT-MICHEL-DES-SAINTS",
+    "gageName": "MATAWIN (RIVIERE) A SAINT-MICHEL-DES-SAINTS",
     "state": "QC",
     "siteId": "02NF003",
     "longitude": -73.9142,
@@ -1072,7 +1072,7 @@
   },
   {
     "country": "CA",
-    "name": "MEGANTIC (LAC) A MEGANTIC",
+    "gageName": "MEGANTIC (LAC) A MEGANTIC",
     "state": "QC",
     "siteId": "02PJ001",
     "longitude": -70.885,
@@ -1081,7 +1081,7 @@
   },
   {
     "country": "CA",
-    "name": "MELEZES (RIVIERE AUX) À 7,6 KM EN AMONT DE LA CONFLUENCE AVEC LA KOKSOAK",
+    "gageName": "MELEZES (RIVIERE AUX) À 7,6 KM EN AMONT DE LA CONFLUENCE AVEC LA KOKSOAK",
     "state": "QC",
     "siteId": "03KC004",
     "longitude": -69.5908,
@@ -1090,7 +1090,7 @@
   },
   {
     "country": "CA",
-    "name": "MEMPHREMAGOG (LAC) A MAGOG",
+    "gageName": "MEMPHREMAGOG (LAC) A MAGOG",
     "state": "QC",
     "siteId": "02OE012",
     "longitude": -72.1615,
@@ -1099,7 +1099,7 @@
   },
   {
     "country": "CA",
-    "name": "METABETCHOUANE (RIVIERE) EN AMONT DE LA CENTRALE S.R.P.C.",
+    "gageName": "METABETCHOUANE (RIVIERE) EN AMONT DE LA CENTRALE S.R.P.C.",
     "state": "QC",
     "siteId": "02RG005",
     "longitude": -71.9936,
@@ -1108,7 +1108,7 @@
   },
   {
     "country": "CA",
-    "name": "MILLE ILES (RIVIERE DES) A BOIS-DES-FILION",
+    "gageName": "MILLE ILES (RIVIERE DES) A BOIS-DES-FILION",
     "state": "QC",
     "siteId": "02OA003",
     "longitude": -73.7522,
@@ -1117,7 +1117,7 @@
   },
   {
     "country": "CA",
-    "name": "MILLE ÎLES (RIVIÈRE DES) À BARRAGE DU GRAND-MOULIN ",
+    "gageName": "MILLE ÎLES (RIVIÈRE DES) À BARRAGE DU GRAND-MOULIN ",
     "state": "QC",
     "siteId": "02OA094",
     "longitude": -73.8824,
@@ -1126,7 +1126,7 @@
   },
   {
     "country": "CA",
-    "name": "MILLE-ILES (RIVIERE DES) AU BARRAGE DE TERREBONNE",
+    "gageName": "MILLE-ILES (RIVIERE DES) AU BARRAGE DE TERREBONNE",
     "state": "QC",
     "siteId": "02OA088",
     "longitude": -73.6494,
@@ -1135,7 +1135,7 @@
   },
   {
     "country": "CA",
-    "name": "MILLE-ÎLES (RIVIÈRE DES)  EN AVAL DU BARRAGE GRAND-MOULIN À DEUX-MONTAGNES",
+    "gageName": "MILLE-ÎLES (RIVIÈRE DES)  EN AVAL DU BARRAGE GRAND-MOULIN À DEUX-MONTAGNES",
     "state": "QC",
     "siteId": "02OA095",
     "longitude": -73.8824,
@@ -1144,7 +1144,7 @@
   },
   {
     "country": "CA",
-    "name": "MISTASSIBI (RIVIÈRE) EN AMONT DE LA CHUTE BOUCHARD",
+    "gageName": "MISTASSIBI (RIVIÈRE) EN AMONT DE LA CHUTE BOUCHARD",
     "state": "QC",
     "siteId": "02RD007",
     "longitude": -72.1726,
@@ -1153,7 +1153,7 @@
   },
   {
     "country": "CA",
-    "name": "MISTASSINI (RIVIERE) EN AMONT DE LA RIVIERE MISTASSIBI",
+    "gageName": "MISTASSINI (RIVIERE) EN AMONT DE LA RIVIERE MISTASSIBI",
     "state": "QC",
     "siteId": "02RD003",
     "longitude": -72.2636,
@@ -1162,7 +1162,7 @@
   },
   {
     "country": "CA",
-    "name": "MITCHINAMECUS (RIVIERE) AU RESERVOIR MITCHINAMECUS",
+    "gageName": "MITCHIgageNameCUS (RIVIERE) AU RESERVOIR MITCHIgageNameCUS",
     "state": "QC",
     "siteId": "02LE014",
     "longitude": -75.1772,
@@ -1171,7 +1171,7 @@
   },
   {
     "country": "CA",
-    "name": "MITCHINAMECUS (RIVIERE) À LA TÊTE DE LA CHUTE RASCAS",
+    "gageName": "MITCHIgageNameCUS (RIVIERE) À LA TÊTE DE LA CHUTE RASCAS",
     "state": "QC",
     "siteId": "02LE013",
     "longitude": -75.1436,
@@ -1180,7 +1180,7 @@
   },
   {
     "country": "CA",
-    "name": "MOISIE (RIVIERE) À 5,1 KM EN AMONT DU PONT DU Q.N.S.L.R.",
+    "gageName": "MOISIE (RIVIERE) À 5,1 KM EN AMONT DU PONT DU Q.N.S.L.R.",
     "state": "QC",
     "siteId": "02UC002",
     "longitude": -66.1903,
@@ -1189,7 +1189,7 @@
   },
   {
     "country": "CA",
-    "name": "MONTMORENCY (RIVIERE) EN AMONT DE LA RIVIERE BLANCHE",
+    "gageName": "MONTMORENCY (RIVIERE) EN AMONT DE LA RIVIERE BLANCHE",
     "state": "QC",
     "siteId": "02PD004",
     "longitude": -71.1369,
@@ -1198,7 +1198,7 @@
   },
   {
     "country": "CA",
-    "name": "MONTMORENCY (RIVIERE) À 0,6 KM EN AVAL DU BARRAGE DES MARCHES NATURELLES",
+    "gageName": "MONTMORENCY (RIVIERE) À 0,6 KM EN AVAL DU BARRAGE DES MARCHES NATURELLES",
     "state": "QC",
     "siteId": "02PD002",
     "longitude": -71.1514,
@@ -1207,7 +1207,7 @@
   },
   {
     "country": "CA",
-    "name": "MORPIONS (RIVIÈRE) À 3,1 KM EN AMONT DE LA RIVIÈRE AUX BROCHETS",
+    "gageName": "MORPIONS (RIVIÈRE) À 3,1 KM EN AMONT DE LA RIVIÈRE AUX BROCHETS",
     "state": "QC",
     "siteId": "02OH012",
     "longitude": -73.0328,
@@ -1216,7 +1216,7 @@
   },
   {
     "country": "CA",
-    "name": "MULETS (RIVIERE AUX) AU BARRAGE THEODORE",
+    "gageName": "MULETS (RIVIERE AUX) AU BARRAGE THEODORE",
     "state": "QC",
     "siteId": "02LC017",
     "longitude": -74.2472,
@@ -1225,7 +1225,7 @@
   },
   {
     "country": "CA",
-    "name": "NATASHQUAN (RIVIERE) À 0,6 KM EN AVAL DE LA DÉCHARGE DU LAC ALIESTE",
+    "gageName": "NATASHQUAN (RIVIERE) À 0,6 KM EN AVAL DE LA DÉCHARGE DU LAC ALIESTE",
     "state": "QC",
     "siteId": "02WB003",
     "longitude": -61.7136,
@@ -1234,7 +1234,7 @@
   },
   {
     "country": "CA",
-    "name": "NEIGETTE (PETITE RIVIÈRE) À 0,5 KM EN AVAL  DU LAC À LA PEINTURE",
+    "gageName": "NEIGETTE (PETITE RIVIÈRE) À 0,5 KM EN AVAL  DU LAC À LA PEINTURE",
     "state": "QC",
     "siteId": "02QA036",
     "longitude": -68.3561,
@@ -1243,7 +1243,7 @@
   },
   {
     "country": "CA",
-    "name": "NELSON (RIVIÈRE) A VAL-BÉLAIR À QUÉBEC",
+    "gageName": "NELSON (RIVIÈRE) A VAL-BÉLAIR À QUÉBEC",
     "state": "QC",
     "siteId": "02PD023",
     "longitude": -71.425,
@@ -1252,7 +1252,7 @@
   },
   {
     "country": "CA",
-    "name": "NICOLET (RIVIERE) À 5,8 KM EN AVAL DE LA RIVIERE BULSTRODE",
+    "gageName": "NICOLET (RIVIERE) À 5,8 KM EN AVAL DE LA RIVIERE BULSTRODE",
     "state": "QC",
     "siteId": "02OD003",
     "longitude": -72.3064,
@@ -1261,7 +1261,7 @@
   },
   {
     "country": "CA",
-    "name": "NICOLET SUD-OUEST (RIVIERE) PRES D'ASBESTOS",
+    "gageName": "NICOLET SUD-OUEST (RIVIERE) PRES D'ASBESTOS",
     "state": "QC",
     "siteId": "02OD001",
     "longitude": -71.9692,
@@ -1270,7 +1270,7 @@
   },
   {
     "country": "CA",
-    "name": "NOIRE (RIVIERE) A SAINTE EMELIE DE L'ENERGIE",
+    "gageName": "NOIRE (RIVIERE) A SAINTE EMELIE DE L'ENERGIE",
     "state": "QC",
     "siteId": "02OB032",
     "longitude": -73.6519,
@@ -1279,7 +1279,7 @@
   },
   {
     "country": "CA",
-    "name": "NOIRE (RIVIERE) À 7,6 KM DE LA YAMASKA",
+    "gageName": "NOIRE (RIVIERE) À 7,6 KM DE LA YAMASKA",
     "state": "QC",
     "siteId": "02OG019",
     "longitude": -72.9064,
@@ -1288,7 +1288,7 @@
   },
   {
     "country": "CA",
-    "name": "NOIRE (RIVIÈRE) À L'ARTIFICE",
+    "gageName": "NOIRE (RIVIÈRE) À L'ARTIFICE",
     "state": "QC",
     "siteId": "02OA110",
     "longitude": -73.85,
@@ -1297,7 +1297,7 @@
   },
   {
     "country": "CA",
-    "name": "NORD (RIVIER DU) AU BARRAGE BRULE",
+    "gageName": "NORD (RIVIER DU) AU BARRAGE BRULE",
     "state": "QC",
     "siteId": "02LC015",
     "longitude": -74.2819,
@@ -1306,7 +1306,7 @@
   },
   {
     "country": "CA",
-    "name": "NORD (RIVIERE DU) A 4,8 KM EN AMONT DU PONT DU C.N. A SAINT-JEROME",
+    "gageName": "NORD (RIVIERE DU) A 4,8 KM EN AMONT DU PONT DU C.N. A SAINT-JEROME",
     "state": "QC",
     "siteId": "02LC008",
     "longitude": -74.0128,
@@ -1315,7 +1315,7 @@
   },
   {
     "country": "CA",
-    "name": "NORD (RIVIERE DU) AU BARRAGE DE LA MONTAGNE NOIRE  À LANTIER",
+    "gageName": "NORD (RIVIERE DU) AU BARRAGE DE LA MONTAGNE NOIRE  À LANTIER",
     "state": "QC",
     "siteId": "02LC011",
     "longitude": -74.2772,
@@ -1324,7 +1324,7 @@
   },
   {
     "country": "CA",
-    "name": "NORD (RIVIERE DU) PRES DE SAINT-AGATHE",
+    "gageName": "NORD (RIVIERE DU) PRES DE SAINT-AGATHE",
     "state": "QC",
     "siteId": "02LC021",
     "longitude": -74.2528,
@@ -1333,7 +1333,7 @@
   },
   {
     "country": "CA",
-    "name": "NOUVELLE (RIVIÈRE) A 0,2 KM EN AMONT DU PONT-ROUTE 132 A NOUVELLE",
+    "gageName": "NOUVELLE (RIVIÈRE) A 0,2 KM EN AMONT DU PONT-ROUTE 132 A NOUVELLE",
     "state": "QC",
     "siteId": "01BF004",
     "longitude": -66.3488,
@@ -1342,7 +1342,7 @@
   },
   {
     "country": "CA",
-    "name": "ONTARITZI (RIVIÈRE) À 0,2 KM EN AVAL DU BARRAGE DU LAC SAINT-JOSEPH",
+    "gageName": "ONTARITZI (RIVIÈRE) À 0,2 KM EN AVAL DU BARRAGE DU LAC SAINT-JOSEPH",
     "state": "QC",
     "siteId": "02PC010",
     "longitude": -71.6394,
@@ -1351,7 +1351,7 @@
   },
   {
     "country": "CA",
-    "name": "OUAREAU (RIVIERE) AUX CHUTES DORWIN",
+    "gageName": "OUAREAU (RIVIERE) AUX CHUTES DORWIN",
     "state": "QC",
     "siteId": "02OB017",
     "longitude": -73.7053,
@@ -1360,7 +1360,7 @@
   },
   {
     "country": "CA",
-    "name": "OUELLE (RIVIERE) PRES DE SAINT-GABRIEL-DE-KAMOURASKA",
+    "gageName": "OUELLE (RIVIERE) PRES DE SAINT-GABRIEL-DE-KAMOURASKA",
     "state": "QC",
     "siteId": "02PG022",
     "longitude": -69.9581,
@@ -1369,7 +1369,7 @@
   },
   {
     "country": "CA",
-    "name": "OUIATCHOUANE (RIVIERE) AU RESERVOIR DES COMMISSAIRES",
+    "gageName": "OUIATCHOUANE (RIVIERE) AU RESERVOIR DES COMMISSAIRES",
     "state": "QC",
     "siteId": "02RG007",
     "longitude": -72.2431,
@@ -1378,7 +1378,7 @@
   },
   {
     "country": "CA",
-    "name": "OUIATCHOUANE (RIVIERE) EN AVAL DU BARRAGE DE LAC DES COMMISSAIRES",
+    "gageName": "OUIATCHOUANE (RIVIERE) EN AVAL DU BARRAGE DE LAC DES COMMISSAIRES",
     "state": "QC",
     "siteId": "02RG008",
     "longitude": -72.2389,
@@ -1387,7 +1387,7 @@
   },
   {
     "country": "CA",
-    "name": "OUTAOUAIS (RIVIERE DES) A HULL",
+    "gageName": "OUTAOUAIS (RIVIERE DES) A HULL",
     "state": "QC",
     "siteId": "02LA015",
     "longitude": -75.7062,
@@ -1396,7 +1396,7 @@
   },
   {
     "country": "CA",
-    "name": "OUTAOUAIS (RIVIERE DES) A LA MARINA DE SAINTE-ANNE-DE-BELLEVUE",
+    "gageName": "OUTAOUAIS (RIVIERE DES) A LA MARINA DE SAINTE-ANNE-DE-BELLEVUE",
     "state": "QC",
     "siteId": "02OA033",
     "longitude": -73.9488,
@@ -1405,7 +1405,7 @@
   },
   {
     "country": "CA",
-    "name": "OUTAOUAIS (RIVIERE DES) A LA SORTIE DU LAC GRANET",
+    "gageName": "OUTAOUAIS (RIVIERE DES) A LA SORTIE DU LAC GRANET",
     "state": "QC",
     "siteId": "02JB009",
     "longitude": -77.5489,
@@ -1414,7 +1414,7 @@
   },
   {
     "country": "CA",
-    "name": "OUTAOUAIS (RIVIERE DES) A SAINTE-ANNE-DE-BELLEVUE",
+    "gageName": "OUTAOUAIS (RIVIERE DES) A SAINTE-ANNE-DE-BELLEVUE",
     "state": "QC",
     "siteId": "02OA013",
     "longitude": -73.9566,
@@ -1423,7 +1423,7 @@
   },
   {
     "country": "CA",
-    "name": "OUTAOUAIS (RIVIERE DES) A TERRASSE-VAUDREUIL",
+    "gageName": "OUTAOUAIS (RIVIERE DES) A TERRASSE-VAUDREUIL",
     "state": "QC",
     "siteId": "02OA107",
     "longitude": -73.9981,
@@ -1432,7 +1432,7 @@
   },
   {
     "country": "CA",
-    "name": "PAPINEAU (LAC) AU BARRAGE PAPINEAU À SAINTE-AGATHE-DES-MONTS",
+    "gageName": "PAPINEAU (LAC) AU BARRAGE PAPINEAU À SAINTE-AGATHE-DES-MONTS",
     "state": "QC",
     "siteId": "02LC014",
     "longitude": -74.2942,
@@ -1441,7 +1441,7 @@
   },
   {
     "country": "CA",
-    "name": "PERIBONCA (PETITE RIVIERE)",
+    "gageName": "PERIBONCA (PETITE RIVIERE)",
     "state": "QC",
     "siteId": "02RC011",
     "longitude": -72.0478,
@@ -1450,7 +1450,7 @@
   },
   {
     "country": "CA",
-    "name": "PETIT MECATINA (RIVIERE DU) À 1,0 KM EN AMONT DE LA NÉTAGAMIOU",
+    "gageName": "PETIT MECATINA (RIVIERE DU) À 1,0 KM EN AMONT DE LA NÉTAGAMIOU",
     "state": "QC",
     "siteId": "02XA008",
     "longitude": -59.5889,
@@ -1459,7 +1459,7 @@
   },
   {
     "country": "CA",
-    "name": "PETIT SAGUENAY (RIVIERE) A 1 KM DU RUISSEAU DECHARGE DU LAC DAVID",
+    "gageName": "PETIT SAGUENAY (RIVIERE) A 1 KM DU RUISSEAU DECHARGE DU LAC DAVID",
     "state": "QC",
     "siteId": "02RH067",
     "longitude": -70.0292,
@@ -1468,7 +1468,7 @@
   },
   {
     "country": "CA",
-    "name": "PETITE NATION (RIVIERE DE LA) AU PONT À 1,6 KM EN AMONT DE RIPON",
+    "gageName": "PETITE NATION (RIVIERE DE LA) AU PONT À 1,6 KM EN AMONT DE RIPON",
     "state": "QC",
     "siteId": "02LD005",
     "longitude": -75.0914,
@@ -1477,7 +1477,7 @@
   },
   {
     "country": "CA",
-    "name": "PICANOC (RIVIÈRE) SUR LE CHEMIN DU CAYAMAN À GRACEFIELD",
+    "gageName": "PICANOC (RIVIÈRE) SUR LE CHEMIN DU CAYAMAN À GRACEFIELD",
     "state": "QC",
     "siteId": "02LH032",
     "longitude": -76.0694,
@@ -1486,7 +1486,7 @@
   },
   {
     "country": "CA",
-    "name": "PIKAUBA (RIVIERE) EN AMONT DE LA RIVIERE APICA",
+    "gageName": "PIKAUBA (RIVIERE) EN AMONT DE LA RIVIERE APICA",
     "state": "QC",
     "siteId": "02RH027",
     "longitude": -71.3819,
@@ -1495,7 +1495,7 @@
   },
   {
     "country": "CA",
-    "name": "PIKAUBA (RIVIÈRE) À 3,6 KM DE L'EMBOUCHURE",
+    "gageName": "PIKAUBA (RIVIÈRE) À 3,6 KM DE L'EMBOUCHURE",
     "state": "QC",
     "siteId": "02RH071",
     "longitude": -71.4406,
@@ -1504,7 +1504,7 @@
   },
   {
     "country": "CA",
-    "name": "PILES (LAC DES) À 50 MÈTRES EN AMONT DU BARRAGE",
+    "gageName": "PILES (LAC DES) À 50 MÈTRES EN AMONT DU BARRAGE",
     "state": "QC",
     "siteId": "02NG019",
     "longitude": -72.7741,
@@ -1513,7 +1513,7 @@
   },
   {
     "country": "CA",
-    "name": "PINS (RIVIERE AUX) AU LAC SAINT-JOSEPH",
+    "gageName": "PINS (RIVIERE AUX) AU LAC SAINT-JOSEPH",
     "state": "QC",
     "siteId": "02PC011",
     "longitude": -71.6408,
@@ -1522,7 +1522,7 @@
   },
   {
     "country": "CA",
-    "name": "PONTAX (RIVIERE) À 60,4 KM DE L'EMBOUCHURE",
+    "gageName": "PONTAX (RIVIERE) À 60,4 KM DE L'EMBOUCHURE",
     "state": "QC",
     "siteId": "03BF001",
     "longitude": -78.0967,
@@ -1531,7 +1531,7 @@
   },
   {
     "country": "CA",
-    "name": "PORTNEUF (RIVIÈRE) À 7,5 KM DE SON EMBOUCHURE",
+    "gageName": "PORTNEUF (RIVIÈRE) À 7,5 KM DE SON EMBOUCHURE",
     "state": "QC",
     "siteId": "02PC017",
     "longitude": -71.841,
@@ -1540,7 +1540,7 @@
   },
   {
     "country": "CA",
-    "name": "PRAIRIES (RIVIERE DES) AU RAPIDE DU CHEVAL BLANC",
+    "gageName": "PRAIRIES (RIVIERE DES) AU RAPIDE DU CHEVAL BLANC",
     "state": "QC",
     "siteId": "02OA004",
     "longitude": -73.8425,
@@ -1549,7 +1549,7 @@
   },
   {
     "country": "CA",
-    "name": "QUINZE (LAC DES) A ANGLIERS",
+    "gageName": "QUINZE (LAC DES) A ANGLIERS",
     "state": "QC",
     "siteId": "02JB017",
     "longitude": -79.2355,
@@ -1558,7 +1558,7 @@
   },
   {
     "country": "CA",
-    "name": "QUINZE (LAC DES) A LA POINTE DU PIN ROUGE",
+    "gageName": "QUINZE (LAC DES) A LA POINTE DU PIN ROUGE",
     "state": "QC",
     "siteId": "02JB011",
     "longitude": -79.1745,
@@ -1567,7 +1567,7 @@
   },
   {
     "country": "CA",
-    "name": "RICHELIEU (RIVIERE) A LA MARINA DE SAINT-JEAN",
+    "gageName": "RICHELIEU (RIVIERE) A LA MARINA DE SAINT-JEAN",
     "state": "QC",
     "siteId": "02OJ016",
     "longitude": -73.2501,
@@ -1576,7 +1576,7 @@
   },
   {
     "country": "CA",
-    "name": "RICHELIEU (RIVIERE) AUX RAPIDES FRYERS",
+    "gageName": "RICHELIEU (RIVIERE) AUX RAPIDES FRYERS",
     "state": "QC",
     "siteId": "02OJ007",
     "longitude": -73.2584,
@@ -1585,7 +1585,7 @@
   },
   {
     "country": "CA",
-    "name": "RIMOUSKI (RIVIERE) À 3,7 KM EN AMONT DU PONT-ROUTE 132",
+    "gageName": "RIMOUSKI (RIVIERE) À 3,7 KM EN AMONT DU PONT-ROUTE 132",
     "state": "QC",
     "siteId": "02QA002",
     "longitude": -68.5561,
@@ -1594,7 +1594,7 @@
   },
   {
     "country": "CA",
-    "name": "ROUGE (RIVIERE) EN AMONT DE LA CHUTE MCNEIL",
+    "gageName": "ROUGE (RIVIERE) EN AMONT DE LA CHUTE MCNEIL",
     "state": "QC",
     "siteId": "02LC029",
     "longitude": -74.6897,
@@ -1603,7 +1603,7 @@
   },
   {
     "country": "CA",
-    "name": "ROUGE (RIVIÈRE) EN AMONT DU PONCEAU SUR LA ROUTE 373",
+    "gageName": "ROUGE (RIVIÈRE) EN AMONT DU PONCEAU SUR LA ROUTE 373",
     "state": "QC",
     "siteId": "02RF010",
     "longitude": -72.492,
@@ -1612,7 +1612,7 @@
   },
   {
     "country": "CA",
-    "name": "SABLES (LAC DES) AU BARRAGE DES SABLES",
+    "gageName": "SABLES (LAC DES) AU BARRAGE DES SABLES",
     "state": "QC",
     "siteId": "02LC016",
     "longitude": -74.3092,
@@ -1621,7 +1621,7 @@
   },
   {
     "country": "CA",
-    "name": "SABLES (RIVIERE AUX) AU RESERVOIR KENOGAMI",
+    "gageName": "SABLES (RIVIERE AUX) AU RESERVOIR KENOGAMI",
     "state": "QC",
     "siteId": "02RH014",
     "longitude": -71.2769,
@@ -1630,7 +1630,7 @@
   },
   {
     "country": "CA",
-    "name": "SABLES (RIVIÈRE AUX) À SAGUENAY",
+    "gageName": "SABLES (RIVIÈRE AUX) À SAGUENAY",
     "state": "QC",
     "siteId": "02RH072",
     "longitude": -71.2844,
@@ -1639,7 +1639,7 @@
   },
   {
     "country": "CA",
-    "name": "SAINT-CHARLES (RIVIERE) À 0,8 KM  EN AMONT DE LA RIVIERE LORETTE",
+    "gageName": "SAINT-CHARLES (RIVIERE) À 0,8 KM  EN AMONT DE LA RIVIERE LORETTE",
     "state": "QC",
     "siteId": "02PD010",
     "longitude": -71.3175,
@@ -1648,7 +1648,7 @@
   },
   {
     "country": "CA",
-    "name": "SAINT-FRANCOIS (RIVIERE) A SHERBROOKE",
+    "gageName": "SAINT-FRANCOIS (RIVIERE) A SHERBROOKE",
     "state": "QC",
     "siteId": "02OE005",
     "longitude": -71.8872,
@@ -1657,7 +1657,7 @@
   },
   {
     "country": "CA",
-    "name": "SAINT-FRANCOIS (RIVIERE) AU RESERVOIR AYLMER A WEEDON",
+    "gageName": "SAINT-FRANCOIS (RIVIERE) AU RESERVOIR AYLMER A WEEDON",
     "state": "QC",
     "siteId": "02OE025",
     "longitude": -71.4064,
@@ -1666,7 +1666,7 @@
   },
   {
     "country": "CA",
-    "name": "SAINT-FRANCOIS (RIVIERE) AU RESERVOIR SAINT-FRANCOIS",
+    "gageName": "SAINT-FRANCOIS (RIVIERE) AU RESERVOIR SAINT-FRANCOIS",
     "state": "QC",
     "siteId": "02OE024",
     "longitude": -71.2783,
@@ -1675,7 +1675,7 @@
   },
   {
     "country": "CA",
-    "name": "SAINT-FRANCOIS (RIVIERE) À 0,1 KM EN AVAL DU BARRAGE AYLMER",
+    "gageName": "SAINT-FRANCOIS (RIVIERE) À 0,1 KM EN AVAL DU BARRAGE AYLMER",
     "state": "QC",
     "siteId": "02OE070",
     "longitude": -71.4069,
@@ -1684,7 +1684,7 @@
   },
   {
     "country": "CA",
-    "name": "SAINT-FRANCOIS (RIVIERE) À 0,5 KM EN AVAL DE LA CENTRALE WEEDON",
+    "gageName": "SAINT-FRANCOIS (RIVIERE) À 0,5 KM EN AVAL DE LA CENTRALE WEEDON",
     "state": "QC",
     "siteId": "02OE062",
     "longitude": -71.4686,
@@ -1693,7 +1693,7 @@
   },
   {
     "country": "CA",
-    "name": "SAINT-FRANCOIS (RIVIERE) À 0,6 KM EN AVAL DU BARRAGE JULES-ALLARD",
+    "gageName": "SAINT-FRANCOIS (RIVIERE) À 0,6 KM EN AVAL DU BARRAGE JULES-ALLARD",
     "state": "QC",
     "siteId": "02OE001",
     "longitude": -71.2811,
@@ -1702,7 +1702,7 @@
   },
   {
     "country": "CA",
-    "name": "SAINT-JEAN (LAC) À ROBERVAL (PRÈS DU CENTRE AQUATIQUE)",
+    "gageName": "SAINT-JEAN (LAC) À ROBERVAL (PRÈS DU CENTRE AQUATIQUE)",
     "state": "QC",
     "siteId": "02RG020",
     "longitude": -72.2231,
@@ -1711,7 +1711,7 @@
   },
   {
     "country": "CA",
-    "name": "SAINT-LAURENT (FLEUVE) A LA PRAIRIE",
+    "gageName": "SAINT-LAURENT (FLEUVE) A LA PRAIRIE",
     "state": "QC",
     "siteId": "02OA041",
     "longitude": -73.5059,
@@ -1720,7 +1720,7 @@
   },
   {
     "country": "CA",
-    "name": "SAINT-LAURENT (FLEUVE) A LANORAIE",
+    "gageName": "SAINT-LAURENT (FLEUVE) A LANORAIE",
     "state": "QC",
     "siteId": "02OB011",
     "longitude": -73.2146,
@@ -1729,7 +1729,7 @@
   },
   {
     "country": "CA",
-    "name": "SAINT-LAURENT (FLEUVE) A LASALLE",
+    "gageName": "SAINT-LAURENT (FLEUVE) A LASALLE",
     "state": "QC",
     "siteId": "02OA016",
     "longitude": -73.6232,
@@ -1738,7 +1738,7 @@
   },
   {
     "country": "CA",
-    "name": "SAINT-LAURENT (FLEUVE) A POINTE-DES-CASCADES",
+    "gageName": "SAINT-LAURENT (FLEUVE) A POINTE-DES-CASCADES",
     "state": "QC",
     "siteId": "02MC005",
     "longitude": -73.9621,
@@ -1747,7 +1747,7 @@
   },
   {
     "country": "CA",
-    "name": "SAINT-LOUIS (LAC) A POINTE-CLAIRE",
+    "gageName": "SAINT-LOUIS (LAC) A POINTE-CLAIRE",
     "state": "QC",
     "siteId": "02OA039",
     "longitude": -73.8207,
@@ -1756,7 +1756,7 @@
   },
   {
     "country": "CA",
-    "name": "SAINT-LOUIS (RUISSEAU) À 0,3 KM DE LA RIVIÈRE DU DIABLE",
+    "gageName": "SAINT-LOUIS (RUISSEAU) À 0,3 KM DE LA RIVIÈRE DU DIABLE",
     "state": "QC",
     "siteId": "02LC043",
     "longitude": -74.5033,
@@ -1765,7 +1765,7 @@
   },
   {
     "country": "CA",
-    "name": "SAINT-PAUL (RIVIERE) À 0,5 KM DU RUISSEAU CHANION",
+    "gageName": "SAINT-PAUL (RIVIERE) À 0,5 KM DU RUISSEAU CHANION",
     "state": "QC",
     "siteId": "02XC001",
     "longitude": -57.6,
@@ -1774,7 +1774,7 @@
   },
   {
     "country": "CA",
-    "name": "SAINTE-ANNE (RIVIERE) (BRAS DU NORD DE LA) EN AMONT",
+    "gageName": "SAINTE-ANNE (RIVIERE) (BRAS DU NORD DE LA) EN AMONT",
     "state": "QC",
     "siteId": "02PB006",
     "longitude": -71.8544,
@@ -1783,7 +1783,7 @@
   },
   {
     "country": "CA",
-    "name": "SAINTE-ANNE (RIVIERE) À 1,3 KM EN AVAL DU BARRAGE À CHUTE-PANET",
+    "gageName": "SAINTE-ANNE (RIVIERE) À 1,3 KM EN AVAL DU BARRAGE À CHUTE-PANET",
     "state": "QC",
     "siteId": "02PB019",
     "longitude": -71.8775,
@@ -1792,7 +1792,7 @@
   },
   {
     "country": "CA",
-    "name": "SAINTE-ANNE (RIVIERE) À 9,7 KM EN AMONT DU PONT-ROUTE 132",
+    "gageName": "SAINTE-ANNE (RIVIERE) À 9,7 KM EN AMONT DU PONT-ROUTE 132",
     "state": "QC",
     "siteId": "02QC009",
     "longitude": -66.4867,
@@ -1801,7 +1801,7 @@
   },
   {
     "country": "CA",
-    "name": "SAINTE-MARGUERITE NORD-EST (RIVIÈRE) À 1,7 KM DE LA RIVIÈRE SAINTE-MARGUERITE",
+    "gageName": "SAINTE-MARGUERITE NORD-EST (RIVIÈRE) À 1,7 KM DE LA RIVIÈRE SAINTE-MARGUERITE",
     "state": "QC",
     "siteId": "02RH073",
     "longitude": -69.9086,
@@ -1810,7 +1810,7 @@
   },
   {
     "country": "CA",
-    "name": "SAUMON (RIVIERE AU) À 1,9 KM EN AMONT DE LA MOFFAT",
+    "gageName": "SAUMON (RIVIERE AU) À 1,9 KM EN AMONT DE LA MOFFAT",
     "state": "QC",
     "siteId": "02OE032",
     "longitude": -71.3867,
@@ -1819,7 +1819,7 @@
   },
   {
     "country": "CA",
-    "name": "SAUMONS (RIVIERE AUX) PRES DE L'EMBOUCHURE",
+    "gageName": "SAUMONS (RIVIERE AUX) PRES DE L'EMBOUCHURE",
     "state": "QC",
     "siteId": "02RF009",
     "longitude": -72.5139,
@@ -1828,7 +1828,7 @@
   },
   {
     "country": "CA",
-    "name": "SIMARD (LAC) A LAFORCE",
+    "gageName": "SIMARD (LAC) A LAFORCE",
     "state": "QC",
     "siteId": "02JB012",
     "longitude": -78.7294,
@@ -1837,7 +1837,7 @@
   },
   {
     "country": "CA",
-    "name": "STUKELY (LAC) À ORFORD",
+    "gageName": "STUKELY (LAC) À ORFORD",
     "state": "QC",
     "siteId": "02OF023",
     "longitude": -72.2306,
@@ -1846,7 +1846,7 @@
   },
   {
     "country": "CA",
-    "name": "SUFFOLK (RUISSEAU) À 0,2 KM EN AMONT DU PONT-ROUTE À CHÉNÉVILLE",
+    "gageName": "SUFFOLK (RUISSEAU) À 0,2 KM EN AMONT DU PONT-ROUTE À CHÉNÉVILLE",
     "state": "QC",
     "siteId": "02LD006",
     "longitude": -75.0228,
@@ -1855,7 +1855,7 @@
   },
   {
     "country": "CA",
-    "name": "TEMISCAMINGUE (LAC) A TEMISCAMING",
+    "gageName": "TEMISCAMINGUE (LAC) A TEMISCAMING",
     "state": "QC",
     "siteId": "02JE025",
     "longitude": -79.105,
@@ -1864,7 +1864,7 @@
   },
   {
     "country": "CA",
-    "name": "TEMISCAMINGUE (LAC) A VILLE-MARIE",
+    "gageName": "TEMISCAMINGUE (LAC) A VILLE-MARIE",
     "state": "QC",
     "siteId": "02JE026",
     "longitude": -79.4446,
@@ -1873,7 +1873,7 @@
   },
   {
     "country": "CA",
-    "name": "TRENTE ET UN MILLES (LAC DES) AU BARRAGE",
+    "gageName": "TRENTE ET UN MILLES (LAC DES) AU BARRAGE",
     "state": "QC",
     "siteId": "02LH029",
     "longitude": -75.8039,
@@ -1882,7 +1882,7 @@
   },
   {
     "country": "CA",
-    "name": "TROIS PISTOLES (RIVIERE DES) À 2,1 KM EN AMONT DU PONT-ROUTE 132",
+    "gageName": "TROIS PISTOLES (RIVIERE DES) À 2,1 KM EN AMONT DU PONT-ROUTE 132",
     "state": "QC",
     "siteId": "02QA001",
     "longitude": -69.1964,
@@ -1891,7 +1891,7 @@
   },
   {
     "country": "CA",
-    "name": "VALIN (RIVIERE) À 3,5 KM DE L'EMBOUCHURE",
+    "gageName": "VALIN (RIVIERE) À 3,5 KM DE L'EMBOUCHURE",
     "state": "QC",
     "siteId": "02RH045",
     "longitude": -70.9742,
@@ -1900,7 +1900,7 @@
   },
   {
     "country": "CA",
-    "name": "VERMILLON (RIVIERE) EN AVAL DE LA RIVIERE DES PRAIRIES",
+    "gageName": "VERMILLON (RIVIERE) EN AVAL DE LA RIVIERE DES PRAIRIES",
     "state": "QC",
     "siteId": "02ND003",
     "longitude": -73.0428,
@@ -1909,7 +1909,7 @@
   },
   {
     "country": "CA",
-    "name": "WASWANIPI (RIVIERE) A LA CHUTE ROUGE",
+    "gageName": "WASWANIPI (RIVIERE) A LA CHUTE ROUGE",
     "state": "QC",
     "siteId": "03AB002",
     "longitude": -77.1872,
@@ -1918,7 +1918,7 @@
   },
   {
     "country": "CA",
-    "name": "WATERLOO (LAC) A WATERLOO",
+    "gageName": "WATERLOO (LAC) A WATERLOO",
     "state": "QC",
     "siteId": "02OG038",
     "longitude": -72.5167,
@@ -1927,7 +1927,7 @@
   },
   {
     "country": "CA",
-    "name": "WATERLOO (LAC) EN AMONT DU BARRAGE",
+    "gageName": "WATERLOO (LAC) EN AMONT DU BARRAGE",
     "state": "QC",
     "siteId": "02OG044",
     "longitude": -72.5167,
@@ -1936,7 +1936,7 @@
   },
   {
     "country": "CA",
-    "name": "YAMASKA (RIVIERE) À 1,8 KM EN AVAL DU BARRAGE À SAINT-HYACINTHE",
+    "gageName": "YAMASKA (RIVIERE) À 1,8 KM EN AVAL DU BARRAGE À SAINT-HYACINTHE",
     "state": "QC",
     "siteId": "02OG047",
     "longitude": -72.9361,
@@ -1945,7 +1945,7 @@
   },
   {
     "country": "CA",
-    "name": "YAMASKA (RIVIERE) À FARNHAM",
+    "gageName": "YAMASKA (RIVIERE) À FARNHAM",
     "state": "QC",
     "siteId": "02OG002",
     "longitude": -72.9658,
@@ -1954,7 +1954,7 @@
   },
   {
     "country": "CA",
-    "name": "YAMASKA NORD (RIVIERE) A VAL-SHEFFORD",
+    "gageName": "YAMASKA NORD (RIVIERE) A VAL-SHEFFORD",
     "state": "QC",
     "siteId": "02OG007",
     "longitude": -72.6222,
@@ -1963,7 +1963,7 @@
   },
   {
     "country": "CA",
-    "name": "YAMASKA NORD (RIVIERE) AU RESERVOIR CHOINIERE",
+    "gageName": "YAMASKA NORD (RIVIERE) AU RESERVOIR CHOINIERE",
     "state": "QC",
     "siteId": "02OG009",
     "longitude": -72.625,
@@ -1972,7 +1972,7 @@
   },
   {
     "country": "CA",
-    "name": "YAMASKA NORD (RIVIERE) À 0,1 KM EN AVAL DU BARRAGE DU LAC WATERLOO",
+    "gageName": "YAMASKA NORD (RIVIERE) À 0,1 KM EN AVAL DU BARRAGE DU LAC WATERLOO",
     "state": "QC",
     "siteId": "02OG045",
     "longitude": -72.5156,
@@ -1981,7 +1981,7 @@
   },
   {
     "country": "CA",
-    "name": "YAMASKA NORD (RIVIERE) À 2,4 KM EN AMONT DE L'AUTOROUTE 10",
+    "gageName": "YAMASKA NORD (RIVIERE) À 2,4 KM EN AMONT DE L'AUTOROUTE 10",
     "state": "QC",
     "siteId": "02OG042",
     "longitude": -72.7844,
@@ -1990,7 +1990,7 @@
   },
   {
     "country": "CA",
-    "name": "YAMASKA SUD-EST (RIVIERE) AU PONT-ROUTE 202 À COWANSVILLE",
+    "gageName": "YAMASKA SUD-EST (RIVIERE) AU PONT-ROUTE 202 À COWANSVILLE",
     "state": "QC",
     "siteId": "02OG014",
     "longitude": -72.7481,
@@ -1999,7 +1999,7 @@
   },
   {
     "country": "CA",
-    "name": "YORK (RIVIERE) À 1,4 KM EN AVAL DU RUISSEAU DINNER ISLAND",
+    "gageName": "YORK (RIVIERE) À 1,4 KM EN AVAL DU RUISSEAU DINNER ISLAND",
     "state": "QC",
     "siteId": "01BH010",
     "longitude": -64.9211,
@@ -2008,7 +2008,7 @@
   },
   {
     "country": "CA",
-    "name": "À MARS (RIVIÈRE) À LA FOSSE 80 DANS LA ZEC DE LA RIVIÈRE À MARS",
+    "gageName": "À MARS (RIVIÈRE) À LA FOSSE 80 DANS LA ZEC DE LA RIVIÈRE À MARS",
     "state": "QC",
     "siteId": "02RH069",
     "longitude": -70.9979,
@@ -2017,7 +2017,7 @@
   },
   {
     "country": "CA",
-    "name": "ÉCORCES (RIVIERE AUX) EN AMONT DU PONT-ROUTE 169",
+    "gageName": "ÉCORCES (RIVIERE AUX) EN AMONT DU PONT-ROUTE 169",
     "state": "QC",
     "siteId": "02RH035",
     "longitude": -71.6453,

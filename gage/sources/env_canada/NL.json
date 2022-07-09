@@ -1,1 +1,992 @@
-[{"country":"CA","name":"ALEXIS RIVER NEAR PORT HOPE SIMPSON","state":"NL","siteId":"03QC002","longitude":-56.8712,"latitude":52.6486,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ATIKONAK RIVER ABOVE PANCHIA LAKE","state":"NL","siteId":"03OC003","longitude":-64.6616,"latitude":52.9684,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BADGER BROOK BELOW FOOT BRIDGE","state":"NL","siteId":"02YO019","longitude":-56.0318,"latitude":48.9809,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BARTLETTS RIVER NEAR ST. ANTHONY","state":"NL","siteId":"02YA002","longitude":-55.6413,"latitude":51.4492,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BAY DU NORD RIVER AT BIG FALLS","state":"NL","siteId":"02ZF001","longitude":-55.4402,"latitude":47.7468,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BIG BROOK AT LEAD COVE","state":"NL","siteId":"02ZL005","longitude":-53.0821,"latitude":48.0428,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BOOT BROOK AT TRANS-CANADA HIGHWAY","state":"NL","siteId":"02YK008","longitude":-57.104,"latitude":49.2667,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CAMP POND AT SOUTHWEST END","state":"NL","siteId":"03NE003","longitude":-62.0931,"latitude":56.3353,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CAMP POND BROOK BELOW CAMP POND","state":"NL","siteId":"03NE002","longitude":-62.1103,"latitude":56.3406,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CAT ARM RESERVOIR NEAR SPILLWAY","state":"NL","siteId":"02YF002","longitude":-56.916,"latitude":50.0756,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHURCHILL RIVER 6.15 KMS BELOW LOWER MUSKRAT FALLS","state":"NL","siteId":"03OE014","longitude":-60.6753,"latitude":53.2376,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHURCHILL RIVER ABOVE CHURCHILL FALLS TAILRACE","state":"NL","siteId":"03OD008","longitude":-64.115,"latitude":53.5246,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHURCHILL RIVER ABOVE GRIZZLE RAPIDS","state":"NL","siteId":"03OE013","longitude":-61.4454,"latitude":52.9701,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHURCHILL RIVER ABOVE UPPER MUSKRAT FALLS","state":"NL","siteId":"03OE001","longitude":-60.7851,"latitude":53.2483,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHURCHILL RIVER AT END OF MUD LAKE ROAD","state":"NL","siteId":"03OE018","longitude":-60.1884,"latitude":53.3348,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHURCHILL RIVER AT HAPPY VALLEY ","state":"NL","siteId":"03OE016","longitude":-60.2926,"latitude":53.2954,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHURCHILL RIVER BELOW CHURCHILL FALLS TAILRACE","state":"NL","siteId":"03OD010","longitude":-63.9454,"latitude":53.5041,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHURCHILL RIVER BELOW METCHIN RIVER","state":"NL","siteId":"03OD009","longitude":-63.2849,"latitude":53.2396,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHURCHILL RIVER BELOW TRAVERSPINE RIVER","state":"NL","siteId":"03OE019","longitude":-60.2728,"latitude":53.2794,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHURCHILL RIVER ENGLISH POINT","state":"NL","siteId":"03PC001","longitude":-60.172,"latitude":53.337,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHURCHILL RIVER OUTLET AT RABBIT ISLAND","state":"NL","siteId":"03PD002","longitude":-60.1494,"latitude":53.4022,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"COME BY CHANCE RIVER NEAR GOOBIES","state":"NL","siteId":"02ZH002","longitude":-53.9487,"latitude":47.9188,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CONNE RIVER AT OUTLET OF CONNE RIVER POND","state":"NL","siteId":"02ZE004","longitude":-55.4828,"latitude":48.1688,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CORNER BROOK LAKE AT LAKE OUTLET","state":"NL","siteId":"02YL009","longitude":-57.852,"latitude":48.8489,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DEER LAKE NEAR GENERATING STATION","state":"NL","siteId":"02YL007","longitude":-57.4383,"latitude":49.1701,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DUMBELL STREAM ABOVE DUMBELL LAKE","state":"NL","siteId":"03OA016","longitude":-66.9201,"latitude":52.9861,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"EAGLE RIVER ABOVE FALLS","state":"NL","siteId":"03QC001","longitude":-57.4939,"latitude":53.5343,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"EAST POND BROOK BELOW EAST POND","state":"NL","siteId":"02YO015","longitude":-56.5101,"latitude":48.6821,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ELROSS CREEK BELOW PINETTE LAKE INFLOW","state":"NL","siteId":"03OB007","longitude":-67.0997,"latitude":54.8778,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"EXPLOITS RIVER AT BADGER","state":"NL","siteId":"02YO013","longitude":-56.0344,"latitude":48.9749,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"EXPLOITS RIVER AT CHARLIE EDWARDS POINT","state":"NL","siteId":"02YO018","longitude":-55.7924,"latitude":48.9432,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"EXPLOITS RIVER BELOW NOEL PAULS BROOK","state":"NL","siteId":"02YO011","longitude":-56.2697,"latitude":48.8444,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"EXPLOITS RIVER NEAR MILLERTOWN","state":"NL","siteId":"02YO016","longitude":-56.5824,"latitude":48.7601,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FLORA CREEK BELOW TRANS LABRADOR HIGHWAY","state":"NL","siteId":"03OA015","longitude":-66.8367,"latitude":52.9634,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GANDER RIVER AT BIG CHUTE","state":"NL","siteId":"02YQ001","longitude":-54.8507,"latitude":49.0163,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GARNISH RIVER NEAR GARNISH","state":"NL","siteId":"02ZG001","longitude":-55.33,"latitude":47.2164,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GRAND LAKE EAST OF GRAND LAKE BROOK","state":"NL","siteId":"02YK010","longitude":-58.084,"latitude":48.6686,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GRANDY BROOK BELOW TOP POND BROOK","state":"NL","siteId":"02ZC002","longitude":-57.7332,"latitude":47.8561,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GRANITE LAKE AT EAST END","state":"NL","siteId":"02ZC004","longitude":-56.9316,"latitude":48.1812,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GREAT RATTLING BROOK ABOVE TOTE RIVER CONFLUENCE","state":"NL","siteId":"02YO008","longitude":-55.5287,"latitude":48.8267,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GREAVETT BROOK ABOVE PORTLAND CREEK POND","state":"NL","siteId":"02YE001","longitude":-57.5775,"latitude":50.1623,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GREY RIVER NEAR GREY RIVER","state":"NL","siteId":"02ZD002","longitude":-56.934,"latitude":47.7433,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HARRYS RIVER BELOW HIGHWAY BRIDGE","state":"NL","siteId":"02YJ001","longitude":-58.3626,"latitude":48.5758,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HIGHLANDS RIVER AT TRANS-CANADA HIGHWAY","state":"NL","siteId":"02ZA002","longitude":-58.7836,"latitude":48.1084,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HUMBER RIVER AT HUMBER VILLAGE BRIDGE","state":"NL","siteId":"02YL003","longitude":-57.7606,"latitude":48.9829,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"INDIAN BAY BROOK NEAR NORTHWEST ARM","state":"NL","siteId":"02YR003","longitude":-53.8857,"latitude":49.0422,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"INDIAN BROOK DIVERSION ABOVE BIRCHY LAKE","state":"NL","siteId":"02YM004","longitude":-56.6152,"latitude":49.3672,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ISLE AUX MORTS RIVER BELOW HIGHWAY BRIDGE","state":"NL","siteId":"02ZB001","longitude":-59.0098,"latitude":47.6133,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"JOAN BROOK BELOW OUTLET OF JOAN LAKE","state":"NL","siteId":"03OB009","longitude":-67.2999,"latitude":55.0593,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LAKE MELVILLE EAST OF LITTLE RIVER","state":"NL","siteId":"03PD001","longitude":-59.4788,"latitude":53.5895,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LEARYS BROOK AT PRINCE PHILIP DRIVE","state":"NL","siteId":"02ZM020","longitude":-52.7485,"latitude":47.5643,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LEWASEECHJEECH BROOK AT LITTLE GRAND LAKE","state":"NL","siteId":"02YK002","longitude":-57.9331,"latitude":48.622,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LITTLE BARACHOIS RIVER NEAR PLACENTIA","state":"NL","siteId":"02ZK003","longitude":-54.0389,"latitude":47.1813,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LITTLE MECATINA RIVER ABOVE LAC FOURMONT","state":"NL","siteId":"02XA003","longitude":-61.3169,"latitude":52.2298,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LITTLE SALMONIER RIVER NEAR NORTH HARBOUR","state":"NL","siteId":"02ZK004","longitude":-53.7318,"latitude":47.1218,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LLOYDS RIVER BELOW KING GEORGE IV LAKE","state":"NL","siteId":"02YN002","longitude":-57.8281,"latitude":48.2398,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LUCE BROOK BELOW TINTO POND","state":"NL","siteId":"03OA012","longitude":-66.877,"latitude":52.9877,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MAIN RIVER AT PARADISE POOL","state":"NL","siteId":"02YG001","longitude":-57.1594,"latitude":49.8107,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MIDDLE BROOK NEAR GAMBO","state":"NL","siteId":"02YR001","longitude":-54.2226,"latitude":48.8074,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MUD LAKE OUTLET TRIBUTARY AT MUD LAKE","state":"NL","siteId":"03OE017","longitude":-60.1674,"latitude":53.3038,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NORTHEAST BROOK NEAR RODDICKTON","state":"NL","siteId":"02YD002","longitude":-56.1117,"latitude":50.9244,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NORTHEAST POND RIVER AT NORTHEAST POND","state":"NL","siteId":"02ZM006","longitude":-52.8366,"latitude":47.6346,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NORTHEAST RIVER NEAR PLACENTIA","state":"NL","siteId":"02ZK002","longitude":-53.8387,"latitude":47.274,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NORTHWEST RIVER AT TERRA NOVA NATIONAL PARK","state":"NL","siteId":"02YS006","longitude":-54.2004,"latitude":48.397,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"OUTFLOW OF UNNAMED POND SOUTH OF LONG POND","state":"NL","siteId":"02ZG007","longitude":-55.4436,"latitude":46.9039,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PETERS RIVER NEAR BOTWOOD","state":"NL","siteId":"02YO006","longitude":-55.3967,"latitude":49.1038,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PINUS RIVER","state":"NL","siteId":"03OE011","longitude":-61.5586,"latitude":53.1474,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PIPERS HOLE RIVER AT MOTHERS BROOK","state":"NL","siteId":"02ZH001","longitude":-54.2843,"latitude":47.9467,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PUMPHOUSE STREAM ABOVE DRUM LAKE","state":"NL","siteId":"03OA017","longitude":-66.9571,"latitude":52.9793,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"R.R. POND NEAR GRANITE LAKE","state":"NL","siteId":"02ZD003","longitude":-56.7936,"latitude":48.1966,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"RATTLE BROOK NEAR BOAT HARBOUR","state":"NL","siteId":"02ZG004","longitude":-54.853,"latitude":47.45,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"RATTLER BROOK NEAR MCIVERS","state":"NL","siteId":"02YL005","longitude":-58.1052,"latitude":49.0583,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"RATTLING BROOK BELOW BRIDGE","state":"NL","siteId":"02ZK006","longitude":-53.8073,"latitude":47.4142,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"RATTLING BROOK BELOW PLANT DISCHARGE","state":"NL","siteId":"02ZK008","longitude":-53.8101,"latitude":47.4186,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"RATTLING BROOK BIG POND","state":"NL","siteId":"02ZK007","longitude":-53.795,"latitude":47.4016,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"RAYMOND BROOK AT OUTLET OF BAY BULLS BIG POND","state":"NL","siteId":"02ZM022","longitude":-52.8006,"latitude":47.4202,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"RED INDIAN LAKE AT INDIAN POINT","state":"NL","siteId":"02YO017","longitude":-56.5765,"latitude":48.7951,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"REID BROOK AT OUTLET OF REID POND","state":"NL","siteId":"03NE001","longitude":-62.1614,"latitude":56.3731,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"REID BROOK BELOW TRIBUTARY","state":"NL","siteId":"03NE011","longitude":-62.0926,"latitude":56.3051,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ROCKY RIVER NEAR COLINET","state":"NL","siteId":"02ZK001","longitude":-53.5686,"latitude":47.2271,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SALMON COVE RIVER NEAR CHAMPNEYS","state":"NL","siteId":"02ZJ002","longitude":-53.3016,"latitude":48.3959,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SALMON RIVER NEAR GLENWOOD","state":"NL","siteId":"02YQ005","longitude":-54.9169,"latitude":49.0113,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SALMONIER RIVER NEAR LAMALINE","state":"NL","siteId":"02ZG003","longitude":-55.7762,"latitude":46.8778,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SEAL COVE BROOK NEAR CAPPAHAYDEN","state":"NL","siteId":"02ZM009","longitude":-52.9726,"latitude":46.8463,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SHEARSTOWN BROOK AT SHEARSTOWN","state":"NL","siteId":"02ZL004","longitude":-53.3081,"latitude":47.5831,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SHEFFIELD BROOK NEAR TRANS CANADA HIGHWAY","state":"NL","siteId":"02YK005","longitude":-56.6679,"latitude":49.3383,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SHOAL HARBOUR RIVER NEAR CLARENVILLE","state":"NL","siteId":"02ZJ003","longitude":-54.0496,"latitude":48.2202,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SOUTH BROOK AT PASADENA","state":"NL","siteId":"02YL004","longitude":-57.6114,"latitude":49.0123,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SOUTH RIVER NEAR HOLYROOD","state":"NL","siteId":"02ZM016","longitude":-53.1172,"latitude":47.3547,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SOUTH WEST BROOK NEAR BAIE VERTE","state":"NL","siteId":"02YM003","longitude":-56.2221,"latitude":49.8935,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SOUTHERN BAY RIVER NEAR SOUTHERN BAY","state":"NL","siteId":"02ZJ001","longitude":-53.6739,"latitude":48.3807,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SOUTHWEST BROOK AT LEWISPORTE","state":"NL","siteId":"02YO012","longitude":-55.052,"latitude":49.2161,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SOUTHWEST BROOK AT TERRA NOVA NATIONAL PARK","state":"NL","siteId":"02YS003","longitude":-53.9789,"latitude":48.6077,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ST. SHOTTS RIVER NEAR TREPASSEY","state":"NL","siteId":"02ZN002","longitude":-53.4856,"latitude":46.7099,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"STAR BROOK ABOVE STAR LAKE","state":"NL","siteId":"02YN004","longitude":-57.3114,"latitude":48.6273,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"STEADY BROOK ABOVE CONFLUENCE TO HUMBER RIVER","state":"NL","siteId":"02YL012","longitude":-57.8278,"latitude":48.9532,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TERRA NOVA RIVER AT GLOVERTOWN","state":"NL","siteId":"02YS005","longitude":-54.0153,"latitude":48.6628,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TORRENT RIVER AT BRISTOL'S POOL","state":"NL","siteId":"02YC001","longitude":-57.1516,"latitude":50.6075,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TRIBUTARY TO GILL'S POND BROOK","state":"NL","siteId":"02YO014","longitude":-56.5278,"latitude":48.6406,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TRIBUTARY TO REID BROOK","state":"NL","siteId":"03NE012","longitude":-62.0943,"latitude":56.3061,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TRITON BROOK ABOVE GAMBO POND","state":"NL","siteId":"02YR004","longitude":-54.5861,"latitude":48.6039,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"UGJOKTOK RIVER BELOW HARP LAKE","state":"NL","siteId":"03NF001","longitude":-61.3017,"latitude":55.2341,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"UPPER HUMBER RIVER ABOVE BLACK BROOK","state":"NL","siteId":"02YL008","longitude":-57.2945,"latitude":49.6183,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"UPPER HUMBER RIVER NEAR REIDVILLE","state":"NL","siteId":"02YL001","longitude":-57.3602,"latitude":49.2429,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"VICTORIA LAKE AT NORTHEAST CONTROL STRUCTURE","state":"NL","siteId":"02YN005","longitude":-57.1151,"latitude":48.3573,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"VIRGINIA RIVER AT PLEASANTVILLE","state":"NL","siteId":"02ZM018","longitude":-52.6908,"latitude":47.5889,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WABUSH LAKE AT DOLOMITE ROAD","state":"NL","siteId":"03OA014","longitude":-66.8592,"latitude":52.9668,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WABUSH LAKE AT LAKE OUTLET","state":"NL","siteId":"03OA005","longitude":-66.7854,"latitude":53.1517,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WATERFORD RIVER AT KILBRIDE","state":"NL","siteId":"02ZM008","longitude":-52.7451,"latitude":47.5291,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WHITE BEAR RIVER ABOVE BIG INDIAN BROOK","state":"NL","siteId":"02ZC003","longitude":-57.276,"latitude":47.801,"source":"ENVIRONMENT_CANADA"}]
+[
+    {
+        "country": "CA",
+        "gageName": "ALEXIS RIVER NEAR PORT HOPE SIMPSON",
+        "state": "NL",
+        "siteId": "03QC002",
+        "longitude": -56.8712,
+        "latitude": 52.6486,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ATIKONAK RIVER ABOVE PANCHIA LAKE",
+        "state": "NL",
+        "siteId": "03OC003",
+        "longitude": -64.6616,
+        "latitude": 52.9684,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BADGER BROOK BELOW FOOT BRIDGE",
+        "state": "NL",
+        "siteId": "02YO019",
+        "longitude": -56.0318,
+        "latitude": 48.9809,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BARTLETTS RIVER NEAR ST. ANTHONY",
+        "state": "NL",
+        "siteId": "02YA002",
+        "longitude": -55.6413,
+        "latitude": 51.4492,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BAY DU NORD RIVER AT BIG FALLS",
+        "state": "NL",
+        "siteId": "02ZF001",
+        "longitude": -55.4402,
+        "latitude": 47.7468,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BIG BROOK AT LEAD COVE",
+        "state": "NL",
+        "siteId": "02ZL005",
+        "longitude": -53.0821,
+        "latitude": 48.0428,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BOOT BROOK AT TRANS-CANADA HIGHWAY",
+        "state": "NL",
+        "siteId": "02YK008",
+        "longitude": -57.104,
+        "latitude": 49.2667,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CAMP POND AT SOUTHWEST END",
+        "state": "NL",
+        "siteId": "03NE003",
+        "longitude": -62.0931,
+        "latitude": 56.3353,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CAMP POND BROOK BELOW CAMP POND",
+        "state": "NL",
+        "siteId": "03NE002",
+        "longitude": -62.1103,
+        "latitude": 56.3406,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CAT ARM RESERVOIR NEAR SPILLWAY",
+        "state": "NL",
+        "siteId": "02YF002",
+        "longitude": -56.916,
+        "latitude": 50.0756,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHURCHILL RIVER 6.15 KMS BELOW LOWER MUSKRAT FALLS",
+        "state": "NL",
+        "siteId": "03OE014",
+        "longitude": -60.6753,
+        "latitude": 53.2376,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHURCHILL RIVER ABOVE CHURCHILL FALLS TAILRACE",
+        "state": "NL",
+        "siteId": "03OD008",
+        "longitude": -64.115,
+        "latitude": 53.5246,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHURCHILL RIVER ABOVE GRIZZLE RAPIDS",
+        "state": "NL",
+        "siteId": "03OE013",
+        "longitude": -61.4454,
+        "latitude": 52.9701,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHURCHILL RIVER ABOVE UPPER MUSKRAT FALLS",
+        "state": "NL",
+        "siteId": "03OE001",
+        "longitude": -60.7851,
+        "latitude": 53.2483,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHURCHILL RIVER AT END OF MUD LAKE ROAD",
+        "state": "NL",
+        "siteId": "03OE018",
+        "longitude": -60.1884,
+        "latitude": 53.3348,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHURCHILL RIVER AT HAPPY VALLEY ",
+        "state": "NL",
+        "siteId": "03OE016",
+        "longitude": -60.2926,
+        "latitude": 53.2954,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHURCHILL RIVER BELOW CHURCHILL FALLS TAILRACE",
+        "state": "NL",
+        "siteId": "03OD010",
+        "longitude": -63.9454,
+        "latitude": 53.5041,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHURCHILL RIVER BELOW METCHIN RIVER",
+        "state": "NL",
+        "siteId": "03OD009",
+        "longitude": -63.2849,
+        "latitude": 53.2396,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHURCHILL RIVER BELOW TRAVERSPINE RIVER",
+        "state": "NL",
+        "siteId": "03OE019",
+        "longitude": -60.2728,
+        "latitude": 53.2794,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHURCHILL RIVER ENGLISH POINT",
+        "state": "NL",
+        "siteId": "03PC001",
+        "longitude": -60.172,
+        "latitude": 53.337,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHURCHILL RIVER OUTLET AT RABBIT ISLAND",
+        "state": "NL",
+        "siteId": "03PD002",
+        "longitude": -60.1494,
+        "latitude": 53.4022,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "COME BY CHANCE RIVER NEAR GOOBIES",
+        "state": "NL",
+        "siteId": "02ZH002",
+        "longitude": -53.9487,
+        "latitude": 47.9188,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CONNE RIVER AT OUTLET OF CONNE RIVER POND",
+        "state": "NL",
+        "siteId": "02ZE004",
+        "longitude": -55.4828,
+        "latitude": 48.1688,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CORNER BROOK LAKE AT LAKE OUTLET",
+        "state": "NL",
+        "siteId": "02YL009",
+        "longitude": -57.852,
+        "latitude": 48.8489,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DEER LAKE NEAR GENERATING STATION",
+        "state": "NL",
+        "siteId": "02YL007",
+        "longitude": -57.4383,
+        "latitude": 49.1701,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DUMBELL STREAM ABOVE DUMBELL LAKE",
+        "state": "NL",
+        "siteId": "03OA016",
+        "longitude": -66.9201,
+        "latitude": 52.9861,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "EAGLE RIVER ABOVE FALLS",
+        "state": "NL",
+        "siteId": "03QC001",
+        "longitude": -57.4939,
+        "latitude": 53.5343,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "EAST POND BROOK BELOW EAST POND",
+        "state": "NL",
+        "siteId": "02YO015",
+        "longitude": -56.5101,
+        "latitude": 48.6821,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ELROSS CREEK BELOW PINETTE LAKE INFLOW",
+        "state": "NL",
+        "siteId": "03OB007",
+        "longitude": -67.0997,
+        "latitude": 54.8778,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "EXPLOITS RIVER AT BADGER",
+        "state": "NL",
+        "siteId": "02YO013",
+        "longitude": -56.0344,
+        "latitude": 48.9749,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "EXPLOITS RIVER AT CHARLIE EDWARDS POINT",
+        "state": "NL",
+        "siteId": "02YO018",
+        "longitude": -55.7924,
+        "latitude": 48.9432,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "EXPLOITS RIVER BELOW NOEL PAULS BROOK",
+        "state": "NL",
+        "siteId": "02YO011",
+        "longitude": -56.2697,
+        "latitude": 48.8444,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "EXPLOITS RIVER NEAR MILLERTOWN",
+        "state": "NL",
+        "siteId": "02YO016",
+        "longitude": -56.5824,
+        "latitude": 48.7601,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FLORA CREEK BELOW TRANS LABRADOR HIGHWAY",
+        "state": "NL",
+        "siteId": "03OA015",
+        "longitude": -66.8367,
+        "latitude": 52.9634,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GANDER RIVER AT BIG CHUTE",
+        "state": "NL",
+        "siteId": "02YQ001",
+        "longitude": -54.8507,
+        "latitude": 49.0163,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GARNISH RIVER NEAR GARNISH",
+        "state": "NL",
+        "siteId": "02ZG001",
+        "longitude": -55.33,
+        "latitude": 47.2164,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GRAND LAKE EAST OF GRAND LAKE BROOK",
+        "state": "NL",
+        "siteId": "02YK010",
+        "longitude": -58.084,
+        "latitude": 48.6686,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GRANDY BROOK BELOW TOP POND BROOK",
+        "state": "NL",
+        "siteId": "02ZC002",
+        "longitude": -57.7332,
+        "latitude": 47.8561,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GRANITE LAKE AT EAST END",
+        "state": "NL",
+        "siteId": "02ZC004",
+        "longitude": -56.9316,
+        "latitude": 48.1812,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GREAT RATTLING BROOK ABOVE TOTE RIVER CONFLUENCE",
+        "state": "NL",
+        "siteId": "02YO008",
+        "longitude": -55.5287,
+        "latitude": 48.8267,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GREAVETT BROOK ABOVE PORTLAND CREEK POND",
+        "state": "NL",
+        "siteId": "02YE001",
+        "longitude": -57.5775,
+        "latitude": 50.1623,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GREY RIVER NEAR GREY RIVER",
+        "state": "NL",
+        "siteId": "02ZD002",
+        "longitude": -56.934,
+        "latitude": 47.7433,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HARRYS RIVER BELOW HIGHWAY BRIDGE",
+        "state": "NL",
+        "siteId": "02YJ001",
+        "longitude": -58.3626,
+        "latitude": 48.5758,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HIGHLANDS RIVER AT TRANS-CANADA HIGHWAY",
+        "state": "NL",
+        "siteId": "02ZA002",
+        "longitude": -58.7836,
+        "latitude": 48.1084,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HUMBER RIVER AT HUMBER VILLAGE BRIDGE",
+        "state": "NL",
+        "siteId": "02YL003",
+        "longitude": -57.7606,
+        "latitude": 48.9829,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "INDIAN BAY BROOK NEAR NORTHWEST ARM",
+        "state": "NL",
+        "siteId": "02YR003",
+        "longitude": -53.8857,
+        "latitude": 49.0422,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "INDIAN BROOK DIVERSION ABOVE BIRCHY LAKE",
+        "state": "NL",
+        "siteId": "02YM004",
+        "longitude": -56.6152,
+        "latitude": 49.3672,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ISLE AUX MORTS RIVER BELOW HIGHWAY BRIDGE",
+        "state": "NL",
+        "siteId": "02ZB001",
+        "longitude": -59.0098,
+        "latitude": 47.6133,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "JOAN BROOK BELOW OUTLET OF JOAN LAKE",
+        "state": "NL",
+        "siteId": "03OB009",
+        "longitude": -67.2999,
+        "latitude": 55.0593,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LAKE MELVILLE EAST OF LITTLE RIVER",
+        "state": "NL",
+        "siteId": "03PD001",
+        "longitude": -59.4788,
+        "latitude": 53.5895,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LEARYS BROOK AT PRINCE PHILIP DRIVE",
+        "state": "NL",
+        "siteId": "02ZM020",
+        "longitude": -52.7485,
+        "latitude": 47.5643,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LEWASEECHJEECH BROOK AT LITTLE GRAND LAKE",
+        "state": "NL",
+        "siteId": "02YK002",
+        "longitude": -57.9331,
+        "latitude": 48.622,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LITTLE BARACHOIS RIVER NEAR PLACENTIA",
+        "state": "NL",
+        "siteId": "02ZK003",
+        "longitude": -54.0389,
+        "latitude": 47.1813,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LITTLE MECATINA RIVER ABOVE LAC FOURMONT",
+        "state": "NL",
+        "siteId": "02XA003",
+        "longitude": -61.3169,
+        "latitude": 52.2298,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LITTLE SALMONIER RIVER NEAR NORTH HARBOUR",
+        "state": "NL",
+        "siteId": "02ZK004",
+        "longitude": -53.7318,
+        "latitude": 47.1218,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LLOYDS RIVER BELOW KING GEORGE IV LAKE",
+        "state": "NL",
+        "siteId": "02YN002",
+        "longitude": -57.8281,
+        "latitude": 48.2398,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LUCE BROOK BELOW TINTO POND",
+        "state": "NL",
+        "siteId": "03OA012",
+        "longitude": -66.877,
+        "latitude": 52.9877,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MAIN RIVER AT PARADISE POOL",
+        "state": "NL",
+        "siteId": "02YG001",
+        "longitude": -57.1594,
+        "latitude": 49.8107,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MIDDLE BROOK NEAR GAMBO",
+        "state": "NL",
+        "siteId": "02YR001",
+        "longitude": -54.2226,
+        "latitude": 48.8074,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MUD LAKE OUTLET TRIBUTARY AT MUD LAKE",
+        "state": "NL",
+        "siteId": "03OE017",
+        "longitude": -60.1674,
+        "latitude": 53.3038,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NORTHEAST BROOK NEAR RODDICKTON",
+        "state": "NL",
+        "siteId": "02YD002",
+        "longitude": -56.1117,
+        "latitude": 50.9244,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NORTHEAST POND RIVER AT NORTHEAST POND",
+        "state": "NL",
+        "siteId": "02ZM006",
+        "longitude": -52.8366,
+        "latitude": 47.6346,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NORTHEAST RIVER NEAR PLACENTIA",
+        "state": "NL",
+        "siteId": "02ZK002",
+        "longitude": -53.8387,
+        "latitude": 47.274,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NORTHWEST RIVER AT TERRA NOVA NATIONAL PARK",
+        "state": "NL",
+        "siteId": "02YS006",
+        "longitude": -54.2004,
+        "latitude": 48.397,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "OUTFLOW OF UNgageNameD POND SOUTH OF LONG POND",
+        "state": "NL",
+        "siteId": "02ZG007",
+        "longitude": -55.4436,
+        "latitude": 46.9039,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PETERS RIVER NEAR BOTWOOD",
+        "state": "NL",
+        "siteId": "02YO006",
+        "longitude": -55.3967,
+        "latitude": 49.1038,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PINUS RIVER",
+        "state": "NL",
+        "siteId": "03OE011",
+        "longitude": -61.5586,
+        "latitude": 53.1474,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PIPERS HOLE RIVER AT MOTHERS BROOK",
+        "state": "NL",
+        "siteId": "02ZH001",
+        "longitude": -54.2843,
+        "latitude": 47.9467,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PUMPHOUSE STREAM ABOVE DRUM LAKE",
+        "state": "NL",
+        "siteId": "03OA017",
+        "longitude": -66.9571,
+        "latitude": 52.9793,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "R.R. POND NEAR GRANITE LAKE",
+        "state": "NL",
+        "siteId": "02ZD003",
+        "longitude": -56.7936,
+        "latitude": 48.1966,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "RATTLE BROOK NEAR BOAT HARBOUR",
+        "state": "NL",
+        "siteId": "02ZG004",
+        "longitude": -54.853,
+        "latitude": 47.45,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "RATTLER BROOK NEAR MCIVERS",
+        "state": "NL",
+        "siteId": "02YL005",
+        "longitude": -58.1052,
+        "latitude": 49.0583,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "RATTLING BROOK BELOW BRIDGE",
+        "state": "NL",
+        "siteId": "02ZK006",
+        "longitude": -53.8073,
+        "latitude": 47.4142,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "RATTLING BROOK BELOW PLANT DISCHARGE",
+        "state": "NL",
+        "siteId": "02ZK008",
+        "longitude": -53.8101,
+        "latitude": 47.4186,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "RATTLING BROOK BIG POND",
+        "state": "NL",
+        "siteId": "02ZK007",
+        "longitude": -53.795,
+        "latitude": 47.4016,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "RAYMOND BROOK AT OUTLET OF BAY BULLS BIG POND",
+        "state": "NL",
+        "siteId": "02ZM022",
+        "longitude": -52.8006,
+        "latitude": 47.4202,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "RED INDIAN LAKE AT INDIAN POINT",
+        "state": "NL",
+        "siteId": "02YO017",
+        "longitude": -56.5765,
+        "latitude": 48.7951,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "REID BROOK AT OUTLET OF REID POND",
+        "state": "NL",
+        "siteId": "03NE001",
+        "longitude": -62.1614,
+        "latitude": 56.3731,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "REID BROOK BELOW TRIBUTARY",
+        "state": "NL",
+        "siteId": "03NE011",
+        "longitude": -62.0926,
+        "latitude": 56.3051,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ROCKY RIVER NEAR COLINET",
+        "state": "NL",
+        "siteId": "02ZK001",
+        "longitude": -53.5686,
+        "latitude": 47.2271,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SALMON COVE RIVER NEAR CHAMPNEYS",
+        "state": "NL",
+        "siteId": "02ZJ002",
+        "longitude": -53.3016,
+        "latitude": 48.3959,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SALMON RIVER NEAR GLENWOOD",
+        "state": "NL",
+        "siteId": "02YQ005",
+        "longitude": -54.9169,
+        "latitude": 49.0113,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SALMONIER RIVER NEAR LAMALINE",
+        "state": "NL",
+        "siteId": "02ZG003",
+        "longitude": -55.7762,
+        "latitude": 46.8778,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SEAL COVE BROOK NEAR CAPPAHAYDEN",
+        "state": "NL",
+        "siteId": "02ZM009",
+        "longitude": -52.9726,
+        "latitude": 46.8463,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SHEARSTOWN BROOK AT SHEARSTOWN",
+        "state": "NL",
+        "siteId": "02ZL004",
+        "longitude": -53.3081,
+        "latitude": 47.5831,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SHEFFIELD BROOK NEAR TRANS CANADA HIGHWAY",
+        "state": "NL",
+        "siteId": "02YK005",
+        "longitude": -56.6679,
+        "latitude": 49.3383,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SHOAL HARBOUR RIVER NEAR CLARENVILLE",
+        "state": "NL",
+        "siteId": "02ZJ003",
+        "longitude": -54.0496,
+        "latitude": 48.2202,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SOUTH BROOK AT PASADENA",
+        "state": "NL",
+        "siteId": "02YL004",
+        "longitude": -57.6114,
+        "latitude": 49.0123,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SOUTH RIVER NEAR HOLYROOD",
+        "state": "NL",
+        "siteId": "02ZM016",
+        "longitude": -53.1172,
+        "latitude": 47.3547,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SOUTH WEST BROOK NEAR BAIE VERTE",
+        "state": "NL",
+        "siteId": "02YM003",
+        "longitude": -56.2221,
+        "latitude": 49.8935,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SOUTHERN BAY RIVER NEAR SOUTHERN BAY",
+        "state": "NL",
+        "siteId": "02ZJ001",
+        "longitude": -53.6739,
+        "latitude": 48.3807,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SOUTHWEST BROOK AT LEWISPORTE",
+        "state": "NL",
+        "siteId": "02YO012",
+        "longitude": -55.052,
+        "latitude": 49.2161,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SOUTHWEST BROOK AT TERRA NOVA NATIONAL PARK",
+        "state": "NL",
+        "siteId": "02YS003",
+        "longitude": -53.9789,
+        "latitude": 48.6077,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ST. SHOTTS RIVER NEAR TREPASSEY",
+        "state": "NL",
+        "siteId": "02ZN002",
+        "longitude": -53.4856,
+        "latitude": 46.7099,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "STAR BROOK ABOVE STAR LAKE",
+        "state": "NL",
+        "siteId": "02YN004",
+        "longitude": -57.3114,
+        "latitude": 48.6273,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "STEADY BROOK ABOVE CONFLUENCE TO HUMBER RIVER",
+        "state": "NL",
+        "siteId": "02YL012",
+        "longitude": -57.8278,
+        "latitude": 48.9532,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TERRA NOVA RIVER AT GLOVERTOWN",
+        "state": "NL",
+        "siteId": "02YS005",
+        "longitude": -54.0153,
+        "latitude": 48.6628,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TORRENT RIVER AT BRISTOL'S POOL",
+        "state": "NL",
+        "siteId": "02YC001",
+        "longitude": -57.1516,
+        "latitude": 50.6075,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TRIBUTARY TO GILL'S POND BROOK",
+        "state": "NL",
+        "siteId": "02YO014",
+        "longitude": -56.5278,
+        "latitude": 48.6406,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TRIBUTARY TO REID BROOK",
+        "state": "NL",
+        "siteId": "03NE012",
+        "longitude": -62.0943,
+        "latitude": 56.3061,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TRITON BROOK ABOVE GAMBO POND",
+        "state": "NL",
+        "siteId": "02YR004",
+        "longitude": -54.5861,
+        "latitude": 48.6039,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "UGJOKTOK RIVER BELOW HARP LAKE",
+        "state": "NL",
+        "siteId": "03NF001",
+        "longitude": -61.3017,
+        "latitude": 55.2341,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "UPPER HUMBER RIVER ABOVE BLACK BROOK",
+        "state": "NL",
+        "siteId": "02YL008",
+        "longitude": -57.2945,
+        "latitude": 49.6183,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "UPPER HUMBER RIVER NEAR REIDVILLE",
+        "state": "NL",
+        "siteId": "02YL001",
+        "longitude": -57.3602,
+        "latitude": 49.2429,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "VICTORIA LAKE AT NORTHEAST CONTROL STRUCTURE",
+        "state": "NL",
+        "siteId": "02YN005",
+        "longitude": -57.1151,
+        "latitude": 48.3573,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "VIRGINIA RIVER AT PLEASANTVILLE",
+        "state": "NL",
+        "siteId": "02ZM018",
+        "longitude": -52.6908,
+        "latitude": 47.5889,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WABUSH LAKE AT DOLOMITE ROAD",
+        "state": "NL",
+        "siteId": "03OA014",
+        "longitude": -66.8592,
+        "latitude": 52.9668,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WABUSH LAKE AT LAKE OUTLET",
+        "state": "NL",
+        "siteId": "03OA005",
+        "longitude": -66.7854,
+        "latitude": 53.1517,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WATERFORD RIVER AT KILBRIDE",
+        "state": "NL",
+        "siteId": "02ZM008",
+        "longitude": -52.7451,
+        "latitude": 47.5291,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WHITE BEAR RIVER ABOVE BIG INDIAN BROOK",
+        "state": "NL",
+        "siteId": "02ZC003",
+        "longitude": -57.276,
+        "latitude": 47.801,
+        "source": "ENVIRONMENT_CANADA"
+    }
+]

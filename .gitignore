@@ -17,7 +17,6 @@
 
 # production
 client/build/
-client/build/
 .idea/
 wh2o-next
 main
@@ -44,7 +43,8 @@ yarn-error.log*
 *.tsbuildinfo
 
 test.db
-wh2o-next
+
+bin/
 
 /tmp/
 

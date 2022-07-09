@@ -1,1 +1,3926 @@
-[{"country":"CA","name":"ADAMS LAKE NEAR SQUILAX","state":"BC","siteId":"08LD003","longitude":-119.6754,"latitude":50.9536,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ADAMS RIVER NEAR SQUILAX","state":"BC","siteId":"08LD001","longitude":-119.6563,"latitude":50.9376,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ADSETT CREEK AT KILOMETRE 386.0 ALASKA HIGHWAY","state":"BC","siteId":"10CD005","longitude":-122.7156,"latitude":58.106,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"AKIE RIVER NEAR THE 760 M CONTOUR","state":"BC","siteId":"07EA007","longitude":-124.9011,"latitude":57.1911,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ALOUETTE RIVER NEAR HANEY","state":"BC","siteId":"08MH005","longitude":-122.5798,"latitude":49.239,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ANDERSON CREEK NEAR NELSON","state":"BC","siteId":"08NJ130","longitude":-117.2613,"latitude":49.5019,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ANSEDAGAN CREEK NEAR NEW AIYANSH","state":"BC","siteId":"08DB013","longitude":-129.3549,"latitude":55.1299,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ARROW CREEK NEAR ERICKSON","state":"BC","siteId":"08NH084","longitude":-116.4525,"latitude":49.1591,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ARROW RESERVOIR AT FAUQUIER","state":"BC","siteId":"08NE102","longitude":-118.0817,"latitude":49.8721,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ARROW RESERVOIR AT NAKUSP","state":"BC","siteId":"08NE104","longitude":-117.7979,"latitude":50.2374,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ARROW RESERVOIR OUTFLOW","state":"BC","siteId":"08NE126","longitude":-117.7642,"latitude":49.3389,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ARROWSTONE CREEK NEAR THE MOUTH","state":"BC","siteId":"08LF099","longitude":-121.24,"latitude":50.8358,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ASH RIVER BELOW MORAN CREEK","state":"BC","siteId":"08HB023","longitude":-124.9841,"latitude":49.3699,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ASHNOLA RIVER NEAR KEREMEOS","state":"BC","siteId":"08NL004","longitude":-119.9935,"latitude":49.2076,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ATLIN LAKE AT ATLIN","state":"BC","siteId":"09AA001","longitude":-133.7055,"latitude":59.5725,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ATLIN RIVER NEAR ATLIN","state":"BC","siteId":"09AA006","longitude":-133.8144,"latitude":59.5954,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ATNARKO RIVER NEAR THE MOUTH","state":"BC","siteId":"08FB006","longitude":-126.0059,"latitude":52.3601,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BABINE LAKE AT TOPLEY LANDING","state":"BC","siteId":"08EC003","longitude":-126.1539,"latitude":54.8223,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BABINE RIVER AT BABINE","state":"BC","siteId":"08EC001","longitude":-126.6298,"latitude":55.3225,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BABINE RIVER AT OUTLET OF NILKITKWA LAKE","state":"BC","siteId":"08EC013","longitude":-126.6976,"latitude":55.4265,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BAKER CREEK AT QUESNEL","state":"BC","siteId":"08KE016","longitude":-122.5094,"latitude":52.9739,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BARRIERE RIVER AT THE MOUTH","state":"BC","siteId":"08LB020","longitude":-120.1265,"latitude":51.188,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BARRIERE RIVER BELOW SPRAGUE CREEK","state":"BC","siteId":"08LB069","longitude":-119.9377,"latitude":51.2453,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BEATON CREEK NEAR BEATON","state":"BC","siteId":"08NE008","longitude":-117.7293,"latitude":50.7345,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BEATTON RIVER NEAR FORT ST. JOHN","state":"BC","siteId":"07FC001","longitude":-120.6999,"latitude":56.2784,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BEAVER RIVER NEAR THE MOUTH","state":"BC","siteId":"08NB019","longitude":-117.4653,"latitude":51.5091,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BELGO CREEK BELOW HILDA CREEK","state":"BC","siteId":"08NM232","longitude":-119.0728,"latitude":50.0004,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BELLA COOLA RIVER ABOVE HAMMER CREEK","state":"BC","siteId":"08FB011","longitude":-126.3524,"latitude":52.4392,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BERTRAND CREEK AT INTERNATIONAL BOUNDARY","state":"BC","siteId":"08MH152","longitude":-122.5234,"latitude":49.0024,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BESSETTE CREEK ABOVE BEAVERJACK CREEK","state":"BC","siteId":"08LC039","longitude":-118.8591,"latitude":50.2979,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BESSETTE CREEK ABOVE LUMBY LAGOON OUTFALL","state":"BC","siteId":"08LC042","longitude":-118.9612,"latitude":50.2525,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BIG CREEK ABOVE GROUNDHOG CREEK","state":"BC","siteId":"08MB006","longitude":-123.1159,"latitude":51.5237,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BIG CREEK BELOW GRAVEYARD CREEK","state":"BC","siteId":"08MB007","longitude":-123.1045,"latitude":51.254,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BIG SHEEP CREEK NEAR ROSSLAND","state":"BC","siteId":"08NE039","longitude":-117.9453,"latitude":49.0146,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BINGS CREEK NEAR THE MOUTH","state":"BC","siteId":"08HA016","longitude":-123.7255,"latitude":48.7892,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BLAEBERRY RIVER ABOVE WILLOWBANK CREEK","state":"BC","siteId":"08NB012","longitude":-116.9694,"latitude":51.4825,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BLUE RIVER NEAR BLUE RIVER","state":"BC","siteId":"08LB038","longitude":-119.3019,"latitude":52.1167,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BLUEBERRY RIVER BELOW AITKEN CREEK","state":"BC","siteId":"07FC003","longitude":-121.2223,"latitude":56.6776,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BONAPARTE RIVER BELOW CACHE CREEK","state":"BC","siteId":"08LF002","longitude":-121.3233,"latitude":50.803,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BOUGIE CREEK AT KILOMETRE 368 ALASKA HIGHWAY","state":"BC","siteId":"10CD004","longitude":-122.7202,"latitude":58.0303,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BOWRON RIVER BELOW BOX CANYON","state":"BC","siteId":"08KD007","longitude":-122.1029,"latitude":54.0169,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BRIDGE CREEK BELOW DEKA CREEK","state":"BC","siteId":"08LA027","longitude":-120.9208,"latitude":51.5876,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BRIDGE RIVER (SOUTH BRANCH) BELOW BRIDGE GLACIER","state":"BC","siteId":"08ME023","longitude":-123.4533,"latitude":50.8562,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BRIDGE RIVER ABOVE DOWNTON LAKE","state":"BC","siteId":"08ME028","longitude":-123.2035,"latitude":50.8209,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BRIDGE RIVER BELOW LAJOIE DAM","state":"BC","siteId":"08ME029","longitude":-122.8494,"latitude":50.8454,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BROWNS RIVER NEAR COURTENAY","state":"BC","siteId":"08HB025","longitude":-125.0693,"latitude":49.6928,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BUCK CREEK AT THE MOUTH","state":"BC","siteId":"08EE013","longitude":-126.6502,"latitude":54.3961,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BULKLEY RIVER AT QUICK","state":"BC","siteId":"08EE004","longitude":-126.9,"latitude":54.6186,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BULKLEY RIVER NEAR HOUSTON","state":"BC","siteId":"08EE003","longitude":-126.7194,"latitude":54.3994,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BULKLEY RIVER NEAR SMITHERS","state":"BC","siteId":"08EE005","longitude":-127.1333,"latitude":54.7697,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BULL RIVER NEAR WARDNER","state":"BC","siteId":"08NG002","longitude":-115.3658,"latitude":49.4936,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BURRELL CREEK ABOVE GLOUCESTER CREEK","state":"BC","siteId":"08NN023","longitude":-118.3118,"latitude":49.5891,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"BUTTLE LAKE ABOVE UPPER CAMPBELL LAKE","state":"BC","siteId":"08HD033","longitude":-125.6161,"latitude":49.8358,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CAMP CREEK AT MOUTH NEAR THIRSK","state":"BC","siteId":"08NM134","longitude":-120.0112,"latitude":49.7123,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CAMPBELL RIVER (SPILLWAY FLOWS AT JOHN HART DAM)","state":"BC","siteId":"08HD029","longitude":-125.3371,"latitude":50.0433,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CAMPBELL RIVER AT ARGONAUT WHARF","state":"BC","siteId":"08HD024","longitude":-125.2472,"latitude":50.0423,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CAMPBELL RIVER AT CAMPBELL RIVER LODGE","state":"BC","siteId":"08HD022","longitude":-125.2676,"latitude":50.0336,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CAMPBELL RIVER NEAR CAMPBELL RIVER","state":"BC","siteId":"08HD003","longitude":-125.2947,"latitude":50.0381,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CANOE RIVER BELOW KIMMEL CREEK","state":"BC","siteId":"08NC004","longitude":-119.3849,"latitude":52.7315,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CAPILANO RIVER ABOVE INTAKE","state":"BC","siteId":"08GA010","longitude":-123.1458,"latitude":49.3962,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CAPILANO RIVER AT CANYON","state":"BC","siteId":"08GA031","longitude":-123.1109,"latitude":49.3579,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CARBON CREEK NEAR THE MOUTH","state":"BC","siteId":"07EF004","longitude":-122.6589,"latitude":55.9461,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CARNATION CREEK AT THE MOUTH","state":"BC","siteId":"08HB048","longitude":-124.9978,"latitude":48.9156,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CAYOOSH CREEK NEAR LILLOOET","state":"BC","siteId":"08ME002","longitude":-121.9653,"latitude":50.6693,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CEDAR CREEK ABOVE THE MOUTH","state":"BC","siteId":"08MH166","longitude":-122.7768,"latitude":49.381,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHASE CREEK ABOVE THE MOUTH","state":"BC","siteId":"08LE112","longitude":-119.6815,"latitude":50.8191,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHEAKAMUS RIVER ABOVE MILLAR CREEK","state":"BC","siteId":"08GA072","longitude":-123.0356,"latitude":50.0799,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHEAKAMUS RIVER NEAR BRACKENDALE","state":"BC","siteId":"08GA043","longitude":-123.1501,"latitude":49.816,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHEHALIS RIVER NEAR HARRISON MILLS","state":"BC","siteId":"08MG001","longitude":-121.9378,"latitude":49.3,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHEMAINUS RIVER NEAR WESTHOLME","state":"BC","siteId":"08HA001","longitude":-123.7046,"latitude":48.8784,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHILCOTIN RIVER NEAR HANCEVILLE","state":"BC","siteId":"08MB012","longitude":-123.0808,"latitude":51.9206,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHILKO RIVER AT OUTLET OF CHILKO LAKE","state":"BC","siteId":"08MA002","longitude":-124.1434,"latitude":51.6249,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHILKO RIVER NEAR REDSTONE","state":"BC","siteId":"08MA001","longitude":-123.5395,"latitude":52.0698,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHILLIWACK RIVER ABOVE SLESSE CREEK","state":"BC","siteId":"08MH103","longitude":-121.663,"latitude":49.1017,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHILLIWACK RIVER AT OUTLET OF CHILLIWACK LAKE","state":"BC","siteId":"08MH016","longitude":-121.4584,"latitude":49.0836,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHILLIWACK RIVER AT VEDDER CROSSING","state":"BC","siteId":"08MH001","longitude":-121.9675,"latitude":49.0974,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CHUCHINKA CREEK NEAR THE MOUTH","state":"BC","siteId":"07EE009","longitude":-122.6122,"latitude":54.5297,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CLARENCE CREEK NEAR ROSSWOOD","state":"BC","siteId":"08EG018","longitude":-128.8067,"latitude":54.9925,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CLARK CREEK NEAR WINFIELD","state":"BC","siteId":"08NM146","longitude":-119.336,"latitude":50.0488,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CLEARWATER RIVER NEAR CLEARWATER STATION","state":"BC","siteId":"08LA001","longitude":-120.066,"latitude":51.6557,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CLOWHOM RIVER NEAR CLOWHOM LAKE","state":"BC","siteId":"08GB013","longitude":-123.4204,"latitude":49.7872,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"COLDSTREAM CREEK ABOVE MUNICIPAL INTAKE","state":"BC","siteId":"08NM142","longitude":-119.0801,"latitude":50.2564,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"COLDWATER RIVER AT MERRITT","state":"BC","siteId":"08LG010","longitude":-120.803,"latitude":50.1098,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"COLDWATER RIVER NEAR BROOKMERE","state":"BC","siteId":"08LG048","longitude":-120.9085,"latitude":49.8542,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"COLUMBIA RIVER AT BIRCHBANK","state":"BC","siteId":"08NE049","longitude":-117.7177,"latitude":49.1778,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"COLUMBIA RIVER AT DONALD","state":"BC","siteId":"08NB005","longitude":-117.1804,"latitude":51.4833,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"COLUMBIA RIVER AT NICHOLSON","state":"BC","siteId":"08NA002","longitude":-116.9129,"latitude":51.2436,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"COMOX LAKE NEAR COURTENAY","state":"BC","siteId":"08HB082","longitude":-125.0917,"latitude":49.6421,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"COQUIHALLA RIVER ABOVE ALEXANDER CREEK","state":"BC","siteId":"08MF068","longitude":-121.3845,"latitude":49.3685,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"COQUIHALLA RIVER BELOW NEEDLE CREEK","state":"BC","siteId":"08MF062","longitude":-121.12,"latitude":49.5419,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"COQUITLAM LAKE FOREBAY","state":"BC","siteId":"08MH149","longitude":-122.7792,"latitude":49.3557,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"COQUITLAM RIVER ABOVE COQUITLAM LAKE","state":"BC","siteId":"08MH141","longitude":-122.7925,"latitude":49.4879,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"COQUITLAM RIVER AT PORT COQUITLAM","state":"BC","siteId":"08MH002","longitude":-122.7815,"latitude":49.2652,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CORNING CREEK NEAR SQUILAX","state":"BC","siteId":"08LE077","longitude":-119.5328,"latitude":50.9132,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"COTTONWOOD CREEK HEADWATERS","state":"BC","siteId":"08HA072","longitude":-124.2493,"latitude":48.9335,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"COTTONWOOD RIVER ABOVE BASS CREEK","state":"BC","siteId":"10AC005","longitude":-129.8255,"latitude":59.1175,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"COWICHAN LAKE NEAR LAKE COWICHAN","state":"BC","siteId":"08HA009","longitude":-124.0615,"latitude":48.8244,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"COWICHAN RIVER AT LAKE COWICHAN","state":"BC","siteId":"08HA002","longitude":-124.053,"latitude":48.8259,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"COWICHAN RIVER NEAR DUNCAN","state":"BC","siteId":"08HA011","longitude":-123.7145,"latitude":48.7731,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CRANBERRY CREEK ABOVE B.C. HYDRO INTAKE","state":"BC","siteId":"08NE123","longitude":-118.0807,"latitude":50.7939,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CREST LAKE NEAR HIGHWAY 28","state":"BC","siteId":"08HC006","longitude":-125.9067,"latitude":49.8411,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CRISS CREEK NEAR SAVONA","state":"BC","siteId":"08LF007","longitude":-120.9659,"latitude":50.8839,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"CRUICKSHANK RIVER NEAR THE MOUTH","state":"BC","siteId":"08HB074","longitude":-125.214,"latitude":49.5788,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DAIRY CREEK ABOVE TSOTIN LAKE","state":"BC","siteId":"08LF100","longitude":-121.1544,"latitude":50.8408,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DASH CREEK ABOVE CHURN CREEK","state":"BC","siteId":"08MD035","longitude":-122.9217,"latitude":51.2449,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DEADMAN RIVER ABOVE CRISS CREEK","state":"BC","siteId":"08LF027","longitude":-120.976,"latitude":50.8981,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DEAN RIVER BELOW TANSWANKET CREEK","state":"BC","siteId":"08FC003","longitude":-125.7712,"latitude":52.8895,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DEER CREEK AT DEER PARK","state":"BC","siteId":"08NE087","longitude":-118.042,"latitude":49.4485,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DENNIS CREEK NEAR 1780 METRE CONTOUR","state":"BC","siteId":"08NM242","longitude":-119.3814,"latitude":49.6242,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DICKEBUSCH CREEK NEAR THE MOUTH","state":"BC","siteId":"07FB004","longitude":-121.5968,"latitude":55.5378,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DORE RIVER NEAR MCBRIDE","state":"BC","siteId":"08KA001","longitude":-120.249,"latitude":53.3092,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DOUGLAS LAKE AT SPAXOMIN","state":"BC","siteId":"08LG069","longitude":-120.2796,"latitude":50.1432,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DOVE CREEK NEAR THE MOUTH","state":"BC","siteId":"08HB075","longitude":-125.0857,"latitude":49.7366,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DRIFTWOOD RIVER ABOVE KASTBERG CREEK","state":"BC","siteId":"08JD006","longitude":-126.6777,"latitude":55.9761,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DUCK CREEK NEAR WYNNDEL","state":"BC","siteId":"08NH016","longitude":-116.5339,"latitude":49.2026,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DUHAMEL CREEK ABOVE DIVERSIONS","state":"BC","siteId":"08NJ026","longitude":-117.2423,"latitude":49.5903,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DUNCAN RESERVOIR AT DUNCAN DAM","state":"BC","siteId":"08NH127","longitude":-116.9486,"latitude":50.2554,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DUNCAN RIVER BELOW B.B. CREEK","state":"BC","siteId":"08NH119","longitude":-117.048,"latitude":50.6375,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"DUNCAN RIVER BELOW LARDEAU RIVER","state":"BC","siteId":"08NH118","longitude":-116.9552,"latitude":50.2329,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"EAGLE RIVER NEAR MALAKWA","state":"BC","siteId":"08LE024","longitude":-118.8017,"latitude":50.9363,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"EAST CANOE CREEK ABOVE DAM","state":"BC","siteId":"08LE108","longitude":-119.1962,"latitude":50.6967,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ELAHO RIVER NEAR THE MOUTH","state":"BC","siteId":"08GA071","longitude":-123.4284,"latitude":50.114,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ELK RIVER ABOVE CAMPBELL LAKE","state":"BC","siteId":"08HD018","longitude":-125.8127,"latitude":49.8572,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ELK RIVER AT FERNIE","state":"BC","siteId":"08NK002","longitude":-115.0701,"latitude":49.5035,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ELK RIVER BELOW ELKO DAM DIVERSION","state":"BC","siteId":"08NK030","longitude":-115.1036,"latitude":49.2881,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ELK RIVER NEAR NATAL","state":"BC","siteId":"08NK016","longitude":-114.8687,"latitude":49.8656,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ENGLISHMAN RIVER NEAR PARKSVILLE","state":"BC","siteId":"08HB002","longitude":-124.2853,"latitude":49.3161,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"EVE RIVER BELOW KUNNUM CREEK","state":"BC","siteId":"08HF015","longitude":-126.2324,"latitude":50.3163,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"EWART CREEK NEAR CATHEDRAL PARK","state":"BC","siteId":"08NL076","longitude":-120.0378,"latitude":49.1325,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"EXCHAMSIKS RIVER NEAR TERRACE","state":"BC","siteId":"08EG012","longitude":-129.3128,"latitude":54.3622,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FINLAY RIVER ABOVE AKIE RIVER","state":"BC","siteId":"07EA005","longitude":-125.2499,"latitude":57.1262,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FISHTRAP CREEK AT INTERNATIONAL BOUNDARY","state":"BC","siteId":"08MH153","longitude":-122.407,"latitude":49.0023,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FISHTRAP CREEK NEAR MCLURE","state":"BC","siteId":"08LB024","longitude":-120.2089,"latitude":51.122,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FITZSIMMONS CREEK BELOW BLACKCOMB CREEK","state":"BC","siteId":"08MG026","longitude":-122.9488,"latitude":50.1203,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FLATBED CREEK AT KILOMETRE 110 HERITAGE HIGHWAY","state":"BC","siteId":"07FB009","longitude":-120.9418,"latitude":55.0902,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FONTAS RIVER NEAR THE MOUTH","state":"BC","siteId":"10CA001","longitude":-121.4639,"latitude":58.2712,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FORDING RIVER AT THE MOUTH","state":"BC","siteId":"08NK018","longitude":-114.8667,"latitude":49.894,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FRASER RIVER ABOVE TEXAS CREEK","state":"BC","siteId":"08MF040","longitude":-121.8534,"latitude":50.6137,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FRASER RIVER AT BIG BAR CREEK","state":"BC","siteId":"08MD013","longitude":-122.1321,"latitude":51.1837,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FRASER RIVER AT HANSARD","state":"BC","siteId":"08KA004","longitude":-121.8504,"latitude":54.0787,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FRASER RIVER AT HARRISON MILLS","state":"BC","siteId":"08MF073","longitude":-121.9471,"latitude":49.2181,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FRASER RIVER AT HOPE","state":"BC","siteId":"08MF005","longitude":-121.4542,"latitude":49.386,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FRASER RIVER AT LAIDLAW","state":"BC","siteId":"08MF072","longitude":-121.6293,"latitude":49.3177,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FRASER RIVER AT MCBRIDE","state":"BC","siteId":"08KA005","longitude":-120.1409,"latitude":53.3017,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FRASER RIVER AT MISSION","state":"BC","siteId":"08MH024","longitude":-122.3029,"latitude":49.1277,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FRASER RIVER AT PORT MANN PUMPING STATION","state":"BC","siteId":"08MH126","longitude":-122.8247,"latitude":49.2178,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FRASER RIVER AT RED PASS","state":"BC","siteId":"08KA007","longitude":-119.0067,"latitude":52.9863,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FRASER RIVER AT SHELLEY","state":"BC","siteId":"08KB001","longitude":-122.6247,"latitude":54.0037,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FRASER RIVER AT SOUTH FORT GEORGE","state":"BC","siteId":"08KE018","longitude":-122.7349,"latitude":53.9008,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FRASER RIVER NEAR AGASSIZ","state":"BC","siteId":"08MF035","longitude":-121.7758,"latitude":49.2037,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"FRASER RIVER NEAR MARGUERITE","state":"BC","siteId":"08MC018","longitude":-122.4443,"latitude":52.5303,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GARBAGE CREEK NEAR THE MOUTH","state":"BC","siteId":"08HA068","longitude":-124.1057,"latitude":48.5784,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GOATHORN CREEK NEAR TELKWA","state":"BC","siteId":"08EE008","longitude":-127.1233,"latitude":54.6486,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GOLD RIVER ABOVE PALMER CREEK","state":"BC","siteId":"08NB014","longitude":-117.7185,"latitude":51.678,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GOLD RIVER BELOW UCONA RIVER","state":"BC","siteId":"08HC001","longitude":-126.1114,"latitude":49.7023,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GOLDSTREAM RIVER BELOW OLD CAMP CREEK","state":"BC","siteId":"08ND012","longitude":-118.5962,"latitude":51.6688,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GRAHAM RIVER ABOVE COLT CREEK","state":"BC","siteId":"07FA005","longitude":-122.3545,"latitude":56.4599,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GRANBY RIVER AT GRAND FORKS","state":"BC","siteId":"08NN002","longitude":-118.4404,"latitude":49.0433,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GREATA CREEK NEAR THE MOUTH","state":"BC","siteId":"08NM173","longitude":-119.852,"latitude":49.7946,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GREELEY CREEK ABOVE DIVERSION","state":"BC","siteId":"08ND021","longitude":-118.057,"latitude":51.006,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GUICHON CREEK ABOVE TUNKWA LAKE DIVERSION","state":"BC","siteId":"08LG056","longitude":-120.9109,"latitude":50.6078,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"GUICHON CREEK AT OUTLET OF MAMIT LAKE","state":"BC","siteId":"08LG041","longitude":-120.8099,"latitude":50.3611,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HALFWAY RIVER ABOVE GRAHAM RIVER","state":"BC","siteId":"07FA003","longitude":-122.2432,"latitude":56.5089,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HALFWAY RIVER NEAR FARRELL CREEK","state":"BC","siteId":"07FA006","longitude":-121.6285,"latitude":56.2508,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HARPER CREEK NEAR THE MOUTH","state":"BC","siteId":"08LB076","longitude":-119.8816,"latitude":51.3544,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HARRIS CREEK NEAR LAKE COWICHAN","state":"BC","siteId":"08HA070","longitude":-124.2261,"latitude":48.7194,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HARRISON LAKE NEAR HARRISON HOT SPRINGS","state":"BC","siteId":"08MG012","longitude":-121.7737,"latitude":49.3093,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HARRISON RIVER AT HARRISON MILLS","state":"BC","siteId":"08MG014","longitude":-121.9593,"latitude":49.2346,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HARRISON RIVER BELOW MORRIS CREEK","state":"BC","siteId":"08MG022","longitude":-121.9042,"latitude":49.285,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HARRISON RIVER NEAR HARRISON HOT SPRINGS","state":"BC","siteId":"08MG013","longitude":-121.8296,"latitude":49.3004,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HAYWARD LAKE ABOVE RUSKIN DAM","state":"BC","siteId":"08MH167","longitude":-122.4074,"latitude":49.1979,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HEDLEY CREEK NEAR THE MOUTH","state":"BC","siteId":"08NL050","longitude":-120.0726,"latitude":49.3589,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HIDDEN CREEK NEAR THE MOUTH","state":"BC","siteId":"08NE114","longitude":-117.2392,"latitude":49.2345,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HIRSCH CREEK NEAR THE MOUTH","state":"BC","siteId":"08FF002","longitude":-128.6026,"latitude":54.064,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HOMATHKO RIVER AT INLET TO TATLAYOKO LAKE","state":"BC","siteId":"08GD008","longitude":-124.4072,"latitude":51.6732,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HOMATHKO RIVER AT THE MOUTH","state":"BC","siteId":"08GD004","longitude":-124.9186,"latitude":50.9864,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HONNA RIVER NEAR THE MOUTH","state":"BC","siteId":"08OA004","longitude":-132.138,"latitude":53.2527,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HORSEFLY RIVER ABOVE MCKINLEY CREEK","state":"BC","siteId":"08KH010","longitude":-121.0669,"latitude":52.2914,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HORSEFLY RIVER ABOVE QUESNEL LAKE","state":"BC","siteId":"08KH031","longitude":-121.4181,"latitude":52.4443,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HORSESHOE RIVER ABOVE LOIS LAKE","state":"BC","siteId":"08GB014","longitude":-124.2784,"latitude":49.878,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HOSMER CREEK ABOVE DIVERSIONS","state":"BC","siteId":"08NK026","longitude":-114.9539,"latitude":49.5842,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HOWELL CREEK ABOVE CABIN CREEK","state":"BC","siteId":"08NP003","longitude":-114.5358,"latitude":49.0947,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HUMPHRIES CREEK NEAR TROUT LAKE","state":"BC","siteId":"08NH138","longitude":-117.5447,"latitude":50.6336,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"HURLEY RIVER BELOW LONE GOAT CREEK","state":"BC","siteId":"08ME027","longitude":-122.942,"latitude":50.7309,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ICY CREEK NEAR THE MOUTH","state":"BC","siteId":"08GE003","longitude":-125.6715,"latitude":51.2276,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ILLECILLEWAET RIVER AT GREELEY","state":"BC","siteId":"08ND013","longitude":-118.0851,"latitude":51.0126,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"INGENIKA RIVER ABOVE SWANNELL RIVER","state":"BC","siteId":"07EA004","longitude":-125.105,"latitude":56.7306,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"INKANEEP CREEK NEAR THE MOUTH","state":"BC","siteId":"08NM200","longitude":-119.5021,"latitude":49.0778,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"INONOAKLIN CREEK ABOVE VALLEY CREEK","state":"BC","siteId":"08NE110","longitude":-118.1898,"latitude":49.8969,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ISKUT RIVER BELOW JOHNSON RIVER","state":"BC","siteId":"08CG001","longitude":-131.669,"latitude":56.7344,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"JOE ROSS CREEK NEAR THE MOUTH","state":"BC","siteId":"08LF094","longitude":-120.8582,"latitude":51.1523,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"JUMP CREEK AT THE MOUTH","state":"BC","siteId":"08HB041","longitude":-124.1868,"latitude":49.025,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KALAMALKA LAKE AT VERNON PUMPHOUSE","state":"BC","siteId":"08NM143","longitude":-119.2744,"latitude":50.2299,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KANAKA CREEK NEAR WEBSTER CORNERS","state":"BC","siteId":"08MH076","longitude":-122.5366,"latitude":49.2071,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KASLO RIVER BELOW KEMP CREEK","state":"BC","siteId":"08NH005","longitude":-116.9535,"latitude":49.9076,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KEEN CREEK BELOW KYAWATS CREEK","state":"BC","siteId":"08NH132","longitude":-117.122,"latitude":49.8726,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KELLY CREEK NEAR STEWART","state":"BC","siteId":"08DA012","longitude":-129.2295,"latitude":56.2925,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KEMANO POWERHOUSE","state":"BC","siteId":"08FE002","longitude":-127.9361,"latitude":53.5611,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KEMANO RIVER ABOVE POWERHOUSE TAILRACE","state":"BC","siteId":"08FE003","longitude":-127.9524,"latitude":53.5635,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KEOGH RIVER NEAR PORT HARDY","state":"BC","siteId":"08HF014","longitude":-127.3487,"latitude":50.672,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KEREMEOS CREEK BELOW WILLIS INTAKE","state":"BC","siteId":"08NL045","longitude":-119.8258,"latitude":49.2589,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KETTLE RIVER NEAR WESTBRIDGE","state":"BC","siteId":"08NN026","longitude":-118.9281,"latitude":49.23,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KICKING HORSE RIVER AT GOLDEN","state":"BC","siteId":"08NA006","longitude":-116.9721,"latitude":51.3012,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KINBASKET LAKE AT MICA DAM","state":"BC","siteId":"08ND017","longitude":-118.5617,"latitude":52.0781,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KINBASKET LAKE BELOW GARRETT CREEK","state":"BC","siteId":"08NB017","longitude":-117.9121,"latitude":51.8907,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KINGCOME RIVER BELOW ATLATZI RIVER","state":"BC","siteId":"08GF009","longitude":-126.1178,"latitude":51.0025,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KISKATINAW RIVER BELOW BORDEN CREEK","state":"BC","siteId":"07FD019","longitude":-120.2735,"latitude":55.1928,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KISKATINAW RIVER NEAR FARMINGTON","state":"BC","siteId":"07FD001","longitude":-120.5644,"latitude":55.9574,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KISPIOX RIVER NEAR HAZELTON","state":"BC","siteId":"08EB004","longitude":-127.7162,"latitude":55.4338,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KITIMAT RIVER BELOW HIRSCH CREEK","state":"BC","siteId":"08FF001","longitude":-128.6905,"latitude":54.0487,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KITSUMKALUM RIVER BELOW ALICE CREEK","state":"BC","siteId":"08EG019","longitude":-128.744,"latitude":54.6793,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KLASKISH RIVER NEAR KLASKINO INLET","state":"BC","siteId":"08HE009","longitude":-127.6979,"latitude":50.2901,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KLINAKLINI RIVER EAST CHANNEL (MAIN) NEAR THE MOUTH","state":"BC","siteId":"08GE002","longitude":-125.5944,"latitude":51.1448,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KLOIYA RIVER NEAR PRINCE RUPERT","state":"BC","siteId":"08EG016","longitude":-130.173,"latitude":54.2471,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KOKSILAH RIVER AT COWICHAN STATION","state":"BC","siteId":"08HA003","longitude":-123.6708,"latitude":48.7278,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KOOTENAY LAKE AT KUSKONOOK","state":"BC","siteId":"08NH067","longitude":-116.6596,"latitude":49.2988,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KOOTENAY LAKE AT QUEENS BAY","state":"BC","siteId":"08NH064","longitude":-116.9303,"latitude":49.654,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KOOTENAY LAKE OUTFLOW NEAR CORRA LINN","state":"BC","siteId":"08NJ158","longitude":-117.465,"latitude":49.4669,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KOOTENAY RIVER AT FORT STEELE","state":"BC","siteId":"08NG065","longitude":-115.6353,"latitude":49.612,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KOOTENAY RIVER AT KOOTENAY CROSSING","state":"BC","siteId":"08NF001","longitude":-116.0461,"latitude":50.887,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"KUSKANAX CREEK NEAR NAKUSP","state":"BC","siteId":"08NE006","longitude":-117.7345,"latitude":50.2829,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LARDEAU RIVER AT MARBLEHEAD","state":"BC","siteId":"08NH007","longitude":-116.9683,"latitude":50.2629,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LAVENTIE CREEK NEAR THE MOUTH","state":"BC","siteId":"08JA015","longitude":-127.5377,"latitude":53.6521,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LEMIEUX CREEK NEAR THE MOUTH","state":"BC","siteId":"08LB078","longitude":-120.202,"latitude":51.4276,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LEMON CREEK ABOVE SOUTH LEMON CREEK","state":"BC","siteId":"08NJ160","longitude":-117.446,"latitude":49.6971,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LIARD RIVER AT LOWER CROSSING","state":"BC","siteId":"10BE001","longitude":-126.0972,"latitude":59.4125,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LILLOOET LAKE NEAR PEMBERTON","state":"BC","siteId":"08MG020","longitude":-122.4811,"latitude":50.2404,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LILLOOET RIVER AT TENAS NARROWS","state":"BC","siteId":"08MG027","longitude":-122.5366,"latitude":50.0916,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LILLOOET RIVER NEAR PEMBERTON","state":"BC","siteId":"08MG005","longitude":-122.8002,"latitude":50.336,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LINE CREEK AT THE MOUTH","state":"BC","siteId":"08NK022","longitude":-114.8334,"latitude":49.8915,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LINGFIELD CREEK NEAR THE MOUTH","state":"BC","siteId":"08MA006","longitude":-124.1453,"latitude":51.6739,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LITTLE OYSTER RIVER AT YORKE ROAD","state":"BC","siteId":"08HD023","longitude":-125.232,"latitude":49.9116,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LITTLE QUALICUM RIVER NEAR QUALICUM BEACH","state":"BC","siteId":"08HB029","longitude":-124.4834,"latitude":49.3546,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LITTLE SWIFT RIVER AT THE MOUTH","state":"BC","siteId":"08KE024","longitude":-121.7675,"latitude":52.9149,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LITTLE WEDEENE RIVER BELOW BOWBYES CREEK","state":"BC","siteId":"08FF003","longitude":-128.69,"latitude":54.1364,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"LOST HORSE CREEK NEAR CHRISTIAN VALLEY","state":"BC","siteId":"08NN028","longitude":-118.8493,"latitude":49.3658,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"M3 CREEK NEAR SMITHERS","state":"BC","siteId":"08EF006","longitude":-127.4693,"latitude":54.7783,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MACKAY CREEK AT MONTROYAL BOULEVARD","state":"BC","siteId":"08GA061","longitude":-123.0999,"latitude":49.3562,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MAMQUAM RIVER ABOVE RING CREEK","state":"BC","siteId":"08GA075","longitude":-123.1021,"latitude":49.7259,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MATHER CREEK BELOW HOULE CREEK","state":"BC","siteId":"08NG076","longitude":-115.8967,"latitude":49.7137,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MCGREGOR RIVER AT LOWER CANYON","state":"BC","siteId":"08KB003","longitude":-121.6687,"latitude":54.2312,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MCKALE RIVER NEAR 940 M CONTOUR","state":"BC","siteId":"08KA009","longitude":-120.2201,"latitude":53.4441,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MCKINLEY CREEK BELOW OUTLET OF MCKINLEY LAKE","state":"BC","siteId":"08KH020","longitude":-121.0014,"latitude":52.2808,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MESILINKA RIVER ABOVE GOPHERHOLE CREEK","state":"BC","siteId":"07EC003","longitude":-124.6447,"latitude":56.245,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MILLSTONE RIVER AT NANAIMO","state":"BC","siteId":"08HB032","longitude":-123.969,"latitude":49.1774,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MISSION CREEK NEAR EAST KELOWNA","state":"BC","siteId":"08NM116","longitude":-119.4135,"latitude":49.8779,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MOBERLY RIVER NEAR FORT ST. JOHN","state":"BC","siteId":"07FB008","longitude":-121.3668,"latitude":56.0925,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MOFFAT CREEK NEAR HORSEFLY","state":"BC","siteId":"08KH019","longitude":-121.4084,"latitude":52.3157,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MORICE RIVER NEAR HOUSTON","state":"BC","siteId":"08ED002","longitude":-127.4266,"latitude":54.1168,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MORKILL RIVER BELOW HELLROARING CREEK","state":"BC","siteId":"08KA013","longitude":-120.5914,"latitude":53.6817,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MOYIE RIVER ABOVE NOKE CREEK ","state":"BC","siteId":"08NH139","longitude":-115.9978,"latitude":49.3995,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MULLER CREEK NEAR THE MOUTH","state":"BC","siteId":"08KB006","longitude":-120.9774,"latitude":54.2968,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MURRAY RIVER ABOVE WOLVERINE RIVER","state":"BC","siteId":"07FB006","longitude":-121.0138,"latitude":55.0614,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MURRAY RIVER NEAR THE MOUTH","state":"BC","siteId":"07FB002","longitude":-121.2035,"latitude":55.5525,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"MUSKWA RIVER NEAR FORT NELSON","state":"BC","siteId":"10CD001","longitude":-122.6616,"latitude":58.7881,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NADINA LAKE NEAR NORALEE","state":"BC","siteId":"08JB007","longitude":-126.9708,"latitude":53.9042,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NADINA RIVER AT OUTLET OF NADINA LAKE","state":"BC","siteId":"08JB008","longitude":-126.9547,"latitude":53.9025,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NAHATLATCH RIVER BELOW TACHEWANA CREEK","state":"BC","siteId":"08MF065","longitude":-121.8629,"latitude":49.9539,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NANAIMO RIVER NEAR CASSIDY","state":"BC","siteId":"08HB034","longitude":-123.8869,"latitude":49.0686,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NANIKA RIVER AT OUTLET OF KIDPRICE LAKE","state":"BC","siteId":"08ED001","longitude":-127.4517,"latitude":53.9303,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NASS RIVER ABOVE SHUMAL CREEK","state":"BC","siteId":"08DB001","longitude":-129.085,"latitude":55.2622,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NATION RIVER NEAR FORT ST. JAMES","state":"BC","siteId":"07ED001","longitude":-124.2333,"latitude":55.2,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NATION RIVER NEAR THE MOUTH","state":"BC","siteId":"07ED003","longitude":-123.6334,"latitude":55.4272,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NAUTLEY RIVER NEAR FORT FRASER","state":"BC","siteId":"08JB003","longitude":-124.6009,"latitude":54.0851,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NECHAKO RESERVOIR AT SKINS LAKE SPILLWAY","state":"BC","siteId":"08JA023","longitude":-125.9972,"latitude":53.7724,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NECHAKO RIVER AT ISLE PIERRE","state":"BC","siteId":"08JC002","longitude":-123.2349,"latitude":53.9604,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NECHAKO RIVER AT VANDERHOOF","state":"BC","siteId":"08JC001","longitude":-124.0087,"latitude":54.0267,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NECHAKO RIVER BELOW CHESLATTA FALLS","state":"BC","siteId":"08JA017","longitude":-124.8393,"latitude":53.6855,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NICOLA LAKE NEAR QUILCHENA","state":"BC","siteId":"08LG046","longitude":-120.5251,"latitude":50.1584,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NICOLA RIVER AT OUTLET OF DOUGLAS LAKE","state":"BC","siteId":"08LG028","longitude":-120.2836,"latitude":50.1399,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NICOLA RIVER AT OUTLET OF NICOLA LAKE","state":"BC","siteId":"08LG065","longitude":-120.6688,"latitude":50.1621,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NICOLA RIVER NEAR SPENCES BRIDGE","state":"BC","siteId":"08LG006","longitude":-121.2268,"latitude":50.3309,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NICOMEKL RIVER AT 203 STREET, LANGLEY","state":"BC","siteId":"08MH155","longitude":-122.6601,"latitude":49.0957,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NILE CREEK NEAR BOWSER","state":"BC","siteId":"08HB022","longitude":-124.6524,"latitude":49.4185,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NIMPKISH RIVER ABOVE WOSS RIVER","state":"BC","siteId":"08HF005","longitude":-126.6108,"latitude":50.2148,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NORDIC CREEK AT THE OUTLET OF NORDIC GLACIER","state":"BC","siteId":"08NB020","longitude":-117.694,"latitude":51.4488,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NORTH ALOUETTE RIVER AT 232ND STREET, MAPLE RIDGE","state":"BC","siteId":"08MH006","longitude":-122.5802,"latitude":49.2426,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NORTH BEACH CREEK ABOVE ALLIN CREEK","state":"BC","siteId":"08JB013","longitude":-125.9283,"latitude":54.1269,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NORTH THOMPSON RIVER AT BIRCH ISLAND","state":"BC","siteId":"08LB047","longitude":-119.9144,"latitude":51.6019,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"NORTH THOMPSON RIVER AT MCLURE","state":"BC","siteId":"08LB064","longitude":-120.2405,"latitude":51.0409,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"OKANAGAN LAKE AT KELOWNA","state":"BC","siteId":"08NM083","longitude":-119.4997,"latitude":49.8861,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"OKANAGAN RIVER AT OKANAGAN FALLS","state":"BC","siteId":"08NM002","longitude":-119.5804,"latitude":49.342,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"OKANAGAN RIVER AT PENTICTON","state":"BC","siteId":"08NM050","longitude":-119.6154,"latitude":49.4985,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"OKANAGAN RIVER BELOW MCINTYRE DAM","state":"BC","siteId":"08NM247","longitude":-119.528,"latitude":49.2568,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"OKANAGAN RIVER NEAR OLIVER","state":"BC","siteId":"08NM085","longitude":-119.5667,"latitude":49.1146,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"OMINECA RIVER ABOVE OSILINKA RIVER","state":"BC","siteId":"07EC002","longitude":-124.5676,"latitude":55.9169,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"OR CREEK NEAR COQUITLAM","state":"BC","siteId":"08MH168","longitude":-122.7347,"latitude":49.3639,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"OSILINKA RIVER NEAR END LAKE","state":"BC","siteId":"07EC004","longitude":-124.8019,"latitude":56.1269,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"OSPIKA RIVER ABOVE ALEY CREEK","state":"BC","siteId":"07EB002","longitude":-123.936,"latitude":56.5241,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"OWIKENO LAKE AT RIVERS INLET","state":"BC","siteId":"08FA007","longitude":-127.1674,"latitude":51.6922,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"OYSTER RIVER BELOW WOODHUS CREEK","state":"BC","siteId":"08HD011","longitude":-125.2418,"latitude":49.8946,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PACK RIVER AT OUTLET OF MCLEOD LAKE","state":"BC","siteId":"07EE010","longitude":-123.0366,"latitude":54.9985,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PALLANT CREEK NEAR QUEEN CHARLOTTE","state":"BC","siteId":"08OB002","longitude":-132.0514,"latitude":53.0573,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PARSNIP RIVER ABOVE MISINCHINKA RIVER","state":"BC","siteId":"07EE007","longitude":-122.9131,"latitude":55.0819,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PASAYTEN RIVER ABOVE CALCITE CREEK","state":"BC","siteId":"08NL069","longitude":-120.5794,"latitude":49.0989,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PEACE RIVER ABOVE ALCES RIVER","state":"BC","siteId":"07FD010","longitude":-120.0575,"latitude":56.1269,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PEACE RIVER ABOVE PINE RIVER","state":"BC","siteId":"07FA004","longitude":-120.8145,"latitude":56.1993,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PEACE RIVER NEAR TAYLOR","state":"BC","siteId":"07FD002","longitude":-120.6724,"latitude":56.1394,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PEARSON CREEK NEAR THE MOUTH","state":"BC","siteId":"08NM172","longitude":-119.0617,"latitude":49.8869,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PEMBERTON CREEK NEAR PEMBERTON","state":"BC","siteId":"08MG025","longitude":-122.8046,"latitude":50.3155,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PENFOLD CREEK NEAR THE MOUTH","state":"BC","siteId":"08KH030","longitude":-120.7497,"latitude":52.7919,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PENNASK CREEK NEAR QUILCHENA","state":"BC","siteId":"08LG016","longitude":-120.1349,"latitude":49.9649,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PEPIN CREEK AT INTERNATIONAL BOUNDARY","state":"BC","siteId":"08MH156","longitude":-122.4719,"latitude":49.0037,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PETITOT RIVER BELOW HIGHWAY NO. 77","state":"BC","siteId":"10DA001","longitude":-122.9564,"latitude":59.9889,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PINE RIVER AT EAST PINE","state":"BC","siteId":"07FB001","longitude":-121.2116,"latitude":55.7184,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PINKUT CREEK NEAR TINTAGEL","state":"BC","siteId":"08EC004","longitude":-125.4298,"latitude":54.4054,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PITT RIVER NEAR PORT COQUITLAM","state":"BC","siteId":"08MH035","longitude":-122.7341,"latitude":49.2448,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"POUCE COUPE RIVER BELOW HENDERSON CREEK","state":"BC","siteId":"07FD007","longitude":-120.0304,"latitude":55.8652,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PREMIER CREEK NEAR QUEEN CHARLOTTE","state":"BC","siteId":"08OA003","longitude":-132.075,"latitude":53.2586,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PUGH CREEK NEAR NAHWITTI LAKE","state":"BC","siteId":"08HF012","longitude":-127.8822,"latitude":50.7345,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PUNTLEDGE RIVER AT COURTENAY","state":"BC","siteId":"08HB006","longitude":-125.0342,"latitude":49.688,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"PUNTLEDGE RIVER BELOW DIVERSION","state":"BC","siteId":"08HB084","longitude":-125.0872,"latitude":49.6683,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"QUESNEL LAKE NEAR LIKELY","state":"BC","siteId":"08KH011","longitude":-121.5403,"latitude":52.5747,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"QUESNEL RIVER AT LIKELY","state":"BC","siteId":"08KH001","longitude":-121.5723,"latitude":52.6158,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"QUESNEL RIVER NEAR QUESNEL","state":"BC","siteId":"08KH006","longitude":-122.2253,"latitude":52.8431,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"QUILCHENA CREEK AT QUILCHENA","state":"BC","siteId":"08LG017","longitude":-120.4999,"latitude":50.1416,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"QUINSAM DIVERSION NEAR CAMPBELL RIVER","state":"BC","siteId":"08HD026","longitude":-125.5253,"latitude":49.9415,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"QUINSAM RIVER AT ARGONAUT BRIDGE","state":"BC","siteId":"08HD021","longitude":-125.5096,"latitude":49.9298,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"QUINSAM RIVER BELOW LOWER QUINSAM LAKE","state":"BC","siteId":"08HD027","longitude":-125.339,"latitude":49.9296,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"QUINSAM RIVER NEAR CAMPBELL RIVER","state":"BC","siteId":"08HD005","longitude":-125.3,"latitude":50.0292,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"RASPBERRY CREEK NEAR THE MOUTH","state":"BC","siteId":"10CD003","longitude":-123.3189,"latitude":58.8924,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"REDFISH CREEK NEAR HARROP","state":"BC","siteId":"08NJ061","longitude":-117.0557,"latitude":49.6226,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"RENEGADE CREEK NEAR KITIMAT","state":"BC","siteId":"08FF006","longitude":-128.7375,"latitude":53.9489,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"RENFREW CREEK NEAR PORT RENFREW","state":"BC","siteId":"08HA069","longitude":-124.2917,"latitude":48.6367,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"REVELSTOKE PROJECT OUTFLOW","state":"BC","siteId":"08ND025","longitude":-118.1972,"latitude":51.0444,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"REVELSTOKE RESERVOIR AT MARTHA CREEK","state":"BC","siteId":"08ND026","longitude":-118.2005,"latitude":51.1466,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ROBERTS CREEK AT ROBERTS CREEK","state":"BC","siteId":"08GA047","longitude":-123.6402,"latitude":49.4208,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SALLOOMT RIVER NEAR HAGENSBORG","state":"BC","siteId":"08FB004","longitude":-126.5211,"latitude":52.4246,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SALMO RIVER NEAR SALMO","state":"BC","siteId":"08NE074","longitude":-117.2943,"latitude":49.0471,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SALMON RIVER ABOVE MEMEKAY RIVER","state":"BC","siteId":"08HD007","longitude":-125.7448,"latitude":50.1973,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SALMON RIVER AT 72 AVENUE, LANGLEY","state":"BC","siteId":"08MH090","longitude":-122.5964,"latitude":49.1335,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SALMON RIVER AT FALKLAND","state":"BC","siteId":"08LE020","longitude":-119.5586,"latitude":50.4986,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SALMON RIVER BELOW CAMPBELL LAKE DIVERSION","state":"BC","siteId":"08HD032","longitude":-125.6697,"latitude":50.0937,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SALMON RIVER NEAR PRINCE GEORGE","state":"BC","siteId":"08KC001","longitude":-122.6799,"latitude":54.0964,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SALMON RIVER NEAR SALMON ARM","state":"BC","siteId":"08LE021","longitude":-119.3305,"latitude":50.6925,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SALMON RIVER NEAR SAYWARD","state":"BC","siteId":"08HD006","longitude":-125.9075,"latitude":50.3125,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SAN JOSE RIVER ABOVE BORLAND CREEK","state":"BC","siteId":"08MC040","longitude":-121.9919,"latitude":52.0771,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SAN JOSEF RIVER BELOW SHARP CREEK","state":"BC","siteId":"08HF006","longitude":-128.1684,"latitude":50.6693,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SAN JUAN RIVER NEAR PORT RENFREW","state":"BC","siteId":"08HA010","longitude":-124.3114,"latitude":48.5762,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SARITA RIVER NEAR BAMFIELD","state":"BC","siteId":"08HB014","longitude":-124.9694,"latitude":48.8925,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SETON RIVER NEAR LILLOOET","state":"BC","siteId":"08ME003","longitude":-121.9695,"latitude":50.6711,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SEYMOUR RIVER ABOVE LAKEHEAD","state":"BC","siteId":"08GA079","longitude":-122.9691,"latitude":49.4972,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SEYMOUR RIVER BELOW ORCHID CREEK","state":"BC","siteId":"08GA077","longitude":-123.004,"latitude":49.5203,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SEYMOUR RIVER NEAR NORTH VANCOUVER","state":"BC","siteId":"08GA030","longitude":-123.0021,"latitude":49.342,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SEYMOUR RIVER NEAR SEYMOUR ARM","state":"BC","siteId":"08LE027","longitude":-118.9464,"latitude":51.2622,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SHATFORD CREEK NEAR PENTICTON","state":"BC","siteId":"08NM037","longitude":-119.7515,"latitude":49.4275,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SHERIDAN CREEK ABOVE MCLEESE LAKE","state":"BC","siteId":"08MC045","longitude":-122.2946,"latitude":52.4263,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SHUSWAP LAKE AT SALMON ARM","state":"BC","siteId":"08LE070","longitude":-119.2841,"latitude":50.7094,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SHUSWAP RIVER AT OUTLET OF SUGAR LAKE RESERVOIR","state":"BC","siteId":"08LC018","longitude":-118.5479,"latitude":50.3451,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SHUSWAP RIVER NEAR ENDERBY","state":"BC","siteId":"08LC002","longitude":-119.0128,"latitude":50.5437,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SHUSWAP RIVER NEAR LUMBY","state":"BC","siteId":"08LC003","longitude":-118.8186,"latitude":50.3028,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SIKANNI CHIEF RIVER NEAR FORT NELSON","state":"BC","siteId":"10CB001","longitude":-122.6915,"latitude":57.2382,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SIMILKAMEEN RIVER ABOVE GOODFELLOW CREEK","state":"BC","siteId":"08NL070","longitude":-120.6725,"latitude":49.0941,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SIMILKAMEEN RIVER AT PRINCETON","state":"BC","siteId":"08NL007","longitude":-120.5035,"latitude":49.4597,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SIMILKAMEEN RIVER NEAR HEDLEY","state":"BC","siteId":"08NL038","longitude":-120.1523,"latitude":49.377,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SIMPSON CREEK AT THE MOUTH","state":"BC","siteId":"08EE012","longitude":-127.2042,"latitude":54.8099,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SIMPSON CREEK NEAR KOPRINO HARBOUR","state":"BC","siteId":"08HF013","longitude":-127.842,"latitude":50.5125,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SIWASH CREEK NEAR PRINCETON","state":"BC","siteId":"08NL039","longitude":-120.3355,"latitude":49.6628,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SKAGIT RIVER AT INTERNATIONAL BOUNDARY","state":"BC","siteId":"08PA004","longitude":-121.0666,"latitude":49.0003,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SKAHA LAKE AT OKANAGAN FALLS","state":"BC","siteId":"08NM084","longitude":-119.5751,"latitude":49.4264,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SKEENA RIVER ABOVE BABINE RIVER","state":"BC","siteId":"08EB005","longitude":-127.6867,"latitude":55.7171,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SKEENA RIVER AT GLEN VOWELL","state":"BC","siteId":"08EB003","longitude":-127.6726,"latitude":55.3011,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SKEENA RIVER AT USK","state":"BC","siteId":"08EF001","longitude":-128.4306,"latitude":54.6319,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SKINS LAKE SPILLWAY, NECHAKO RESERVOIR","state":"BC","siteId":"08JA013","longitude":-125.9706,"latitude":53.7708,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SLESSE CREEK NEAR VEDDER CROSSING","state":"BC","siteId":"08MH056","longitude":-121.6998,"latitude":49.0717,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SLOCAN RIVER NEAR CRESCENT VALLEY","state":"BC","siteId":"08NJ013","longitude":-117.5648,"latitude":49.4601,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SMITH RIVER NEAR THE MOUTH","state":"BC","siteId":"10BE013","longitude":-126.4806,"latitude":59.5533,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SOUTH NANAIMO RIVER NEAR JUNCTION","state":"BC","siteId":"08HB092","longitude":-124.1263,"latitude":49.0602,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SOUTH THOMPSON RIVER AT CHASE","state":"BC","siteId":"08LE031","longitude":-119.7431,"latitude":50.7631,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SPILLIMACHEEN RIVER NEAR SPILLIMACHEEN","state":"BC","siteId":"08NA011","longitude":-116.4068,"latitude":50.9044,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SPIUS CREEK BELOW SILVER CREEK","state":"BC","siteId":"08LG068","longitude":-121.0964,"latitude":49.9503,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SPIUS CREEK NEAR CANFORD","state":"BC","siteId":"08LG008","longitude":-121.03,"latitude":50.1362,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SPLIT CREEK AT THE MOUTH","state":"BC","siteId":"08NB016","longitude":-116.8989,"latitude":51.5265,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SPROAT RIVER NEAR ALBERNI","state":"BC","siteId":"08HB008","longitude":-124.9103,"latitude":49.2897,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SQUAMISH RIVER NEAR BRACKENDALE","state":"BC","siteId":"08GA022","longitude":-123.2032,"latitude":49.795,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ST. MARY RIVER BELOW MORRIS CREEK","state":"BC","siteId":"08NG077","longitude":-116.435,"latitude":49.7373,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"STAVE RIVER ABOVE STAVE LAKE","state":"BC","siteId":"08MH147","longitude":-122.3231,"latitude":49.5562,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"STAWAMUS RIVER AT HIGHWAY NO. 99","state":"BC","siteId":"08GA076","longitude":-123.1465,"latitude":49.6898,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"STELLAKO RIVER AT GLENANNAN","state":"BC","siteId":"08JB002","longitude":-125.0089,"latitude":54.0078,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"STIKINE RIVER AT TELEGRAPH CREEK","state":"BC","siteId":"08CE001","longitude":-131.1597,"latitude":57.9003,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"STUART RIVER NEAR FORT ST. JAMES","state":"BC","siteId":"08JE001","longitude":-124.2706,"latitude":54.4169,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SUGAR LAKE RESERVOIR AT THE OUTLET","state":"BC","siteId":"08LC041","longitude":-118.5383,"latitude":50.3577,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SUKUNKA RIVER NEAR THE MOUTH","state":"BC","siteId":"07FB003","longitude":-121.6276,"latitude":55.5422,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SULLIVAN CREEK NEAR CANYON","state":"BC","siteId":"08NH115","longitude":-116.4368,"latitude":49.1043,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SUMAS RIVER NEAR HUNTINGDON","state":"BC","siteId":"08MH029","longitude":-122.2323,"latitude":49.0025,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SURPRISE CREEK NEAR THE MOUTH","state":"BC","siteId":"08DA005","longitude":-129.4774,"latitude":56.1093,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"SWIFT RIVER NEAR SWIFT RIVER","state":"BC","siteId":"09AE003","longitude":-131.7686,"latitude":59.9308,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TARUNDL CREEK NEAR QUEEN CHARLOTTE","state":"BC","siteId":"08OA005","longitude":-132.1479,"latitude":53.244,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TASEKO RIVER AT OUTLET OF TASEKO LAKES","state":"BC","siteId":"08MA003","longitude":-123.6312,"latitude":51.379,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TEETER CREEK NEAR THE MOUTH","state":"BC","siteId":"10BE009","longitude":-126.2275,"latitude":59.4542,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TELKWA RIVER BELOW TSAI CREEK","state":"BC","siteId":"08EE020","longitude":-127.4972,"latitude":54.6074,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"THAUTIL CORNER CREEK NEAR MORICE LAKE","state":"BC","siteId":"08ED004","longitude":-127.3497,"latitude":54.2558,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"THEODOSIA RIVER ABOVE SCOTTY CREEK","state":"BC","siteId":"08GC008","longitude":-124.6161,"latitude":50.0975,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"THEODOSIA RIVER BELOW OLSEN LAKE DIVERSION","state":"BC","siteId":"08GC007","longitude":-124.5433,"latitude":50.1278,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"THEODOSIA RIVER DIVERSION ABOVE OLSEN LAKE","state":"BC","siteId":"08GC005","longitude":-124.5406,"latitude":50.1292,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"THEODOSIA RIVER DIVERSION BYPASS","state":"BC","siteId":"08GC006","longitude":-124.5425,"latitude":50.1283,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"THOMPSON RIVER AT KAMLOOPS","state":"BC","siteId":"08LF023","longitude":-120.3641,"latitude":50.6875,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"THOMPSON RIVER NEAR SAVONA","state":"BC","siteId":"08LF033","longitude":-120.8736,"latitude":50.7521,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"THOMPSON RIVER NEAR SPENCES BRIDGE","state":"BC","siteId":"08LF051","longitude":-121.3936,"latitude":50.3546,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TOAD RIVER ABOVE NONDA CREEK","state":"BC","siteId":"10BE004","longitude":-125.3826,"latitude":58.855,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TOFINO CREEK NEAR THE MOUTH","state":"BC","siteId":"08HB086","longitude":-125.5833,"latitude":49.2508,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TRAPPING CREEK NEAR THE MOUTH","state":"BC","siteId":"08NN019","longitude":-119.052,"latitude":49.5654,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TROUT CREEK AT THE MOUTH","state":"BC","siteId":"08NM158","longitude":-119.6317,"latitude":49.568,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TROUT RIVER AT KILOMETRE 783.7 ALASKA HIGHWAY","state":"BC","siteId":"10BE007","longitude":-125.9402,"latitude":59.336,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TSILCOH RIVER NEAR THE MOUTH","state":"BC","siteId":"08JE004","longitude":-124.2478,"latitude":54.6108,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TSITIKA RIVER BELOW CATHERINE CREEK","state":"BC","siteId":"08HF004","longitude":-126.5785,"latitude":50.4404,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TSOLUM RIVER NEAR COURTENAY","state":"BC","siteId":"08HB011","longitude":-125.0115,"latitude":49.7059,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TULAMEEN RIVER AT PRINCETON","state":"BC","siteId":"08NL024","longitude":-120.5186,"latitude":49.4577,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TULAMEEN RIVER BELOW VUICH CREEK","state":"BC","siteId":"08NL071","longitude":-120.9789,"latitude":49.4657,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TUTSHI RIVER AT OUTLET OF TUTSHI LAKE","state":"BC","siteId":"09AA013","longitude":-134.3325,"latitude":59.9478,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TUYA RIVER NEAR TELEGRAPH CREEK","state":"BC","siteId":"08CD001","longitude":-130.8264,"latitude":58.0723,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TWAIN CREEK TRIBUTARY NEAR BABINE LAKE","state":"BC","siteId":"08EC014","longitude":-125.9144,"latitude":54.5595,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TWO FORTY CREEK NEAR PENTICTON","state":"BC","siteId":"08NM240","longitude":-119.4,"latitude":49.6509,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TWO FORTY-ONE CREEK NEAR PENTICTON","state":"BC","siteId":"08NM241","longitude":-119.3939,"latitude":49.65,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"TWO MILE CREEK IN DISTRICT LOT 4834","state":"BC","siteId":"08EE025","longitude":-127.6208,"latitude":55.2961,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"UPPER CAMPBELL LAKE AT STRATHCONA DAM","state":"BC","siteId":"08HD031","longitude":-125.5866,"latitude":49.9969,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"VANCE CREEK BELOW DEAFIES CREEK","state":"BC","siteId":"08LC040","longitude":-118.947,"latitude":50.2843,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"VASEUX CREEK ABOVE SOLCO CREEK","state":"BC","siteId":"08NM171","longitude":-119.3214,"latitude":49.2493,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"VASEUX LAKE NEAR THE OUTLET","state":"BC","siteId":"08NM243","longitude":-119.5255,"latitude":49.2732,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"VERNON CREEK AT OUTLET OF KALAMALKA LAKE","state":"BC","siteId":"08NM065","longitude":-119.2669,"latitude":50.2385,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WAKEMAN RIVER BELOW ATWAYKELLESSE RIVER","state":"BC","siteId":"08GF007","longitude":-126.475,"latitude":51.1028,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WANNOCK RIVER AT OUTLET OF OWIKENO LAKE","state":"BC","siteId":"08FA002","longitude":-127.1792,"latitude":51.6792,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WEST CREEK NEAR FORT LANGLEY","state":"BC","siteId":"08MH098","longitude":-122.5319,"latitude":49.1477,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WEST KETTLE RIVER AT WESTBRIDGE","state":"BC","siteId":"08NN003","longitude":-118.9751,"latitude":49.1698,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WEST KETTLE RIVER NEAR MCCULLOCH","state":"BC","siteId":"08NN015","longitude":-119.0925,"latitude":49.7029,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WEST ROAD RIVER NEAR CINEMA","state":"BC","siteId":"08KG001","longitude":-122.8918,"latitude":53.3064,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WHITEMAN CREEK ABOVE BOULEAU CREEK","state":"BC","siteId":"08NM174","longitude":-119.5386,"latitude":50.2122,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WHITESAIL MIDDLE CREEK NEAR TAHTSA REACH","state":"BC","siteId":"08JA029","longitude":-126.9904,"latitude":53.6627,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WILLISTON LAKE AT LOST CABIN CREEK","state":"BC","siteId":"07EF002","longitude":-123.7482,"latitude":56.05,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WILLISTON LAKE NEAR SCHOOLER CREEK","state":"BC","siteId":"07EF003","longitude":-122.7161,"latitude":56.1064,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"WOKAS LAKE NEAR CAMPBELL RIVER","state":"BC","siteId":"08HD025","longitude":-125.5464,"latitude":49.9103,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"YAKOUN RIVER NEAR PORT CLEMENTS","state":"BC","siteId":"08OA002","longitude":-132.2097,"latitude":53.6139,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"YALAKOM RIVER ABOVE ORE CREEK","state":"BC","siteId":"08ME025","longitude":-122.2393,"latitude":50.9126,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ZEBALLOS RIVER AT MOOK PEAK","state":"BC","siteId":"08HE008","longitude":-126.8201,"latitude":50.1357,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ZEBALLOS RIVER NEAR ZEBALLOS","state":"BC","siteId":"08HE006","longitude":-126.8434,"latitude":50.0125,"source":"ENVIRONMENT_CANADA"},{"country":"CA","name":"ZYMOETZ RIVER ABOVE O.K. CREEK","state":"BC","siteId":"08EF005","longitude":-128.3247,"latitude":54.4936,"source":"ENVIRONMENT_CANADA"}]
+[
+    {
+        "country": "CA",
+        "gageName": "ADAMS LAKE NEAR SQUILAX",
+        "state": "BC",
+        "siteId": "08LD003",
+        "longitude": -119.6754,
+        "latitude": 50.9536,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ADAMS RIVER NEAR SQUILAX",
+        "state": "BC",
+        "siteId": "08LD001",
+        "longitude": -119.6563,
+        "latitude": 50.9376,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ADSETT CREEK AT KILOMETRE 386.0 ALASKA HIGHWAY",
+        "state": "BC",
+        "siteId": "10CD005",
+        "longitude": -122.7156,
+        "latitude": 58.106,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "AKIE RIVER NEAR THE 760 M CONTOUR",
+        "state": "BC",
+        "siteId": "07EA007",
+        "longitude": -124.9011,
+        "latitude": 57.1911,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ALOUETTE RIVER NEAR HANEY",
+        "state": "BC",
+        "siteId": "08MH005",
+        "longitude": -122.5798,
+        "latitude": 49.239,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ANDERSON CREEK NEAR NELSON",
+        "state": "BC",
+        "siteId": "08NJ130",
+        "longitude": -117.2613,
+        "latitude": 49.5019,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ANSEDAGAN CREEK NEAR NEW AIYANSH",
+        "state": "BC",
+        "siteId": "08DB013",
+        "longitude": -129.3549,
+        "latitude": 55.1299,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ARROW CREEK NEAR ERICKSON",
+        "state": "BC",
+        "siteId": "08NH084",
+        "longitude": -116.4525,
+        "latitude": 49.1591,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ARROW RESERVOIR AT FAUQUIER",
+        "state": "BC",
+        "siteId": "08NE102",
+        "longitude": -118.0817,
+        "latitude": 49.8721,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ARROW RESERVOIR AT NAKUSP",
+        "state": "BC",
+        "siteId": "08NE104",
+        "longitude": -117.7979,
+        "latitude": 50.2374,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ARROW RESERVOIR OUTFLOW",
+        "state": "BC",
+        "siteId": "08NE126",
+        "longitude": -117.7642,
+        "latitude": 49.3389,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ARROWSTONE CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08LF099",
+        "longitude": -121.24,
+        "latitude": 50.8358,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ASH RIVER BELOW MORAN CREEK",
+        "state": "BC",
+        "siteId": "08HB023",
+        "longitude": -124.9841,
+        "latitude": 49.3699,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ASHNOLA RIVER NEAR KEREMEOS",
+        "state": "BC",
+        "siteId": "08NL004",
+        "longitude": -119.9935,
+        "latitude": 49.2076,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ATLIN LAKE AT ATLIN",
+        "state": "BC",
+        "siteId": "09AA001",
+        "longitude": -133.7055,
+        "latitude": 59.5725,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ATLIN RIVER NEAR ATLIN",
+        "state": "BC",
+        "siteId": "09AA006",
+        "longitude": -133.8144,
+        "latitude": 59.5954,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ATNARKO RIVER NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08FB006",
+        "longitude": -126.0059,
+        "latitude": 52.3601,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BABINE LAKE AT TOPLEY LANDING",
+        "state": "BC",
+        "siteId": "08EC003",
+        "longitude": -126.1539,
+        "latitude": 54.8223,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BABINE RIVER AT BABINE",
+        "state": "BC",
+        "siteId": "08EC001",
+        "longitude": -126.6298,
+        "latitude": 55.3225,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BABINE RIVER AT OUTLET OF NILKITKWA LAKE",
+        "state": "BC",
+        "siteId": "08EC013",
+        "longitude": -126.6976,
+        "latitude": 55.4265,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BAKER CREEK AT QUESNEL",
+        "state": "BC",
+        "siteId": "08KE016",
+        "longitude": -122.5094,
+        "latitude": 52.9739,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BARRIERE RIVER AT THE MOUTH",
+        "state": "BC",
+        "siteId": "08LB020",
+        "longitude": -120.1265,
+        "latitude": 51.188,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BARRIERE RIVER BELOW SPRAGUE CREEK",
+        "state": "BC",
+        "siteId": "08LB069",
+        "longitude": -119.9377,
+        "latitude": 51.2453,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BEATON CREEK NEAR BEATON",
+        "state": "BC",
+        "siteId": "08NE008",
+        "longitude": -117.7293,
+        "latitude": 50.7345,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BEATTON RIVER NEAR FORT ST. JOHN",
+        "state": "BC",
+        "siteId": "07FC001",
+        "longitude": -120.6999,
+        "latitude": 56.2784,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BEAVER RIVER NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08NB019",
+        "longitude": -117.4653,
+        "latitude": 51.5091,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BELGO CREEK BELOW HILDA CREEK",
+        "state": "BC",
+        "siteId": "08NM232",
+        "longitude": -119.0728,
+        "latitude": 50.0004,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BELLA COOLA RIVER ABOVE HAMMER CREEK",
+        "state": "BC",
+        "siteId": "08FB011",
+        "longitude": -126.3524,
+        "latitude": 52.4392,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BERTRAND CREEK AT INTERNATIONAL BOUNDARY",
+        "state": "BC",
+        "siteId": "08MH152",
+        "longitude": -122.5234,
+        "latitude": 49.0024,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BESSETTE CREEK ABOVE BEAVERJACK CREEK",
+        "state": "BC",
+        "siteId": "08LC039",
+        "longitude": -118.8591,
+        "latitude": 50.2979,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BESSETTE CREEK ABOVE LUMBY LAGOON OUTFALL",
+        "state": "BC",
+        "siteId": "08LC042",
+        "longitude": -118.9612,
+        "latitude": 50.2525,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BIG CREEK ABOVE GROUNDHOG CREEK",
+        "state": "BC",
+        "siteId": "08MB006",
+        "longitude": -123.1159,
+        "latitude": 51.5237,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BIG CREEK BELOW GRAVEYARD CREEK",
+        "state": "BC",
+        "siteId": "08MB007",
+        "longitude": -123.1045,
+        "latitude": 51.254,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BIG SHEEP CREEK NEAR ROSSLAND",
+        "state": "BC",
+        "siteId": "08NE039",
+        "longitude": -117.9453,
+        "latitude": 49.0146,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BINGS CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08HA016",
+        "longitude": -123.7255,
+        "latitude": 48.7892,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BLAEBERRY RIVER ABOVE WILLOWBANK CREEK",
+        "state": "BC",
+        "siteId": "08NB012",
+        "longitude": -116.9694,
+        "latitude": 51.4825,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BLUE RIVER NEAR BLUE RIVER",
+        "state": "BC",
+        "siteId": "08LB038",
+        "longitude": -119.3019,
+        "latitude": 52.1167,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BLUEBERRY RIVER BELOW AITKEN CREEK",
+        "state": "BC",
+        "siteId": "07FC003",
+        "longitude": -121.2223,
+        "latitude": 56.6776,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BONAPARTE RIVER BELOW CACHE CREEK",
+        "state": "BC",
+        "siteId": "08LF002",
+        "longitude": -121.3233,
+        "latitude": 50.803,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BOUGIE CREEK AT KILOMETRE 368 ALASKA HIGHWAY",
+        "state": "BC",
+        "siteId": "10CD004",
+        "longitude": -122.7202,
+        "latitude": 58.0303,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BOWRON RIVER BELOW BOX CANYON",
+        "state": "BC",
+        "siteId": "08KD007",
+        "longitude": -122.1029,
+        "latitude": 54.0169,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BRIDGE CREEK BELOW DEKA CREEK",
+        "state": "BC",
+        "siteId": "08LA027",
+        "longitude": -120.9208,
+        "latitude": 51.5876,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BRIDGE RIVER (SOUTH BRANCH) BELOW BRIDGE GLACIER",
+        "state": "BC",
+        "siteId": "08ME023",
+        "longitude": -123.4533,
+        "latitude": 50.8562,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BRIDGE RIVER ABOVE DOWNTON LAKE",
+        "state": "BC",
+        "siteId": "08ME028",
+        "longitude": -123.2035,
+        "latitude": 50.8209,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BRIDGE RIVER BELOW LAJOIE DAM",
+        "state": "BC",
+        "siteId": "08ME029",
+        "longitude": -122.8494,
+        "latitude": 50.8454,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BROWNS RIVER NEAR COURTENAY",
+        "state": "BC",
+        "siteId": "08HB025",
+        "longitude": -125.0693,
+        "latitude": 49.6928,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BUCK CREEK AT THE MOUTH",
+        "state": "BC",
+        "siteId": "08EE013",
+        "longitude": -126.6502,
+        "latitude": 54.3961,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BULKLEY RIVER AT QUICK",
+        "state": "BC",
+        "siteId": "08EE004",
+        "longitude": -126.9,
+        "latitude": 54.6186,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BULKLEY RIVER NEAR HOUSTON",
+        "state": "BC",
+        "siteId": "08EE003",
+        "longitude": -126.7194,
+        "latitude": 54.3994,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BULKLEY RIVER NEAR SMITHERS",
+        "state": "BC",
+        "siteId": "08EE005",
+        "longitude": -127.1333,
+        "latitude": 54.7697,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BULL RIVER NEAR WARDNER",
+        "state": "BC",
+        "siteId": "08NG002",
+        "longitude": -115.3658,
+        "latitude": 49.4936,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BURRELL CREEK ABOVE GLOUCESTER CREEK",
+        "state": "BC",
+        "siteId": "08NN023",
+        "longitude": -118.3118,
+        "latitude": 49.5891,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "BUTTLE LAKE ABOVE UPPER CAMPBELL LAKE",
+        "state": "BC",
+        "siteId": "08HD033",
+        "longitude": -125.6161,
+        "latitude": 49.8358,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CAMP CREEK AT MOUTH NEAR THIRSK",
+        "state": "BC",
+        "siteId": "08NM134",
+        "longitude": -120.0112,
+        "latitude": 49.7123,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CAMPBELL RIVER (SPILLWAY FLOWS AT JOHN HART DAM)",
+        "state": "BC",
+        "siteId": "08HD029",
+        "longitude": -125.3371,
+        "latitude": 50.0433,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CAMPBELL RIVER AT ARGONAUT WHARF",
+        "state": "BC",
+        "siteId": "08HD024",
+        "longitude": -125.2472,
+        "latitude": 50.0423,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CAMPBELL RIVER AT CAMPBELL RIVER LODGE",
+        "state": "BC",
+        "siteId": "08HD022",
+        "longitude": -125.2676,
+        "latitude": 50.0336,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CAMPBELL RIVER NEAR CAMPBELL RIVER",
+        "state": "BC",
+        "siteId": "08HD003",
+        "longitude": -125.2947,
+        "latitude": 50.0381,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CANOE RIVER BELOW KIMMEL CREEK",
+        "state": "BC",
+        "siteId": "08NC004",
+        "longitude": -119.3849,
+        "latitude": 52.7315,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CAPILANO RIVER ABOVE INTAKE",
+        "state": "BC",
+        "siteId": "08GA010",
+        "longitude": -123.1458,
+        "latitude": 49.3962,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CAPILANO RIVER AT CANYON",
+        "state": "BC",
+        "siteId": "08GA031",
+        "longitude": -123.1109,
+        "latitude": 49.3579,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CARBON CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "07EF004",
+        "longitude": -122.6589,
+        "latitude": 55.9461,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CARNATION CREEK AT THE MOUTH",
+        "state": "BC",
+        "siteId": "08HB048",
+        "longitude": -124.9978,
+        "latitude": 48.9156,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CAYOOSH CREEK NEAR LILLOOET",
+        "state": "BC",
+        "siteId": "08ME002",
+        "longitude": -121.9653,
+        "latitude": 50.6693,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CEDAR CREEK ABOVE THE MOUTH",
+        "state": "BC",
+        "siteId": "08MH166",
+        "longitude": -122.7768,
+        "latitude": 49.381,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHASE CREEK ABOVE THE MOUTH",
+        "state": "BC",
+        "siteId": "08LE112",
+        "longitude": -119.6815,
+        "latitude": 50.8191,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHEAKAMUS RIVER ABOVE MILLAR CREEK",
+        "state": "BC",
+        "siteId": "08GA072",
+        "longitude": -123.0356,
+        "latitude": 50.0799,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHEAKAMUS RIVER NEAR BRACKENDALE",
+        "state": "BC",
+        "siteId": "08GA043",
+        "longitude": -123.1501,
+        "latitude": 49.816,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHEHALIS RIVER NEAR HARRISON MILLS",
+        "state": "BC",
+        "siteId": "08MG001",
+        "longitude": -121.9378,
+        "latitude": 49.3,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHEMAINUS RIVER NEAR WESTHOLME",
+        "state": "BC",
+        "siteId": "08HA001",
+        "longitude": -123.7046,
+        "latitude": 48.8784,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHILCOTIN RIVER NEAR HANCEVILLE",
+        "state": "BC",
+        "siteId": "08MB012",
+        "longitude": -123.0808,
+        "latitude": 51.9206,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHILKO RIVER AT OUTLET OF CHILKO LAKE",
+        "state": "BC",
+        "siteId": "08MA002",
+        "longitude": -124.1434,
+        "latitude": 51.6249,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHILKO RIVER NEAR REDSTONE",
+        "state": "BC",
+        "siteId": "08MA001",
+        "longitude": -123.5395,
+        "latitude": 52.0698,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHILLIWACK RIVER ABOVE SLESSE CREEK",
+        "state": "BC",
+        "siteId": "08MH103",
+        "longitude": -121.663,
+        "latitude": 49.1017,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHILLIWACK RIVER AT OUTLET OF CHILLIWACK LAKE",
+        "state": "BC",
+        "siteId": "08MH016",
+        "longitude": -121.4584,
+        "latitude": 49.0836,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHILLIWACK RIVER AT VEDDER CROSSING",
+        "state": "BC",
+        "siteId": "08MH001",
+        "longitude": -121.9675,
+        "latitude": 49.0974,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CHUCHINKA CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "07EE009",
+        "longitude": -122.6122,
+        "latitude": 54.5297,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CLARENCE CREEK NEAR ROSSWOOD",
+        "state": "BC",
+        "siteId": "08EG018",
+        "longitude": -128.8067,
+        "latitude": 54.9925,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CLARK CREEK NEAR WINFIELD",
+        "state": "BC",
+        "siteId": "08NM146",
+        "longitude": -119.336,
+        "latitude": 50.0488,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CLEARWATER RIVER NEAR CLEARWATER STATION",
+        "state": "BC",
+        "siteId": "08LA001",
+        "longitude": -120.066,
+        "latitude": 51.6557,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CLOWHOM RIVER NEAR CLOWHOM LAKE",
+        "state": "BC",
+        "siteId": "08GB013",
+        "longitude": -123.4204,
+        "latitude": 49.7872,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "COLDSTREAM CREEK ABOVE MUNICIPAL INTAKE",
+        "state": "BC",
+        "siteId": "08NM142",
+        "longitude": -119.0801,
+        "latitude": 50.2564,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "COLDWATER RIVER AT MERRITT",
+        "state": "BC",
+        "siteId": "08LG010",
+        "longitude": -120.803,
+        "latitude": 50.1098,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "COLDWATER RIVER NEAR BROOKMERE",
+        "state": "BC",
+        "siteId": "08LG048",
+        "longitude": -120.9085,
+        "latitude": 49.8542,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "COLUMBIA RIVER AT BIRCHBANK",
+        "state": "BC",
+        "siteId": "08NE049",
+        "longitude": -117.7177,
+        "latitude": 49.1778,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "COLUMBIA RIVER AT DONALD",
+        "state": "BC",
+        "siteId": "08NB005",
+        "longitude": -117.1804,
+        "latitude": 51.4833,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "COLUMBIA RIVER AT NICHOLSON",
+        "state": "BC",
+        "siteId": "08NA002",
+        "longitude": -116.9129,
+        "latitude": 51.2436,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "COMOX LAKE NEAR COURTENAY",
+        "state": "BC",
+        "siteId": "08HB082",
+        "longitude": -125.0917,
+        "latitude": 49.6421,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "COQUIHALLA RIVER ABOVE ALEXANDER CREEK",
+        "state": "BC",
+        "siteId": "08MF068",
+        "longitude": -121.3845,
+        "latitude": 49.3685,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "COQUIHALLA RIVER BELOW NEEDLE CREEK",
+        "state": "BC",
+        "siteId": "08MF062",
+        "longitude": -121.12,
+        "latitude": 49.5419,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "COQUITLAM LAKE FOREBAY",
+        "state": "BC",
+        "siteId": "08MH149",
+        "longitude": -122.7792,
+        "latitude": 49.3557,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "COQUITLAM RIVER ABOVE COQUITLAM LAKE",
+        "state": "BC",
+        "siteId": "08MH141",
+        "longitude": -122.7925,
+        "latitude": 49.4879,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "COQUITLAM RIVER AT PORT COQUITLAM",
+        "state": "BC",
+        "siteId": "08MH002",
+        "longitude": -122.7815,
+        "latitude": 49.2652,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CORNING CREEK NEAR SQUILAX",
+        "state": "BC",
+        "siteId": "08LE077",
+        "longitude": -119.5328,
+        "latitude": 50.9132,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "COTTONWOOD CREEK HEADWATERS",
+        "state": "BC",
+        "siteId": "08HA072",
+        "longitude": -124.2493,
+        "latitude": 48.9335,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "COTTONWOOD RIVER ABOVE BASS CREEK",
+        "state": "BC",
+        "siteId": "10AC005",
+        "longitude": -129.8255,
+        "latitude": 59.1175,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "COWICHAN LAKE NEAR LAKE COWICHAN",
+        "state": "BC",
+        "siteId": "08HA009",
+        "longitude": -124.0615,
+        "latitude": 48.8244,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "COWICHAN RIVER AT LAKE COWICHAN",
+        "state": "BC",
+        "siteId": "08HA002",
+        "longitude": -124.053,
+        "latitude": 48.8259,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "COWICHAN RIVER NEAR DUNCAN",
+        "state": "BC",
+        "siteId": "08HA011",
+        "longitude": -123.7145,
+        "latitude": 48.7731,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CRANBERRY CREEK ABOVE B.C. HYDRO INTAKE",
+        "state": "BC",
+        "siteId": "08NE123",
+        "longitude": -118.0807,
+        "latitude": 50.7939,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CREST LAKE NEAR HIGHWAY 28",
+        "state": "BC",
+        "siteId": "08HC006",
+        "longitude": -125.9067,
+        "latitude": 49.8411,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CRISS CREEK NEAR SAVONA",
+        "state": "BC",
+        "siteId": "08LF007",
+        "longitude": -120.9659,
+        "latitude": 50.8839,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "CRUICKSHANK RIVER NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08HB074",
+        "longitude": -125.214,
+        "latitude": 49.5788,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DAIRY CREEK ABOVE TSOTIN LAKE",
+        "state": "BC",
+        "siteId": "08LF100",
+        "longitude": -121.1544,
+        "latitude": 50.8408,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DASH CREEK ABOVE CHURN CREEK",
+        "state": "BC",
+        "siteId": "08MD035",
+        "longitude": -122.9217,
+        "latitude": 51.2449,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DEADMAN RIVER ABOVE CRISS CREEK",
+        "state": "BC",
+        "siteId": "08LF027",
+        "longitude": -120.976,
+        "latitude": 50.8981,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DEAN RIVER BELOW TANSWANKET CREEK",
+        "state": "BC",
+        "siteId": "08FC003",
+        "longitude": -125.7712,
+        "latitude": 52.8895,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DEER CREEK AT DEER PARK",
+        "state": "BC",
+        "siteId": "08NE087",
+        "longitude": -118.042,
+        "latitude": 49.4485,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DENNIS CREEK NEAR 1780 METRE CONTOUR",
+        "state": "BC",
+        "siteId": "08NM242",
+        "longitude": -119.3814,
+        "latitude": 49.6242,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DICKEBUSCH CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "07FB004",
+        "longitude": -121.5968,
+        "latitude": 55.5378,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DORE RIVER NEAR MCBRIDE",
+        "state": "BC",
+        "siteId": "08KA001",
+        "longitude": -120.249,
+        "latitude": 53.3092,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DOUGLAS LAKE AT SPAXOMIN",
+        "state": "BC",
+        "siteId": "08LG069",
+        "longitude": -120.2796,
+        "latitude": 50.1432,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DOVE CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08HB075",
+        "longitude": -125.0857,
+        "latitude": 49.7366,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DRIFTWOOD RIVER ABOVE KASTBERG CREEK",
+        "state": "BC",
+        "siteId": "08JD006",
+        "longitude": -126.6777,
+        "latitude": 55.9761,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DUCK CREEK NEAR WYNNDEL",
+        "state": "BC",
+        "siteId": "08NH016",
+        "longitude": -116.5339,
+        "latitude": 49.2026,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DUHAMEL CREEK ABOVE DIVERSIONS",
+        "state": "BC",
+        "siteId": "08NJ026",
+        "longitude": -117.2423,
+        "latitude": 49.5903,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DUNCAN RESERVOIR AT DUNCAN DAM",
+        "state": "BC",
+        "siteId": "08NH127",
+        "longitude": -116.9486,
+        "latitude": 50.2554,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DUNCAN RIVER BELOW B.B. CREEK",
+        "state": "BC",
+        "siteId": "08NH119",
+        "longitude": -117.048,
+        "latitude": 50.6375,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "DUNCAN RIVER BELOW LARDEAU RIVER",
+        "state": "BC",
+        "siteId": "08NH118",
+        "longitude": -116.9552,
+        "latitude": 50.2329,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "EAGLE RIVER NEAR MALAKWA",
+        "state": "BC",
+        "siteId": "08LE024",
+        "longitude": -118.8017,
+        "latitude": 50.9363,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "EAST CANOE CREEK ABOVE DAM",
+        "state": "BC",
+        "siteId": "08LE108",
+        "longitude": -119.1962,
+        "latitude": 50.6967,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ELAHO RIVER NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08GA071",
+        "longitude": -123.4284,
+        "latitude": 50.114,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ELK RIVER ABOVE CAMPBELL LAKE",
+        "state": "BC",
+        "siteId": "08HD018",
+        "longitude": -125.8127,
+        "latitude": 49.8572,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ELK RIVER AT FERNIE",
+        "state": "BC",
+        "siteId": "08NK002",
+        "longitude": -115.0701,
+        "latitude": 49.5035,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ELK RIVER BELOW ELKO DAM DIVERSION",
+        "state": "BC",
+        "siteId": "08NK030",
+        "longitude": -115.1036,
+        "latitude": 49.2881,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ELK RIVER NEAR NATAL",
+        "state": "BC",
+        "siteId": "08NK016",
+        "longitude": -114.8687,
+        "latitude": 49.8656,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ENGLISHMAN RIVER NEAR PARKSVILLE",
+        "state": "BC",
+        "siteId": "08HB002",
+        "longitude": -124.2853,
+        "latitude": 49.3161,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "EVE RIVER BELOW KUNNUM CREEK",
+        "state": "BC",
+        "siteId": "08HF015",
+        "longitude": -126.2324,
+        "latitude": 50.3163,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "EWART CREEK NEAR CATHEDRAL PARK",
+        "state": "BC",
+        "siteId": "08NL076",
+        "longitude": -120.0378,
+        "latitude": 49.1325,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "EXCHAMSIKS RIVER NEAR TERRACE",
+        "state": "BC",
+        "siteId": "08EG012",
+        "longitude": -129.3128,
+        "latitude": 54.3622,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FINLAY RIVER ABOVE AKIE RIVER",
+        "state": "BC",
+        "siteId": "07EA005",
+        "longitude": -125.2499,
+        "latitude": 57.1262,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FISHTRAP CREEK AT INTERNATIONAL BOUNDARY",
+        "state": "BC",
+        "siteId": "08MH153",
+        "longitude": -122.407,
+        "latitude": 49.0023,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FISHTRAP CREEK NEAR MCLURE",
+        "state": "BC",
+        "siteId": "08LB024",
+        "longitude": -120.2089,
+        "latitude": 51.122,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FITZSIMMONS CREEK BELOW BLACKCOMB CREEK",
+        "state": "BC",
+        "siteId": "08MG026",
+        "longitude": -122.9488,
+        "latitude": 50.1203,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FLATBED CREEK AT KILOMETRE 110 HERITAGE HIGHWAY",
+        "state": "BC",
+        "siteId": "07FB009",
+        "longitude": -120.9418,
+        "latitude": 55.0902,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FONTAS RIVER NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "10CA001",
+        "longitude": -121.4639,
+        "latitude": 58.2712,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FORDING RIVER AT THE MOUTH",
+        "state": "BC",
+        "siteId": "08NK018",
+        "longitude": -114.8667,
+        "latitude": 49.894,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FRASER RIVER ABOVE TEXAS CREEK",
+        "state": "BC",
+        "siteId": "08MF040",
+        "longitude": -121.8534,
+        "latitude": 50.6137,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FRASER RIVER AT BIG BAR CREEK",
+        "state": "BC",
+        "siteId": "08MD013",
+        "longitude": -122.1321,
+        "latitude": 51.1837,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FRASER RIVER AT HANSARD",
+        "state": "BC",
+        "siteId": "08KA004",
+        "longitude": -121.8504,
+        "latitude": 54.0787,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FRASER RIVER AT HARRISON MILLS",
+        "state": "BC",
+        "siteId": "08MF073",
+        "longitude": -121.9471,
+        "latitude": 49.2181,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FRASER RIVER AT HOPE",
+        "state": "BC",
+        "siteId": "08MF005",
+        "longitude": -121.4542,
+        "latitude": 49.386,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FRASER RIVER AT LAIDLAW",
+        "state": "BC",
+        "siteId": "08MF072",
+        "longitude": -121.6293,
+        "latitude": 49.3177,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FRASER RIVER AT MCBRIDE",
+        "state": "BC",
+        "siteId": "08KA005",
+        "longitude": -120.1409,
+        "latitude": 53.3017,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FRASER RIVER AT MISSION",
+        "state": "BC",
+        "siteId": "08MH024",
+        "longitude": -122.3029,
+        "latitude": 49.1277,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FRASER RIVER AT PORT MANN PUMPING STATION",
+        "state": "BC",
+        "siteId": "08MH126",
+        "longitude": -122.8247,
+        "latitude": 49.2178,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FRASER RIVER AT RED PASS",
+        "state": "BC",
+        "siteId": "08KA007",
+        "longitude": -119.0067,
+        "latitude": 52.9863,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FRASER RIVER AT SHELLEY",
+        "state": "BC",
+        "siteId": "08KB001",
+        "longitude": -122.6247,
+        "latitude": 54.0037,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FRASER RIVER AT SOUTH FORT GEORGE",
+        "state": "BC",
+        "siteId": "08KE018",
+        "longitude": -122.7349,
+        "latitude": 53.9008,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FRASER RIVER NEAR AGASSIZ",
+        "state": "BC",
+        "siteId": "08MF035",
+        "longitude": -121.7758,
+        "latitude": 49.2037,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "FRASER RIVER NEAR MARGUERITE",
+        "state": "BC",
+        "siteId": "08MC018",
+        "longitude": -122.4443,
+        "latitude": 52.5303,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GARBAGE CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08HA068",
+        "longitude": -124.1057,
+        "latitude": 48.5784,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GOATHORN CREEK NEAR TELKWA",
+        "state": "BC",
+        "siteId": "08EE008",
+        "longitude": -127.1233,
+        "latitude": 54.6486,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GOLD RIVER ABOVE PALMER CREEK",
+        "state": "BC",
+        "siteId": "08NB014",
+        "longitude": -117.7185,
+        "latitude": 51.678,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GOLD RIVER BELOW UCONA RIVER",
+        "state": "BC",
+        "siteId": "08HC001",
+        "longitude": -126.1114,
+        "latitude": 49.7023,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GOLDSTREAM RIVER BELOW OLD CAMP CREEK",
+        "state": "BC",
+        "siteId": "08ND012",
+        "longitude": -118.5962,
+        "latitude": 51.6688,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GRAHAM RIVER ABOVE COLT CREEK",
+        "state": "BC",
+        "siteId": "07FA005",
+        "longitude": -122.3545,
+        "latitude": 56.4599,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GRANBY RIVER AT GRAND FORKS",
+        "state": "BC",
+        "siteId": "08NN002",
+        "longitude": -118.4404,
+        "latitude": 49.0433,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GREATA CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08NM173",
+        "longitude": -119.852,
+        "latitude": 49.7946,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GREELEY CREEK ABOVE DIVERSION",
+        "state": "BC",
+        "siteId": "08ND021",
+        "longitude": -118.057,
+        "latitude": 51.006,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GUICHON CREEK ABOVE TUNKWA LAKE DIVERSION",
+        "state": "BC",
+        "siteId": "08LG056",
+        "longitude": -120.9109,
+        "latitude": 50.6078,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "GUICHON CREEK AT OUTLET OF MAMIT LAKE",
+        "state": "BC",
+        "siteId": "08LG041",
+        "longitude": -120.8099,
+        "latitude": 50.3611,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HALFWAY RIVER ABOVE GRAHAM RIVER",
+        "state": "BC",
+        "siteId": "07FA003",
+        "longitude": -122.2432,
+        "latitude": 56.5089,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HALFWAY RIVER NEAR FARRELL CREEK",
+        "state": "BC",
+        "siteId": "07FA006",
+        "longitude": -121.6285,
+        "latitude": 56.2508,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HARPER CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08LB076",
+        "longitude": -119.8816,
+        "latitude": 51.3544,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HARRIS CREEK NEAR LAKE COWICHAN",
+        "state": "BC",
+        "siteId": "08HA070",
+        "longitude": -124.2261,
+        "latitude": 48.7194,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HARRISON LAKE NEAR HARRISON HOT SPRINGS",
+        "state": "BC",
+        "siteId": "08MG012",
+        "longitude": -121.7737,
+        "latitude": 49.3093,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HARRISON RIVER AT HARRISON MILLS",
+        "state": "BC",
+        "siteId": "08MG014",
+        "longitude": -121.9593,
+        "latitude": 49.2346,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HARRISON RIVER BELOW MORRIS CREEK",
+        "state": "BC",
+        "siteId": "08MG022",
+        "longitude": -121.9042,
+        "latitude": 49.285,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HARRISON RIVER NEAR HARRISON HOT SPRINGS",
+        "state": "BC",
+        "siteId": "08MG013",
+        "longitude": -121.8296,
+        "latitude": 49.3004,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HAYWARD LAKE ABOVE RUSKIN DAM",
+        "state": "BC",
+        "siteId": "08MH167",
+        "longitude": -122.4074,
+        "latitude": 49.1979,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HEDLEY CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08NL050",
+        "longitude": -120.0726,
+        "latitude": 49.3589,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HIDDEN CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08NE114",
+        "longitude": -117.2392,
+        "latitude": 49.2345,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HIRSCH CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08FF002",
+        "longitude": -128.6026,
+        "latitude": 54.064,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HOMATHKO RIVER AT INLET TO TATLAYOKO LAKE",
+        "state": "BC",
+        "siteId": "08GD008",
+        "longitude": -124.4072,
+        "latitude": 51.6732,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HOMATHKO RIVER AT THE MOUTH",
+        "state": "BC",
+        "siteId": "08GD004",
+        "longitude": -124.9186,
+        "latitude": 50.9864,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HONNA RIVER NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08OA004",
+        "longitude": -132.138,
+        "latitude": 53.2527,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HORSEFLY RIVER ABOVE MCKINLEY CREEK",
+        "state": "BC",
+        "siteId": "08KH010",
+        "longitude": -121.0669,
+        "latitude": 52.2914,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HORSEFLY RIVER ABOVE QUESNEL LAKE",
+        "state": "BC",
+        "siteId": "08KH031",
+        "longitude": -121.4181,
+        "latitude": 52.4443,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HORSESHOE RIVER ABOVE LOIS LAKE",
+        "state": "BC",
+        "siteId": "08GB014",
+        "longitude": -124.2784,
+        "latitude": 49.878,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HOSMER CREEK ABOVE DIVERSIONS",
+        "state": "BC",
+        "siteId": "08NK026",
+        "longitude": -114.9539,
+        "latitude": 49.5842,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HOWELL CREEK ABOVE CABIN CREEK",
+        "state": "BC",
+        "siteId": "08NP003",
+        "longitude": -114.5358,
+        "latitude": 49.0947,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HUMPHRIES CREEK NEAR TROUT LAKE",
+        "state": "BC",
+        "siteId": "08NH138",
+        "longitude": -117.5447,
+        "latitude": 50.6336,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "HURLEY RIVER BELOW LONE GOAT CREEK",
+        "state": "BC",
+        "siteId": "08ME027",
+        "longitude": -122.942,
+        "latitude": 50.7309,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ICY CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08GE003",
+        "longitude": -125.6715,
+        "latitude": 51.2276,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ILLECILLEWAET RIVER AT GREELEY",
+        "state": "BC",
+        "siteId": "08ND013",
+        "longitude": -118.0851,
+        "latitude": 51.0126,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "INGENIKA RIVER ABOVE SWANNELL RIVER",
+        "state": "BC",
+        "siteId": "07EA004",
+        "longitude": -125.105,
+        "latitude": 56.7306,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "INKANEEP CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08NM200",
+        "longitude": -119.5021,
+        "latitude": 49.0778,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "INONOAKLIN CREEK ABOVE VALLEY CREEK",
+        "state": "BC",
+        "siteId": "08NE110",
+        "longitude": -118.1898,
+        "latitude": 49.8969,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ISKUT RIVER BELOW JOHNSON RIVER",
+        "state": "BC",
+        "siteId": "08CG001",
+        "longitude": -131.669,
+        "latitude": 56.7344,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "JOE ROSS CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08LF094",
+        "longitude": -120.8582,
+        "latitude": 51.1523,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "JUMP CREEK AT THE MOUTH",
+        "state": "BC",
+        "siteId": "08HB041",
+        "longitude": -124.1868,
+        "latitude": 49.025,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KALAMALKA LAKE AT VERNON PUMPHOUSE",
+        "state": "BC",
+        "siteId": "08NM143",
+        "longitude": -119.2744,
+        "latitude": 50.2299,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KANAKA CREEK NEAR WEBSTER CORNERS",
+        "state": "BC",
+        "siteId": "08MH076",
+        "longitude": -122.5366,
+        "latitude": 49.2071,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KASLO RIVER BELOW KEMP CREEK",
+        "state": "BC",
+        "siteId": "08NH005",
+        "longitude": -116.9535,
+        "latitude": 49.9076,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KEEN CREEK BELOW KYAWATS CREEK",
+        "state": "BC",
+        "siteId": "08NH132",
+        "longitude": -117.122,
+        "latitude": 49.8726,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KELLY CREEK NEAR STEWART",
+        "state": "BC",
+        "siteId": "08DA012",
+        "longitude": -129.2295,
+        "latitude": 56.2925,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KEMANO POWERHOUSE",
+        "state": "BC",
+        "siteId": "08FE002",
+        "longitude": -127.9361,
+        "latitude": 53.5611,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KEMANO RIVER ABOVE POWERHOUSE TAILRACE",
+        "state": "BC",
+        "siteId": "08FE003",
+        "longitude": -127.9524,
+        "latitude": 53.5635,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KEOGH RIVER NEAR PORT HARDY",
+        "state": "BC",
+        "siteId": "08HF014",
+        "longitude": -127.3487,
+        "latitude": 50.672,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KEREMEOS CREEK BELOW WILLIS INTAKE",
+        "state": "BC",
+        "siteId": "08NL045",
+        "longitude": -119.8258,
+        "latitude": 49.2589,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KETTLE RIVER NEAR WESTBRIDGE",
+        "state": "BC",
+        "siteId": "08NN026",
+        "longitude": -118.9281,
+        "latitude": 49.23,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KICKING HORSE RIVER AT GOLDEN",
+        "state": "BC",
+        "siteId": "08NA006",
+        "longitude": -116.9721,
+        "latitude": 51.3012,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KINBASKET LAKE AT MICA DAM",
+        "state": "BC",
+        "siteId": "08ND017",
+        "longitude": -118.5617,
+        "latitude": 52.0781,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KINBASKET LAKE BELOW GARRETT CREEK",
+        "state": "BC",
+        "siteId": "08NB017",
+        "longitude": -117.9121,
+        "latitude": 51.8907,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KINGCOME RIVER BELOW ATLATZI RIVER",
+        "state": "BC",
+        "siteId": "08GF009",
+        "longitude": -126.1178,
+        "latitude": 51.0025,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KISKATINAW RIVER BELOW BORDEN CREEK",
+        "state": "BC",
+        "siteId": "07FD019",
+        "longitude": -120.2735,
+        "latitude": 55.1928,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KISKATINAW RIVER NEAR FARMINGTON",
+        "state": "BC",
+        "siteId": "07FD001",
+        "longitude": -120.5644,
+        "latitude": 55.9574,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KISPIOX RIVER NEAR HAZELTON",
+        "state": "BC",
+        "siteId": "08EB004",
+        "longitude": -127.7162,
+        "latitude": 55.4338,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KITIMAT RIVER BELOW HIRSCH CREEK",
+        "state": "BC",
+        "siteId": "08FF001",
+        "longitude": -128.6905,
+        "latitude": 54.0487,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KITSUMKALUM RIVER BELOW ALICE CREEK",
+        "state": "BC",
+        "siteId": "08EG019",
+        "longitude": -128.744,
+        "latitude": 54.6793,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KLASKISH RIVER NEAR KLASKINO INLET",
+        "state": "BC",
+        "siteId": "08HE009",
+        "longitude": -127.6979,
+        "latitude": 50.2901,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KLINAKLINI RIVER EAST CHANNEL (MAIN) NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08GE002",
+        "longitude": -125.5944,
+        "latitude": 51.1448,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KLOIYA RIVER NEAR PRINCE RUPERT",
+        "state": "BC",
+        "siteId": "08EG016",
+        "longitude": -130.173,
+        "latitude": 54.2471,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KOKSILAH RIVER AT COWICHAN STATION",
+        "state": "BC",
+        "siteId": "08HA003",
+        "longitude": -123.6708,
+        "latitude": 48.7278,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KOOTENAY LAKE AT KUSKONOOK",
+        "state": "BC",
+        "siteId": "08NH067",
+        "longitude": -116.6596,
+        "latitude": 49.2988,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KOOTENAY LAKE AT QUEENS BAY",
+        "state": "BC",
+        "siteId": "08NH064",
+        "longitude": -116.9303,
+        "latitude": 49.654,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KOOTENAY LAKE OUTFLOW NEAR CORRA LINN",
+        "state": "BC",
+        "siteId": "08NJ158",
+        "longitude": -117.465,
+        "latitude": 49.4669,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KOOTENAY RIVER AT FORT STEELE",
+        "state": "BC",
+        "siteId": "08NG065",
+        "longitude": -115.6353,
+        "latitude": 49.612,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KOOTENAY RIVER AT KOOTENAY CROSSING",
+        "state": "BC",
+        "siteId": "08NF001",
+        "longitude": -116.0461,
+        "latitude": 50.887,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "KUSKANAX CREEK NEAR NAKUSP",
+        "state": "BC",
+        "siteId": "08NE006",
+        "longitude": -117.7345,
+        "latitude": 50.2829,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LARDEAU RIVER AT MARBLEHEAD",
+        "state": "BC",
+        "siteId": "08NH007",
+        "longitude": -116.9683,
+        "latitude": 50.2629,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LAVENTIE CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08JA015",
+        "longitude": -127.5377,
+        "latitude": 53.6521,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LEMIEUX CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08LB078",
+        "longitude": -120.202,
+        "latitude": 51.4276,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LEMON CREEK ABOVE SOUTH LEMON CREEK",
+        "state": "BC",
+        "siteId": "08NJ160",
+        "longitude": -117.446,
+        "latitude": 49.6971,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LIARD RIVER AT LOWER CROSSING",
+        "state": "BC",
+        "siteId": "10BE001",
+        "longitude": -126.0972,
+        "latitude": 59.4125,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LILLOOET LAKE NEAR PEMBERTON",
+        "state": "BC",
+        "siteId": "08MG020",
+        "longitude": -122.4811,
+        "latitude": 50.2404,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LILLOOET RIVER AT TENAS NARROWS",
+        "state": "BC",
+        "siteId": "08MG027",
+        "longitude": -122.5366,
+        "latitude": 50.0916,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LILLOOET RIVER NEAR PEMBERTON",
+        "state": "BC",
+        "siteId": "08MG005",
+        "longitude": -122.8002,
+        "latitude": 50.336,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LINE CREEK AT THE MOUTH",
+        "state": "BC",
+        "siteId": "08NK022",
+        "longitude": -114.8334,
+        "latitude": 49.8915,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LINGFIELD CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08MA006",
+        "longitude": -124.1453,
+        "latitude": 51.6739,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LITTLE OYSTER RIVER AT YORKE ROAD",
+        "state": "BC",
+        "siteId": "08HD023",
+        "longitude": -125.232,
+        "latitude": 49.9116,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LITTLE QUALICUM RIVER NEAR QUALICUM BEACH",
+        "state": "BC",
+        "siteId": "08HB029",
+        "longitude": -124.4834,
+        "latitude": 49.3546,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LITTLE SWIFT RIVER AT THE MOUTH",
+        "state": "BC",
+        "siteId": "08KE024",
+        "longitude": -121.7675,
+        "latitude": 52.9149,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LITTLE WEDEENE RIVER BELOW BOWBYES CREEK",
+        "state": "BC",
+        "siteId": "08FF003",
+        "longitude": -128.69,
+        "latitude": 54.1364,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "LOST HORSE CREEK NEAR CHRISTIAN VALLEY",
+        "state": "BC",
+        "siteId": "08NN028",
+        "longitude": -118.8493,
+        "latitude": 49.3658,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "M3 CREEK NEAR SMITHERS",
+        "state": "BC",
+        "siteId": "08EF006",
+        "longitude": -127.4693,
+        "latitude": 54.7783,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MACKAY CREEK AT MONTROYAL BOULEVARD",
+        "state": "BC",
+        "siteId": "08GA061",
+        "longitude": -123.0999,
+        "latitude": 49.3562,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MAMQUAM RIVER ABOVE RING CREEK",
+        "state": "BC",
+        "siteId": "08GA075",
+        "longitude": -123.1021,
+        "latitude": 49.7259,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MATHER CREEK BELOW HOULE CREEK",
+        "state": "BC",
+        "siteId": "08NG076",
+        "longitude": -115.8967,
+        "latitude": 49.7137,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MCGREGOR RIVER AT LOWER CANYON",
+        "state": "BC",
+        "siteId": "08KB003",
+        "longitude": -121.6687,
+        "latitude": 54.2312,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MCKALE RIVER NEAR 940 M CONTOUR",
+        "state": "BC",
+        "siteId": "08KA009",
+        "longitude": -120.2201,
+        "latitude": 53.4441,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MCKINLEY CREEK BELOW OUTLET OF MCKINLEY LAKE",
+        "state": "BC",
+        "siteId": "08KH020",
+        "longitude": -121.0014,
+        "latitude": 52.2808,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MESILINKA RIVER ABOVE GOPHERHOLE CREEK",
+        "state": "BC",
+        "siteId": "07EC003",
+        "longitude": -124.6447,
+        "latitude": 56.245,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MILLSTONE RIVER AT NANAIMO",
+        "state": "BC",
+        "siteId": "08HB032",
+        "longitude": -123.969,
+        "latitude": 49.1774,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MISSION CREEK NEAR EAST KELOWNA",
+        "state": "BC",
+        "siteId": "08NM116",
+        "longitude": -119.4135,
+        "latitude": 49.8779,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MOBERLY RIVER NEAR FORT ST. JOHN",
+        "state": "BC",
+        "siteId": "07FB008",
+        "longitude": -121.3668,
+        "latitude": 56.0925,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MOFFAT CREEK NEAR HORSEFLY",
+        "state": "BC",
+        "siteId": "08KH019",
+        "longitude": -121.4084,
+        "latitude": 52.3157,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MORICE RIVER NEAR HOUSTON",
+        "state": "BC",
+        "siteId": "08ED002",
+        "longitude": -127.4266,
+        "latitude": 54.1168,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MORKILL RIVER BELOW HELLROARING CREEK",
+        "state": "BC",
+        "siteId": "08KA013",
+        "longitude": -120.5914,
+        "latitude": 53.6817,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MOYIE RIVER ABOVE NOKE CREEK ",
+        "state": "BC",
+        "siteId": "08NH139",
+        "longitude": -115.9978,
+        "latitude": 49.3995,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MULLER CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08KB006",
+        "longitude": -120.9774,
+        "latitude": 54.2968,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MURRAY RIVER ABOVE WOLVERINE RIVER",
+        "state": "BC",
+        "siteId": "07FB006",
+        "longitude": -121.0138,
+        "latitude": 55.0614,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MURRAY RIVER NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "07FB002",
+        "longitude": -121.2035,
+        "latitude": 55.5525,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "MUSKWA RIVER NEAR FORT NELSON",
+        "state": "BC",
+        "siteId": "10CD001",
+        "longitude": -122.6616,
+        "latitude": 58.7881,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NADINA LAKE NEAR NORALEE",
+        "state": "BC",
+        "siteId": "08JB007",
+        "longitude": -126.9708,
+        "latitude": 53.9042,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NADINA RIVER AT OUTLET OF NADINA LAKE",
+        "state": "BC",
+        "siteId": "08JB008",
+        "longitude": -126.9547,
+        "latitude": 53.9025,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NAHATLATCH RIVER BELOW TACHEWANA CREEK",
+        "state": "BC",
+        "siteId": "08MF065",
+        "longitude": -121.8629,
+        "latitude": 49.9539,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NANAIMO RIVER NEAR CASSIDY",
+        "state": "BC",
+        "siteId": "08HB034",
+        "longitude": -123.8869,
+        "latitude": 49.0686,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NANIKA RIVER AT OUTLET OF KIDPRICE LAKE",
+        "state": "BC",
+        "siteId": "08ED001",
+        "longitude": -127.4517,
+        "latitude": 53.9303,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NASS RIVER ABOVE SHUMAL CREEK",
+        "state": "BC",
+        "siteId": "08DB001",
+        "longitude": -129.085,
+        "latitude": 55.2622,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NATION RIVER NEAR FORT ST. JAMES",
+        "state": "BC",
+        "siteId": "07ED001",
+        "longitude": -124.2333,
+        "latitude": 55.2,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NATION RIVER NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "07ED003",
+        "longitude": -123.6334,
+        "latitude": 55.4272,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NAUTLEY RIVER NEAR FORT FRASER",
+        "state": "BC",
+        "siteId": "08JB003",
+        "longitude": -124.6009,
+        "latitude": 54.0851,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NECHAKO RESERVOIR AT SKINS LAKE SPILLWAY",
+        "state": "BC",
+        "siteId": "08JA023",
+        "longitude": -125.9972,
+        "latitude": 53.7724,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NECHAKO RIVER AT ISLE PIERRE",
+        "state": "BC",
+        "siteId": "08JC002",
+        "longitude": -123.2349,
+        "latitude": 53.9604,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NECHAKO RIVER AT VANDERHOOF",
+        "state": "BC",
+        "siteId": "08JC001",
+        "longitude": -124.0087,
+        "latitude": 54.0267,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NECHAKO RIVER BELOW CHESLATTA FALLS",
+        "state": "BC",
+        "siteId": "08JA017",
+        "longitude": -124.8393,
+        "latitude": 53.6855,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NICOLA LAKE NEAR QUILCHENA",
+        "state": "BC",
+        "siteId": "08LG046",
+        "longitude": -120.5251,
+        "latitude": 50.1584,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NICOLA RIVER AT OUTLET OF DOUGLAS LAKE",
+        "state": "BC",
+        "siteId": "08LG028",
+        "longitude": -120.2836,
+        "latitude": 50.1399,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NICOLA RIVER AT OUTLET OF NICOLA LAKE",
+        "state": "BC",
+        "siteId": "08LG065",
+        "longitude": -120.6688,
+        "latitude": 50.1621,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NICOLA RIVER NEAR SPENCES BRIDGE",
+        "state": "BC",
+        "siteId": "08LG006",
+        "longitude": -121.2268,
+        "latitude": 50.3309,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NICOMEKL RIVER AT 203 STREET, LANGLEY",
+        "state": "BC",
+        "siteId": "08MH155",
+        "longitude": -122.6601,
+        "latitude": 49.0957,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NILE CREEK NEAR BOWSER",
+        "state": "BC",
+        "siteId": "08HB022",
+        "longitude": -124.6524,
+        "latitude": 49.4185,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NIMPKISH RIVER ABOVE WOSS RIVER",
+        "state": "BC",
+        "siteId": "08HF005",
+        "longitude": -126.6108,
+        "latitude": 50.2148,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NORDIC CREEK AT THE OUTLET OF NORDIC GLACIER",
+        "state": "BC",
+        "siteId": "08NB020",
+        "longitude": -117.694,
+        "latitude": 51.4488,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NORTH ALOUETTE RIVER AT 232ND STREET, MAPLE RIDGE",
+        "state": "BC",
+        "siteId": "08MH006",
+        "longitude": -122.5802,
+        "latitude": 49.2426,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NORTH BEACH CREEK ABOVE ALLIN CREEK",
+        "state": "BC",
+        "siteId": "08JB013",
+        "longitude": -125.9283,
+        "latitude": 54.1269,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NORTH THOMPSON RIVER AT BIRCH ISLAND",
+        "state": "BC",
+        "siteId": "08LB047",
+        "longitude": -119.9144,
+        "latitude": 51.6019,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "NORTH THOMPSON RIVER AT MCLURE",
+        "state": "BC",
+        "siteId": "08LB064",
+        "longitude": -120.2405,
+        "latitude": 51.0409,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "OKANAGAN LAKE AT KELOWNA",
+        "state": "BC",
+        "siteId": "08NM083",
+        "longitude": -119.4997,
+        "latitude": 49.8861,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "OKANAGAN RIVER AT OKANAGAN FALLS",
+        "state": "BC",
+        "siteId": "08NM002",
+        "longitude": -119.5804,
+        "latitude": 49.342,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "OKANAGAN RIVER AT PENTICTON",
+        "state": "BC",
+        "siteId": "08NM050",
+        "longitude": -119.6154,
+        "latitude": 49.4985,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "OKANAGAN RIVER BELOW MCINTYRE DAM",
+        "state": "BC",
+        "siteId": "08NM247",
+        "longitude": -119.528,
+        "latitude": 49.2568,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "OKANAGAN RIVER NEAR OLIVER",
+        "state": "BC",
+        "siteId": "08NM085",
+        "longitude": -119.5667,
+        "latitude": 49.1146,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "OMINECA RIVER ABOVE OSILINKA RIVER",
+        "state": "BC",
+        "siteId": "07EC002",
+        "longitude": -124.5676,
+        "latitude": 55.9169,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "OR CREEK NEAR COQUITLAM",
+        "state": "BC",
+        "siteId": "08MH168",
+        "longitude": -122.7347,
+        "latitude": 49.3639,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "OSILINKA RIVER NEAR END LAKE",
+        "state": "BC",
+        "siteId": "07EC004",
+        "longitude": -124.8019,
+        "latitude": 56.1269,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "OSPIKA RIVER ABOVE ALEY CREEK",
+        "state": "BC",
+        "siteId": "07EB002",
+        "longitude": -123.936,
+        "latitude": 56.5241,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "OWIKENO LAKE AT RIVERS INLET",
+        "state": "BC",
+        "siteId": "08FA007",
+        "longitude": -127.1674,
+        "latitude": 51.6922,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "OYSTER RIVER BELOW WOODHUS CREEK",
+        "state": "BC",
+        "siteId": "08HD011",
+        "longitude": -125.2418,
+        "latitude": 49.8946,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PACK RIVER AT OUTLET OF MCLEOD LAKE",
+        "state": "BC",
+        "siteId": "07EE010",
+        "longitude": -123.0366,
+        "latitude": 54.9985,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PALLANT CREEK NEAR QUEEN CHARLOTTE",
+        "state": "BC",
+        "siteId": "08OB002",
+        "longitude": -132.0514,
+        "latitude": 53.0573,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PARSNIP RIVER ABOVE MISINCHINKA RIVER",
+        "state": "BC",
+        "siteId": "07EE007",
+        "longitude": -122.9131,
+        "latitude": 55.0819,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PASAYTEN RIVER ABOVE CALCITE CREEK",
+        "state": "BC",
+        "siteId": "08NL069",
+        "longitude": -120.5794,
+        "latitude": 49.0989,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PEACE RIVER ABOVE ALCES RIVER",
+        "state": "BC",
+        "siteId": "07FD010",
+        "longitude": -120.0575,
+        "latitude": 56.1269,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PEACE RIVER ABOVE PINE RIVER",
+        "state": "BC",
+        "siteId": "07FA004",
+        "longitude": -120.8145,
+        "latitude": 56.1993,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PEACE RIVER NEAR TAYLOR",
+        "state": "BC",
+        "siteId": "07FD002",
+        "longitude": -120.6724,
+        "latitude": 56.1394,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PEARSON CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08NM172",
+        "longitude": -119.0617,
+        "latitude": 49.8869,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PEMBERTON CREEK NEAR PEMBERTON",
+        "state": "BC",
+        "siteId": "08MG025",
+        "longitude": -122.8046,
+        "latitude": 50.3155,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PENFOLD CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08KH030",
+        "longitude": -120.7497,
+        "latitude": 52.7919,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PENNASK CREEK NEAR QUILCHENA",
+        "state": "BC",
+        "siteId": "08LG016",
+        "longitude": -120.1349,
+        "latitude": 49.9649,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PEPIN CREEK AT INTERNATIONAL BOUNDARY",
+        "state": "BC",
+        "siteId": "08MH156",
+        "longitude": -122.4719,
+        "latitude": 49.0037,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PETITOT RIVER BELOW HIGHWAY NO. 77",
+        "state": "BC",
+        "siteId": "10DA001",
+        "longitude": -122.9564,
+        "latitude": 59.9889,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PINE RIVER AT EAST PINE",
+        "state": "BC",
+        "siteId": "07FB001",
+        "longitude": -121.2116,
+        "latitude": 55.7184,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PINKUT CREEK NEAR TINTAGEL",
+        "state": "BC",
+        "siteId": "08EC004",
+        "longitude": -125.4298,
+        "latitude": 54.4054,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PITT RIVER NEAR PORT COQUITLAM",
+        "state": "BC",
+        "siteId": "08MH035",
+        "longitude": -122.7341,
+        "latitude": 49.2448,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "POUCE COUPE RIVER BELOW HENDERSON CREEK",
+        "state": "BC",
+        "siteId": "07FD007",
+        "longitude": -120.0304,
+        "latitude": 55.8652,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PREMIER CREEK NEAR QUEEN CHARLOTTE",
+        "state": "BC",
+        "siteId": "08OA003",
+        "longitude": -132.075,
+        "latitude": 53.2586,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PUGH CREEK NEAR NAHWITTI LAKE",
+        "state": "BC",
+        "siteId": "08HF012",
+        "longitude": -127.8822,
+        "latitude": 50.7345,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PUNTLEDGE RIVER AT COURTENAY",
+        "state": "BC",
+        "siteId": "08HB006",
+        "longitude": -125.0342,
+        "latitude": 49.688,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "PUNTLEDGE RIVER BELOW DIVERSION",
+        "state": "BC",
+        "siteId": "08HB084",
+        "longitude": -125.0872,
+        "latitude": 49.6683,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "QUESNEL LAKE NEAR LIKELY",
+        "state": "BC",
+        "siteId": "08KH011",
+        "longitude": -121.5403,
+        "latitude": 52.5747,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "QUESNEL RIVER AT LIKELY",
+        "state": "BC",
+        "siteId": "08KH001",
+        "longitude": -121.5723,
+        "latitude": 52.6158,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "QUESNEL RIVER NEAR QUESNEL",
+        "state": "BC",
+        "siteId": "08KH006",
+        "longitude": -122.2253,
+        "latitude": 52.8431,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "QUILCHENA CREEK AT QUILCHENA",
+        "state": "BC",
+        "siteId": "08LG017",
+        "longitude": -120.4999,
+        "latitude": 50.1416,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "QUINSAM DIVERSION NEAR CAMPBELL RIVER",
+        "state": "BC",
+        "siteId": "08HD026",
+        "longitude": -125.5253,
+        "latitude": 49.9415,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "QUINSAM RIVER AT ARGONAUT BRIDGE",
+        "state": "BC",
+        "siteId": "08HD021",
+        "longitude": -125.5096,
+        "latitude": 49.9298,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "QUINSAM RIVER BELOW LOWER QUINSAM LAKE",
+        "state": "BC",
+        "siteId": "08HD027",
+        "longitude": -125.339,
+        "latitude": 49.9296,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "QUINSAM RIVER NEAR CAMPBELL RIVER",
+        "state": "BC",
+        "siteId": "08HD005",
+        "longitude": -125.3,
+        "latitude": 50.0292,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "RASPBERRY CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "10CD003",
+        "longitude": -123.3189,
+        "latitude": 58.8924,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "REDFISH CREEK NEAR HARROP",
+        "state": "BC",
+        "siteId": "08NJ061",
+        "longitude": -117.0557,
+        "latitude": 49.6226,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "RENEGADE CREEK NEAR KITIMAT",
+        "state": "BC",
+        "siteId": "08FF006",
+        "longitude": -128.7375,
+        "latitude": 53.9489,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "RENFREW CREEK NEAR PORT RENFREW",
+        "state": "BC",
+        "siteId": "08HA069",
+        "longitude": -124.2917,
+        "latitude": 48.6367,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "REVELSTOKE PROJECT OUTFLOW",
+        "state": "BC",
+        "siteId": "08ND025",
+        "longitude": -118.1972,
+        "latitude": 51.0444,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "REVELSTOKE RESERVOIR AT MARTHA CREEK",
+        "state": "BC",
+        "siteId": "08ND026",
+        "longitude": -118.2005,
+        "latitude": 51.1466,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ROBERTS CREEK AT ROBERTS CREEK",
+        "state": "BC",
+        "siteId": "08GA047",
+        "longitude": -123.6402,
+        "latitude": 49.4208,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SALLOOMT RIVER NEAR HAGENSBORG",
+        "state": "BC",
+        "siteId": "08FB004",
+        "longitude": -126.5211,
+        "latitude": 52.4246,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SALMO RIVER NEAR SALMO",
+        "state": "BC",
+        "siteId": "08NE074",
+        "longitude": -117.2943,
+        "latitude": 49.0471,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SALMON RIVER ABOVE MEMEKAY RIVER",
+        "state": "BC",
+        "siteId": "08HD007",
+        "longitude": -125.7448,
+        "latitude": 50.1973,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SALMON RIVER AT 72 AVENUE, LANGLEY",
+        "state": "BC",
+        "siteId": "08MH090",
+        "longitude": -122.5964,
+        "latitude": 49.1335,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SALMON RIVER AT FALKLAND",
+        "state": "BC",
+        "siteId": "08LE020",
+        "longitude": -119.5586,
+        "latitude": 50.4986,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SALMON RIVER BELOW CAMPBELL LAKE DIVERSION",
+        "state": "BC",
+        "siteId": "08HD032",
+        "longitude": -125.6697,
+        "latitude": 50.0937,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SALMON RIVER NEAR PRINCE GEORGE",
+        "state": "BC",
+        "siteId": "08KC001",
+        "longitude": -122.6799,
+        "latitude": 54.0964,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SALMON RIVER NEAR SALMON ARM",
+        "state": "BC",
+        "siteId": "08LE021",
+        "longitude": -119.3305,
+        "latitude": 50.6925,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SALMON RIVER NEAR SAYWARD",
+        "state": "BC",
+        "siteId": "08HD006",
+        "longitude": -125.9075,
+        "latitude": 50.3125,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SAN JOSE RIVER ABOVE BORLAND CREEK",
+        "state": "BC",
+        "siteId": "08MC040",
+        "longitude": -121.9919,
+        "latitude": 52.0771,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SAN JOSEF RIVER BELOW SHARP CREEK",
+        "state": "BC",
+        "siteId": "08HF006",
+        "longitude": -128.1684,
+        "latitude": 50.6693,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SAN JUAN RIVER NEAR PORT RENFREW",
+        "state": "BC",
+        "siteId": "08HA010",
+        "longitude": -124.3114,
+        "latitude": 48.5762,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SARITA RIVER NEAR BAMFIELD",
+        "state": "BC",
+        "siteId": "08HB014",
+        "longitude": -124.9694,
+        "latitude": 48.8925,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SETON RIVER NEAR LILLOOET",
+        "state": "BC",
+        "siteId": "08ME003",
+        "longitude": -121.9695,
+        "latitude": 50.6711,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SEYMOUR RIVER ABOVE LAKEHEAD",
+        "state": "BC",
+        "siteId": "08GA079",
+        "longitude": -122.9691,
+        "latitude": 49.4972,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SEYMOUR RIVER BELOW ORCHID CREEK",
+        "state": "BC",
+        "siteId": "08GA077",
+        "longitude": -123.004,
+        "latitude": 49.5203,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SEYMOUR RIVER NEAR NORTH VANCOUVER",
+        "state": "BC",
+        "siteId": "08GA030",
+        "longitude": -123.0021,
+        "latitude": 49.342,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SEYMOUR RIVER NEAR SEYMOUR ARM",
+        "state": "BC",
+        "siteId": "08LE027",
+        "longitude": -118.9464,
+        "latitude": 51.2622,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SHATFORD CREEK NEAR PENTICTON",
+        "state": "BC",
+        "siteId": "08NM037",
+        "longitude": -119.7515,
+        "latitude": 49.4275,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SHERIDAN CREEK ABOVE MCLEESE LAKE",
+        "state": "BC",
+        "siteId": "08MC045",
+        "longitude": -122.2946,
+        "latitude": 52.4263,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SHUSWAP LAKE AT SALMON ARM",
+        "state": "BC",
+        "siteId": "08LE070",
+        "longitude": -119.2841,
+        "latitude": 50.7094,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SHUSWAP RIVER AT OUTLET OF SUGAR LAKE RESERVOIR",
+        "state": "BC",
+        "siteId": "08LC018",
+        "longitude": -118.5479,
+        "latitude": 50.3451,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SHUSWAP RIVER NEAR ENDERBY",
+        "state": "BC",
+        "siteId": "08LC002",
+        "longitude": -119.0128,
+        "latitude": 50.5437,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SHUSWAP RIVER NEAR LUMBY",
+        "state": "BC",
+        "siteId": "08LC003",
+        "longitude": -118.8186,
+        "latitude": 50.3028,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SIKANNI CHIEF RIVER NEAR FORT NELSON",
+        "state": "BC",
+        "siteId": "10CB001",
+        "longitude": -122.6915,
+        "latitude": 57.2382,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SIMILKAMEEN RIVER ABOVE GOODFELLOW CREEK",
+        "state": "BC",
+        "siteId": "08NL070",
+        "longitude": -120.6725,
+        "latitude": 49.0941,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SIMILKAMEEN RIVER AT PRINCETON",
+        "state": "BC",
+        "siteId": "08NL007",
+        "longitude": -120.5035,
+        "latitude": 49.4597,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SIMILKAMEEN RIVER NEAR HEDLEY",
+        "state": "BC",
+        "siteId": "08NL038",
+        "longitude": -120.1523,
+        "latitude": 49.377,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SIMPSON CREEK AT THE MOUTH",
+        "state": "BC",
+        "siteId": "08EE012",
+        "longitude": -127.2042,
+        "latitude": 54.8099,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SIMPSON CREEK NEAR KOPRINO HARBOUR",
+        "state": "BC",
+        "siteId": "08HF013",
+        "longitude": -127.842,
+        "latitude": 50.5125,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SIWASH CREEK NEAR PRINCETON",
+        "state": "BC",
+        "siteId": "08NL039",
+        "longitude": -120.3355,
+        "latitude": 49.6628,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SKAGIT RIVER AT INTERNATIONAL BOUNDARY",
+        "state": "BC",
+        "siteId": "08PA004",
+        "longitude": -121.0666,
+        "latitude": 49.0003,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SKAHA LAKE AT OKANAGAN FALLS",
+        "state": "BC",
+        "siteId": "08NM084",
+        "longitude": -119.5751,
+        "latitude": 49.4264,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SKEENA RIVER ABOVE BABINE RIVER",
+        "state": "BC",
+        "siteId": "08EB005",
+        "longitude": -127.6867,
+        "latitude": 55.7171,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SKEENA RIVER AT GLEN VOWELL",
+        "state": "BC",
+        "siteId": "08EB003",
+        "longitude": -127.6726,
+        "latitude": 55.3011,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SKEENA RIVER AT USK",
+        "state": "BC",
+        "siteId": "08EF001",
+        "longitude": -128.4306,
+        "latitude": 54.6319,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SKINS LAKE SPILLWAY, NECHAKO RESERVOIR",
+        "state": "BC",
+        "siteId": "08JA013",
+        "longitude": -125.9706,
+        "latitude": 53.7708,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SLESSE CREEK NEAR VEDDER CROSSING",
+        "state": "BC",
+        "siteId": "08MH056",
+        "longitude": -121.6998,
+        "latitude": 49.0717,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SLOCAN RIVER NEAR CRESCENT VALLEY",
+        "state": "BC",
+        "siteId": "08NJ013",
+        "longitude": -117.5648,
+        "latitude": 49.4601,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SMITH RIVER NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "10BE013",
+        "longitude": -126.4806,
+        "latitude": 59.5533,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SOUTH NANAIMO RIVER NEAR JUNCTION",
+        "state": "BC",
+        "siteId": "08HB092",
+        "longitude": -124.1263,
+        "latitude": 49.0602,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SOUTH THOMPSON RIVER AT CHASE",
+        "state": "BC",
+        "siteId": "08LE031",
+        "longitude": -119.7431,
+        "latitude": 50.7631,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SPILLIMACHEEN RIVER NEAR SPILLIMACHEEN",
+        "state": "BC",
+        "siteId": "08NA011",
+        "longitude": -116.4068,
+        "latitude": 50.9044,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SPIUS CREEK BELOW SILVER CREEK",
+        "state": "BC",
+        "siteId": "08LG068",
+        "longitude": -121.0964,
+        "latitude": 49.9503,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SPIUS CREEK NEAR CANFORD",
+        "state": "BC",
+        "siteId": "08LG008",
+        "longitude": -121.03,
+        "latitude": 50.1362,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SPLIT CREEK AT THE MOUTH",
+        "state": "BC",
+        "siteId": "08NB016",
+        "longitude": -116.8989,
+        "latitude": 51.5265,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SPROAT RIVER NEAR ALBERNI",
+        "state": "BC",
+        "siteId": "08HB008",
+        "longitude": -124.9103,
+        "latitude": 49.2897,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SQUAMISH RIVER NEAR BRACKENDALE",
+        "state": "BC",
+        "siteId": "08GA022",
+        "longitude": -123.2032,
+        "latitude": 49.795,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ST. MARY RIVER BELOW MORRIS CREEK",
+        "state": "BC",
+        "siteId": "08NG077",
+        "longitude": -116.435,
+        "latitude": 49.7373,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "STAVE RIVER ABOVE STAVE LAKE",
+        "state": "BC",
+        "siteId": "08MH147",
+        "longitude": -122.3231,
+        "latitude": 49.5562,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "STAWAMUS RIVER AT HIGHWAY NO. 99",
+        "state": "BC",
+        "siteId": "08GA076",
+        "longitude": -123.1465,
+        "latitude": 49.6898,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "STELLAKO RIVER AT GLENANNAN",
+        "state": "BC",
+        "siteId": "08JB002",
+        "longitude": -125.0089,
+        "latitude": 54.0078,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "STIKINE RIVER AT TELEGRAPH CREEK",
+        "state": "BC",
+        "siteId": "08CE001",
+        "longitude": -131.1597,
+        "latitude": 57.9003,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "STUART RIVER NEAR FORT ST. JAMES",
+        "state": "BC",
+        "siteId": "08JE001",
+        "longitude": -124.2706,
+        "latitude": 54.4169,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SUGAR LAKE RESERVOIR AT THE OUTLET",
+        "state": "BC",
+        "siteId": "08LC041",
+        "longitude": -118.5383,
+        "latitude": 50.3577,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SUKUNKA RIVER NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "07FB003",
+        "longitude": -121.6276,
+        "latitude": 55.5422,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SULLIVAN CREEK NEAR CANYON",
+        "state": "BC",
+        "siteId": "08NH115",
+        "longitude": -116.4368,
+        "latitude": 49.1043,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SUMAS RIVER NEAR HUNTINGDON",
+        "state": "BC",
+        "siteId": "08MH029",
+        "longitude": -122.2323,
+        "latitude": 49.0025,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SURPRISE CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08DA005",
+        "longitude": -129.4774,
+        "latitude": 56.1093,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "SWIFT RIVER NEAR SWIFT RIVER",
+        "state": "BC",
+        "siteId": "09AE003",
+        "longitude": -131.7686,
+        "latitude": 59.9308,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TARUNDL CREEK NEAR QUEEN CHARLOTTE",
+        "state": "BC",
+        "siteId": "08OA005",
+        "longitude": -132.1479,
+        "latitude": 53.244,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TASEKO RIVER AT OUTLET OF TASEKO LAKES",
+        "state": "BC",
+        "siteId": "08MA003",
+        "longitude": -123.6312,
+        "latitude": 51.379,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TEETER CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "10BE009",
+        "longitude": -126.2275,
+        "latitude": 59.4542,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TELKWA RIVER BELOW TSAI CREEK",
+        "state": "BC",
+        "siteId": "08EE020",
+        "longitude": -127.4972,
+        "latitude": 54.6074,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "THAUTIL CORNER CREEK NEAR MORICE LAKE",
+        "state": "BC",
+        "siteId": "08ED004",
+        "longitude": -127.3497,
+        "latitude": 54.2558,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "THEODOSIA RIVER ABOVE SCOTTY CREEK",
+        "state": "BC",
+        "siteId": "08GC008",
+        "longitude": -124.6161,
+        "latitude": 50.0975,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "THEODOSIA RIVER BELOW OLSEN LAKE DIVERSION",
+        "state": "BC",
+        "siteId": "08GC007",
+        "longitude": -124.5433,
+        "latitude": 50.1278,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "THEODOSIA RIVER DIVERSION ABOVE OLSEN LAKE",
+        "state": "BC",
+        "siteId": "08GC005",
+        "longitude": -124.5406,
+        "latitude": 50.1292,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "THEODOSIA RIVER DIVERSION BYPASS",
+        "state": "BC",
+        "siteId": "08GC006",
+        "longitude": -124.5425,
+        "latitude": 50.1283,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "THOMPSON RIVER AT KAMLOOPS",
+        "state": "BC",
+        "siteId": "08LF023",
+        "longitude": -120.3641,
+        "latitude": 50.6875,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "THOMPSON RIVER NEAR SAVONA",
+        "state": "BC",
+        "siteId": "08LF033",
+        "longitude": -120.8736,
+        "latitude": 50.7521,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "THOMPSON RIVER NEAR SPENCES BRIDGE",
+        "state": "BC",
+        "siteId": "08LF051",
+        "longitude": -121.3936,
+        "latitude": 50.3546,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TOAD RIVER ABOVE NONDA CREEK",
+        "state": "BC",
+        "siteId": "10BE004",
+        "longitude": -125.3826,
+        "latitude": 58.855,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TOFINO CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08HB086",
+        "longitude": -125.5833,
+        "latitude": 49.2508,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TRAPPING CREEK NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08NN019",
+        "longitude": -119.052,
+        "latitude": 49.5654,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TROUT CREEK AT THE MOUTH",
+        "state": "BC",
+        "siteId": "08NM158",
+        "longitude": -119.6317,
+        "latitude": 49.568,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TROUT RIVER AT KILOMETRE 783.7 ALASKA HIGHWAY",
+        "state": "BC",
+        "siteId": "10BE007",
+        "longitude": -125.9402,
+        "latitude": 59.336,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TSILCOH RIVER NEAR THE MOUTH",
+        "state": "BC",
+        "siteId": "08JE004",
+        "longitude": -124.2478,
+        "latitude": 54.6108,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TSITIKA RIVER BELOW CATHERINE CREEK",
+        "state": "BC",
+        "siteId": "08HF004",
+        "longitude": -126.5785,
+        "latitude": 50.4404,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TSOLUM RIVER NEAR COURTENAY",
+        "state": "BC",
+        "siteId": "08HB011",
+        "longitude": -125.0115,
+        "latitude": 49.7059,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TULAMEEN RIVER AT PRINCETON",
+        "state": "BC",
+        "siteId": "08NL024",
+        "longitude": -120.5186,
+        "latitude": 49.4577,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TULAMEEN RIVER BELOW VUICH CREEK",
+        "state": "BC",
+        "siteId": "08NL071",
+        "longitude": -120.9789,
+        "latitude": 49.4657,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TUTSHI RIVER AT OUTLET OF TUTSHI LAKE",
+        "state": "BC",
+        "siteId": "09AA013",
+        "longitude": -134.3325,
+        "latitude": 59.9478,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TUYA RIVER NEAR TELEGRAPH CREEK",
+        "state": "BC",
+        "siteId": "08CD001",
+        "longitude": -130.8264,
+        "latitude": 58.0723,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TWAIN CREEK TRIBUTARY NEAR BABINE LAKE",
+        "state": "BC",
+        "siteId": "08EC014",
+        "longitude": -125.9144,
+        "latitude": 54.5595,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TWO FORTY CREEK NEAR PENTICTON",
+        "state": "BC",
+        "siteId": "08NM240",
+        "longitude": -119.4,
+        "latitude": 49.6509,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TWO FORTY-ONE CREEK NEAR PENTICTON",
+        "state": "BC",
+        "siteId": "08NM241",
+        "longitude": -119.3939,
+        "latitude": 49.65,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "TWO MILE CREEK IN DISTRICT LOT 4834",
+        "state": "BC",
+        "siteId": "08EE025",
+        "longitude": -127.6208,
+        "latitude": 55.2961,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "UPPER CAMPBELL LAKE AT STRATHCONA DAM",
+        "state": "BC",
+        "siteId": "08HD031",
+        "longitude": -125.5866,
+        "latitude": 49.9969,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "VANCE CREEK BELOW DEAFIES CREEK",
+        "state": "BC",
+        "siteId": "08LC040",
+        "longitude": -118.947,
+        "latitude": 50.2843,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "VASEUX CREEK ABOVE SOLCO CREEK",
+        "state": "BC",
+        "siteId": "08NM171",
+        "longitude": -119.3214,
+        "latitude": 49.2493,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "VASEUX LAKE NEAR THE OUTLET",
+        "state": "BC",
+        "siteId": "08NM243",
+        "longitude": -119.5255,
+        "latitude": 49.2732,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "VERNON CREEK AT OUTLET OF KALAMALKA LAKE",
+        "state": "BC",
+        "siteId": "08NM065",
+        "longitude": -119.2669,
+        "latitude": 50.2385,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WAKEMAN RIVER BELOW ATWAYKELLESSE RIVER",
+        "state": "BC",
+        "siteId": "08GF007",
+        "longitude": -126.475,
+        "latitude": 51.1028,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WANNOCK RIVER AT OUTLET OF OWIKENO LAKE",
+        "state": "BC",
+        "siteId": "08FA002",
+        "longitude": -127.1792,
+        "latitude": 51.6792,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WEST CREEK NEAR FORT LANGLEY",
+        "state": "BC",
+        "siteId": "08MH098",
+        "longitude": -122.5319,
+        "latitude": 49.1477,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WEST KETTLE RIVER AT WESTBRIDGE",
+        "state": "BC",
+        "siteId": "08NN003",
+        "longitude": -118.9751,
+        "latitude": 49.1698,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WEST KETTLE RIVER NEAR MCCULLOCH",
+        "state": "BC",
+        "siteId": "08NN015",
+        "longitude": -119.0925,
+        "latitude": 49.7029,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WEST ROAD RIVER NEAR CINEMA",
+        "state": "BC",
+        "siteId": "08KG001",
+        "longitude": -122.8918,
+        "latitude": 53.3064,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WHITEMAN CREEK ABOVE BOULEAU CREEK",
+        "state": "BC",
+        "siteId": "08NM174",
+        "longitude": -119.5386,
+        "latitude": 50.2122,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WHITESAIL MIDDLE CREEK NEAR TAHTSA REACH",
+        "state": "BC",
+        "siteId": "08JA029",
+        "longitude": -126.9904,
+        "latitude": 53.6627,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WILLISTON LAKE AT LOST CABIN CREEK",
+        "state": "BC",
+        "siteId": "07EF002",
+        "longitude": -123.7482,
+        "latitude": 56.05,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WILLISTON LAKE NEAR SCHOOLER CREEK",
+        "state": "BC",
+        "siteId": "07EF003",
+        "longitude": -122.7161,
+        "latitude": 56.1064,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "WOKAS LAKE NEAR CAMPBELL RIVER",
+        "state": "BC",
+        "siteId": "08HD025",
+        "longitude": -125.5464,
+        "latitude": 49.9103,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "YAKOUN RIVER NEAR PORT CLEMENTS",
+        "state": "BC",
+        "siteId": "08OA002",
+        "longitude": -132.2097,
+        "latitude": 53.6139,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "YALAKOM RIVER ABOVE ORE CREEK",
+        "state": "BC",
+        "siteId": "08ME025",
+        "longitude": -122.2393,
+        "latitude": 50.9126,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ZEBALLOS RIVER AT MOOK PEAK",
+        "state": "BC",
+        "siteId": "08HE008",
+        "longitude": -126.8201,
+        "latitude": 50.1357,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ZEBALLOS RIVER NEAR ZEBALLOS",
+        "state": "BC",
+        "siteId": "08HE006",
+        "longitude": -126.8434,
+        "latitude": 50.0125,
+        "source": "ENVIRONMENT_CANADA"
+    },
+    {
+        "country": "CA",
+        "gageName": "ZYMOETZ RIVER ABOVE O.K. CREEK",
+        "state": "BC",
+        "siteId": "08EF005",
+        "longitude": -128.3247,
+        "latitude": 54.4936,
+        "source": "ENVIRONMENT_CANADA"
+    }
+]

@@ -55,7 +55,7 @@ type USGSResponseData struct {
 	} `json:"value"`
 }
 
-//go:embed sources/usgs/*.json
+//go:embed sources/**/*.json
 var gageSourcesDir embed.FS
 
 // GetEnabledGageReadings loads enabled gages from the database
@@ -242,13 +242,15 @@ func GetSources(c *gin.Context) {
 		State   string `uri:"state"`
 	}
 
-	filesDir := fmt.Sprintf("sources/%s", getCountrySourceDir(s.Country))
-
-	files, err := gageSourcesDir.ReadDir(filesDir)
-
-	common.CheckError(err)
-
 	if c.ShouldBindUri(&s) == nil {
+
+		filesDir := fmt.Sprintf("sources/%s", getCountrySourceDir(s.Country))
+
+		fmt.Println("filesDir: ", filesDir)
+
+		files, err := gageSourcesDir.ReadDir(filesDir)
+
+		common.CheckError(err)
 
 		for _, file := range files {
 

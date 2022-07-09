@@ -104,6 +104,8 @@ export enum GageMetric {
   CFS = 'CFS',
   FT = 'FT',
   TEMP = 'TEMP',
+  CMS = 'CMS',
+  M = 'M'
 }
 
 export type ExportData = {

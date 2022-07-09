@@ -11,6 +11,7 @@ import (
 	"syscall"
 	"time"
 	"wh2o-go/alert"
+	"wh2o-go/export"
 	"wh2o-go/lib"
 
 	"wh2o-go/cron"
@@ -122,8 +123,8 @@ func main() {
 		api.GET("/user/:id", user.GetUser)
 		api.PUT("/user", user.Update)
 
-		//api.GET("/export", exporter.ExportAllData)
-		//api.POST("/import", exporter.ImportData)
+		api.GET("/export", export.DataOut)
+		api.POST("/import", export.DataIn)
 
 		api.GET("/lib/states", lib.GetUsStates)
 		api.GET("/lib/tz", lib.GetTimezones)

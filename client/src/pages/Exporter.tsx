@@ -5,6 +5,7 @@ import AppProvider from '../components/App/AppProvider'
 import { ExportData } from '../types'
 import { exportData, importData } from '../controllers'
 import { TabPane } from 'rc-tabs'
+import TextArea from "antd/lib/input/TextArea";
 
 const { Content } = Layout
 
@@ -14,11 +15,14 @@ const Exporter = () => {
   const [selectedTab, setSelectedTab] = useState<TabKey>('1')
   const [userImportData, setUserImportData] = useState<ExportData>()
   const [jsonValid, setJsonValid] = useState(true)
+  const [exportedData, setExportedData] = useState("")
 
   const handleSubmit = async () => {
     if (selectedTab === '1') {
       try {
-        await exportData()
+        setExportedData("")
+        const result = await exportData()
+        setExportedData(JSON.stringify(result))
       } catch (e) {
         console.error(e)
       }
@@ -68,6 +72,9 @@ const Exporter = () => {
                           <Checkbox checked disabled>
                             Settings
                           </Checkbox>
+                          {exportedData.length > 0 && (
+                              <TextArea value={exportedData} />
+                          )}
                         </div>
                       )}
                       {selectedTab === '2' && (

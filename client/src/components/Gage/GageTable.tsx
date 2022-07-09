@@ -41,6 +41,7 @@ const GageTable = (): JSX.Element => {
           bordered={false}
           size={'small'}
           onChange={async (metric: GageMetric) => {
+            debugger
             await updateGage({
               ...gage,
               metric,
@@ -94,7 +95,7 @@ const GageTable = (): JSX.Element => {
       render: (val: number) => (
         <div style={{ display: 'flex', justifyContent: 'flex-end' }}>
           <Button
-            onClick={() => intiateDelete(val)}
+            onClick={() => initiateDelete(val)}
             icon={<DeleteOutlined />}
             danger
           />
@@ -103,7 +104,7 @@ const GageTable = (): JSX.Element => {
     },
   ]
 
-  const intiateDelete = async (id: number) => {
+  const initiateDelete = async (id: number) => {
     setPendingDelete(id)
     setDeleteModalVisible(true)
   }
@@ -131,7 +132,7 @@ const GageTable = (): JSX.Element => {
     <>
       <div style={{ position: 'relative', width: '100%', overflowX: 'scroll' }}>
         <Table
-          rowKey={(record) => record.siteId}
+          rowKey={(record) => record.id}
           dataSource={gages || []}
           columns={columns}
         />

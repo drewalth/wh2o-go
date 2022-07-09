@@ -160,10 +160,10 @@ func (u *User) EmailIsValid() bool {
 	return err == nil
 }
 
-func (u *User) GetGages(db *gorm.DB) []Gage {
+func (u *User) GetUSGSGages(db *gorm.DB) []Gage {
 	var gages []Gage
 
-	res := db.Model(&Gage{}).Where("user_id = ?", u.ID).Find(&gages)
+	res := db.Model(&Gage{}).Where("user_id = ? AND source = ?", u.ID, USGS).Find(&gages)
 
 	common.CheckError(res.Error)
 
