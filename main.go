@@ -109,7 +109,7 @@ func main() {
 	{
 
 		api.GET("/gages", gage.GetAll)
-		api.GET("/gage-sources/:state", gage.GetSources)
+		api.GET("/gage-sources/:country/:state", gage.GetSources)
 		api.POST("/gages", gage.Create)
 		api.PUT("/gages", gage.Update)
 		api.DELETE("/gages/:id", gage.Delete)

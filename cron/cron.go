@@ -8,13 +8,16 @@ import (
 	"wh2o-go/alert"
 	"wh2o-go/common"
 	"wh2o-go/gage"
+	"wh2o-go/gage/auckland"
+	"wh2o-go/gage/canada"
+	"wh2o-go/gage/chile"
 	"wh2o-go/model"
 )
 
 func RunCronJobs(db *gorm.DB) {
 	scheduler := gocron.NewScheduler(time.UTC)
 
-	_, job01Err := scheduler.Every(15).Minutes().Do(func() {
+	_, job01Err := scheduler.Cron("*/15 * * * *").Do(func() {
 
 		var u model.User
 
@@ -37,11 +40,19 @@ func RunCronJobs(db *gorm.DB) {
 
 	common.CheckError(job01Err)
 
-	_, job02Err := scheduler.Every(5).Minutes().Do(func() {
+	_, job02Err := scheduler.Cron("*/5 * * * *").Do(func() {
 		alert.CheckDailyAlerts(db)
 	})
 
 	common.CheckError(job02Err)
+
+	_, job03Err := scheduler.Cron("*/60 * * * *").Do(func() {
+		auckland.Run(db)
+		chile.Run(db)
+		canada.Run(db)
+	})
+
+	common.CheckError(job03Err)
 
 	scheduler.StartAsync()
 }

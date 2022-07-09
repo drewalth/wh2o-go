@@ -13,24 +13,16 @@ import (
 	"strings"
 	"sync"
 	"time"
+	"wh2o-go/alert"
 	"wh2o-go/common"
-	"wh2o-go/gage"
+	"wh2o-go/model"
 )
 
-type Province string
-
-// "AB", "BC", "MB", "NB", "NL", "NS", "NT", "NU", "ON", "PE", "SK", "YT"
-
-const (
-	BC Province = "BC"
-	QC Province = "QC"
-)
-
-// GetHourlyReports fetches gage reading report CSVs
+// Run fetches gage reading report CSVs
 // published by Environment Canada
-func GetHourlyReports(db *gorm.DB) {
+func Run(db *gorm.DB) {
 
-	provinces := []Province{"BC", "QC"}
+	provinces := []string{"AB", "BC", "MB", "NB", "NL", "NS", "NT", "NU", "ON", "PE", "SK", "YT", "QC"}
 
 	var wg sync.WaitGroup
 
@@ -38,14 +30,14 @@ func GetHourlyReports(db *gorm.DB) {
 
 		wg.Add(1)
 
-		go func(p Province) {
+		go func(p string) {
 			log.Println("Fetching readings for ", p)
-			readingBucket := make([]gage.Reading, 0)
+			readingBucket := make([]model.Reading, 0)
 			defer func() {
 				if len(readingBucket) > 0 {
 					result := db.Create(&readingBucket)
 					common.CheckError(result.Error)
-					//alert.CheckImmediateAlerts(&readingBucket, db)
+					alert.CheckImmediateAlerts(&readingBucket, db)
 				}
 				log.Println("Finished fetching readings for ", p)
 				wg.Done()
@@ -56,6 +48,13 @@ func GetHourlyReports(db *gorm.DB) {
 			common.CheckError(err)
 
 			gages := loadGagesByProvince(p, db)
+
+			if len(gages) == 0 {
+				log.Println("No gages for Canadian Province: ", p)
+				removeErr := os.RemoveAll(tempDir)
+				common.CheckError(removeErr)
+				return
+			}
 
 			chunkedGages := chunkGages(gages, len(gages)/4)
 
@@ -86,11 +85,11 @@ func GetHourlyReports(db *gorm.DB) {
 						// water level (M) is col 2 of csv
 						// discharge (CMS) is col 6 of csv
 
-						if g.Metric == gage.M {
+						if g.Metric == model.M {
 							reading = common.ConvertStringToFloat(latestRecord[2])
 						}
 
-						if g.Metric == gage.CMS {
+						if g.Metric == model.CMS {
 							reading = common.ConvertStringToFloat(latestRecord[6])
 						}
 
@@ -98,16 +97,16 @@ func GetHourlyReports(db *gorm.DB) {
 
 						common.CheckError(res.Error)
 
-						readingBucket = append(readingBucket, gage.Reading{
+						readingBucket = append(readingBucket, model.Reading{
 							Value:  common.ConvertStringToFloat(latestRecord[2]),
-							Metric: gage.M,
+							Metric: model.M,
 							GageID: g.ID,
 							SiteId: g.SiteId,
 						})
 
-						readingBucket = append(readingBucket, gage.Reading{
+						readingBucket = append(readingBucket, model.Reading{
 							Value:  common.ConvertStringToFloat(latestRecord[6]),
-							Metric: gage.CMS,
+							Metric: model.CMS,
 							GageID: g.ID,
 							SiteId: g.SiteId,
 						})
@@ -132,8 +131,8 @@ func GetHourlyReports(db *gorm.DB) {
 
 }
 
-func loadGagesByProvince(province Province, db *gorm.DB) []gage.Gage {
-	var gages []gage.Gage
+func loadGagesByProvince(province string, db *gorm.DB) []model.Gage {
+	var gages []model.Gage
 
 	result := db.Where("country = ? AND source = ? AND state = ? AND disabled = ?", "CA", "ENVIRONMENT_CANADA", province, false).Find(&gages)
 
@@ -145,8 +144,8 @@ func loadGagesByProvince(province Province, db *gorm.DB) []gage.Gage {
 // chunkGages takes a large list of gages and splits them up into smaller
 // chunks. We then iterate over the chunks and pause between iterations
 // to avoid overburdening source servers. #goodnetizens
-func chunkGages(slice []gage.Gage, chunkSize int) [][]gage.Gage {
-	var chunks [][]gage.Gage
+func chunkGages(slice []model.Gage, chunkSize int) [][]model.Gage {
+	var chunks [][]model.Gage
 	for {
 		if len(slice) == 0 {
 			break
@@ -164,7 +163,7 @@ func chunkGages(slice []gage.Gage, chunkSize int) [][]gage.Gage {
 }
 
 // downloadReportCSV fetches CSVs from source for the provided province and gage site
-func downloadReportCSV(tempDirPath string, province Province, siteId string) {
+func downloadReportCSV(tempDirPath string, province string, siteId string) {
 
 	remoteFileUrl := fmt.Sprintf("https://dd.weather.gc.ca/hydrometric/csv/%s/hourly/%s_%s_hourly_hydrometric.csv", province, province, siteId)
 	localFilePath := fmt.Sprintf("%s/%s-%s.csv", tempDirPath, province, siteId)

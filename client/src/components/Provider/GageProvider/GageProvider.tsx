@@ -1,6 +1,6 @@
 import React, { ReactNode, useEffect, useState } from 'react'
 import { GageContext } from './GageContext'
-import { Gage, GageEntry } from '../../../types'
+import { Country, Gage, GageEntry } from '../../../types'
 import { getGages, getGageSources } from '../../../controllers'
 import { notification } from 'antd'
 
@@ -19,19 +19,19 @@ export const GageProvider = ({ children }: GageProviderProps): JSX.Element => {
     } catch (e) {
       notification.error({
         message: 'Failed to load gages',
-        placement: 'bottomRight'
+        placement: 'bottomRight',
       })
     }
   }
 
-  const loadGageSources = async (state: string) => {
+  const loadGageSources = async (country: Country, state: string) => {
     try {
-      const gages = await getGageSources(state)
+      const gages = await getGageSources(country, state)
       setGageSources(gages)
     } catch (e) {
       notification.error({
         message: 'Failed to gage sources',
-        placement: 'bottomRight'
+        placement: 'bottomRight',
       })
     }
   }
@@ -48,7 +48,7 @@ export const GageProvider = ({ children }: GageProviderProps): JSX.Element => {
         gages,
         gageSources,
         loadGageSources,
-        loadGages
+        loadGages,
       }}
     >
       {children}

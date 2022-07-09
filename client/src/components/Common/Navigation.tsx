@@ -6,7 +6,7 @@ import {
   DashboardOutlined,
   SettingOutlined,
   ExportOutlined,
-  GithubOutlined
+  GithubOutlined,
 } from '@ant-design/icons'
 import { useLocation, useNavigate } from 'react-router-dom'
 import { Footer } from 'antd/lib/layout/layout'
@@ -21,18 +21,18 @@ export const navItems = [
   {
     path: '/',
     text: 'Dashboard',
-    icon: <DashboardOutlined />
+    icon: <DashboardOutlined />,
   },
   {
     path: '/exporter',
     text: 'Export',
-    icon: <ExportOutlined />
+    icon: <ExportOutlined />,
   },
   {
     path: '/settings',
     text: 'Settings',
-    icon: <SettingOutlined />
-  }
+    icon: <SettingOutlined />,
+  },
 ]
 
 export const Navigation = ({ children }: NavigationProps) => {
@@ -40,18 +40,20 @@ export const Navigation = ({ children }: NavigationProps) => {
   const location = useLocation()
 
   const getSelectedItems = (): string[] => {
-    return [navItems.find(item => location.pathname === item.path)?.path || '/']
+    return [
+      navItems.find((item) => location.pathname === item.path)?.path || '/',
+    ]
   }
 
   return (
     <Layout style={{ minHeight: '100vh' }}>
-      <Sider breakpoint='lg' collapsedWidth='0'>
+      <Sider breakpoint="lg" collapsedWidth="0">
         <div
           style={{
             display: 'flex',
             flexFlow: 'row nowrap',
             alignItems: 'center',
-            padding: '24px 16px'
+            padding: '24px 16px',
           }}
         >
           <Logo onClick={() => navigate('/', { replace: false })} />
@@ -60,13 +62,13 @@ export const Navigation = ({ children }: NavigationProps) => {
           </Typography.Title>
         </div>
         <Menu
-          theme='dark'
-          mode='inline'
+          theme="dark"
+          mode="inline"
           defaultSelectedKeys={['dashboard']}
           selectedKeys={getSelectedItems()}
           onSelect={({ key }) => navigate(key, { replace: false })}
         >
-          {navItems.map(item => (
+          {navItems.map((item) => (
             <Menu.Item key={item.path} icon={item.icon}>
               {item.text}
             </Menu.Item>
@@ -76,7 +78,7 @@ export const Navigation = ({ children }: NavigationProps) => {
       <Layout>
         <Content style={{ margin: '24px 16px 0' }}>
           <div
-            className='site-layout-background'
+            className="site-layout-background"
             style={{ padding: 24, minHeight: 360 }}
           >
             {children}
@@ -87,7 +89,7 @@ export const Navigation = ({ children }: NavigationProps) => {
         >
           <a
             style={{ color: '#000' }}
-            href='https://github.com/drewalth/wh2o-next'
+            href="https://github.com/drewalth/wh2o-next"
             target={'_blank'}
             rel={'noreferrer'}
           >

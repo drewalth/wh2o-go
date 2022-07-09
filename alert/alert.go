@@ -164,9 +164,29 @@ func Create(c *gin.Context) {
 	var a model.Alert
 
 	if c.ShouldBind(&a) == nil {
+
+		if !createUpdateInputValid(a) {
+			c.JSON(http.StatusBadRequest, "Bad request")
+			return
+		}
+
 		db := common.GetDB(c)
 
-		res := db.Model(model.Alert{}).Clauses(clause.Returning{}).Create(a)
+		// this is v ugly
+		res := db.Model(model.Alert{}).Clauses(clause.Returning{}).Create(&model.Alert{
+			Name:       a.Name,
+			Maximum:    a.Maximum,
+			Minimum:    a.Minimum,
+			Value:      a.Value,
+			NotifyTime: a.NotifyTime,
+			Metric:     a.Metric,
+			Channel:    a.Channel,
+			Interval:   a.Interval,
+			Criteria:   a.Criteria,
+			UserID:     a.UserID,
+			GageID:     a.GageID,
+			LastSent:   time.Now().Add(-1 * (time.Hour * 48)),
+		})
 
 		common.CheckError(res.Error)
 
@@ -181,6 +201,12 @@ func Update(c *gin.Context) {
 	var a model.Alert
 
 	if c.ShouldBind(&a) == nil {
+
+		if !createUpdateInputValid(a) {
+			c.JSON(http.StatusBadRequest, "Bad request")
+			return
+		}
+
 		db := common.GetDB(c)
 
 		res := db.Model(model.Alert{}).Where("id = ?", a.ID).Clauses(clause.Returning{}).Updates(a)
@@ -212,4 +238,25 @@ func Delete(c *gin.Context) {
 	} else {
 		c.JSON(http.StatusBadRequest, "Bad request")
 	}
+}
+
+// createUpdateInputValid
+// verifies that the inputs for create and update
+// operations are valid
+func createUpdateInputValid(a model.Alert) bool {
+
+	if a.Criteria == model.BETWEEN && a.Minimum > a.Maximum {
+		return false
+	}
+
+	if a.Criteria == model.BETWEEN && (a.Minimum == 0 || a.Maximum == 0) {
+		return false
+	}
+
+	if a.Interval == model.IMMEDIATE && (a.Criteria == model.ABOVE || a.Criteria == model.BELOW) && a.Value == 0 {
+		return false
+	}
+
+	return true
+
 }

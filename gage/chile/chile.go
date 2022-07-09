@@ -1,17 +1,16 @@
-package main
+package chile
 
 import (
 	"fmt"
-	"github.com/go-co-op/gocron"
 	"github.com/go-rod/rod"
 	"github.com/go-rod/rod/lib/launcher"
 	"github.com/go-rod/stealth"
+	"gorm.io/gorm"
 	"log"
 	"strings"
 	"time"
 	"wh2o-go/common"
-	"wh2o-go/database"
-	"wh2o-go/gage"
+	"wh2o-go/model"
 )
 
 const formUrl = "https://snia.mop.gob.cl/dgasat/pages/dgasat_param/dgasat_param.jsp?param=1"
@@ -20,26 +19,19 @@ func init() {
 	launcher.NewBrowser().MustGet()
 }
 
-func main() {
-	scheduler := gocron.NewScheduler(time.UTC)
+func Run(db *gorm.DB) {
+	readingBucket := make([]model.Reading, 0)
 
-	_, err := scheduler.Cron("*/60 * * * *").Do(func() {
-		run()
-	})
+	var gages []model.Gage
 
-	common.CheckError(err)
-	scheduler.StartBlocking()
-}
-
-func run() {
-	db := database.Connect()
-	readingBucket := make([]gage.Reading, 0)
-
-	var gages []gage.Gage
-
-	dbRes1 := db.Where("source = ? AND disabled = ?", gage.ENVIRONMENT_CHILE, false).Find(&gages)
+	dbRes1 := db.Where("source = ? AND disabled = ?", model.ENVIRONMENT_CHILE, false).Find(&gages)
 
 	common.CheckError(dbRes1.Error)
+
+	if len(gages) == 0 {
+		log.Println("No Chilean gages")
+		return
+	}
 
 	browser := rod.New().Timeout(time.Minute * 3).MustConnect()
 
@@ -148,7 +140,7 @@ func run() {
 		lastRow := readingTableBody.MustElements("tr").Last()
 		readingCells := lastRow.MustElements("td")
 
-		tmpReadingBucket := make([]gage.Reading, 0)
+		tmpReadingBucket := make([]model.Reading, 0)
 
 		if meterStageCol != 0 {
 
@@ -156,11 +148,11 @@ func run() {
 
 			common.CheckError(err4)
 
-			tmpReadingBucket = append(tmpReadingBucket, gage.Reading{
+			tmpReadingBucket = append(tmpReadingBucket, model.Reading{
 				Value:  common.ConvertStringToFloat(val1),
 				GageID: g.ID,
 				SiteId: g.SiteId,
-				Metric: gage.M,
+				Metric: model.M,
 			})
 
 		} else {
@@ -172,11 +164,11 @@ func run() {
 
 			common.CheckError(err5)
 
-			tmpReadingBucket = append(tmpReadingBucket, gage.Reading{
+			tmpReadingBucket = append(tmpReadingBucket, model.Reading{
 				Value:  common.ConvertStringToFloat(val2),
 				GageID: g.ID,
 				SiteId: g.SiteId,
-				Metric: gage.CMS,
+				Metric: model.CMS,
 			})
 
 		} else {

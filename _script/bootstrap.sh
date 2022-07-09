@@ -1,7 +1,11 @@
 #!/bin/bash
 
+echo Installing Git Hooks
+
+cp ./_git-hooks/pre-commit.sh .git/hooks/
+
 echo Bootstrapping Application...
-cd client
+cd client || exit
 echo Installing Frontend Dependencies...
 npm ci --silent
 echo Compiling Frontend files...

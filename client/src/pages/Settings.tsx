@@ -17,14 +17,14 @@ const Settings = () => {
   const [timezones, setTimezones] = useState<string[]>([])
   const [selectedTab, setSelectedTab] = useState<TabKey>('1')
   const [userConfig, setUserConfig] = useState<UserConfigDto>({
-    MailgunKey: '',
-    MailgunDomain: '',
-    Email: '',
-    TwilioAccountSID: '',
-    TwilioAuthToken: '',
-    TwilioPhoneNumberFrom: '',
-    TwilioPhoneNumberTo: '',
-    Timezone: 'America/Denver'
+    mailgunKey: '',
+    mailgunDomain: '',
+    email: '',
+    twilioAccountSID: '',
+    twilioAuthToken: '',
+    twilioPhoneNumberFrom: '',
+    twilioPhoneNumberTo: '',
+    timezone: 'America/Denver',
   })
   const [requestStatus, setRequestStatus] = useState<RequestStatus>('loading')
 
@@ -54,11 +54,11 @@ const Settings = () => {
   }, [])
 
   const navToDocumentation = (site: AlertChannel) => {
-    if (site === 'email') {
+    if (site === 'EMAIL') {
       window.open('https://www.mailgun.com/', '_blank')
     }
 
-    if (site === 'sms') {
+    if (site === 'SMS') {
       window.open('https://www.twilio.com/docs/sms', '_blank')
     }
   }
@@ -73,7 +73,7 @@ const Settings = () => {
           key={'mailgun'}
         >
           Mailgun Docs
-        </Button>
+        </Button>,
       ]
     }
 
@@ -85,14 +85,14 @@ const Settings = () => {
         key={'twilio'}
       >
         Twilio Docs
-      </Button>
+      </Button>,
     ]
   }
 
   return (
     <AppProvider>
       <Navigation>
-        <Layout className='site-layout-background' style={{ padding: '0' }}>
+        <Layout className="site-layout-background" style={{ padding: '0' }}>
           <Content style={{ padding: '24px', minHeight: 500 }}>
             <Row justify={'center'}>
               <Col span={24} sm={20} md={16} lg={16} xl={10}>
@@ -105,9 +105,9 @@ const Settings = () => {
                     <Col span={24} md={4} lg={4} xl={8}>
                       <Tabs
                         tabPosition={'left'}
-                        defaultActiveKey='1'
+                        defaultActiveKey="1"
                         style={{ height: 220 }}
-                        onChange={val => setSelectedTab(val as TabKey)}
+                        onChange={(val) => setSelectedTab(val as TabKey)}
                       >
                         <TabPane tab={'Email'} key={`1`} />
                         <TabPane tab={'SMS'} key={`2`} />
@@ -118,14 +118,14 @@ const Settings = () => {
                         initialValues={userConfig}
                         onValuesChange={handleValueChange}
                         layout={'vertical'}
-                        autoComplete='off'
+                        autoComplete="off"
                       >
                         <Form.Item
                           name={'Email'}
                           label={'Email'}
                           hidden={selectedTab !== '1'}
                         >
-                          <Input autoComplete='off' />
+                          <Input autoComplete="off" />
                         </Form.Item>
                         <Form.Item
                           name={'Timezone'}
@@ -133,7 +133,7 @@ const Settings = () => {
                           hidden={selectedTab !== '1'}
                         >
                           <Select>
-                            {timezones.map(tz => (
+                            {timezones.map((tz) => (
                               <Select.Option value={tz} key={tz}>
                                 {tz}
                               </Select.Option>
@@ -145,21 +145,21 @@ const Settings = () => {
                           label={'Mailgun API Key'}
                           hidden={selectedTab !== '1'}
                         >
-                          <Input.Password autoComplete='off' />
+                          <Input.Password autoComplete="off" />
                         </Form.Item>
                         <Form.Item
                           name={'TwilioAccountSID'}
                           label={'Twilio Account SID'}
                           hidden={selectedTab !== '2'}
                         >
-                          <Input.Password autoComplete='off' />
+                          <Input.Password autoComplete="off" />
                         </Form.Item>
                         <Form.Item
                           name={'TwilioAuthToken'}
                           label={'Twilio Auth Token'}
                           hidden={selectedTab !== '2'}
                         >
-                          <Input.Password autoComplete='off' />
+                          <Input.Password autoComplete="off" />
                         </Form.Item>
                         {/* <Form.Item
                           name={'TwilioMessagingServiceSID'}
@@ -173,14 +173,14 @@ const Settings = () => {
                           label={'Twilio SMS Telephone No. To'}
                           hidden={selectedTab !== '2'}
                         >
-                          <Input.Password autoComplete='off' />
+                          <Input.Password autoComplete="off" />
                         </Form.Item>
                         <Form.Item
                           name={'TwilioPhoneNumberFrom'}
                           label={'Twilio SMS Telephone No. From'}
                           hidden={selectedTab !== '2'}
                         >
-                          <Input.Password autoComplete='off' />
+                          <Input.Password autoComplete="off" />
                         </Form.Item>
 
                         <Form.Item
@@ -188,7 +188,7 @@ const Settings = () => {
                           label={'Mailgun Domain'}
                           hidden={selectedTab !== '1'}
                         >
-                          <Input.Password autoComplete='off' />
+                          <Input.Password autoComplete="off" />
                         </Form.Item>
                       </Form>
                     </Col>

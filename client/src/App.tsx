@@ -5,12 +5,12 @@ import Settings from './pages/Settings'
 import Exporter from './pages/Exporter'
 import Home from './pages/Home'
 
-function App () {
+function App() {
   return (
     <Router>
       <Routes>
-        <Route path='/settings' element={<Settings />} />
-        <Route path='/exporter' element={<Exporter />} />
+        <Route path="/settings" element={<Settings />} />
+        <Route path="/exporter" element={<Exporter />} />
         <Route index element={<Home />} />
       </Routes>
     </Router>

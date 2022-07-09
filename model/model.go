@@ -33,19 +33,19 @@ const (
 )
 
 type Gage struct {
-	ID       int     `gorm:"primaryKey" json:"id"`
-	Name     string  `gorm:"required" json:"name" form:"name"`
-	SiteId   string  `gorm:"unique" json:"siteId" form:"siteId"`
-	State    string  `gorm:"required" json:"state" form:"state"`
-	Metric   Metric  `gorm:"required" json:"metric" form:"metric"`
-	Disabled bool    `gorm:"default:false" json:"disabled" form:"form"`
-	Source   Source  `gorm:"default:USGS" json:"source" form:"source"`
-	Reading  float64 `json:"reading" form:"reading"`
-	//Alerts    []alert.Alert `json:"alerts"`
-	UserID    uint      `json:"userId"`
+	ID        int       `gorm:"primaryKey" json:"id"`
+	Name      string    `gorm:"required" json:"name" form:"name"`
+	SiteId    string    `gorm:"unique" json:"siteId" form:"siteId"`
+	State     string    `gorm:"required" json:"state" form:"state"`
+	Metric    Metric    `gorm:"required" json:"metric" form:"metric"`
+	Disabled  bool      `gorm:"default:false" json:"disabled" form:"form"`
+	Source    Source    `gorm:"default:USGS" json:"source" form:"source"`
+	Reading   float64   `json:"reading" form:"reading"`
+	Country   string    `gorm:"default:US" json:"country"`
+	UserID    uint      `json:"userId" form:"userId"`
+	Readings  []Reading `json:"readings"`
 	CreatedAt time.Time `gorm:"autoCreateTime" json:"createdAt"`
 	UpdatedAt time.Time `gorm:"autoUpdateTime" json:"updatedAt"`
-	Readings  []Reading `json:"readings"`
 }
 
 func (g *Gage) IsStale() bool {
@@ -109,7 +109,7 @@ type Alert struct {
 	GageID     int       `json:"gageId" form:"gageId"`
 	UserID     int       `json:"userId" form:"userId"`
 	LastSent   time.Time `json:"lastSent"`
-	NotifyTime string    `json:"notifyTime" form:""`
+	NotifyTime string    `json:"notifyTime" form:"notifyTime"`
 	CreatedAt  time.Time `gorm:"autoCreateTime" json:"createdAt"`
 	UpdatedAt  time.Time `gorm:"autoUpdateTime" json:"updatedAt"`
 }

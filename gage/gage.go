@@ -157,7 +157,7 @@ func formatUSGSData(data USGSResponseData) []model.Reading {
 
 func deleteStaleReadings(db *gorm.DB) {
 
-	result := db.Exec("DELETE FROM gage_readings WHERE created_at <= date('now', '-1 day')")
+	result := db.Exec("DELETE FROM readings WHERE created_at <= date('now', '-1 day')")
 
 	common.CheckError(result.Error)
 
@@ -238,10 +238,13 @@ func GetAll(c *gin.Context) {
 func GetSources(c *gin.Context) {
 
 	var s struct {
-		State string `uri:"state"`
+		Country string `uri:"country"`
+		State   string `uri:"state"`
 	}
 
-	files, err := gageSourcesDir.ReadDir("sources/usgs")
+	filesDir := fmt.Sprintf("sources/%s", getCountrySourceDir(s.Country))
+
+	files, err := gageSourcesDir.ReadDir(filesDir)
 
 	common.CheckError(err)
 
@@ -250,7 +253,10 @@ func GetSources(c *gin.Context) {
 		for _, file := range files {
 
 			if strings.Contains(file.Name(), s.State) {
-				val, readErr := gageSourcesDir.ReadFile("sources/usgs/" + file.Name())
+
+				dir := fmt.Sprintf("sources/%s/", getCountrySourceDir(s.Country))
+
+				val, readErr := gageSourcesDir.ReadFile(dir + file.Name())
 
 				common.CheckError(readErr)
 
@@ -279,7 +285,9 @@ func Create(c *gin.Context) {
 
 		db := common.GetDB(c)
 
-		res := db.Model(&model.Gage{}).Clauses(clause.Returning{}).Create(g)
+		fmt.Println("gage: ", g)
+
+		res := db.Model(&model.Gage{}).Clauses(clause.Returning{}).Create(&g)
 
 		common.CheckError(res.Error)
 
@@ -330,4 +338,19 @@ func Delete(c *gin.Context) {
 	} else {
 		c.JSON(http.StatusBadRequest, "Bad request")
 	}
+}
+
+func getCountrySourceDir(country string) string {
+	switch country {
+	case "CA":
+		return "env_canada"
+	case "NZ":
+		return "env_auckland"
+	case "CL":
+		return "env_chile"
+	default:
+	case "US":
+		return "usgs"
+	}
+	return ""
 }

@@ -30,7 +30,7 @@ const Exporter = () => {
 
   const Actions = () => {
     return (
-      <Button type='text' disabled={!jsonValid} onClick={handleSubmit}>
+      <Button type="text" disabled={!jsonValid} onClick={handleSubmit}>
         Submit
       </Button>
     )
@@ -39,7 +39,7 @@ const Exporter = () => {
   return (
     <AppProvider>
       <Navigation>
-        <Layout className='site-layout-background' style={{ padding: '0' }}>
+        <Layout className="site-layout-background" style={{ padding: '0' }}>
           <Content style={{ padding: '24px', minHeight: 500 }}>
             <Row justify={'center'}>
               <Col span={24} sm={20} md={16} lg={16} xl={10}>
@@ -48,9 +48,9 @@ const Exporter = () => {
                     <Col span={24} md={4} lg={4} xl={8}>
                       <Tabs
                         tabPosition={'left'}
-                        defaultActiveKey='1'
+                        defaultActiveKey="1"
                         style={{ height: 220 }}
-                        onChange={val => setSelectedTab(val as TabKey)}
+                        onChange={(val) => setSelectedTab(val as TabKey)}
                       >
                         <TabPane tab={'Export'} key={`1`} />
                         <TabPane tab={'Import'} key={`2`} />

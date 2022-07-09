@@ -6,7 +6,7 @@ import {
   Select,
   Table,
   Tooltip,
-  Typography
+  Typography,
 } from 'antd'
 import { DeleteOutlined } from '@ant-design/icons'
 import { useGagesContext } from '../Provider/GageProvider'
@@ -23,48 +23,48 @@ const GageTable = (): JSX.Element => {
   const columns = [
     {
       title: 'Name',
-      dataIndex: 'Name',
-      key: 'Name',
+      dataIndex: 'name',
+      key: 'name',
       render: (name: string) => (
         <Tooltip title={name} placement={'top'}>
           <Typography.Text ellipsis>{name}</Typography.Text>
         </Tooltip>
-      )
+      ),
     },
     {
       title: 'Primary Metric',
-      dataIndex: 'Metric',
-      key: 'Metric',
+      dataIndex: 'metric',
+      key: 'metric',
       render: (metric: GageMetric, gage: Gage) => (
         <Select
           value={metric}
           bordered={false}
           size={'small'}
-          onChange={async (Metric: GageMetric) => {
+          onChange={async (metric: GageMetric) => {
             await updateGage({
               ...gage,
-              Metric
+              metric,
             })
             await loadGages()
           }}
         >
-          {Object.values(GageMetric).map(m => (
+          {Object.values(GageMetric).map((m) => (
             <Select.Option value={m} key={m}>
               {m}
             </Select.Option>
           ))}
         </Select>
-      )
+      ),
     },
     {
       title: 'Readings',
-      dataIndex: 'GageReadings',
-      key: 'GageReadings',
+      dataIndex: 'readings',
+      key: 'readings',
       render: (readings: GageReading[]) => (
         <div style={{ minWidth: 150 }}>
           <ReadingSelect readings={readings} />
         </div>
-      )
+      ),
     },
     // {
     //   title: 'Delta',
@@ -73,8 +73,8 @@ const GageTable = (): JSX.Element => {
     // },
     {
       title: 'Updated',
-      dataIndex: 'UpdatedAt',
-      key: 'UpdatedAt',
+      dataIndex: 'updatedAt',
+      key: 'updatedAt',
       render: (val: Date) => {
         if (val) {
           return (
@@ -86,11 +86,11 @@ const GageTable = (): JSX.Element => {
           )
         }
         return '-'
-      }
+      },
     },
     {
-      dataIndex: 'ID',
-      key: 'ID',
+      dataIndex: 'id',
+      key: 'id',
       render: (val: number) => (
         <div style={{ display: 'flex', justifyContent: 'flex-end' }}>
           <Button
@@ -99,8 +99,8 @@ const GageTable = (): JSX.Element => {
             danger
           />
         </div>
-      )
-    }
+      ),
+    },
   ]
 
   const intiateDelete = async (id: number) => {
@@ -120,7 +120,7 @@ const GageTable = (): JSX.Element => {
       await loadGages()
       notification.success({
         message: 'Gage Deleted',
-        placement: 'bottomRight'
+        placement: 'bottomRight',
       })
     } catch (e) {
       console.log(e)
@@ -130,10 +130,14 @@ const GageTable = (): JSX.Element => {
   return (
     <>
       <div style={{ position: 'relative', width: '100%', overflowX: 'scroll' }}>
-        <Table dataSource={gages || []} columns={columns} />
+        <Table
+          rowKey={(record) => record.siteId}
+          dataSource={gages || []}
+          columns={columns}
+        />
       </div>
       <Modal
-        title='Are you sure?'
+        title="Are you sure?"
         visible={deleteModalVisible}
         onOk={handleOk}
         onCancel={handleClose}

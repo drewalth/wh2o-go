@@ -34,7 +34,7 @@ export const useAlert = (): AlertContextData => {
   return {
     alerts,
     loadAlerts,
-    requestStatus
+    requestStatus,
   }
 }
 

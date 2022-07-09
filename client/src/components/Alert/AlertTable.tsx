@@ -7,7 +7,7 @@ import {
   Tag,
   Tooltip,
   Typography,
-  Switch
+  Switch,
 } from 'antd'
 import { Alert } from '../../types'
 import { DeleteOutlined } from '@ant-design/icons'
@@ -20,29 +20,29 @@ export const AlertTable = (): JSX.Element => {
 
   const getIntervalTag = (alert: Alert): JSX.Element => {
     return (
-      <Tag color={alert.Interval === 'daily' ? 'blue' : 'red'}>
-        {alert.Interval}
+      <Tag color={alert.interval === 'DAILY' ? 'blue' : 'red'}>
+        {alert.interval}
       </Tag>
     )
   }
 
   const getChannelTag = (alert: Alert): JSX.Element => {
     return (
-      <Tag color={alert.Channel === 'email' ? 'green' : 'orange'}>
-        {alert.Channel}
+      <Tag color={alert.channel === 'EMAIL' ? 'green' : 'orange'}>
+        {alert.channel}
       </Tag>
     )
   }
 
   const getAlertDescription = (alert: Alert) => {
-    let msg = `${alert.Criteria}`
+    let msg = `${alert.criteria}`
 
-    if (alert.Criteria === 'between') {
-      msg += ` ${alert.Minimum}-${alert.Minimum}`
+    if (alert.criteria === 'BETWEEN') {
+      msg += ` ${alert.minimum}-${alert.minimum}`
     } else {
-      msg += ` ${alert.Value}`
+      msg += ` ${alert.value}`
     }
-    msg += ` ${alert.Metric}`
+    msg += ` ${alert.metric}`
     return msg
   }
 
@@ -52,12 +52,12 @@ export const AlertTable = (): JSX.Element => {
       await loadAlerts()
       notification.success({
         message: 'Alert deleted',
-        placement: 'bottomRight'
+        placement: 'bottomRight',
       })
     } catch (e) {
       notification.error({
         message: 'Failed to Delete Alert',
-        placement: 'bottomRight'
+        placement: 'bottomRight',
       })
     }
   }
@@ -65,32 +65,32 @@ export const AlertTable = (): JSX.Element => {
   const columns = [
     {
       title: 'Name',
-      dataIndex: 'Name',
-      key: 'Name'
+      dataIndex: 'name',
+      key: 'name',
     },
     {
       title: 'Description',
-      dataIndex: 'ID',
+      dataIndex: 'id',
       key: 'description',
       render: (val: number, alert: Alert) => {
         return (
           <div style={{ maxWidth: 550, display: 'flex' }}>
             {getIntervalTag(alert)}
             {getChannelTag(alert)}
-            {alert.Interval !== AlertInterval.IMMEDIATE ? (
+            {alert.interval !== AlertInterval.IMMEDIATE ? (
               <>
                 <Typography.Text type={'secondary'}>@ &nbsp;</Typography.Text>
                 <Typography.Text>
-                  {moment(alert?.NotifyTime).format('h:mm a')}
+                  {moment(alert?.notifyTime).format('h:mm a')}
                 </Typography.Text>
               </>
             ) : (
               <>
                 <Typography.Text type={'secondary'}>when</Typography.Text>
                 <span>&nbsp;</span>
-                <Tooltip title={alert?.Gage?.Name || 'Gage Name'}>
+                <Tooltip title={alert?.gage?.name || 'Gage Name'}>
                   <Typography.Text ellipsis>
-                    {alert?.Gage?.Name || 'Gage Name'}
+                    {alert?.gage?.name || 'Gage Name'}
                   </Typography.Text>
                 </Tooltip>
                 <span>&nbsp;</span>
@@ -101,12 +101,12 @@ export const AlertTable = (): JSX.Element => {
             )}
           </div>
         )
-      }
+      },
     },
     {
       title: 'Last Sent',
-      dataIndex: 'LastSent',
-      key: 'LastSent',
+      dataIndex: 'lastSent',
+      key: 'lastSent',
       render: (val: Date) => {
         if (!val) return '-'
 
@@ -115,27 +115,27 @@ export const AlertTable = (): JSX.Element => {
         if (result === 'Sun, Dec 31, 0000 5:00 PM') return '-'
 
         return result
-      }
+      },
     },
     {
-      dataIndex: 'Active',
-      key: 'Active',
+      dataIndex: 'active',
+      key: 'active',
       render: (active: boolean, alert: Alert) => (
         <Switch
           checked={active}
-          onChange={async Active => {
+          onChange={async (active) => {
             await updateAlert({
               ...alert,
-              Active
+              active,
             })
             await loadAlerts()
           }}
         />
-      )
+      ),
     },
     {
-      dataIndex: 'ID',
-      key: 'ID',
+      dataIndex: 'id',
+      key: 'id',
       render: (val: number) => (
         <div style={{ display: 'flex', justifyContent: 'flex-end' }}>
           <Button
@@ -144,8 +144,8 @@ export const AlertTable = (): JSX.Element => {
             danger
           />
         </div>
-      )
-    }
+      ),
+    },
   ]
 
   return <Table columns={columns} dataSource={alerts} />

@@ -13,20 +13,24 @@ import (
 	"strconv"
 	"strings"
 	"time"
+	"wh2o-go/alert"
 	"wh2o-go/common"
-	"wh2o-go/database"
-	"wh2o-go/gage"
+	"wh2o-go/model"
 )
 
-func Run() {
+func Run(db *gorm.DB) {
 	t := time.Now()
-	db := database.Connect()
 
 	gages := getGages(db)
 
+	if len(gages) == 0 {
+		log.Println("No New Zealand Gages")
+		return
+	}
+
 	readings := scrapeGageReadings(gages, db)
 
-	// check immediate alerts
+	alert.CheckImmediateAlerts(&readings, db)
 
 	fmt.Println(len(readings))
 
@@ -35,14 +39,14 @@ func Run() {
 	log.Println(fmt.Sprintf("Env Auckland Scraping Job Latency: %s", latency))
 }
 
-func getGages(db *gorm.DB) []gage.Gage {
-	var gages []gage.Gage
+func getGages(db *gorm.DB) []model.Gage {
+	var gages []model.Gage
 	result := db.Where("country = ? AND source = ?", "NZ", "ENVIRONMENT_AUCKLAND").Find(&gages)
 	common.CheckError(result.Error)
 	return gages
 }
 
-func scrapeGageReadings(gages []gage.Gage, db *gorm.DB) []gage.Reading {
+func scrapeGageReadings(gages []model.Gage, db *gorm.DB) []model.Reading {
 
 	l := launcher.New().
 		Headless(true).
@@ -89,10 +93,10 @@ func scrapeGageReadings(gages []gage.Gage, db *gorm.DB) []gage.Reading {
 
 	common.CheckError(err)
 
-	readingsBucket := make([]gage.Reading, 0)
+	readingsBucket := make([]model.Reading, 0)
 
 	defer func() {
-		var readings []gage.Reading
+		var readings []model.Reading
 		result := db.Model(&readings).Create(readingsBucket)
 		common.CheckError(result.Error)
 	}()
@@ -103,7 +107,7 @@ func scrapeGageReadings(gages []gage.Gage, db *gorm.DB) []gage.Reading {
 
 			records := readCsvFile(tempDir + "/" + f.Name())
 
-			var metric gage.Metric
+			var metric model.Metric
 
 			if records[1][1] == "Value (m^3/s)" {
 				metric = "CMS"
@@ -122,7 +126,7 @@ func scrapeGageReadings(gages []gage.Gage, db *gorm.DB) []gage.Reading {
 
 			common.CheckError(pE)
 
-			readingsBucket = append(readingsBucket, gage.Reading{
+			readingsBucket = append(readingsBucket, model.Reading{
 				Value:  parsedValue,
 				Metric: metric,
 				GageID: matchingGage.ID,
@@ -185,7 +189,7 @@ func readCsvFile(filePath string) [][]string {
 	return records
 }
 
-func getMatchingGage(gages []gage.Gage, siteId string) gage.Gage {
+func getMatchingGage(gages []model.Gage, siteId string) model.Gage {
 
 	for _, g := range gages {
 
@@ -196,16 +200,16 @@ func getMatchingGage(gages []gage.Gage, siteId string) gage.Gage {
 		}
 	}
 
-	return gage.Gage{}
+	return model.Gage{}
 }
 
-func updateGageLatestReading(db *gorm.DB, g gage.Gage, readings []gage.Reading) {
+func updateGageLatestReading(db *gorm.DB, g model.Gage, readings []model.Reading) {
 
 	for _, r := range readings {
 
 		if r.GageID == g.ID && r.Metric == g.Metric {
 
-			var localGage gage.Gage
+			var localGage model.Gage
 
 			result := db.Model(&localGage).Where("id = ?", g.ID).Update("reading", r.Value)
 
@@ -213,5 +217,4 @@ func updateGageLatestReading(db *gorm.DB, g gage.Gage, readings []gage.Reading) 
 
 		}
 	}
-
 }
